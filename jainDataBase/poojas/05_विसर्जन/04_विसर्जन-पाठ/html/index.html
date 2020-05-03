@@ -10,6 +10,9 @@
   <link rel="stylesheet" href='../../../../../js/jquery-mobile/1.5-alpha/css/themes/default/jquery.mobile.css'>
   <script type="text/javascript" src='../../../../../js/jquery.js'></script>
   <script type="text/javascript" src='../../../../../js/jquery-mobile/1.5-alpha/jquery.mobile.js'></script>
+  <script type="text/javascript" src='../../../../../js/Chart.min.js'></script>
+  <script type="text/javascript" src='../../../../../js/palette.js'></script>
+  <script type="text/javascript" src='../../../../../js/myChart.js'></script>
   <script>
     relPath='../../../../../';
 $(document).on( "pagecontainershow", function(){
@@ -513,50 +516,18 @@ $(document).on( "pagecontainershow", function(){
           <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/14_पं-बुधजन-कृत/html/निजपुर-में-आज-मची-रे.html>1) निजपुर में आज मची रे</a></li>
           <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/14_पं-बुधजन-कृत/html/सुनकर-वाणी-जिनवर-की.html>2) सुनकर वाणी जिनवर की</a></li>
           <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/14_पं-बुधजन-कृत/html/हमकौ-कछू-भय-ना.html>3) हमकौ कछू भय ना</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/06_कल्याणक/html/आज-तो-बधाई-राजा-नाभि.html>1) आज तो बधाई राजा नाभि</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/01_देव/html/गाएँ-जी-गाएँ-आदिनाथ.html>2) गाएँ जी गाएँ आदिनाथ</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/01_देव/html/देखो-जी-आदिश्वर-स्वामी.html>3) देखो जी आदिश्वर स्वामी</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/01_देव/html/म्हारा-आदीश्वर-जी.html>4) म्हारा आदीश्वर जी</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/06_कल्याणक/html/लिया-रिषभ-देव-अवतार.html>5) लिया रिषभ देव अवतार</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/06_कल्याणक/html/गिरनारी-पर-तप-कल्याणक.html>1) गिरनारी पर तप कल्याणक</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/05_तीर्थ/html/जहाँ-नेमी-के-चरण-पड़े.html>2) जहाँ नेमी के चरण पड़े</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/01_देव/html/नेमि-जिनेश्वर.html>3) नेमि जिनेश्वर</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/01_देव/html/रोम-रोम-में-नेमिकुंवर-के.html>4) रोम रोम में नेमिकुंवर के</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/06_कल्याणक/html/विषयों-की-तृष्णा-को-छोड.html>5) विषयों की तृष्णा को छोड</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/08_अध्यात्म/html/वीर-भज-ले-रे-भाया.html>6) वीर भज ले रे भाया</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/01_देव/html/शौरीपुर-वाले.html>7) शौरीपुर वाले</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/01_देव/html/चवलेश्वर-पारसनाथ.html>1) चवलेश्वर पारसनाथ</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/01_देव/html/तुमसे-लागी-लगन.html>2) तुमसे लागी लगन</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/01_देव/html/पारस-प्यारा-लागो.html>3) पारस प्यारा लागो</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/01_देव/html/पारस-प्रभु-का-दर्शन.html>4) पारस प्रभु का दर्शन</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/05_तीर्थ/html/मधुबन-के-मंदिरों-में.html>5) मधुबन के मंदिरों में</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/05_तीर्थ/html/सांवरिया-पारसनाथ-शिखर-पर.html>6) सांवरिया पारसनाथ शिखर पर</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/01_देव/html/आज-मैं-महावीर-जी.html>1) आज मैं महावीर जी</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/01_देव/html/आये-तेरे-द्वार.html>2) आये तेरे द्वार</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/06_कल्याणक/html/कुण्डलपुर-वाले-वीरजी.html>3) कुण्डलपुर वाले वीरजी</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/06_कल्याणक/html/छायो-रे-छायो-आनंद-छायो.html>4) छायो रे छायो आनंद छायो</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/06_कल्याणक/html/जनम-लिया-है-महावीर-ने.html>5) जनम लिया है महावीर ने</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/01_देव/html/जहाँ-महावीर-ने-जन्म.html>6) जहाँ महावीर ने जन्म</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/01_देव/html/तुझे-प्रभु-वीर-कहते-हैं.html>7) तुझे प्रभु वीर कहते हैं</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/06_कल्याणक/html/दिव्य-ध्वनि-वीरा-खिराई.html>8) दिव्य ध्वनि वीरा खिराई</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/06_कल्याणक/html/पंखिडा-रे-उड-के-आओ-कुंड्लपुर.html>9) पंखिडा रे उड के आओ कुंड्लपुर</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/06_कल्याणक/html/बधाई-आज-मिल-गाओ.html>10) बधाई आज मिल गाओ</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/06_कल्याणक/html/बाजे-कुण्डलपुर-में-बधाई.html>11) बाजे कुण्डलपुर में बधाई</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/01_देव/html/महावीर-स्वामी.html>12) महावीर स्वामी</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/06_कल्याणक/html/महावीरा-झूले-पलना.html>13) महावीरा झूले पलना</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/01_देव/html/मेरे-महावीर-झूले-पलना.html>14) मेरे महावीर झूले पलना</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/01_देव/html/वर्तमान-को-वर्धमान-की.html>15) वर्तमान को वर्धमान की</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/01_देव/html/वर्धमान-ललना-से.html>16) वर्धमान ललना से</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/01_देव/html/हरो-पीर-मेरी.html>17) हरो पीर मेरी</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/01_देव/html/हे-वीर-तुम्हारे-द्वारे-पर.html>18) हे वीर तुम्हारे द्वारे पर</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/01_देव/html/बाहुबली-भगवान.html>1) बाहुबली भगवान</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/01_देव/html/हम-यही-कामना-करते-हैं.html>2) हम यही कामना करते हैं</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/15_पूर्णमति-माताजी/html/आ-तुझे-अंतर-में-शांति-मिलेगी.html>1) आ तुझे अंतर में शांति मिलेगी</a></li>
           <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/24_पर्व/html/आचार्य-श्री-धरसेन-जो.html>1) आचार्य श्री धरसेन जो</a></li>
           <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/24_पर्व/html/दश-धर्मों-को-धार-सोलह.html>2) दश धर्मों को धार सोलह</a></li>
           <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/24_पर्व/html/दसलक्षण-पर्व-का-समा.html>3) दसलक्षण पर्व का समा</a></li>
           <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/24_पर्व/html/पर्व-दस-लक्षण-खुशी-से.html>4) पर्व दस लक्षण खुशी से</a></li>
           <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/24_पर्व/html/मंगल-महोत्‍सव-भला-आ-गया.html>5) मंगल महोत्‍सव भला आ गया</a></li>
           <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/24_पर्व/html/ये-पर्व-पर्युषण-प्‍यारा-है.html>6) ये पर्व पर्युषण प्‍यारा है</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/25_आदिनाथ-भगवान/html/आज-तो-बधाई-राजा-नाभि.html>1) आज तो बधाई राजा नाभि</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/25_आदिनाथ-भगवान/html/गाएँ-जी-गाएँ-आदिनाथ.html>2) गाएँ जी गाएँ आदिनाथ</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/25_आदिनाथ-भगवान/html/देखो-जी-आदिश्वर-स्वामी.html>3) देखो जी आदिश्वर स्वामी</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/25_आदिनाथ-भगवान/html/म्हारा-आदीश्वर-जी.html>4) म्हारा आदीश्वर जी</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/25_आदिनाथ-भगवान/html/लिया-रिषभ-देव-अवतार.html>5) लिया रिषभ देव अवतार</a></li>
           <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/25_बच्चों-के-भजन/html/उठे-सब-के-कदम.html>1) उठे सब के कदम</a></li>
           <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/25_बच्चों-के-भजन/html/चाहे-अंधियारा-हो-या.html>2) चाहे अंधियारा हो या</a></li>
           <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/25_बच्चों-के-भजन/html/जिनमंदिर-आना-सभी.html>3) जिनमंदिर आना सभी</a></li>
@@ -566,6 +537,39 @@ $(document).on( "pagecontainershow", function(){
           <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/25_बच्चों-के-भजन/html/वर्धमान-बोलो-भैया-बोलो.html>7) वर्धमान बोलो भैया बोलो</a></li>
           <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/25_बच्चों-के-भजन/html/सूरत-प्‍यारी-प्‍यारी-है.html>8) सूरत प्‍यारी प्‍यारी है</a></li>
           <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/25_बच्चों-के-भजन/html/हम-होंगे-कामयाब-एक-दिन.html>9) हम होंगे कामयाब एक दिन</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/26_नेमिनाथ-भगवान/html/गिरनारी-पर-तप-कल्याणक.html>1) गिरनारी पर तप कल्याणक</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/26_नेमिनाथ-भगवान/html/जहाँ-नेमी-के-चरण-पड़े.html>2) जहाँ नेमी के चरण पड़े</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/26_नेमिनाथ-भगवान/html/नेमि-जिनेश्वर.html>3) नेमि जिनेश्वर</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/26_नेमिनाथ-भगवान/html/रोम-रोम-में-नेमिकुंवर-के.html>4) रोम रोम में नेमिकुंवर के</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/26_नेमिनाथ-भगवान/html/विषयों-की-तृष्णा-को-छोड.html>5) विषयों की तृष्णा को छोड</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/26_नेमिनाथ-भगवान/html/वीर-भज-ले-रे-भाया.html>6) वीर भज ले रे भाया</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/26_नेमिनाथ-भगवान/html/शौरीपुर-वाले.html>7) शौरीपुर वाले</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/27_पार्श्वनाथ-भगवान/html/चवलेश्वर-पारसनाथ.html>1) चवलेश्वर पारसनाथ</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/27_पार्श्वनाथ-भगवान/html/तुमसे-लागी-लगन.html>2) तुमसे लागी लगन</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/27_पार्श्वनाथ-भगवान/html/पारस-प्यारा-लागो.html>3) पारस प्यारा लागो</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/27_पार्श्वनाथ-भगवान/html/पारस-प्रभु-का-दर्शन.html>4) पारस प्रभु का दर्शन</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/27_पार्श्वनाथ-भगवान/html/मधुबन-के-मंदिरों-में.html>5) मधुबन के मंदिरों में</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/27_पार्श्वनाथ-भगवान/html/सांवरिया-पारसनाथ-शिखर-पर.html>6) सांवरिया पारसनाथ शिखर पर</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/28_महावीर-भगवान/html/आज-मैं-महावीर-जी.html>1) आज मैं महावीर जी</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/28_महावीर-भगवान/html/आये-तेरे-द्वार.html>2) आये तेरे द्वार</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/28_महावीर-भगवान/html/कुण्डलपुर-वाले-वीरजी.html>3) कुण्डलपुर वाले वीरजी</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/28_महावीर-भगवान/html/छायो-रे-छायो-आनंद-छायो.html>4) छायो रे छायो आनंद छायो</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/28_महावीर-भगवान/html/जनम-लिया-है-महावीर-ने.html>5) जनम लिया है महावीर ने</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/28_महावीर-भगवान/html/जहाँ-महावीर-ने-जन्म.html>6) जहाँ महावीर ने जन्म</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/28_महावीर-भगवान/html/तुझे-प्रभु-वीर-कहते-हैं.html>7) तुझे प्रभु वीर कहते हैं</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/28_महावीर-भगवान/html/दिव्य-ध्वनि-वीरा-खिराई.html>8) दिव्य ध्वनि वीरा खिराई</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/28_महावीर-भगवान/html/पंखिडा-रे-उड-के-आओ-कुंड्लपुर.html>9) पंखिडा रे उड के आओ कुंड्लपुर</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/28_महावीर-भगवान/html/बधाई-आज-मिल-गाओ.html>10) बधाई आज मिल गाओ</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/28_महावीर-भगवान/html/बाजे-कुण्डलपुर-में-बधाई.html>11) बाजे कुण्डलपुर में बधाई</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/28_महावीर-भगवान/html/महावीर-स्वामी.html>12) महावीर स्वामी</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/28_महावीर-भगवान/html/महावीरा-झूले-पलना.html>13) महावीरा झूले पलना</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/28_महावीर-भगवान/html/मेरे-महावीर-झूले-पलना.html>14) मेरे महावीर झूले पलना</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/28_महावीर-भगवान/html/वर्तमान-को-वर्धमान-की.html>15) वर्तमान को वर्धमान की</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/28_महावीर-भगवान/html/वर्धमान-ललना-से.html>16) वर्धमान ललना से</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/28_महावीर-भगवान/html/हरो-पीर-मेरी.html>17) हरो पीर मेरी</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/28_महावीर-भगवान/html/हे-वीर-तुम्हारे-द्वारे-पर.html>18) हे वीर तुम्हारे द्वारे पर</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/29_बाहुबली-भगवान/html/बाहुबली-भगवान.html>1) बाहुबली भगवान</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/29_बाहुबली-भगवान/html/हम-यही-कामना-करते-हैं.html>2) हम यही कामना करते हैं</a></li>
           <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/poojas/01_प्रारम्भ/001_श्री-मंगलाष्टक-स्तोत्र/html/index.html>1) श्री-मंगलाष्टक-स्तोत्र</a></li>
           <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/poojas/01_प्रारम्भ/004_दर्शनं-देव-देवस्य/html/index.html>2) दर्शनं-देव-देवस्य</a></li>
           <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/poojas/01_प्रारम्भ/005_दर्शन-पाठ--पण्डित-बुधजन/html/index.html>3) दर्शन-पाठ--पण्डित-बुधजन</a></li>
@@ -768,6 +772,7 @@ $(document).on( "pagecontainershow", function(){
           <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/teeka/07_Notes/01_Notes/html/index.html>1) Notes</a></li>
           <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/teeka/07_Notes/02_Stories/html/index.html>2) Stories</a></li>
           <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/teeka/07_Notes/03_लोकप्रिय-कथाएँ/html/index.html>3) लोकप्रिय-कथाएँ</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/teeka/jainDataBase/others/html/index.html>1) others</a></li>
 
       </ul>
     </div>
@@ -1319,66 +1324,9 @@ $(document).on( "pagecontainershow", function(){
         </ul>
       </div>
       <div data-role=collapsible data-inset=false data-theme=a>
-        <h2>आदिनाथ भगवान</h2>
+        <h2>पूर्णमति माताजी</h2>
         <ul data-role=listview>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/06_कल्याणक/html/आज-तो-बधाई-राजा-नाभि.html>1) आज तो बधाई राजा नाभि</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/01_देव/html/गाएँ-जी-गाएँ-आदिनाथ.html>2) गाएँ जी गाएँ आदिनाथ</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/01_देव/html/देखो-जी-आदिश्वर-स्वामी.html>3) देखो जी आदिश्वर स्वामी</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/01_देव/html/म्हारा-आदीश्वर-जी.html>4) म्हारा आदीश्वर जी</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/06_कल्याणक/html/लिया-रिषभ-देव-अवतार.html>5) लिया रिषभ देव अवतार</a></li>
-        </ul>
-      </div>
-      <div data-role=collapsible data-inset=false data-theme=a>
-        <h2>नेमिनाथ भगवान</h2>
-        <ul data-role=listview>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/06_कल्याणक/html/गिरनारी-पर-तप-कल्याणक.html>1) गिरनारी पर तप कल्याणक</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/05_तीर्थ/html/जहाँ-नेमी-के-चरण-पड़े.html>2) जहाँ नेमी के चरण पड़े</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/01_देव/html/नेमि-जिनेश्वर.html>3) नेमि जिनेश्वर</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/01_देव/html/रोम-रोम-में-नेमिकुंवर-के.html>4) रोम रोम में नेमिकुंवर के</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/06_कल्याणक/html/विषयों-की-तृष्णा-को-छोड.html>5) विषयों की तृष्णा को छोड</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/08_अध्यात्म/html/वीर-भज-ले-रे-भाया.html>6) वीर भज ले रे भाया</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/01_देव/html/शौरीपुर-वाले.html>7) शौरीपुर वाले</a></li>
-        </ul>
-      </div>
-      <div data-role=collapsible data-inset=false data-theme=a>
-        <h2>पार्श्वनाथ भगवान</h2>
-        <ul data-role=listview>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/01_देव/html/चवलेश्वर-पारसनाथ.html>1) चवलेश्वर पारसनाथ</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/01_देव/html/तुमसे-लागी-लगन.html>2) तुमसे लागी लगन</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/01_देव/html/पारस-प्यारा-लागो.html>3) पारस प्यारा लागो</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/01_देव/html/पारस-प्रभु-का-दर्शन.html>4) पारस प्रभु का दर्शन</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/05_तीर्थ/html/मधुबन-के-मंदिरों-में.html>5) मधुबन के मंदिरों में</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/05_तीर्थ/html/सांवरिया-पारसनाथ-शिखर-पर.html>6) सांवरिया पारसनाथ शिखर पर</a></li>
-        </ul>
-      </div>
-      <div data-role=collapsible data-inset=false data-theme=a>
-        <h2>महावीर भगवान</h2>
-        <ul data-role=listview>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/01_देव/html/आज-मैं-महावीर-जी.html>1) आज मैं महावीर जी</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/01_देव/html/आये-तेरे-द्वार.html>2) आये तेरे द्वार</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/06_कल्याणक/html/कुण्डलपुर-वाले-वीरजी.html>3) कुण्डलपुर वाले वीरजी</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/06_कल्याणक/html/छायो-रे-छायो-आनंद-छायो.html>4) छायो रे छायो आनंद छायो</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/06_कल्याणक/html/जनम-लिया-है-महावीर-ने.html>5) जनम लिया है महावीर ने</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/01_देव/html/जहाँ-महावीर-ने-जन्म.html>6) जहाँ महावीर ने जन्म</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/01_देव/html/तुझे-प्रभु-वीर-कहते-हैं.html>7) तुझे प्रभु वीर कहते हैं</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/06_कल्याणक/html/दिव्य-ध्वनि-वीरा-खिराई.html>8) दिव्य ध्वनि वीरा खिराई</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/06_कल्याणक/html/पंखिडा-रे-उड-के-आओ-कुंड्लपुर.html>9) पंखिडा रे उड के आओ कुंड्लपुर</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/06_कल्याणक/html/बधाई-आज-मिल-गाओ.html>10) बधाई आज मिल गाओ</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/06_कल्याणक/html/बाजे-कुण्डलपुर-में-बधाई.html>11) बाजे कुण्डलपुर में बधाई</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/01_देव/html/महावीर-स्वामी.html>12) महावीर स्वामी</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/06_कल्याणक/html/महावीरा-झूले-पलना.html>13) महावीरा झूले पलना</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/01_देव/html/मेरे-महावीर-झूले-पलना.html>14) मेरे महावीर झूले पलना</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/01_देव/html/वर्तमान-को-वर्धमान-की.html>15) वर्तमान को वर्धमान की</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/01_देव/html/वर्धमान-ललना-से.html>16) वर्धमान ललना से</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/01_देव/html/हरो-पीर-मेरी.html>17) हरो पीर मेरी</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/01_देव/html/हे-वीर-तुम्हारे-द्वारे-पर.html>18) हे वीर तुम्हारे द्वारे पर</a></li>
-        </ul>
-      </div>
-      <div data-role=collapsible data-inset=false data-theme=a>
-        <h2>बाहुबली भगवान</h2>
-        <ul data-role=listview>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/01_देव/html/बाहुबली-भगवान.html>1) बाहुबली भगवान</a></li>
-          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/01_देव/html/हम-यही-कामना-करते-हैं.html>2) हम यही कामना करते हैं</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/15_पूर्णमति-माताजी/html/आ-तुझे-अंतर-में-शांति-मिलेगी.html>1) आ तुझे अंतर में शांति मिलेगी</a></li>
         </ul>
       </div>
       <div data-role=collapsible data-inset=false data-theme=a>
@@ -1393,6 +1341,16 @@ $(document).on( "pagecontainershow", function(){
         </ul>
       </div>
       <div data-role=collapsible data-inset=false data-theme=a>
+        <h2>आदिनाथ भगवान</h2>
+        <ul data-role=listview>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/25_आदिनाथ-भगवान/html/आज-तो-बधाई-राजा-नाभि.html>1) आज तो बधाई राजा नाभि</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/25_आदिनाथ-भगवान/html/गाएँ-जी-गाएँ-आदिनाथ.html>2) गाएँ जी गाएँ आदिनाथ</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/25_आदिनाथ-भगवान/html/देखो-जी-आदिश्वर-स्वामी.html>3) देखो जी आदिश्वर स्वामी</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/25_आदिनाथ-भगवान/html/म्हारा-आदीश्वर-जी.html>4) म्हारा आदीश्वर जी</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/25_आदिनाथ-भगवान/html/लिया-रिषभ-देव-अवतार.html>5) लिया रिषभ देव अवतार</a></li>
+        </ul>
+      </div>
+      <div data-role=collapsible data-inset=false data-theme=a>
         <h2>बच्चों के भजन</h2>
         <ul data-role=listview>
           <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/25_बच्चों-के-भजन/html/उठे-सब-के-कदम.html>1) उठे सब के कदम</a></li>
@@ -1404,6 +1362,59 @@ $(document).on( "pagecontainershow", function(){
           <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/25_बच्चों-के-भजन/html/वर्धमान-बोलो-भैया-बोलो.html>7) वर्धमान बोलो भैया बोलो</a></li>
           <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/25_बच्चों-के-भजन/html/सूरत-प्‍यारी-प्‍यारी-है.html>8) सूरत प्‍यारी प्‍यारी है</a></li>
           <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/25_बच्चों-के-भजन/html/हम-होंगे-कामयाब-एक-दिन.html>9) हम होंगे कामयाब एक दिन</a></li>
+        </ul>
+      </div>
+      <div data-role=collapsible data-inset=false data-theme=a>
+        <h2>नेमिनाथ भगवान</h2>
+        <ul data-role=listview>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/26_नेमिनाथ-भगवान/html/गिरनारी-पर-तप-कल्याणक.html>1) गिरनारी पर तप कल्याणक</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/26_नेमिनाथ-भगवान/html/जहाँ-नेमी-के-चरण-पड़े.html>2) जहाँ नेमी के चरण पड़े</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/26_नेमिनाथ-भगवान/html/नेमि-जिनेश्वर.html>3) नेमि जिनेश्वर</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/26_नेमिनाथ-भगवान/html/रोम-रोम-में-नेमिकुंवर-के.html>4) रोम रोम में नेमिकुंवर के</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/26_नेमिनाथ-भगवान/html/विषयों-की-तृष्णा-को-छोड.html>5) विषयों की तृष्णा को छोड</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/26_नेमिनाथ-भगवान/html/वीर-भज-ले-रे-भाया.html>6) वीर भज ले रे भाया</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/26_नेमिनाथ-भगवान/html/शौरीपुर-वाले.html>7) शौरीपुर वाले</a></li>
+        </ul>
+      </div>
+      <div data-role=collapsible data-inset=false data-theme=a>
+        <h2>पार्श्वनाथ भगवान</h2>
+        <ul data-role=listview>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/27_पार्श्वनाथ-भगवान/html/चवलेश्वर-पारसनाथ.html>1) चवलेश्वर पारसनाथ</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/27_पार्श्वनाथ-भगवान/html/तुमसे-लागी-लगन.html>2) तुमसे लागी लगन</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/27_पार्श्वनाथ-भगवान/html/पारस-प्यारा-लागो.html>3) पारस प्यारा लागो</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/27_पार्श्वनाथ-भगवान/html/पारस-प्रभु-का-दर्शन.html>4) पारस प्रभु का दर्शन</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/27_पार्श्वनाथ-भगवान/html/मधुबन-के-मंदिरों-में.html>5) मधुबन के मंदिरों में</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/27_पार्श्वनाथ-भगवान/html/सांवरिया-पारसनाथ-शिखर-पर.html>6) सांवरिया पारसनाथ शिखर पर</a></li>
+        </ul>
+      </div>
+      <div data-role=collapsible data-inset=false data-theme=a>
+        <h2>महावीर भगवान</h2>
+        <ul data-role=listview>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/28_महावीर-भगवान/html/आज-मैं-महावीर-जी.html>1) आज मैं महावीर जी</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/28_महावीर-भगवान/html/आये-तेरे-द्वार.html>2) आये तेरे द्वार</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/28_महावीर-भगवान/html/कुण्डलपुर-वाले-वीरजी.html>3) कुण्डलपुर वाले वीरजी</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/28_महावीर-भगवान/html/छायो-रे-छायो-आनंद-छायो.html>4) छायो रे छायो आनंद छायो</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/28_महावीर-भगवान/html/जनम-लिया-है-महावीर-ने.html>5) जनम लिया है महावीर ने</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/28_महावीर-भगवान/html/जहाँ-महावीर-ने-जन्म.html>6) जहाँ महावीर ने जन्म</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/28_महावीर-भगवान/html/तुझे-प्रभु-वीर-कहते-हैं.html>7) तुझे प्रभु वीर कहते हैं</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/28_महावीर-भगवान/html/दिव्य-ध्वनि-वीरा-खिराई.html>8) दिव्य ध्वनि वीरा खिराई</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/28_महावीर-भगवान/html/पंखिडा-रे-उड-के-आओ-कुंड्लपुर.html>9) पंखिडा रे उड के आओ कुंड्लपुर</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/28_महावीर-भगवान/html/बधाई-आज-मिल-गाओ.html>10) बधाई आज मिल गाओ</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/28_महावीर-भगवान/html/बाजे-कुण्डलपुर-में-बधाई.html>11) बाजे कुण्डलपुर में बधाई</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/28_महावीर-भगवान/html/महावीर-स्वामी.html>12) महावीर स्वामी</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/28_महावीर-भगवान/html/महावीरा-झूले-पलना.html>13) महावीरा झूले पलना</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/28_महावीर-भगवान/html/मेरे-महावीर-झूले-पलना.html>14) मेरे महावीर झूले पलना</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/28_महावीर-भगवान/html/वर्तमान-को-वर्धमान-की.html>15) वर्तमान को वर्धमान की</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/28_महावीर-भगवान/html/वर्धमान-ललना-से.html>16) वर्धमान ललना से</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/28_महावीर-भगवान/html/हरो-पीर-मेरी.html>17) हरो पीर मेरी</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/28_महावीर-भगवान/html/हे-वीर-तुम्हारे-द्वारे-पर.html>18) हे वीर तुम्हारे द्वारे पर</a></li>
+        </ul>
+      </div>
+      <div data-role=collapsible data-inset=false data-theme=a>
+        <h2>बाहुबली भगवान</h2>
+        <ul data-role=listview>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/29_बाहुबली-भगवान/html/बाहुबली-भगवान.html>1) बाहुबली भगवान</a></li>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/bhajans/29_बाहुबली-भगवान/html/हम-यही-कामना-करते-हैं.html>2) हम यही कामना करते हैं</a></li>
         </ul>
       </div>
     </div>
@@ -1698,6 +1709,12 @@ $(document).on( "pagecontainershow", function(){
           <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/gatha/07_Notes/03_लोकप्रिय-कथाएँ/html/index.html>3) लोकप्रिय-कथाएँ</a></li>
         </ul>
       </div>
+      <div data-role=collapsible data-inset=false data-theme=a>
+        <h2>jainDataBase</h2>
+        <ul data-role=listview>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/gatha/jainDataBase/others/html/index.html>1) others</a></li>
+        </ul>
+      </div>
     </div>
   </div>
   <div data-history=false data-role=popup id=popupTeeka data-theme=none>
@@ -1771,6 +1788,12 @@ $(document).on( "pagecontainershow", function(){
           <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/teeka/07_Notes/01_Notes/html/index.html>1) Notes</a></li>
           <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/teeka/07_Notes/02_Stories/html/index.html>2) Stories</a></li>
           <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/teeka/07_Notes/03_लोकप्रिय-कथाएँ/html/index.html>3) लोकप्रिय-कथाएँ</a></li>
+        </ul>
+      </div>
+      <div data-role=collapsible data-inset=false data-theme=a>
+        <h2>jainDataBase</h2>
+        <ul data-role=listview>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/teeka/jainDataBase/others/html/index.html>1) others</a></li>
         </ul>
       </div>
     </div>
@@ -1848,6 +1871,12 @@ $(document).on( "pagecontainershow", function(){
           <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/shastra/07_Notes/03_लोकप्रिय-कथाएँ/html/index.html>3) लोकप्रिय-कथाएँ</a></li>
         </ul>
       </div>
+      <div data-role=collapsible data-inset=false data-theme=a>
+        <h2>jainDataBase</h2>
+        <ul data-role=listview>
+          <li data-theme=b><a data-ajax=false href=../../../../../jainDataBase/shastra/jainDataBase/others/html/index.html>1) others</a></li>
+        </ul>
+      </div>
     </div>
   </div>
   <div data-history=false data-role=popup id=popupMisc data-theme=none>
@@ -1915,6 +1944,7 @@ $(document).on( "pagecontainershow", function(){
             <li data-theme=b><a data-rel=dialog data-ajax=false href=../../../../../jainDataBase/misc/karmUdayTable.html>कर्म-उदय</a></li>
             <li data-theme=b><a data-rel=dialog data-ajax=false href=../../../../../jainDataBase/misc/karmBandhTable.html>कर्म-बन्ध</a></li>
             <li data-theme=b><a data-rel=dialog data-ajax=false href=../../../../../jainDataBase/misc/karmSattaTable.html>कर्म-सत्ता</a></li>
+            <li data-theme=b><a data-rel=dialog data-ajax=false href=../../../../../jainDataBase/misc/nishekRachna.html>निषेक-रचना</a></li>
           </ul>
         </div>
         <div data-role=collapsible data-inset=false data-theme=a>

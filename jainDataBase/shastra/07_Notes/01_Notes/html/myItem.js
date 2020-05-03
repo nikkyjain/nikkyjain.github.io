@@ -62,88 +62,93 @@ $( document ).ready(function() {
        $optgrp.append("<option value='05-16.html'><b>05-16</b> - ﻿उत्तर प्रकृति में सादि आदि बंध के भेद</option>");
   mySel.append($optgrp);
     $optgrp=$('<optgroup label="﻿स्थिति बंध ">')
-       $optgrp.append("<option value='06-01.html'><b>06-01</b> - ﻿मार्गणा में जघन्य और उत्कृष्ट स्तिथि-बंध</option>");
-       $optgrp.append("<option value='06-02.html'><b>06-02</b> - ﻿जघन्य-उत्कृष्ट स्थिति बंध का काल और स्वामी</option>");
+       $optgrp.append("<option value='06-01.html'><b>06-01</b> - ﻿जघन्य-उत्कृष्ट स्थिति बंध का काल और स्वामी</option>");
+       $optgrp.append("<option value='06-02.html'><b>06-02</b> - ﻿मार्गणा में जघन्य और उत्कृष्ट स्थिति-बंध</option>");
        $optgrp.append("<option value='06-03.html'><b>06-03</b> - ﻿मूल-प्रकृतियों में अजघन्य आदि स्थिति के प्रकार</option>");
-       $optgrp.append("<option value='06-04.html'><b>06-04</b> - ﻿स्तिथि-बंधस्थान प्ररूपणा</option>");
+       $optgrp.append("<option value='06-04.html'><b>06-04</b> - ﻿स्थिति-बंधस्थान प्ररूपणा</option>");
        $optgrp.append("<option value='06-05.html'><b>06-05</b> - ﻿संक्लेश-विशुद्धि-स्थान प्ररूपणा</option>");
        $optgrp.append("<option value='06-06.html'><b>06-06</b> - ﻿स्थिति बंध अल्प-बहुत्व</option>");
        $optgrp.append("<option value='06-07.html'><b>06-07</b> - ﻿उत्तर-प्रकृतियों में अजघन्य आदि स्थिति के प्रकार</option>");
   mySel.append($optgrp);
     $optgrp=$('<optgroup label="﻿अनुभाग बंध ">')
        $optgrp.append("<option value='07-01.html'><b>07-01</b> - ﻿अनुभाग बन्ध के स्वामी</option>");
+       $optgrp.append("<option value='07-02.html'><b>07-02</b> - ﻿मूल प्रकृतियों में सादि आदि भेद</option>");
+       $optgrp.append("<option value='07-03.html'><b>07-03</b> - ﻿उत्तर प्रकृतियों में सादि आदि भेद</option>");
+  mySel.append($optgrp);
+    $optgrp=$('<optgroup label="﻿प्रदेश बंध">')
+       $optgrp.append("<option value='08-01.html'><b>08-01</b> - ﻿मूल प्रकृतियों में प्रदेश बंध</option>");
   mySel.append($optgrp);
     $optgrp=$('<optgroup label="﻿कर्म-उदय">')
-       $optgrp.append("<option value='08-01.html'><b>08-01</b> - ﻿नरक और तिर्यञ्च गति मार्गणा में उदय</option>");
-       $optgrp.append("<option value='08-02.html'><b>08-02</b> - ﻿मनुष्य और देव गति मार्गणा में उदय</option>");
-       $optgrp.append("<option value='08-03.html'><b>08-03</b> - ﻿इंद्रिय मार्गणा में कर्म का उदय</option>");
-       $optgrp.append("<option value='08-04.html'><b>08-04</b> - ﻿काय मार्गणा में कर्म का उदय</option>");
-       $optgrp.append("<option value='08-05.html'><b>08-05</b> - ﻿योग मार्गणा में कर्म का उदय</option>");
-       $optgrp.append("<option value='08-06.html'><b>08-06</b> - ﻿वेद मार्गणा में कर्म का उदय</option>");
-       $optgrp.append("<option value='08-07.html'><b>08-07</b> - ﻿कषाय मार्गणा में कर्म का उदय</option>");
-       $optgrp.append("<option value='08-08.html'><b>08-08</b> - ﻿ज्ञान मार्गणा में कर्म का उदय</option>");
-       $optgrp.append("<option value='08-09.html'><b>08-09</b> - ﻿संयम मार्गणा में कर्म का उदय</option>");
-       $optgrp.append("<option value='08-10.html'><b>08-10</b> - ﻿दर्शन मार्गणा में कर्म का उदय</option>");
-       $optgrp.append("<option value='08-11.html'><b>08-11</b> - ﻿लेश्या मार्गणा में कर्म का उदय</option>");
-       $optgrp.append("<option value='08-12.html'><b>08-12</b> - ﻿सम्यक्त्व मार्गणा में कर्म का उदय</option>");
-       $optgrp.append("<option value='08-13.html'><b>08-13</b> - ﻿संज्ञी मार्गणा में कर्म का उदय</option>");
-       $optgrp.append("<option value='08-14.html'><b>08-14</b> - ﻿आहार मार्गणा में कर्म का उदय</option>");
+       $optgrp.append("<option value='09-01.html'><b>09-01</b> - ﻿नरक और तिर्यञ्च गति मार्गणा में उदय</option>");
+       $optgrp.append("<option value='09-02.html'><b>09-02</b> - ﻿मनुष्य और देव गति मार्गणा में उदय</option>");
+       $optgrp.append("<option value='09-03.html'><b>09-03</b> - ﻿इंद्रिय मार्गणा में कर्म का उदय</option>");
+       $optgrp.append("<option value='09-04.html'><b>09-04</b> - ﻿काय मार्गणा में कर्म का उदय</option>");
+       $optgrp.append("<option value='09-05.html'><b>09-05</b> - ﻿योग मार्गणा में कर्म का उदय</option>");
+       $optgrp.append("<option value='09-06.html'><b>09-06</b> - ﻿वेद मार्गणा में कर्म का उदय</option>");
+       $optgrp.append("<option value='09-07.html'><b>09-07</b> - ﻿कषाय मार्गणा में कर्म का उदय</option>");
+       $optgrp.append("<option value='09-08.html'><b>09-08</b> - ﻿ज्ञान मार्गणा में कर्म का उदय</option>");
+       $optgrp.append("<option value='09-09.html'><b>09-09</b> - ﻿संयम मार्गणा में कर्म का उदय</option>");
+       $optgrp.append("<option value='09-10.html'><b>09-10</b> - ﻿दर्शन मार्गणा में कर्म का उदय</option>");
+       $optgrp.append("<option value='09-11.html'><b>09-11</b> - ﻿लेश्या मार्गणा में कर्म का उदय</option>");
+       $optgrp.append("<option value='09-12.html'><b>09-12</b> - ﻿सम्यक्त्व मार्गणा में कर्म का उदय</option>");
+       $optgrp.append("<option value='09-13.html'><b>09-13</b> - ﻿संज्ञी मार्गणा में कर्म का उदय</option>");
+       $optgrp.append("<option value='09-14.html'><b>09-14</b> - ﻿आहार मार्गणा में कर्म का उदय</option>");
   mySel.append($optgrp);
     $optgrp=$('<optgroup label="﻿कर्म-सत्व">')
-       $optgrp.append("<option value='09-01.html'><b>09-01</b> - ﻿नरक गति मार्गणा में सत्व</option>");
-       $optgrp.append("<option value='09-02.html'><b>09-02</b> - ﻿तिर्यञ्च गति मार्गणा में सत्व</option>");
-       $optgrp.append("<option value='09-03.html'><b>09-03</b> - ﻿मनुष्य गति मार्गणा में सत्व</option>");
-       $optgrp.append("<option value='09-04.html'><b>09-04</b> - ﻿देव गति मार्गणा में सत्व</option>");
-       $optgrp.append("<option value='09-05.html'><b>09-05</b> - ﻿इंद्रिय और काय मार्गणा में सत्व</option>");
-       $optgrp.append("<option value='09-07.html'><b>09-07</b> - ﻿योग मार्गणा में सत्व</option>");
-       $optgrp.append("<option value='09-08.html'><b>09-08</b> - ﻿वेद, कषाय और ज्ञान मार्गणा में सत्व</option>");
-       $optgrp.append("<option value='09-09.html'><b>09-09</b> - ﻿संयम और दर्शन मार्गणा में सत्व</option>");
-       $optgrp.append("<option value='09-10.html'><b>09-10</b> - ﻿लेश्या, भव्य और सम्यक्त्व मार्गणा में सत्व</option>");
-       $optgrp.append("<option value='09-11.html'><b>09-11</b> - ﻿संज्ञी और आहार मार्गणा में सत्व</option>");
-       $optgrp.append("<option value='09-12.html'><b>09-12</b> - ﻿एक जीव के सत्व में स्थान और भंग की संख्या</option>");
-       $optgrp.append("<option value='09-13.html'><b>09-13</b> - ﻿मिथ्यादृष्टि के सत्व में 18 स्थान / 50 भंग</option>");
-       $optgrp.append("<option value='09-14.html'><b>09-14</b> - ﻿सासादन के सत्व में 4 स्थान / 12 भंग</option>");
-       $optgrp.append("<option value='09-15.html'><b>09-15</b> - ﻿मिश्र गुणस्थान के सत्व में स्थान / 36 भंग</option>");
-       $optgrp.append("<option value='09-16.html'><b>09-16</b> - ﻿अविरत-सम्यक्त्वी के सत्व में 40 स्थान / 120 भंग</option>");
-       $optgrp.append("<option value='09-17.html'><b>09-17</b> - ﻿देशविरती के सत्व में 40 स्थान / 48 भंग</option>");
-       $optgrp.append("<option value='09-18.html'><b>09-18</b> - ﻿6-7 गुणस्थान के सत्व में 40 स्थान / 40 भंग</option>");
-       $optgrp.append("<option value='09-19.html'><b>09-19</b> - ﻿उपशम श्रेणी के सत्व में 24 स्थान और भंग</option>");
+       $optgrp.append("<option value='10-01.html'><b>10-01</b> - ﻿नरक गति मार्गणा में सत्व</option>");
+       $optgrp.append("<option value='10-02.html'><b>10-02</b> - ﻿तिर्यञ्च गति मार्गणा में सत्व</option>");
+       $optgrp.append("<option value='10-03.html'><b>10-03</b> - ﻿मनुष्य गति मार्गणा में सत्व</option>");
+       $optgrp.append("<option value='10-04.html'><b>10-04</b> - ﻿देव गति मार्गणा में सत्व</option>");
+       $optgrp.append("<option value='10-05.html'><b>10-05</b> - ﻿इंद्रिय और काय मार्गणा में सत्व</option>");
+       $optgrp.append("<option value='10-07.html'><b>10-07</b> - ﻿योग मार्गणा में सत्व</option>");
+       $optgrp.append("<option value='10-08.html'><b>10-08</b> - ﻿वेद, कषाय और ज्ञान मार्गणा में सत्व</option>");
+       $optgrp.append("<option value='10-09.html'><b>10-09</b> - ﻿संयम और दर्शन मार्गणा में सत्व</option>");
+       $optgrp.append("<option value='10-10.html'><b>10-10</b> - ﻿लेश्या, भव्य और सम्यक्त्व मार्गणा में सत्व</option>");
+       $optgrp.append("<option value='10-11.html'><b>10-11</b> - ﻿संज्ञी और आहार मार्गणा में सत्व</option>");
+       $optgrp.append("<option value='10-12.html'><b>10-12</b> - ﻿एक जीव के सत्व में स्थान और भंग की संख्या</option>");
+       $optgrp.append("<option value='10-13.html'><b>10-13</b> - ﻿मिथ्यादृष्टि के सत्व में 18 स्थान / 50 भंग</option>");
+       $optgrp.append("<option value='10-14.html'><b>10-14</b> - ﻿सासादन के सत्व में 4 स्थान / 12 भंग</option>");
+       $optgrp.append("<option value='10-15.html'><b>10-15</b> - ﻿मिश्र गुणस्थान के सत्व में स्थान / 36 भंग</option>");
+       $optgrp.append("<option value='10-16.html'><b>10-16</b> - ﻿अविरत-सम्यक्त्वी के सत्व में 40 स्थान / 120 भंग</option>");
+       $optgrp.append("<option value='10-17.html'><b>10-17</b> - ﻿देशविरती के सत्व में 40 स्थान / 48 भंग</option>");
+       $optgrp.append("<option value='10-18.html'><b>10-18</b> - ﻿6-7 गुणस्थान के सत्व में 40 स्थान / 40 भंग</option>");
+       $optgrp.append("<option value='10-19.html'><b>10-19</b> - ﻿उपशम श्रेणी के सत्व में 24 स्थान और भंग</option>");
   mySel.append($optgrp);
     $optgrp=$('<optgroup label="﻿गुणस्थानों में आलाप">')
-       $optgrp.append("<option value='10-01.html'><b>10-01</b> - ﻿गुणस्थानों में आलाप</option>");
-       $optgrp.append("<option value='10-02.html'><b>10-02</b> - ﻿नरक में गुणस्थानों में आलाप</option>");
-       $optgrp.append("<option value='10-03.html'><b>10-03</b> - ﻿तिर्यन्चों में गुणस्थानों में आलाप</option>");
-       $optgrp.append("<option value='10-04.html'><b>10-04</b> - ﻿मनुष्यों में गुणस्थानों में आलाप</option>");
-       $optgrp.append("<option value='10-06.html'><b>10-06</b></option>");
+       $optgrp.append("<option value='11-01.html'><b>11-01</b> - ﻿गुणस्थानों में आलाप</option>");
+       $optgrp.append("<option value='11-02.html'><b>11-02</b> - ﻿नरक में गुणस्थानों में आलाप</option>");
+       $optgrp.append("<option value='11-03.html'><b>11-03</b> - ﻿तिर्यन्चों में गुणस्थानों में आलाप</option>");
+       $optgrp.append("<option value='11-04.html'><b>11-04</b> - ﻿मनुष्यों में गुणस्थानों में आलाप</option>");
+       $optgrp.append("<option value='11-06.html'><b>11-06</b></option>");
   mySel.append($optgrp);
     $optgrp=$('<optgroup label="﻿सत्-अनुगम">')
-       $optgrp.append("<option value='11-01.html'><b>11-01</b> - ﻿मार्गणा में भंग-विचय</option>");
-       $optgrp.append("<option value='11-02.html'><b>11-02</b> - ﻿मार्गणा का स्वामित्व</option>");
+       $optgrp.append("<option value='12-01.html'><b>12-01</b> - ﻿मार्गणा में भंग-विचय</option>");
+       $optgrp.append("<option value='12-02.html'><b>12-02</b> - ﻿मार्गणा का स्वामित्व</option>");
   mySel.append($optgrp);
     $optgrp=$('<optgroup label="﻿संख्यानुगम">')
-       $optgrp.append("<option value='12-01.html'><b>12-01</b> - ﻿मार्गणा में द्रव्य-प्रमाणानुगम</option>");
-       $optgrp.append("<option value='12-02.html'><b>12-02</b> - ﻿वैमानिक देवों की संख्या</option>");
-       $optgrp.append("<option value='12-03.html'><b>12-03</b> - ﻿नारकियों की संख्या</option>");
+       $optgrp.append("<option value='13-01.html'><b>13-01</b> - ﻿मार्गणा में द्रव्य-प्रमाणानुगम</option>");
+       $optgrp.append("<option value='13-02.html'><b>13-02</b> - ﻿वैमानिक देवों की संख्या</option>");
+       $optgrp.append("<option value='13-03.html'><b>13-03</b> - ﻿नारकियों की संख्या</option>");
   mySel.append($optgrp);
     $optgrp=$('<optgroup label="﻿क्षेत्रानुगम">')
-       $optgrp.append("<option value='13-01.html'><b>13-01</b> - ﻿मार्गणा में क्षेत्रानुगम</option>");
-       $optgrp.append("<option value='13-02.html'><b>13-02</b> - ﻿जीवों का वर्तमान निवास-स्थान / अवस्था</option>");
+       $optgrp.append("<option value='14-01.html'><b>14-01</b> - ﻿मार्गणा में क्षेत्रानुगम</option>");
+       $optgrp.append("<option value='14-02.html'><b>14-02</b> - ﻿जीवों का वर्तमान निवास-स्थान / अवस्था</option>");
   mySel.append($optgrp);
     $optgrp=$('<optgroup label="﻿स्पर्शानुगम">')
-       $optgrp.append("<option value='14-01.html'><b>14-01</b> - ﻿गुणस्थानों में स्पर्श</option>");
-       $optgrp.append("<option value='14-02.html'><b>14-02</b> - ﻿मार्गणा में स्पर्शानुगम</option>");
+       $optgrp.append("<option value='15-01.html'><b>15-01</b> - ﻿गुणस्थानों में स्पर्श</option>");
+       $optgrp.append("<option value='15-02.html'><b>15-02</b> - ﻿मार्गणा में स्पर्शानुगम</option>");
   mySel.append($optgrp);
     $optgrp=$('<optgroup label="﻿कालानुगम">')
-       $optgrp.append("<option value='15-01.html'><b>15-01</b> - ﻿गुणस्थानों में काल</option>");
-       $optgrp.append("<option value='15-02.html'><b>15-02</b> - ﻿मार्गणा में कालानुगम</option>");
+       $optgrp.append("<option value='16-01.html'><b>16-01</b> - ﻿गुणस्थानों में काल</option>");
+       $optgrp.append("<option value='16-02.html'><b>16-02</b> - ﻿मार्गणा में कालानुगम</option>");
   mySel.append($optgrp);
     $optgrp=$('<optgroup label="﻿भावानुगम">')
-       $optgrp.append("<option value='16-01.html'><b>16-01</b> - ﻿मार्गणा में भावानुगम</option>");
+       $optgrp.append("<option value='17-01.html'><b>17-01</b> - ﻿मार्गणा में भावानुगम</option>");
   mySel.append($optgrp);
     $optgrp=$('<optgroup label="﻿अन्तरानुगम">')
-       $optgrp.append("<option value='17-01.html'><b>17-01</b> - ﻿गुणस्थानों में अंतर</option>");
-       $optgrp.append("<option value='17-02.html'><b>17-02</b> - ﻿मार्गणा में अन्तरानुगम</option>");
-       $optgrp.append("<option value='17-03.html'><b>17-03</b> - ﻿एक जीव की अपेक्षा प्रकृतिबंध अंतरानुगम</option>");
+       $optgrp.append("<option value='18-01.html'><b>18-01</b> - ﻿गुणस्थानों में अंतर</option>");
+       $optgrp.append("<option value='18-02.html'><b>18-02</b> - ﻿मार्गणा में अन्तरानुगम</option>");
+       $optgrp.append("<option value='18-03.html'><b>18-03</b> - ﻿एक जीव की अपेक्षा प्रकृतिबंध अंतरानुगम</option>");
   mySel.append($optgrp);
     $optgrp=$('<optgroup label="﻿मोहनीय-विभक्ति">')
        $optgrp.append("<option value='27-01.html'><b>27-01</b> - ﻿मोहनीय प्रकृति-स्थान विभक्ति -- स्थान आदि</option>");

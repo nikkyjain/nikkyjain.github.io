@@ -41,8 +41,7 @@ $( document ).ready(function() {
        $optgrp.append("<option value='011.html'><b>011</b> - ﻿नयों द्वारा द्रव्य का लक्षण</option>");
        $optgrp.append("<option value='012.html'><b>012</b> - ﻿द्रव्य-पर्यायों में अभेद</option>");
        $optgrp.append("<option value='013.html'><b>013</b> - ﻿द्रव्य और गुणों में अभेद</option>");
-       $optgrp.append("<option value='014.html'><b>014</b> - ﻿प्रमाण सप्तभंगी
-</option>");
+       $optgrp.append("<option value='014.html'><b>014</b> - ﻿प्रमाण सप्तभंगी</option>");
        $optgrp.append("<option value='015.html'><b>015</b> - ﻿सत का विनाश नहीं, असत् का उत्पाद नहीं</option>");
        $optgrp.append("<option value='016.html'><b>016</b> - ﻿गुण-पर्याय</option>");
        $optgrp.append("<option value='017.html'><b>017</b> - ﻿कथंचित उत्पाद-विनाश</option>");
@@ -71,8 +70,7 @@ $( document ).ready(function() {
        $optgrp.append("<option value='040.html'><b>040</b> - ﻿जीव का उपयोग</option>");
        $optgrp.append("<option value='041.html'><b>041</b> - ﻿ज्ञानोपयोग के भेद</option>");
        $optgrp.append("<option value='048.html'><b>042</b> - ﻿दर्शनोपयोग के भेद</option>");
-       $optgrp.append("<option value='049.html'><b>043</b> - ﻿जीव और ज्ञान में अभेद
-</option>");
+       $optgrp.append("<option value='049.html'><b>043</b> - ﻿जीव और ज्ञान में अभेद</option>");
        $optgrp.append("<option value='050.html'><b>044</b> - ﻿द्रव्य का गुण में सर्वथा भेद में दोष</option>");
        $optgrp.append("<option value='051.html'><b>045</b> - ﻿द्रव्य और गुण के अभिन्न प्रदेश</option>");
        $optgrp.append("<option value='052.html'><b>046</b> - ﻿भेद में भी कथंचित अभेद का समर्थन</option>");
@@ -250,8 +248,7 @@ $( document ).ready(function() {
        $optgrp.append("<option value='011.html'><b>011</b> - ﻿नयों द्वारा द्रव्य का लक्षण</option>");
        $optgrp.append("<option value='012.html'><b>012</b> - ﻿द्रव्य-पर्यायों में अभेद</option>");
        $optgrp.append("<option value='013.html'><b>013</b> - ﻿द्रव्य और गुणों में अभेद</option>");
-       $optgrp.append("<option value='014.html'><b>014</b> - ﻿प्रमाण सप्तभंगी
-</option>");
+       $optgrp.append("<option value='014.html'><b>014</b> - ﻿प्रमाण सप्तभंगी</option>");
        $optgrp.append("<option value='015.html'><b>015</b> - ﻿सत का विनाश नहीं, असत् का उत्पाद नहीं</option>");
        $optgrp.append("<option value='016.html'><b>016</b> - ﻿गुण-पर्याय</option>");
        $optgrp.append("<option value='017.html'><b>017</b> - ﻿कथंचित उत्पाद-विनाश</option>");
@@ -287,8 +284,7 @@ $( document ).ready(function() {
        $optgrp.append("<option value='046.html'><b>046</b></option>");
        $optgrp.append("<option value='047.html'><b>047</b> - ﻿तीन अज्ञान</option>");
        $optgrp.append("<option value='048.html'><b>048</b> - ﻿दर्शनोपयोग के भेद</option>");
-       $optgrp.append("<option value='049.html'><b>049</b> - ﻿जीव और ज्ञान में अभेद
-</option>");
+       $optgrp.append("<option value='049.html'><b>049</b> - ﻿जीव और ज्ञान में अभेद</option>");
        $optgrp.append("<option value='050.html'><b>050</b> - ﻿द्रव्य का गुण में सर्वथा भेद में दोष</option>");
        $optgrp.append("<option value='051.html'><b>051</b> - ﻿द्रव्य और गुण के अभिन्न प्रदेश</option>");
        $optgrp.append("<option value='052.html'><b>052</b> - ﻿भेद में भी कथंचित अभेद का समर्थन</option>");

@@ -170,6 +170,7 @@ def createMiscList (html, myRelPath, dbDir):
             <li data-theme=b><a data-rel=dialog data-ajax=false href="""+myRelPath+"""jainDataBase/misc/karmUdayTable.html>कर्म-उदय</a></li>
             <li data-theme=b><a data-rel=dialog data-ajax=false href="""+myRelPath+"""jainDataBase/misc/karmBandhTable.html>कर्म-बन्ध</a></li>
             <li data-theme=b><a data-rel=dialog data-ajax=false href="""+myRelPath+"""jainDataBase/misc/karmSattaTable.html>कर्म-सत्ता</a></li>
+            <li data-theme=b><a data-rel=dialog data-ajax=false href="""+myRelPath+"""jainDataBase/misc/nishekRachna.html>निषेक-रचना</a></li>
           </ul>
         </div>
         <div data-role=collapsible data-inset=false data-theme=a>
@@ -329,6 +330,9 @@ def createHeader (html, myRelPath, dbDir):
   <link rel="stylesheet" href='"""+myRelPath+"""js/jquery-mobile/1.5-alpha/css/themes/default/jquery.mobile.css'>
   <script type="text/javascript" src='"""+myRelPath+"""js/jquery.js'></script>
   <script type="text/javascript" src='"""+myRelPath+"""js/jquery-mobile/1.5-alpha/jquery.mobile.js'></script>
+  <script type="text/javascript" src='"""+myRelPath+"""js/Chart.min.js'></script>
+  <script type="text/javascript" src='"""+myRelPath+"""js/palette.js'></script>
+  <script type="text/javascript" src='"""+myRelPath+"""js/myChart.js'></script>
   <script>
     relPath='"""+myRelPath+"""';
 $(document).on( "pagecontainershow", function(){

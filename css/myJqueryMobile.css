@@ -350,3 +350,12 @@ table.mainIndex td {
   color : darkblue;
   background-color: #ffcc99;
 }
+// ChartJs related
+.canvas-holder {
+  text-align : center;
+  width : 50%;
+  position : relative;
+}
+.chartJsCanvas {
+  position : relative;
+}

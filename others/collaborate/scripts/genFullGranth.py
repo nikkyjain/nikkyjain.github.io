@@ -47,8 +47,8 @@ html=open(myHtml, "w")
 #html.write("""<!DOCTYPE html>
 html.write("""<html>
 <head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>"""+myTitle+"""</title>
   <link rel="icon" type="image/png" href='"""+myRelPath+"""images/default/jainFlag-short.jpg'/>
   <link rel="stylesheet" href='"""+myRelPath+"""css/myJqueryMobile.css'>
@@ -57,6 +57,9 @@ html.write("""<html>
   <script type="text/javascript" src='"""+myRelPath+"""js/jsmind.js'></script>
   <script type="text/javascript" src='"""+myRelPath+"""js/jquery.js'></script>
   <script type="text/javascript" src='"""+myRelPath+"""js/myFontSzCtrl.js'></script>
+  <script type="text/javascript" src='"""+myRelPath+"""js/Chart.min.js'></script>
+  <script type="text/javascript" src='"""+myRelPath+"""js/palette.js'></script>
+  <script type="text/javascript" src='"""+myRelPath+"""js/myChart.js'></script>
   <style>
     body {
       background-color: #fcf5e8;
@@ -91,9 +94,9 @@ html.write("""<html>
 <body>
 """)
 if not os.path.isfile('./config/NoJainSaint.txt'):
-  html.write("<div align=center><a href='"+myRelPath+"index.html'><img src='"+myRelPath+"images/jain-saint.jpg' height=270 width=300></img></a></div>")
+    html.write("<div align=center><a href='"+myRelPath+"index.html'><img src='"+myRelPath+"images/jain-saint.jpg' height=270 width=300></img></a></div>")
 else:
-  html.write("<div align=center><a href='"+myRelPath+"index.html'><img src='"+myRelPath+"images/stories.png' height=270 width=300></img></a></div>")
+    html.write("<div align=center><a href='"+myRelPath+"index.html'><img src='"+myRelPath+"images/stories.png' height=270 width=300></img></a></div>")
 html.write("""
 <br><br><br>
 <div class=hdr align=center>"""+myHtmlName+"""</div>
@@ -116,7 +119,7 @@ if (os.path.isdir('./main') or os.path.isdir('./ftitle')):
     <table align=center width=90% class=mainIndex>
 <tr><th>गाथा / सूत्र<th>विषय""")
     if (indexCol2):
-      html.write("<th>गाथा / सूत्र<th>विषय")
+        html.write("<th>गाथा / सूत्र<th>विषय")
     html.write("</tr>\n")
     myCntr=0
     for bcFile in sorted(os.listdir('./main')):
@@ -129,7 +132,7 @@ if (os.path.isdir('./main') or os.path.isdir('./ftitle')):
             curFile="./ftitle/"+bcFile
             if os.path.isfile(curFile):
                 if (not(myCntr%2 and indexCol2)):
-                  html.write("    <tr>\n")
+                    html.write("    <tr>\n")
                 myFName=re.sub(r'.txt',"", bcFile)
                 with open(curFile, 'r') as myfile:
                     fData=myfile.read().replace('\n', '')
@@ -142,7 +145,7 @@ if (os.path.isdir('./main') or os.path.isdir('./ftitle')):
                 if os.path.isfile('./header/'+bcFile):
                     curFile='./header/'+bcFile
                 if (not(myCntr%2 and indexCol2)):
-                  html.write("    <tr>\n")
+                    html.write("    <tr>\n")
                 myFName=re.sub(r'.txt',"", bcFile)
                 with open(curFile, 'r') as myfile:
                     fData=myfile.read().replace('\n', '')
@@ -153,6 +156,7 @@ if (os.path.isdir('./main') or os.path.isdir('./ftitle')):
 html.write("<div align=center><img src='"+myRelPath+"images/hrim.png' width='20%'></img></div>\n");
 
 jsmCtr=0
+chartCtr=0
 themes=['pomegranate', 'primary', 'danger', 'success', 'nephrite', 'belizehole', 'wisteria', 'asphalt', 'pumpkin'];
 for bcFile in sorted(os.listdir('./main')):
     # Handle Adhikaar
@@ -191,7 +195,7 @@ for bcFile in sorted(os.listdir('./main')):
       iFile=re.sub(r'.txt',".png", bcFile)
       curFile=myImgDir+"/"+iFile
       if os.path.isfile(curFile):
-        html.write("<div align=center><img class=png src='../images/"+iFile+"'></div>\n")
+          html.write("<div align=center><img class=png src='../images/"+iFile+"'></div>\n")
     # Handle Main
     curFile="./main/"+bcFile
     html.write("<div class=gatha>")
@@ -232,17 +236,19 @@ for bcFile in sorted(os.listdir('./main')):
         fData=fData.replace('(', '<span class=comment>(')
         fData=fData.replace(')', ')</span>')
         fData=re.sub(r'<table.*?table>', lambda m: m.group().replace("<br>", ""), fData, flags=re.DOTALL)
-        fData=re.sub(r'<!--PythonTagBegin.*?PythonTagEnd-->', lambda m: m.group().replace("<br>", "\n"), fData, flags=re.DOTALL)
-        fData=fData.replace('<!--PythonTagBegin-->', '<div align=center>')
-        fData=fData.replace('<!--PythonTagEnd-->', '</div>')
-        fData=re.sub(r'<!--JsMindTagBegin.*?JsMindTagEnd-->', lambda m: m.group().replace("<br>", "\n"), fData, flags=re.DOTALL)
-        fData=re.sub(r'<!--JsMindTagBegin.*?JsMindTagEnd-->', lambda m: m.group().replace("<b><font color=darkRed>[", "["), fData, flags=re.DOTALL)
-        fData=re.sub(r'<!--JsMindTagBegin.*?JsMindTagEnd-->', lambda m: m.group().replace("]</font></b>", "]"), fData, flags=re.DOTALL)
-        fData=fData.replace('<!--JsMindTagBegin-->', '<div class=jsm id="jsm'+str(jsmCtr)+'"></div>\n<script type="text/javascript">\nvar mind'+str(jsmCtr)+' = { meta:{ name:"demo", author:"abc@abc.com", version:"0.2" }, format:"node_array",data:[')
-        fData=fData.replace('<!--JsMindTagBeginH2-->', '<div class=jsm2 id="jsm'+str(jsmCtr)+'"></div>\n<script type="text/javascript">\nvar mind'+str(jsmCtr)+' = { meta:{ name:"demo", author:"abc@abc.com", version:"0.2" }, format:"node_array",data:[')
-        fData=fData.replace('<!--JsMindTagBeginH7-->', '<div class=jsm7 id="jsm'+str(jsmCtr)+'"></div>\n<script type="text/javascript">\nvar mind'+str(jsmCtr)+' = { meta:{ name:"demo", author:"abc@abc.com", version:"0.2" }, format:"node_array",data:[')
-        fData=fData.replace('<!--JsMindTagEnd-->', ']}; var options'+str(jsmCtr)+' = { container:"jsm'+str(jsmCtr)+'", editable:false, theme:"'+themes[jsmCtr%9]+'" }; var jm = new jsMind(options'+str(jsmCtr)+'); jm.show(mind'+str(jsmCtr)+'); \n</script>\n')
-        jsmCtr+=1
+        if ( 'PythonTag'in fData ) : 
+            fData=re.sub(r'<!--PythonTagBegin.*?PythonTagEnd-->', lambda m: m.group().replace("<br>", "\n"), fData, flags=re.DOTALL)
+            fData=fData.replace('<!--PythonTagBegin-->', '<div align=center>')
+            fData=fData.replace('<!--PythonTagEnd-->', '</div>')
+        if ( 'JsMindTag'in fData ) : 
+            fData=re.sub(r'<!--JsMindTagBegin.*?JsMindTagEnd-->', lambda m: m.group().replace("<br>", "\n"), fData, flags=re.DOTALL)
+            fData=re.sub(r'<!--JsMindTagBegin.*?JsMindTagEnd-->', lambda m: m.group().replace("<b><font color=darkRed>[", "["), fData, flags=re.DOTALL)
+            fData=re.sub(r'<!--JsMindTagBegin.*?JsMindTagEnd-->', lambda m: m.group().replace("]</font></b>", "]"), fData, flags=re.DOTALL)
+            fData=fData.replace('<!--JsMindTagBegin-->', '<div class=jsm id="jsm'+str(jsmCtr)+'"></div>\n<script type="text/javascript">\nvar mind'+str(jsmCtr)+' = { meta:{ name:"demo", author:"abc@abc.com", version:"0.2" }, format:"node_array",data:[')
+            fData=fData.replace('<!--JsMindTagBeginH2-->', '<div class=jsm2 id="jsm'+str(jsmCtr)+'"></div>\n<script type="text/javascript">\nvar mind'+str(jsmCtr)+' = { meta:{ name:"demo", author:"abc@abc.com", version:"0.2" }, format:"node_array",data:[')
+            fData=fData.replace('<!--JsMindTagBeginH7-->', '<div class=jsm7 id="jsm'+str(jsmCtr)+'"></div>\n<script type="text/javascript">\nvar mind'+str(jsmCtr)+' = { meta:{ name:"demo", author:"abc@abc.com", version:"0.2" }, format:"node_array",data:[')
+            fData=fData.replace('<!--JsMindTagEnd-->', ']}; var options'+str(jsmCtr)+' = { container:"jsm'+str(jsmCtr)+'", editable:false, theme:"'+themes[jsmCtr%9]+'" }; var jm = new jsMind(options'+str(jsmCtr)+'); jm.show(mind'+str(jsmCtr)+'); \n</script>\n')
+            jsmCtr+=1
         html.write("<div class=arth>"+anvayarth+fData+"</div>")
     # Handle Teeka
     if (len(sys.argv) > 1):
@@ -262,6 +268,7 @@ for bcFile in sorted(os.listdir('./main')):
                 fData=re.sub(r'\(\(.*?\)\)', lambda m: m.group().replace("<br><br>", "<br>"), fData, flags=re.DOTALL)
                 fData=re.sub(r'<table.*?table>', lambda m: m.group().replace("<br>", ""), fData, flags=re.DOTALL)
                 fData=re.sub(r'<span.*?span>', lambda m: m.group().replace("<br><br>", "<br>"), fData, flags=re.DOTALL)
+                # jsMind related
                 fData=re.sub(r'<!--PythonTagBegin.*?PythonTagEnd-->', lambda m: m.group().replace("<br><br>", ""), fData, flags=re.DOTALL)
                 fData=re.sub(r'प्रतिशंका [-–—]', '<b></font><font color=darkgreen>उत्तर –</font></b>', fData)
                 fData=re.sub(r'शंका [-–—]', '<b><font color=red>शंका –', fData); 
@@ -280,6 +287,22 @@ for bcFile in sorted(os.listdir('./main')):
                 fData=fData.replace('(', '<font color=DarkSlateGray>(')
                 fData=fData.replace(')', ')</font>')
                 fData=fData.replace('</div></b><br><br>', '</div></b>')
+                # chartJs related
+                if ( 'chartJsBegin'in fData ) : 
+                    fData=re.sub(r'<!--chartJsBegin.*?ChartJsEnd-->', lambda m: m.group().replace("<br><br>", ""), fData, flags=re.DOTALL)
+                    fData=re.sub(r'<!--chartJsBegin.*?ChartJsEnd-->', lambda m: m.group().replace("<b>[<font color=maroon> ", "["), fData, flags=re.DOTALL)
+                    fData=re.sub(r'<!--chartJsBegin.*?ChartJsEnd-->', lambda m: m.group().replace(" </font></b>]", "]"), fData, flags=re.DOTALL)
+                    fData=re.sub(r'<!--chartJsBegin.*?ChartJsEnd-->', lambda m: m.group().replace("myData", "  myData"+str(chartCtr)), fData, flags=re.DOTALL)
+                    fData=re.sub(r'<!--chartJsBegin.*?ChartJsEnd-->', lambda m: m.group().replace("myLabel", "  myLabel"+str(chartCtr)), fData, flags=re.DOTALL)
+                    fData=re.sub(r'<!--chartJsBegin.*?ChartJsEnd-->', lambda m: m.group().replace("myTitle", "  myTitle"+str(chartCtr)), fData, flags=re.DOTALL)
+                    fData=re.sub(r'<!--chartJsBegin.*?ChartJsEnd-->', lambda m: m.group().replace(" </font></b>]", "]"), fData, flags=re.DOTALL)
+                    fData=fData.replace('<!--chartJsBeginPie-->', '\n<div class="canvas-holder" id="ch-'+str(chartCtr)+'">\n  <canvas id="ca-'+str(chartCtr)+'" class=chartJsCanvas>\n </canvas>\n</div>\n<script>')
+                    fData=fData.replace('<!--pieChartJsEnd-->', ' create2DPieChart("ca-'+str(chartCtr)+'",myData'+str(chartCtr)+', myLabel'+str(chartCtr)+');\n</script>\n')
+                    # Bar Grapth Related
+                    fData=fData.replace('<!--chartJsBeginBar-->', '\n<div class="canvas-holder" id="ch-'+str(chartCtr)+'">\n  <canvas id="ca-'+str(chartCtr)+'" class=chartJsCanvas>\n </canvas>\n</div>\n<script>')
+                    fData=fData.replace('<!--barChartJsEnd-->', ' create2DBarChart(myTitle'+str(chartCtr)+', "ca-'+str(chartCtr)+'",myData'+str(chartCtr)+', myLabel'+str(chartCtr)+');\n</script>\n')
+                    fData=fData.replace('<!--bar2ChartJsEnd-->', ' create2DBar2Chart("ca-'+str(chartCtr)+'", myLabel'+str(chartCtr)+', myTitle'+str(chartCtr)+', myData'+str(chartCtr)+', myTitle'+str(chartCtr)+'1, myData'+str(chartCtr)+'1);\n</script>\n')
+                    chartCtr+=1
                 html.write("<br><div class=teeka><b><font color=darkgreen>"+teekakaar+" :</font></b><br><br>"+fData+"</div>")
     ##
     html.write("<hr class=type_7>\n")
