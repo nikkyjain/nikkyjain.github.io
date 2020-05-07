@@ -55,7 +55,7 @@ $( document ).ready(function() {
        $optgrp.append("<option value='026.html'><b>026</b> - ﻿व्यवहारकाल की पराधीनता</option>");
   mySel.append($optgrp);
     $optgrp=$('<optgroup label="﻿जीवास्तिकाय">')
-       $optgrp.append("<option value='027.html'><b>027</b></option>");
+       $optgrp.append("<option value='027.html'><b>027</b> - ﻿जीवास्तिकाय का व्याख्यान</option>");
        $optgrp.append("<option value='028.html'><b>028</b> - ﻿मुक्त अवस्था का निरुपाधि-स्वरूप</option>");
        $optgrp.append("<option value='029.html'><b>029</b></option>");
        $optgrp.append("<option value='030.html'><b>030</b> - ﻿व्यवहार से जीवत्व गुण</option>");
@@ -263,7 +263,7 @@ $( document ).ready(function() {
        $optgrp.append("<option value='026.html'><b>026</b> - ﻿व्यवहारकाल की पराधीनता</option>");
   mySel.append($optgrp);
     $optgrp=$('<optgroup label="﻿जीवास्तिकाय">')
-       $optgrp.append("<option value='027.html'><b>027</b></option>");
+       $optgrp.append("<option value='027.html'><b>027</b> - ﻿जीवास्तिकाय का व्याख्यान</option>");
        $optgrp.append("<option value='028.html'><b>028</b> - ﻿मुक्त अवस्था का निरुपाधि-स्वरूप</option>");
        $optgrp.append("<option value='029.html'><b>029</b></option>");
        $optgrp.append("<option value='030.html'><b>030</b> - ﻿व्यवहार से जीवत्व गुण</option>");
