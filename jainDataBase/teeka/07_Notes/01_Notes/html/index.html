@@ -664,14 +664,19 @@
  </canvas>
 </div>
 <script>
-      myData0=[117, 111, 100, 104, 87, 81, 76, 72, 66, 60, 59, 57, 42, 12];
-      myLabel0=['मिथ्यात्व', 'सासादन', 'मिश्र', 'अविरत स.', 'देशविरत', 'प्रमत्तसंयत', 'अपूर्वकरण', 'अनिवृतिकरण', 'सूक्ष्मसाम्पराय', 'उपशान्तमोह', 'क्षीणमोह', 'सयोगकेवली', 'अयोगकेवली'];
-      myTitle0='गुणस्थानों में कर्म के उदय की संख्या ';
-      myData01=[117, 101, 74, 77, 67, 63, 59, 58, 22, 17, 1, 1, 1, 0];
-      myTitle01='गुणस्थानों में कर्म के बंध की संख्या ';
- create2DBar2Chart("ca-0", myLabel0, myTitle0, myData0, myTitle01, myData01);
-</script>
-</div><hr class=type_7>
+    var   myLabel0=[ 'मिथ्यात्व', 'सासादन', 'मिश्र', 'अविरत स.', 'देशविरत', 'प्रमत्तसंयत', 'अप्रमत्तसंयत', 'अपूर्वकरण', 'अनिवृतिकरण', 'सूक्ष्मसाम्पराय', 'उपशान्तमोह', 'क्षीणमोह', 'सयोगकेवली', 'अयोगकेवली' ];
+    
+    var   myData0 = [
+    {
+    'data' : [ 117, 111, 100, 104, 87, 81, 76, 72, 66, 60, 59, 57, 42, 12 ],
+    'label' : 'गुणस्थानों में कर्म के उदय की संख्या '
+    },
+    {
+    'data' : [ 117, 101, 74, 77, 67, 63, 59, 58, 22, 17, 1, 1, 1, 0 ],
+    'label' : 'गुणस्थानों में कर्म के बंध की संख्या '
+    }];
+ create2DBarChart("ca-0", myLabel0, myData0);
+</script></div><hr class=type_7>
 <br><div class=title id=gatha-02-05><span class=incFontSz>+ </span><a href=#index>﻿गुणस्थानों में कर्म के बन्ध</a><span class=decFontSz> -</span></div><div class=gatha>﻿गुणस्थानों में कर्म के बन्ध</div>
 <br><div class=teeka><b><font color=darkgreen>विशेष :</font></b><br><br>﻿<table class=myAltTable>
   <thead>
@@ -4959,14 +4964,9 @@
 </table></div><hr class=type_7>
 <br><br><div class=adhikaar><h1>﻿प्रदेश बंध</h1></div><br><div align=center><img src='../../../../../images/ahinsaParmoDharm.png' width='15%'></img></div>
 <br><div class=title id=gatha-08-01><span class=incFontSz>+ </span><a href=#index>﻿मूल प्रकृतियों में प्रदेश बंध</a><span class=decFontSz> -</span></div><div class=gatha>﻿मूल प्रकृतियों में प्रदेश बंध</div>
-<div class=arth>﻿उदाहरण के लिए --<br>समयप्रबद्ध = 75000<br>आवली/असंख्यात = 5</div><br><div class=teeka><b><font color=darkgreen>विशेष :</font></b><br><br>﻿
-<div class="canvas-holder" id="ch-1">
-  <canvas id="ca-1" class=chartJsCanvas>
- </canvas>
-</div>
-<script>
-      myData1=[19500, 9900, 7660, 7660, 7660, 7548, 7548, 7524];
-      myLabel1=['वेदनीय', 'मोहनीय', 'ज्ञानावरण', 'दर्शनावरण', 'अंतराय', 'नाम', 'गोत्र', 'आयु'];
+<div class=arth>﻿उदाहरण के लिए --<br>समयप्रबद्ध = 75000<br>आवली/असंख्यात = 5</div><br><div class=teeka><b><font color=darkgreen>विशेष :</font></b><br><br>﻿<!--chartJsBeginPie-->
+      myData1=[ 19500, 9900, 7660, 7660, 7660, 7548, 7548, 7524 ];
+      myLabel1=[ 'वेदनीय', 'मोहनीय', 'ज्ञानावरण', 'दर्शनावरण', 'अंतराय', 'नाम', 'गोत्र', 'आयु' ];
  create2DPieChart("ca-1",myData1, myLabel1);
 </script>
 </div><hr class=type_7>

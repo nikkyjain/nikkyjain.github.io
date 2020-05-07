@@ -290,18 +290,16 @@ for bcFile in sorted(os.listdir('./main')):
                 # chartJs related
                 if ( 'chartJsBegin'in fData ) : 
                     fData=re.sub(r'<!--chartJsBegin.*?ChartJsEnd-->', lambda m: m.group().replace("<br><br>", ""), fData, flags=re.DOTALL)
-                    fData=re.sub(r'<!--chartJsBegin.*?ChartJsEnd-->', lambda m: m.group().replace("<b>[<font color=maroon> ", "["), fData, flags=re.DOTALL)
-                    fData=re.sub(r'<!--chartJsBegin.*?ChartJsEnd-->', lambda m: m.group().replace(" </font></b>]", "]"), fData, flags=re.DOTALL)
+                    fData=re.sub(r'<!--chartJsBegin.*?ChartJsEnd-->', lambda m: m.group().replace("<b>[<font color=maroon>", "["), fData, flags=re.DOTALL)
+                    fData=re.sub(r'<!--chartJsBegin.*?ChartJsEnd-->', lambda m: m.group().replace("</font></b>]", "]"), fData, flags=re.DOTALL)
                     fData=re.sub(r'<!--chartJsBegin.*?ChartJsEnd-->', lambda m: m.group().replace("myData", "  myData"+str(chartCtr)), fData, flags=re.DOTALL)
                     fData=re.sub(r'<!--chartJsBegin.*?ChartJsEnd-->', lambda m: m.group().replace("myLabel", "  myLabel"+str(chartCtr)), fData, flags=re.DOTALL)
                     fData=re.sub(r'<!--chartJsBegin.*?ChartJsEnd-->', lambda m: m.group().replace("myTitle", "  myTitle"+str(chartCtr)), fData, flags=re.DOTALL)
-                    fData=re.sub(r'<!--chartJsBegin.*?ChartJsEnd-->', lambda m: m.group().replace(" </font></b>]", "]"), fData, flags=re.DOTALL)
-                    fData=fData.replace('<!--chartJsBeginPie-->', '\n<div class="canvas-holder" id="ch-'+str(chartCtr)+'">\n  <canvas id="ca-'+str(chartCtr)+'" class=chartJsCanvas>\n </canvas>\n</div>\n<script>')
+                    #fData=re.sub(r'<!--chartJsBegin.*?ChartJsEnd-->', lambda m: m.group().replace(" </font></b>]", "]"), fData, flags=re.DOTALL)
+                    fData=fData.replace('<!--chartJsBegin-->', '\n<div class="canvas-holder" id="ch-'+str(chartCtr)+'">\n  <canvas id="ca-'+str(chartCtr)+'" class=chartJsCanvas>\n </canvas>\n</div>\n<script>')
                     fData=fData.replace('<!--pieChartJsEnd-->', ' create2DPieChart("ca-'+str(chartCtr)+'",myData'+str(chartCtr)+', myLabel'+str(chartCtr)+');\n</script>\n')
                     # Bar Grapth Related
-                    fData=fData.replace('<!--chartJsBeginBar-->', '\n<div class="canvas-holder" id="ch-'+str(chartCtr)+'">\n  <canvas id="ca-'+str(chartCtr)+'" class=chartJsCanvas>\n </canvas>\n</div>\n<script>')
-                    fData=fData.replace('<!--barChartJsEnd-->', ' create2DBarChart(myTitle'+str(chartCtr)+', "ca-'+str(chartCtr)+'",myData'+str(chartCtr)+', myLabel'+str(chartCtr)+');\n</script>\n')
-                    fData=fData.replace('<!--bar2ChartJsEnd-->', ' create2DBar2Chart("ca-'+str(chartCtr)+'", myLabel'+str(chartCtr)+', myTitle'+str(chartCtr)+', myData'+str(chartCtr)+', myTitle'+str(chartCtr)+'1, myData'+str(chartCtr)+'1);\n</script>\n')
+                    fData=fData.replace('<!--barChartJsEnd-->', ' create2DBarChart("ca-'+str(chartCtr)+'", myLabel'+str(chartCtr)+', myData'+str(chartCtr)+');\n</script>')
                     chartCtr+=1
                 html.write("<br><div class=teeka><b><font color=darkgreen>"+teekakaar+" :</font></b><br><br>"+fData+"</div>")
     ##

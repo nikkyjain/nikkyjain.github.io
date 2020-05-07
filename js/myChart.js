@@ -1,3 +1,19 @@
+window.chartColors = {
+	red: 'rgb(255, 99, 132)',
+	orange: 'rgb(255, 159, 64)',
+	yellow: 'rgb(255, 205, 86)',
+	green: 'rgb(75, 192, 192)',
+	blue: 'rgb(54, 162, 235)',
+	purple: 'rgb(153, 102, 255)',
+	grey: 'rgb(201, 203, 207)'
+};
+
+function returnColor(i) {
+  var color = Chart.helpers.color;
+  var col=(i==0)? 'red' : (i==1)? 'blue' : (i==2) ? 'green' : (i==3) ? 'purple' : 'yellow';
+  console.log("Dbg: i="+i+" Col= "+col);
+  return(color(col).alpha(0.5).rgbString());
+}
 // Depends on Chart.js amd palette.js
 function create2DPieChart(id,myData,myLabel) {
     var config = {
@@ -20,53 +36,24 @@ function create2DPieChart(id,myData,myLabel) {
     window.myPie = new Chart(ctx, config);
 }
 
-function create2DBarChart(myLabel,id,myBData,myBLabels) {
+
+function create2DBarChart(id,myLabels,myData) {
 var myChart = new Chart(id, {
   type: 'bar',
   data: {
-    labels: myBLabels,
-    datasets: [{
-      label: myLabel,
-      data: myBData,
-      backgroundColor: (myBData.length%2) ? 'rgb(255, 99, 132)' : '#4dc9f6',
-      borderColor: (myBData.length%2) ? 'rgb(54, 162, 235)' : 'rgb(255, 99, 132)',
-      borderWidth: 2
-    }]
-  },
-	  options: {
-	    responsive: true
-	  }
-});
-}
-
-function create2DBar2Chart(id,myLabels,
-myLabel,myData,myLabel1,myData1) {
-var myChart = new Chart(id, {
-  type: 'line',
-  data: {
     labels: myLabels,
-    datasets: [{
-      label: myLabel,
-      data: myData,
-      backgroundColor: (myData.length%2) ? 'rgb(255, 99, 132)' : '#4dc9f6',
-      borderColor: (myData.length%2) ? 'rgb(54, 162, 235)' : 'rgb(255, 99, 132)',
-      borderWidth: 2,
-			fill: true,
-			cubicInterpolationMode: 'monotone'
-    },
-    {
-      label: myLabel1,
-      data: myData1,
-      backgroundColor: (myData.length%2) ? '#4dc9f6' : 'rgb(255, 99, 132)',
-      borderColor: (myData.length%2) ? 'rgb(255, 99, 132)' : 'rgb(54, 162, 235)',
-      borderWidth: 2,
-      
-					fill: true,
-					lineTension: 0
-    }]
+    datasets: []
   },
-	  options: {
-	    responsive: true
-	  }
+	options: {
+	  responsive: true
+	}
 });
+for(var i=0; i<myData.length; i++) {
+  myChart.data.datasets.push({
+    label: myData[i]['label'],
+    backgroundColor: returnColor(i),
+    data: myData[i]['data']
+  });
+}
+myChart.update();
 }
