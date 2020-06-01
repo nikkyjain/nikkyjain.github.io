@@ -337,7 +337,11 @@ table.mainIndex td {
 }
 .tableNotes {
   font-size : 1vw;
-  background-color: lightGray;
+  background-color: lightgray;
+  color: 330000;
+}
+.notes {
+  color: darkBlue;
 }
 
 .emptyTableCell {

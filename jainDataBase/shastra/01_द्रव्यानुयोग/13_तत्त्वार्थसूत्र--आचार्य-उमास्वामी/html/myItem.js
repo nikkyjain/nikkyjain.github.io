@@ -35,7 +35,7 @@ $( document ).ready(function() {
        $optgrp.append("<option value='01-10.html'><b>01-10</b> - ﻿तत्प्रमाणे ॥१०॥</option>");
        $optgrp.append("<option value='01-11.html'><b>01-11</b> - ﻿आद्ये परोक्षम् ॥११॥</option>");
        $optgrp.append("<option value='01-12.html'><b>01-12</b> - ﻿प्रत्यक्षमन्यत् ॥१२॥</option>");
-       $optgrp.append("<option value='01-13.html'><b>01-13</b> - ﻿मतिः स्मृतिः संज्ञा चिन्ताऽभिनिबोध इत्यानर्थान्तरम् ॥१३॥</option>");
+       $optgrp.append("<option value='01-13.html'><b>01-13</b> - ﻿मतिः स्मृतिः संज्ञा चिन्ताऽभिनिबोध इत्यनर्थान्तरम् ॥१३॥</option>");
        $optgrp.append("<option value='01-14.html'><b>01-14</b> - ﻿तदिन्द्रयानिन्द्रिय निमित्तम् ॥१४॥</option>");
        $optgrp.append("<option value='01-15.html'><b>01-15</b> - ﻿अवग्रहेहावाय धारणाः ॥१५॥</option>");
        $optgrp.append("<option value='01-16.html'><b>01-16</b> - ﻿बहुबहुविधक्षिप्रानिःसृतानुक्तध्रुवाणां सेतराणाम्‌ ॥१६॥</option>");

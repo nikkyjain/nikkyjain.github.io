@@ -284,8 +284,8 @@ for bcFile in sorted(os.listdir('./main')):
                 fData=fData.replace(']]', '</font></b>')
                 fData=fData.replace('[', '<b>[<font color=maroon>')
                 fData=fData.replace(']', '</font></b>]'); 
-                fData=fData.replace('(', '<font color=DarkSlateGray>(')
-                fData=fData.replace(')', ')</font>')
+                fData=fData.replace('(', '<span class=notes>(')
+                fData=fData.replace(')', ')</span>')
                 fData=fData.replace('</div></b><br><br>', '</div></b>')
                 # chartJs related
                 if ( 'chartJsBegin'in fData ) : 

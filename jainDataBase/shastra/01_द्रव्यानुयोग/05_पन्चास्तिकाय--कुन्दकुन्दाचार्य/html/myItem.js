@@ -81,28 +81,28 @@ $( document ).ready(function() {
        $optgrp.append("<option value='057-058.html'><b>051-052</b> - ﻿द्रव्य-गुणों के कथंचित् अभेद में दृष्टांत</option>");
        $optgrp.append("<option value='059.html'><b>053</b> - ﻿गुणमयी जीवों की संख्या</option>");
        $optgrp.append("<option value='060.html'><b>054</b> - ﻿कथंचित उत्पाद-व्यय</option>");
-       $optgrp.append("<option value='061.html'><b>055</b> - ﻿अब पूर्व सूत्र में जो जीव का उत्पाद-व्यय स्वरूप कहा है उसका कारण नर-नारक आदि गति-नामकर्म का उदय है, ऐसा कहते हैं</option>");
+       $optgrp.append("<option value='061.html'><b>055</b> - ﻿जीव की नर-नारक आदि पर्याय का कारण</option>");
        $optgrp.append("<option value='062.html'><b>056</b> - ﻿औदयिकादि पाँच भाव व्याख्यान </option>");
-       $optgrp.append("<option value='064.html'><b>058</b> - ﻿अब उदयागत द्रव्यकर्म, व्यवहार से रागादि परिणामों का कारण हैऐसा दिखाते हैं</option>");
-       $optgrp.append("<option value='065.html'><b>059</b> - ﻿अब एकान्त से जीव को कर्म के अकर्तृत्व में दूषण द्वार से पूर्वपक्ष कहते हैं</option>");
-       $optgrp.append("<option value='066.html'><b>060</b> - ﻿अब, पूर्व गाथा में आत्मा को कर्म का अकर्तृत्व होने पर दूषणरूप से जो पूर्वपक्ष प्रस्तुत किया था, यहाँ उसका परिहार करते हैं तथा द्वितीय व्याख्यान के पक्ष में स्थितपक्ष (सुनिश्चित हुआ तथ्य) दिखाते हैं</option>");
+       $optgrp.append("<option value='064.html'><b>058</b> - ﻿उदयागत द्रव्यकर्म, व्यवहार से रागादि परिणामों का कारण</option>");
+       $optgrp.append("<option value='065.html'><b>059</b> - ﻿ पूर्वपक्ष -- एकान्त से जीव को कर्म के अकर्तृत्व में दूषण</option>");
+       $optgrp.append("<option value='066.html'><b>060</b> - ﻿परिहार</option>");
        $optgrp.append("<option value='067.html'><b>061</b> - ﻿अब उस ही व्याख्यान को आगम-संवाद से दृ़ढ करते हैं</option>");
-       $optgrp.append("<option value='068.html'><b>062</b> - ﻿अब निश्चयनय की अपेक्षा अभेद षट्कारकी रूप से कर्म पुद्गल स्वकीय स्वरूप को करता है; उसीप्रकार जीव भी ( अपने स्वरूप को ही करता है), ऐसा प्रतिपादन करते हैं</option>");
+       $optgrp.append("<option value='068.html'><b>062</b> - ﻿निश्चयनय से अभेद षट्कारक</option>");
        $optgrp.append("<option value='069.html'><b>063</b> - ﻿पूर्वपक्ष गाथा</option>");
        $optgrp.append("<option value='070.html'><b>064</b> - ﻿परिहार गाथाएं - द्रव्य कर्मों का कर्ता जीव नहीं</option>");
-       $optgrp.append("<option value='071.html'><b>065</b> - ﻿अब, आत्मा के मिथ्यात्व-रागादि परिणाम होने पर कर्मवर्गणा योग्य पुद्गल निश्चय की अपेक्षा उपादानरूप से स्वयं ही कर्मपने से परिणमित होते हैं, ऐसा प्रतिपादन करते हैं</option>");
-       $optgrp.append("<option value='072.html'><b>066</b> - ﻿अब कर्मवर्गणा योग्य पुद्गल जिसप्रकार स्वयं ही कर्मरूप से परिणमित होते हैं, वैसा दृष्टान्त देते हैं</option>");
+       $optgrp.append("<option value='071.html'><b>065</b> - ﻿पुद्गल उपादानरूप से स्वयं ही कर्मपने रूप परिणमित</option>");
+       $optgrp.append("<option value='072.html'><b>066</b> - ﻿दृष्टान्त</option>");
        $optgrp.append("<option value='073.html'><b>067</b> - ﻿कर्म-फल में भोक्तृत्व</option>");
   mySel.append($optgrp);
     $optgrp=$('<optgroup label="﻿पुदगलास्तिकाय">')
        $optgrp.append("<option value='074.html'><b>068</b> - ﻿कर्तृत्व भोक्तृत्व का उपसंहार</option>");
        $optgrp.append("<option value='075.html'><b>069</b> - ﻿कर्म-संयुक्तत्व कर्म-रहितत्व</option>");
-       $optgrp.append("<option value='076.html'><b>070</b> - ﻿अब यहाँ भी पूर्वकथित प्रभुत्व का ही कर्मरहितत्व की मुख्यता से प्रतिपादन करते हैं</option>");
-       $optgrp.append("<option value='077-078.html'><b>071-072</b> - ﻿अब उस ही नौ अधिकार द्वारा कहे गए जीवास्तिकाय का और भी दश भेदों द्वारा या २० भेदों द्वारा विशेष व्याख्यान करते हैं</option>");
-       $optgrp.append("<option value='079.html'><b>073</b> - ﻿अब मुक्त के ऊर्ध्वगति और मरणकाल में संसारी जीवों के छहगतियाँ होती हैं, ऐसा प्रतिपादन करते हैं</option>");
+       $optgrp.append("<option value='076.html'><b>070</b> - ﻿प्रभुत्व का ही कर्मरहितत्व की मुख्यता से प्रतिपादन</option>");
+       $optgrp.append("<option value='077-078.html'><b>071-072</b> - ﻿जीवास्तिकाय चूलिका</option>");
+       $optgrp.append("<option value='079.html'><b>073</b> - ﻿मुक्त के ऊर्ध्वगति और संसारी जीवों के छहगति</option>");
        $optgrp.append("<option value='080.html'><b>074</b> - ﻿पुद्गल-स्कन्ध व्याख्यान</option>");
-       $optgrp.append("<option value='081.html'><b>075</b> - ﻿अब, पूर्वोक्त स्कन्ध आदि चार विकल्पों में से प्रत्येक का लक्षण कहते हैं</option>");
-       $optgrp.append("<option value='082.html'><b>076</b> - ﻿अब, स्कन्धों के पुद्गलत्व व्यवहार व्यवस्थापित करते हैं</option>");
+       $optgrp.append("<option value='081.html'><b>075</b> - ﻿स्कन्ध आदि चार विकल्पों के लक्षण</option>");
+       $optgrp.append("<option value='082.html'><b>076</b> - ﻿स्कन्धों के पुद्गलत्व व्यवहार</option>");
        $optgrp.append("<option value='084.html'><b>077</b> - ﻿परमाणु व्याख्यान</option>");
        $optgrp.append("<option value='085.html'><b>078</b> - ﻿अब पृथ्वी आदि जाति से भिन्न परमाणु नहीं है, ऐसा निश्चय करते हैं</option>");
        $optgrp.append("<option value='086.html'><b>079</b> - ﻿अब शब्द पुद्गल-स्कन्ध की पर्याय है; ऐसा दिखाते हैं</option>");
@@ -116,18 +116,18 @@ $( document ).ready(function() {
        $optgrp.append("<option value='092.html'><b>085</b> - ﻿अब धर्म के गतिहेतुत्व में लोकप्रसिद्ध दृष्टान्त कहते हैं</option>");
        $optgrp.append("<option value='093.html'><b>086</b> - ﻿अधर्मास्तिकाय का स्वरूप</option>");
        $optgrp.append("<option value='094.html'><b>087</b> - ﻿धर्माधर्म द्रव्य का अस्तित्व ण मानने पर दूषण</option>");
-       $optgrp.append("<option value='095.html'><b>088</b> - ﻿अब, गति-स्थितिहेतुत्व के विषय में धर्म-अधर्म अत्यन्त उदासीन हैं, ऐसा निश्चित करते हैं</option>");
-       $optgrp.append("<option value='096.html'><b>089</b> - ﻿अब धर्म-अधर्म की गति-स्थिति हेतुत्व सम्बन्धी उदासीनता के विषय में युक्ति प्रकाशित करते हैं</option>");
+       $optgrp.append("<option value='095.html'><b>088</b> - ﻿गति-स्थितिहेतुत्व के विषय में धर्म-अधर्म अत्यन्त उदासीन</option>");
+       $optgrp.append("<option value='096.html'><b>089</b> - ﻿युक्ति</option>");
   mySel.append($optgrp);
     $optgrp=$('<optgroup label="﻿चूलिका">')
        $optgrp.append("<option value='097.html'><b>090</b> - ﻿लोकालोकाकाश-स्वरूप</option>");
-       $optgrp.append("<option value='098.html'><b>091</b> - ﻿अब षड्द्रव्यों का समूह लोक है, उससे बाहर अनन्त आकाश अलोक है, ऐसा प्रगट करते हैं</option>");
+       $optgrp.append("<option value='098.html'><b>091</b> - ﻿लोक-अलोक</option>");
        $optgrp.append("<option value='099.html'><b>092</b> - ﻿धर्माधर्म सम्बन्धी पूर्वपक्ष के निराकरणार्थ</option>");
   mySel.append($optgrp);
     $optgrp=$('<optgroup label="﻿काल-द्रव्य">')
-       $optgrp.append("<option value='100.html'><b>093</b> - ﻿अब स्थित पक्ष (निश्चित हुए पक्ष) का प्रतिपादन करते हैं</option>");
-       $optgrp.append("<option value='101.html'><b>094</b> - ﻿अब आकाश के गति-स्थिति हेतुत्व के अभावरूप साध्य में और भी कारण कहते हैं</option>");
-       $optgrp.append("<option value='102.html'><b>095</b> - ﻿अब आकाश की गति-स्थिति कारणता के निराकरणपरक व्याख्यान का उपसंहार कहते हैं / करते हैं</option>");
+       $optgrp.append("<option value='100.html'><b>093</b> - ﻿स्थित पक्ष का प्रतिपादन</option>");
+       $optgrp.append("<option value='101.html'><b>094</b> - ﻿आकाश के गति-स्थिति हेतुत्व के अभाव में और भी कारण</option>");
+       $optgrp.append("<option value='102.html'><b>095</b> - ﻿उपसंहार</option>");
   mySel.append($optgrp);
     $optgrp=$('<optgroup label="﻿उपसंहार">')
        $optgrp.append("<option value='103.html'><b>096</b> - ﻿धर्मादि तीनों के कथंचित एकत्व-पृथक्त्व का प्रतिपादन</option>");
@@ -137,7 +137,7 @@ $( document ).ready(function() {
        $optgrp.append("<option value='105.html'><b>098</b> - ﻿सक्रिय-निश्क्रियत्व प्रतिपादन</option>");
        $optgrp.append("<option value='106.html'><b>099</b> - ﻿प्रकारान्तर से मूर्तामूर्तत्व प्रतिपादन</option>");
        $optgrp.append("<option value='107.html'><b>100</b> - ﻿व्यवहार-निश्चय काल प्रतिपादन</option>");
-       $optgrp.append("<option value='108.html'><b>101</b> - ﻿अब नित्य और क्षणिक होने के कारण फिर से काल के भेद दिखाते हैं</option>");
+       $optgrp.append("<option value='108.html'><b>101</b> - ﻿नित्य / क्षणिक काल के भेद</option>");
   mySel.append($optgrp);
     $optgrp=$('<optgroup label="﻿जीव-पदार्थ">')
        $optgrp.append("<option value='109.html'><b>102</b> - ﻿काल के द्रव्यत्व-अकायत्व का प्रतिपादन</option>");
@@ -295,29 +295,28 @@ $( document ).ready(function() {
        $optgrp.append("<option value='057-058.html'><b>057-058</b> - ﻿द्रव्य-गुणों के कथंचित् अभेद में दृष्टांत</option>");
        $optgrp.append("<option value='059.html'><b>059</b> - ﻿गुणमयी जीवों की संख्या</option>");
        $optgrp.append("<option value='060.html'><b>060</b> - ﻿कथंचित उत्पाद-व्यय</option>");
-       $optgrp.append("<option value='061.html'><b>061</b> - ﻿अब पूर्व सूत्र में जो जीव का उत्पाद-व्यय स्वरूप कहा है उसका कारण नर-नारक आदि गति-नामकर्म का उदय है, ऐसा कहते हैं</option>");
+       $optgrp.append("<option value='061.html'><b>061</b> - ﻿जीव की नर-नारक आदि पर्याय का कारण</option>");
        $optgrp.append("<option value='062.html'><b>062</b> - ﻿औदयिकादि पाँच भाव व्याख्यान </option>");
        $optgrp.append("<option value='063.html'><b>063</b> - ﻿कर्तृत्व की मुख्यता से व्याख्यान</option>");
-       $optgrp.append("<option value='064.html'><b>064</b> - ﻿अब उदयागत द्रव्यकर्म, व्यवहार से रागादि परिणामों का कारण हैऐसा दिखाते हैं</option>");
-       $optgrp.append("<option value='065.html'><b>065</b> - ﻿अब एकान्त से जीव को कर्म के अकर्तृत्व में दूषण द्वार से पूर्वपक्ष कहते हैं</option>");
-       $optgrp.append("<option value='066.html'><b>066</b> - ﻿अब, पूर्व गाथा में आत्मा को कर्म का अकर्तृत्व होने पर दूषणरूप से जो पूर्वपक्ष प्रस्तुत किया था, यहाँ उसका परिहार करते हैं तथा द्वितीय व्याख्यान के पक्ष में स्थितपक्ष (सुनिश्चित हुआ तथ्य) दिखाते हैं</option>");
-       $optgrp.append("<option value='067.html'><b>067</b> - ﻿अब उस ही व्याख्यान को आगम-संवाद से दृ़ढ करते हैं</option>");
-       $optgrp.append("<option value='068.html'><b>068</b> - ﻿अब निश्चयनय की अपेक्षा अभेद षट्कारकी रूप से कर्म पुद्गल स्वकीय स्वरूप को करता है; उसीप्रकार जीव भी ( अपने स्वरूप को ही करता है), ऐसा प्रतिपादन करते हैं</option>");
+       $optgrp.append("<option value='064.html'><b>064</b> - ﻿उदयागत द्रव्यकर्म, व्यवहार से रागादि परिणामों का कारण</option>");
+       $optgrp.append("<option value='065.html'><b>065</b> - ﻿ पूर्वपक्ष -- एकान्त से जीव को कर्म के अकर्तृत्व में दूषण</option>");
+       $optgrp.append("<option value='066.html'><b>066</b> - ﻿परिहार</option>");
+       $optgrp.append("<option value='068.html'><b>068</b> - ﻿निश्चयनय से अभेद षट्कारक</option>");
        $optgrp.append("<option value='069.html'><b>069</b> - ﻿पूर्वपक्ष गाथा</option>");
        $optgrp.append("<option value='070.html'><b>070</b> - ﻿परिहार गाथाएं - द्रव्य कर्मों का कर्ता जीव नहीं</option>");
-       $optgrp.append("<option value='071.html'><b>071</b> - ﻿अब, आत्मा के मिथ्यात्व-रागादि परिणाम होने पर कर्मवर्गणा योग्य पुद्गल निश्चय की अपेक्षा उपादानरूप से स्वयं ही कर्मपने से परिणमित होते हैं, ऐसा प्रतिपादन करते हैं</option>");
-       $optgrp.append("<option value='072.html'><b>072</b> - ﻿अब कर्मवर्गणा योग्य पुद्गल जिसप्रकार स्वयं ही कर्मरूप से परिणमित होते हैं, वैसा दृष्टान्त देते हैं</option>");
+       $optgrp.append("<option value='071.html'><b>071</b> - ﻿पुद्गल उपादानरूप से स्वयं ही कर्मपने रूप परिणमित</option>");
+       $optgrp.append("<option value='072.html'><b>072</b> - ﻿दृष्टान्त</option>");
        $optgrp.append("<option value='073.html'><b>073</b> - ﻿कर्म-फल में भोक्तृत्व</option>");
   mySel.append($optgrp);
     $optgrp=$('<optgroup label="﻿पुदगलास्तिकाय">')
        $optgrp.append("<option value='074.html'><b>074</b> - ﻿कर्तृत्व भोक्तृत्व का उपसंहार</option>");
        $optgrp.append("<option value='075.html'><b>075</b> - ﻿कर्म-संयुक्तत्व कर्म-रहितत्व</option>");
-       $optgrp.append("<option value='076.html'><b>076</b> - ﻿अब यहाँ भी पूर्वकथित प्रभुत्व का ही कर्मरहितत्व की मुख्यता से प्रतिपादन करते हैं</option>");
-       $optgrp.append("<option value='077-078.html'><b>077-078</b> - ﻿अब उस ही नौ अधिकार द्वारा कहे गए जीवास्तिकाय का और भी दश भेदों द्वारा या २० भेदों द्वारा विशेष व्याख्यान करते हैं</option>");
-       $optgrp.append("<option value='079.html'><b>079</b> - ﻿अब मुक्त के ऊर्ध्वगति और मरणकाल में संसारी जीवों के छहगतियाँ होती हैं, ऐसा प्रतिपादन करते हैं</option>");
+       $optgrp.append("<option value='076.html'><b>076</b> - ﻿प्रभुत्व का ही कर्मरहितत्व की मुख्यता से प्रतिपादन</option>");
+       $optgrp.append("<option value='077-078.html'><b>077-078</b> - ﻿जीवास्तिकाय चूलिका</option>");
+       $optgrp.append("<option value='079.html'><b>079</b> - ﻿मुक्त के ऊर्ध्वगति और संसारी जीवों के छहगति</option>");
        $optgrp.append("<option value='080.html'><b>080</b> - ﻿पुद्गल-स्कन्ध व्याख्यान</option>");
-       $optgrp.append("<option value='081.html'><b>081</b> - ﻿अब, पूर्वोक्त स्कन्ध आदि चार विकल्पों में से प्रत्येक का लक्षण कहते हैं</option>");
-       $optgrp.append("<option value='082.html'><b>082</b> - ﻿अब, स्कन्धों के पुद्गलत्व व्यवहार व्यवस्थापित करते हैं</option>");
+       $optgrp.append("<option value='081.html'><b>081</b> - ﻿स्कन्ध आदि चार विकल्पों के लक्षण</option>");
+       $optgrp.append("<option value='082.html'><b>082</b> - ﻿स्कन्धों के पुद्गलत्व व्यवहार</option>");
   mySel.append($optgrp);
     $optgrp=$('<optgroup label="﻿धर्मास्तिकाय">')
        $optgrp.append("<option value='083.html'><b>083</b> - ﻿अब, उन्हीं छह भेदों का वर्णन करते हैं</option>");
@@ -334,18 +333,18 @@ $( document ).ready(function() {
        $optgrp.append("<option value='092.html'><b>092</b> - ﻿अब धर्म के गतिहेतुत्व में लोकप्रसिद्ध दृष्टान्त कहते हैं</option>");
        $optgrp.append("<option value='093.html'><b>093</b> - ﻿अधर्मास्तिकाय का स्वरूप</option>");
        $optgrp.append("<option value='094.html'><b>094</b> - ﻿धर्माधर्म द्रव्य का अस्तित्व ण मानने पर दूषण</option>");
-       $optgrp.append("<option value='095.html'><b>095</b> - ﻿अब, गति-स्थितिहेतुत्व के विषय में धर्म-अधर्म अत्यन्त उदासीन हैं, ऐसा निश्चित करते हैं</option>");
-       $optgrp.append("<option value='096.html'><b>096</b> - ﻿अब धर्म-अधर्म की गति-स्थिति हेतुत्व सम्बन्धी उदासीनता के विषय में युक्ति प्रकाशित करते हैं</option>");
+       $optgrp.append("<option value='095.html'><b>095</b> - ﻿गति-स्थितिहेतुत्व के विषय में धर्म-अधर्म अत्यन्त उदासीन</option>");
+       $optgrp.append("<option value='096.html'><b>096</b> - ﻿युक्ति</option>");
   mySel.append($optgrp);
     $optgrp=$('<optgroup label="﻿चूलिका">')
        $optgrp.append("<option value='097.html'><b>097</b> - ﻿लोकालोकाकाश-स्वरूप</option>");
-       $optgrp.append("<option value='098.html'><b>098</b> - ﻿अब षड्द्रव्यों का समूह लोक है, उससे बाहर अनन्त आकाश अलोक है, ऐसा प्रगट करते हैं</option>");
+       $optgrp.append("<option value='098.html'><b>098</b> - ﻿लोक-अलोक</option>");
        $optgrp.append("<option value='099.html'><b>099</b> - ﻿धर्माधर्म सम्बन्धी पूर्वपक्ष के निराकरणार्थ</option>");
   mySel.append($optgrp);
     $optgrp=$('<optgroup label="﻿काल-द्रव्य">')
-       $optgrp.append("<option value='100.html'><b>100</b> - ﻿अब स्थित पक्ष (निश्चित हुए पक्ष) का प्रतिपादन करते हैं</option>");
-       $optgrp.append("<option value='101.html'><b>101</b> - ﻿अब आकाश के गति-स्थिति हेतुत्व के अभावरूप साध्य में और भी कारण कहते हैं</option>");
-       $optgrp.append("<option value='102.html'><b>102</b> - ﻿अब आकाश की गति-स्थिति कारणता के निराकरणपरक व्याख्यान का उपसंहार कहते हैं / करते हैं</option>");
+       $optgrp.append("<option value='100.html'><b>100</b> - ﻿स्थित पक्ष का प्रतिपादन</option>");
+       $optgrp.append("<option value='101.html'><b>101</b> - ﻿आकाश के गति-स्थिति हेतुत्व के अभाव में और भी कारण</option>");
+       $optgrp.append("<option value='102.html'><b>102</b> - ﻿उपसंहार</option>");
   mySel.append($optgrp);
     $optgrp=$('<optgroup label="﻿उपसंहार">')
        $optgrp.append("<option value='103.html'><b>103</b> - ﻿धर्मादि तीनों के कथंचित एकत्व-पृथक्त्व का प्रतिपादन</option>");
@@ -355,7 +354,7 @@ $( document ).ready(function() {
        $optgrp.append("<option value='105.html'><b>105</b> - ﻿सक्रिय-निश्क्रियत्व प्रतिपादन</option>");
        $optgrp.append("<option value='106.html'><b>106</b> - ﻿प्रकारान्तर से मूर्तामूर्तत्व प्रतिपादन</option>");
        $optgrp.append("<option value='107.html'><b>107</b> - ﻿व्यवहार-निश्चय काल प्रतिपादन</option>");
-       $optgrp.append("<option value='108.html'><b>108</b> - ﻿अब नित्य और क्षणिक होने के कारण फिर से काल के भेद दिखाते हैं</option>");
+       $optgrp.append("<option value='108.html'><b>108</b> - ﻿नित्य / क्षणिक काल के भेद</option>");
   mySel.append($optgrp);
     $optgrp=$('<optgroup label="﻿जीव-पदार्थ">')
        $optgrp.append("<option value='109.html'><b>109</b> - ﻿काल के द्रव्यत्व-अकायत्व का प्रतिपादन</option>");

@@ -36,6 +36,7 @@ $( document ).ready(function() {
        $optgrp.append("<option value='02-06.html'><b>02-06</b> - ﻿गुणस्थानों में कर्म की सत्ता</option>");
        $optgrp.append("<option value='02-07.html'><b>02-07</b> - ﻿गुणस्थानों का काल और उनमें जीवों की संख्या</option>");
        $optgrp.append("<option value='02-08.html'><b>02-08</b> - ﻿एक जीव के एक काल में होने वाला प्रकृति-बंध</option>");
+       $optgrp.append("<option value='02-09.html'><b>02-09</b> - ﻿गुणस्थानों में संभव योग</option>");
   mySel.append($optgrp);
     $optgrp=$('<optgroup label="﻿गति-आगति नियम">')
        $optgrp.append("<option value='03-01.html'><b>03-01</b> - ﻿गति-आगति</option>");
