@@ -76,13 +76,14 @@ $( document ).ready(function() {
        $optgrp.append("<option value='052.html'><b>046</b> - ﻿भेद में भी कथंचित अभेद का समर्थन</option>");
        $optgrp.append("<option value='053.html'><b>047</b> - ﻿निश्चय से भेदाभेद का उदाहरण</option>");
        $optgrp.append("<option value='054.html'><b>048</b> - ﻿ज्ञान-ज्ञानी के सर्वथा भेद में दोष</option>");
-       $optgrp.append("<option value='055.html'><b>049</b> - ﻿नैयायिक मानी समवाय सम्बन्ध का निषेध</option>");
+       $optgrp.append("<option value='055.html'><b>049</b> - ﻿ज्ञान-ज्ञानी में समवाय सम्बन्ध का निषेध</option>");
        $optgrp.append("<option value='056.html'><b>050</b> - ﻿गुण-गुणी के कथंचित् एकत्व</option>");
        $optgrp.append("<option value='057-058.html'><b>051-052</b> - ﻿द्रव्य-गुणों के कथंचित् अभेद में दृष्टांत</option>");
        $optgrp.append("<option value='059.html'><b>053</b> - ﻿गुणमयी जीवों की संख्या</option>");
        $optgrp.append("<option value='060.html'><b>054</b> - ﻿कथंचित उत्पाद-व्यय</option>");
        $optgrp.append("<option value='061.html'><b>055</b> - ﻿जीव की नर-नारक आदि पर्याय का कारण</option>");
        $optgrp.append("<option value='062.html'><b>056</b> - ﻿औदयिकादि पाँच भाव व्याख्यान </option>");
+       $optgrp.append("<option value='063.html'><b>057</b> - ﻿कर्तृत्व की मुख्यता से व्याख्यान</option>");
        $optgrp.append("<option value='064.html'><b>058</b> - ﻿उदयागत द्रव्यकर्म, व्यवहार से रागादि परिणामों का कारण</option>");
        $optgrp.append("<option value='065.html'><b>059</b> - ﻿ पूर्वपक्ष -- एकान्त से जीव को कर्म के अकर्तृत्व में दूषण</option>");
        $optgrp.append("<option value='066.html'><b>060</b> - ﻿परिहार</option>");
@@ -290,7 +291,7 @@ $( document ).ready(function() {
        $optgrp.append("<option value='052.html'><b>052</b> - ﻿भेद में भी कथंचित अभेद का समर्थन</option>");
        $optgrp.append("<option value='053.html'><b>053</b> - ﻿निश्चय से भेदाभेद का उदाहरण</option>");
        $optgrp.append("<option value='054.html'><b>054</b> - ﻿ज्ञान-ज्ञानी के सर्वथा भेद में दोष</option>");
-       $optgrp.append("<option value='055.html'><b>055</b> - ﻿नैयायिक मानी समवाय सम्बन्ध का निषेध</option>");
+       $optgrp.append("<option value='055.html'><b>055</b> - ﻿ज्ञान-ज्ञानी में समवाय सम्बन्ध का निषेध</option>");
        $optgrp.append("<option value='056.html'><b>056</b> - ﻿गुण-गुणी के कथंचित् एकत्व</option>");
        $optgrp.append("<option value='057-058.html'><b>057-058</b> - ﻿द्रव्य-गुणों के कथंचित् अभेद में दृष्टांत</option>");
        $optgrp.append("<option value='059.html'><b>059</b> - ﻿गुणमयी जीवों की संख्या</option>");

@@ -59,6 +59,7 @@ $( document ).ready(function() {
        $optgrp.append("<option value='05-08.html'><b>05-08</b> - ﻿योग-मार्गणा में प्रकृति बंध</option>");
        $optgrp.append("<option value='05-09.html'><b>05-09</b> - ﻿वेद-मार्गणा में प्रकृति बंध</option>");
        $optgrp.append("<option value='05-10.html'><b>05-10</b> - ﻿लेश्या-मार्गणा में प्रकृति बंध</option>");
+       $optgrp.append("<option value='05-11.html'><b>05-11</b> - ﻿कषाय और ज्ञान मार्गणा में कर्म का बंध</option>");
        $optgrp.append("<option value='05-15.html'><b>05-15</b> - ﻿मूल प्रकृति में सादि आदि बंध के भेद</option>");
        $optgrp.append("<option value='05-16.html'><b>05-16</b> - ﻿उत्तर प्रकृति में सादि आदि बंध के भेद</option>");
   mySel.append($optgrp);

@@ -342,6 +342,7 @@ table.mainIndex td {
 }
 .notes {
   color: darkBlue;
+  font-style: oblique;
 }
 
 .emptyTableCell {
