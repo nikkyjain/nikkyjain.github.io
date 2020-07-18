@@ -114,6 +114,7 @@ myAudioFIles.push(relPath+'./jainDataBase/bhajans/./08_अध्यात्म/
 myAudioFIles.push(relPath+'./jainDataBase/bhajans/./08_अध्यात्म/audio/जिया-कब-तक-उलझेगा.mp3');
 myAudioFIles.push(relPath+'./jainDataBase/bhajans/./08_अध्यात्म/audio/जैन-धरम-के-हीरे-मोती.mp3');
 myAudioFIles.push(relPath+'./jainDataBase/bhajans/./08_अध्यात्म/audio/जो-जो-देखी-वीतराग.mp3');
+myAudioFIles.push(relPath+'./jainDataBase/bhajans/./08_अध्यात्म/audio/तू-जाग-रे-चेतन-प्राणी.mp3');
 myAudioFIles.push(relPath+'./jainDataBase/bhajans/./08_अध्यात्म/audio/तू-ही-शुद्ध-है-तू-ही.mp3');
 myAudioFIles.push(relPath+'./jainDataBase/bhajans/./08_अध्यात्म/audio/तोड़-दे-सारे-बंधन-सदा-के-लिए.mp3');
 myAudioFIles.push(relPath+'./jainDataBase/bhajans/./08_अध्यात्म/audio/पाप-मिटाता-चल-ओ-बंधू.mp3');
@@ -211,7 +212,8 @@ myAudioFIles.push(relPath+'./jainDataBase/bhajans/./25_बच्चों-के
 myAudioFIles.push(relPath+'./jainDataBase/bhajans/./25_बच्चों-के-भजन/audio/माँ-मुझे-सुना-गुरुवर.mp3');
 myAudioFIles.push(relPath+'./jainDataBase/poojas/./01_प्रारम्भ/001_श्री-मंगलाष्टक-स्तोत्र/audio/audio.mp3');
 myAudioFIles.push(relPath+'./jainDataBase/poojas/./01_प्रारम्भ/004_दर्शनं-देव-देवस्य/audio/audio.mp3');
-myAudioFIles.push(relPath+'./jainDataBase/poojas/./01_प्रारम्भ/010_अमृत-से-गगरी-भरो/audio/010_अमृत-से-गगरी-भरो.mp3');
+myAudioFIles.push(relPath+'./jainDataBase/poojas/./01_प्रारम्भ/010_अमृत-से-गगरी-भरो/audio/audio.mp3');
+myAudioFIles.push(relPath+'./jainDataBase/poojas/./01_प्रारम्भ/012_विनय-पाठ-दोहावली/audio/audio.mp3');
 myAudioFIles.push(relPath+'./jainDataBase/poojas/./01_प्रारम्भ/030_स्तुति--पण्डित-बुधजन/audio/audio.mp3');
 myAudioFIles.push(relPath+'./jainDataBase/poojas/./02_नित्य-पूजा/14_दशलक्षण-धर्म--पं-द्यानतराय/audio/14_दशलक्षण-धर्म--पं-द्यानतराय.mp3');
 myAudioFIles.push(relPath+'./jainDataBase/poojas/./02_नित्य-पूजा/15_पंचमेरु-पूजन--पं-द्यानतराय/audio/15_पंचमेरु-पूजन--पं-द्यानतराय.mp3');
