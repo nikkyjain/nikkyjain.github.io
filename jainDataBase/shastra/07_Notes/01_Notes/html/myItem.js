@@ -26,6 +26,8 @@ $( document ).ready(function() {
        $optgrp.append("<option value='01-01.html'><b>01-01</b> - ﻿कर्म की १४८ प्रकृतियाँ</option>");
        $optgrp.append("<option value='01-02.html'><b>01-02</b> - ﻿कर्म प्रकृतियों में समूह-वाचक शब्द</option>");
        $optgrp.append("<option value='01-03.html'><b>01-03</b> - ﻿कर्मों में विभाजन</option>");
+       $optgrp.append("<option value='01-04.html'><b>01-04</b> - ﻿स्वोदय / परोदय बंधी प्रकृतियाँ</option>");
+       $optgrp.append("<option value='01-05.html'><b>01-05</b> - ﻿सांतर / निरन्तर बंधी प्रकृतियाँ</option>");
   mySel.append($optgrp);
     $optgrp=$('<optgroup label="﻿गुणस्थान">')
        $optgrp.append("<option value='02-01.html'><b>02-01</b> - ﻿गुणस्थानों में विभाजन</option>");
@@ -35,8 +37,9 @@ $( document ).ready(function() {
        $optgrp.append("<option value='02-05.html'><b>02-05</b> - ﻿गुणस्थानों में कर्म के बन्ध</option>");
        $optgrp.append("<option value='02-06.html'><b>02-06</b> - ﻿गुणस्थानों में कर्म की सत्ता</option>");
        $optgrp.append("<option value='02-07.html'><b>02-07</b> - ﻿गुणस्थानों का काल और उनमें जीवों की संख्या</option>");
-       $optgrp.append("<option value='02-08.html'><b>02-08</b> - ﻿एक जीव के एक काल में होने वाला प्रकृति-बंध</option>");
        $optgrp.append("<option value='02-09.html'><b>02-09</b> - ﻿गुणस्थानों में संभव योग</option>");
+       $optgrp.append("<option value='02-10.html'><b>02-10</b> - ﻿गुणस्थानों में कर्म की उदय / बंध व्युच्छिति</option>");
+       $optgrp.append("<option value='02-11.html'><b>02-11</b> - ﻿गुणस्थान में मूल-प्रकृतियों में स्थान-समुत्कीर्तन</option>");
   mySel.append($optgrp);
     $optgrp=$('<optgroup label="﻿गति-आगति नियम">')
        $optgrp.append("<option value='03-01.html'><b>03-01</b> - ﻿गति-आगति</option>");
@@ -45,8 +48,9 @@ $( document ).ready(function() {
        $optgrp.append("<option value='03-04.html'><b>03-04</b> - ﻿आयु</option>");
        $optgrp.append("<option value='03-05.html'><b>03-05</b> - ﻿संहनन की अपेक्षा गति प्राप्ति</option>");
   mySel.append($optgrp);
-    $optgrp=$('<optgroup label="﻿बंध प्रत्यय">')
+    $optgrp=$('<optgroup label="﻿सामान्य जानकारी">')
        $optgrp.append("<option value='04-01.html'><b>04-01</b> - ﻿गुणस्थानों में बंध प्रत्यय</option>");
+       $optgrp.append("<option value='04-02.html'><b>04-02</b> - ﻿पांचों ज्ञानों का स्‍वामित्‍व</option>");
   mySel.append($optgrp);
     $optgrp=$('<optgroup label="﻿प्रकृति बंध ">')
        $optgrp.append("<option value='05-01.html'><b>05-01</b> - ﻿प्रकृति-बन्ध प्ररूपणा</option>");
@@ -62,6 +66,7 @@ $( document ).ready(function() {
        $optgrp.append("<option value='05-11.html'><b>05-11</b> - ﻿कषाय और ज्ञान मार्गणा में कर्म का बंध</option>");
        $optgrp.append("<option value='05-15.html'><b>05-15</b> - ﻿मूल प्रकृति में सादि आदि बंध के भेद</option>");
        $optgrp.append("<option value='05-16.html'><b>05-16</b> - ﻿उत्तर प्रकृति में सादि आदि बंध के भेद</option>");
+       $optgrp.append("<option value='05-20.html'><b>05-20</b> - ﻿एक जीव के एक काल में होने वाला प्रकृति-बंध</option>");
   mySel.append($optgrp);
     $optgrp=$('<optgroup label="﻿स्थिति बंध ">')
        $optgrp.append("<option value='06-01.html'><b>06-01</b> - ﻿जघन्य-उत्कृष्ट स्थिति बंध का काल और स्वामी</option>");
@@ -95,6 +100,10 @@ $( document ).ready(function() {
        $optgrp.append("<option value='09-12.html'><b>09-12</b> - ﻿सम्यक्त्व मार्गणा में कर्म का उदय</option>");
        $optgrp.append("<option value='09-13.html'><b>09-13</b> - ﻿संज्ञी मार्गणा में कर्म का उदय</option>");
        $optgrp.append("<option value='09-14.html'><b>09-14</b> - ﻿आहार मार्गणा में कर्म का उदय</option>");
+       $optgrp.append("<option value='09-20.html'><b>09-20</b> - ﻿एक जीव की अपेक्षा नाम कर्म के उदय-स्थान</option>");
+       $optgrp.append("<option value='09-21.html'><b>09-21</b> - ﻿ओघ से एक जीव के एक काल में होने वाला कर्म-उदय</option>");
+       $optgrp.append("<option value='09-22.html'><b>09-22</b> - ﻿आदेश से एक जीव के एक काल में होने वाला कर्म-उदय</option>");
+       $optgrp.append("<option value='09-23.html'><b>09-23</b> - ﻿उदय-स्थान जीव-समास प्ररूपणा</option>");
   mySel.append($optgrp);
     $optgrp=$('<optgroup label="﻿कर्म-सत्व">')
        $optgrp.append("<option value='10-01.html'><b>10-01</b> - ﻿नरक गति मार्गणा में सत्व</option>");
@@ -115,6 +124,10 @@ $( document ).ready(function() {
        $optgrp.append("<option value='10-17.html'><b>10-17</b> - ﻿देशविरती के सत्व में 40 स्थान / 48 भंग</option>");
        $optgrp.append("<option value='10-18.html'><b>10-18</b> - ﻿6-7 गुणस्थान के सत्व में 40 स्थान / 40 भंग</option>");
        $optgrp.append("<option value='10-19.html'><b>10-19</b> - ﻿उपशम श्रेणी के सत्व में 24 स्थान और भंग</option>");
+       $optgrp.append("<option value='10-20.html'><b>10-20</b> - ﻿अपूर्वकरण क्षपक के 4 सत्त्व स्थान / 4 भंग</option>");
+       $optgrp.append("<option value='10-21.html'><b>10-21</b> - ﻿अनिवृत्तिकरण क्षपक के 36 सत्त्व स्थान / 38 भंग</option>");
+       $optgrp.append("<option value='10-22.html'><b>10-22</b> - ﻿सूक्ष्मसांपरायिक / क्षीणमोह क्षपक के सत्त्व स्थान / भंग</option>");
+       $optgrp.append("<option value='10-23.html'><b>10-23</b> - ﻿सयोग / आयोग केवली के स्थान और भंग</option>");
   mySel.append($optgrp);
     $optgrp=$('<optgroup label="﻿गुणस्थानों में आलाप">')
        $optgrp.append("<option value='11-01.html'><b>11-01</b> - ﻿गुणस्थानों में आलाप</option>");
@@ -161,6 +174,15 @@ $( document ).ready(function() {
        $optgrp.append("<option value='28-02.html'><b>28-02</b> - ﻿पुराण-पुरुष</option>");
        $optgrp.append("<option value='28-03.html'><b>28-03</b> - ﻿जीव-समास (98 भेद)</option>");
        $optgrp.append("<option value='28-04.html'><b>28-04</b> - ﻿नरक संबंधी जानकारी</option>");
+       $optgrp.append("<option value='28-05.html'><b>28-05</b> - ﻿नरक के 49 पटलों में आयु</option>");
+       $optgrp.append("<option value='28-06.html'><b>28-06</b> - ﻿तिर्यञ्च-गति में जघन्य / उत्कृष्ट आयु</option>");
+       $optgrp.append("<option value='28-07.html'><b>28-07</b> - ﻿एक अंतर्महुर्त में लब्ध्यपर्याप्तक के संभव निरंतर क्षुद्र भव</option>");
+       $optgrp.append("<option value='28-08.html'><b>28-08</b> - ﻿मनुष्य-गति मार्गणा में आयु</option>");
+       $optgrp.append("<option value='28-09.html'><b>28-09</b> - ﻿देव-गति में व्यन्तर देव संबंधी आयु</option>");
+       $optgrp.append("<option value='28-11.html'><b>28-11</b> - ﻿नव बलदेव निर्देश</option>");
+       $optgrp.append("<option value='28-12.html'><b>28-12</b> - ﻿नव नारायण निर्देश</option>");
+       $optgrp.append("<option value='28-13.html'><b>28-13</b> - ﻿नव प्रातिनारायण निर्देश</option>");
+       $optgrp.append("<option value='28-14.html'><b>28-14</b> - ﻿नव प्रातिनारायण निर्देश</option>");
   mySel.append($optgrp);
     $optgrp=$('<optgroup label="﻿अलौकिक गणित">')
        $optgrp.append("<option value='29-01.html'><b>29-01</b> - ﻿क्षेत्र प्रमाण</option>");

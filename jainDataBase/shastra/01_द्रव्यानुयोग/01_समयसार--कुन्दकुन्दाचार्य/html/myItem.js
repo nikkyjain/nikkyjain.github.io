@@ -516,6 +516,8 @@ $( document ).ready(function() {
   mySel.append($optgrp);
     $optgrp=$('<optgroup label="﻿पीठिका">')
        $optgrp.append("<option value='002.html'><b>002</b> - ﻿स्वसमय और परसमय का लक्षण </option>");
+       $optgrp.append("<option value='004.html'><b>004</b> - ﻿एकत्व की दुर्लभता</option>");
+       $optgrp.append("<option value='005.html'><b>005</b> - ﻿आचार्य की प्रतिज्ञा</option>");
        $optgrp.append("<option value='007.html'><b>007</b> - ﻿ज्ञानी आत्मा शुद्ध ज्ञायक है</option>");
        $optgrp.append("<option value='008.html'><b>008</b> - ﻿व्यवहार की आवश्यकता</option>");
        $optgrp.append("<option value='009-010.html'><b>009-010</b> - ﻿श्रुतकेवली</option>");
