@@ -325,6 +325,10 @@ table.mainIndex td {
 .myAltTable th {
   background-color : #ffe0b3;
 }
+.myAltTable td div {
+  writing-mode: vertical-lr;
+  //min-width: 50px; /* for firefox */
+}
 .myAltColTable th {
   background-color : #ffe0b3;
 }
