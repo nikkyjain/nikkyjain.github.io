@@ -25,19 +25,19 @@ canvas{position:absolute;z-index:1;}
 /* z-index:2 */
 jmnodes{position:absolute;z-index:2;background-color:rgba(0,0,0,0);}/*background color is necessary*/
 jmnode{position:absolute;cursor:default;max-width:400px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
-jmexpander{position:absolute;width:11px;height:11px;display:block;overflow:hidden;line-height:12px;font-size:12px;text-align:center;border-radius:6px;border-width:1px;border-style:solid;cursor:pointer;}
+jmexpander{position:absolute;width:11px;height:11px;display:block;overflow:hidden;line-height:12px;font-size:1.5vw;text-align:center;border-radius:6px;border-width:1px;border-style:solid;cursor:pointer;}
 
 /* default theme */
 jmnode{padding:10px;background-color:#fff;color:#333;border-radius:5px;box-shadow:1px 1px 1px #666;font:16px/1.125 Verdana,Arial,Helvetica,sans-serif;}
 jmnode:hover{box-shadow:2px 2px 8px #000;background-color:#ebebeb;color:#333;}
 jmnode.selected{background-color:#11f;color:#fff;box-shadow:2px 2px 8px #000;}
-jmnode.root{font-size:24px;}
+jmnode.root{font-size:2vw;}
 jmexpander{border-color:gray;}
 jmexpander:hover{border-color:#000;}
 
 @media screen and (max-device-width: 1024px) {
-    jmnode{padding:5px;border-radius:3px;font-size:14px;}
-    jmnode.root{font-size:21px;}
+    jmnode{padding:5px;border-radius:3px;font-size:1.5vw;}
+    jmnode.root{font-size:2vw;}
 }
 /* primary theme */
 jmnodes.theme-primary jmnode{background-color:#428bca;color:#fff;border-color:#357ebd;}
