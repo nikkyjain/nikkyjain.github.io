@@ -182,21 +182,25 @@ span.shortFont {
             width:100%;
             height:200px;
             overflow: hidden;
+            font-size: 1.5vw;
         }
 .jsm {
             width:100%;
             height:400px;
             overflow: hidden;
+            font-size: 1.5vw;
         }
 .jsm7 {
             width:100%;
             height:800px;
             overflow: hidden;
+            font-size: 1.5vw;
         }
 .jsm10 {
             width:100%;
             height:1000px;
             overflow: hidden;
+            font-size: 1.5vw;
         }
 
 //p::first-letter {
