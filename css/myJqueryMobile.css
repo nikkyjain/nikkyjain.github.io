@@ -180,13 +180,19 @@ span.shortFont {
 
 .jsm2 {
             width:100%;
-            height:200px;
+            height:250px;
             overflow: hidden;
             font-size: 1.5vw;
         }
 .jsm {
             width:100%;
             height:400px;
+            overflow: hidden;
+            font-size: 1.5vw;
+        }
+.jsm6 {
+            width:100%;
+            height:600px;
             overflow: hidden;
             font-size: 1.5vw;
         }
@@ -198,7 +204,7 @@ span.shortFont {
         }
 .jsm10 {
             width:100%;
-            height:1000px;
+            height:1100px;
             overflow: hidden;
             font-size: 1.5vw;
         }
