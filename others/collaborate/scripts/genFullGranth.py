@@ -113,6 +113,25 @@ html.write("""
 <div align=right>nikkyjain@gmail.com</div>
 <div align=right>Date : """+datetime.now().strftime('%d')+"-"+datetime.now().strftime('%h')+"-"+datetime.now().strftime('%Y')+"</font></div>")
 
+myGrCntr=1
+myCntr=1
+if( os.path.isdir('./adhikaar')):
+  html.write("   <div class=adhikaar id=home><h1>Index</h1></div><br>\n")
+  html.write("  <div class=main>अधिकार</div><br>\n")
+  html.write("    <table align=center width=90%>\n")
+  # Create Title Group Anchors
+  for adhikaar in sorted(os.listdir("./adhikaar")):
+      with open('./adhikaar/'+adhikaar, 'r') as myfile:
+          fData=myfile.read().replace('\n', '')
+      html.write("      <td><a href='#ad"+str(myCntr)+"'>"+fData+"</a>\n")
+      if myCntr%4==0:
+          html.write("      <tr>\n")
+      myCntr+=1
+  html.write("    </table>\n")
+  html.write("<br><br><br><br><br>\n")
+
+myGrCntr=1
+myCntr=1
 if (os.path.isdir('./main') or os.path.isdir('./ftitle')):
     html.write("""<br><br><div class=adhikaar id=index><h1>Index</h1></div><br>
 <div align=center><img src='"""+myRelPath+"""images/brownOm.png' width='5%'></img></div>
@@ -127,7 +146,8 @@ if (os.path.isdir('./main') or os.path.isdir('./ftitle')):
             with open('./adhikaar/'+bcFile, 'r') as myfile:
                 fData=myfile.read().replace('\n', '')
                 fData=fData.replace('\xef\xbb\xbf', '')
-            html.write("<tr><th colspan=4><h2>"+fData+"</h2><tr>\n")
+            html.write("<tr><th colspan=4><h2 id='ad"+str(myGrCntr)+"'>"+fData+"</h2><tr>\n")
+            myGrCntr+=1
         if os.path.isdir('./ftitle'):
             curFile="./ftitle/"+bcFile
             if os.path.isfile(curFile):
@@ -249,6 +269,7 @@ for bcFile in sorted(os.listdir('./main')):
             fData=fData.replace('<!--JsMindTagBeginH6-->', '<div class=jsm6 id="jsm'+str(jsmCtr)+'"></div>\n<script type="text/javascript">\nvar mind'+str(jsmCtr)+' = { meta:{ name:"demo", author:"abc@abc.com", version:"0.2" }, format:"node_array",data:[')
             fData=fData.replace('<!--JsMindTagBeginH7-->', '<div class=jsm7 id="jsm'+str(jsmCtr)+'"></div>\n<script type="text/javascript">\nvar mind'+str(jsmCtr)+' = { meta:{ name:"demo", author:"abc@abc.com", version:"0.2" }, format:"node_array",data:[')
             fData=fData.replace('<!--JsMindTagBeginH10-->', '<div class=jsm10 id="jsm'+str(jsmCtr)+'"></div>\n<script type="text/javascript">\nvar mind'+str(jsmCtr)+' = { meta:{ name:"demo", author:"abc@abc.com", version:"0.2" }, format:"node_array",data:[')
+            fData=fData.replace('<!--JsMindTagBeginH12-->', '<div class=jsm12 id="jsm'+str(jsmCtr)+'"></div>\n<script type="text/javascript">\nvar mind'+str(jsmCtr)+' = { meta:{ name:"demo", author:"abc@abc.com", version:"0.2" }, format:"node_array",data:[')
             fData=fData.replace('<!--JsMindTagEnd-->', ']}; var options'+str(jsmCtr)+' = { container:"jsm'+str(jsmCtr)+'", editable:false, theme:"'+themes[jsmCtr%9]+'" }; var jm = new jsMind(options'+str(jsmCtr)+'); jm.show(mind'+str(jsmCtr)+'); \n</script>\n')
             fData=fData.replace('<!--JsMindTagEnd-->', ']}; var options'+str(jsmCtr)+' = { container:"jsm'+str(jsmCtr)+'", editable:false, theme:"'+themes[jsmCtr%9]+'" }; var jm = new jsMind(options'+str(jsmCtr)+'); jm.show(mind'+str(jsmCtr)+'); \n</script>\n')
             jsmCtr+=1
