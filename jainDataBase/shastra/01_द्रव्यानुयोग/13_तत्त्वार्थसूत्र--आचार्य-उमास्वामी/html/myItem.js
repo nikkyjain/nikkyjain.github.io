@@ -202,7 +202,7 @@ $( document ).ready(function() {
        $optgrp.append("<option value='05-02.html'><b>05-02</b> - ﻿द्रव्याणि ॥२॥</option>");
        $optgrp.append("<option value='05-03.html'><b>05-03</b> - ﻿जीवाश्च ॥३॥</option>");
        $optgrp.append("<option value='05-04.html'><b>05-04</b> - ﻿नित्यावस्थितान्यरूपाणि ॥४॥</option>");
-       $optgrp.append("<option value='05-05.html'><b>05-05</b> - ﻿रूपिण: पुद्ग्रला: ॥५॥</option>");
+       $optgrp.append("<option value='05-05.html'><b>05-05</b> - ﻿रूपिण: पुद्गला: ॥५॥</option>");
        $optgrp.append("<option value='05-06.html'><b>05-06</b> - ﻿आ आकाशादेक-द्रव्याणि ॥६॥</option>");
        $optgrp.append("<option value='05-07.html'><b>05-07</b> - ﻿निष्क्रियाणि च ॥७॥</option>");
        $optgrp.append("<option value='05-08.html'><b>05-08</b> - ﻿असंख्येया: प्रदेशा धर्माधर्मैकजीवानाम् ॥८॥</option>");
@@ -265,7 +265,7 @@ $( document ).ready(function() {
        $optgrp.append("<option value='06-24.html'><b>06-24</b> - ﻿दर्शनविशुद्धिर्विनयसम्पन्नता-शील-व्रतेष्वनतीचारोऽभीक्ष्ण-ज्ञानोपयोगसंवेगौ शक्तितस्त्याग-तपसी साधुसमाधिर्वैयावृत्य-करणमर्हदाचार्य-बहुश्रुत-प्रवचन-भक्तिरावश्यकापरिहाणिर्मार्ग-प्रभावना-प्रवचनवत्सलत्वमिति तीर्थकरत्वस्य ॥२४॥</option>");
        $optgrp.append("<option value='06-25.html'><b>06-25</b> - ﻿परात्म-निन्दा-प्रशंसे सदसद् गुणोच्छादनोद्भावने च नीचैर्गोत्रस्य ॥२५॥</option>");
        $optgrp.append("<option value='06-26.html'><b>06-26</b> - ﻿तद्विपर्ययो नीचैर्वृत्त्यनुत्सेकौ चोत्तरस्य ॥२६॥</option>");
-       $optgrp.append("<option value='06-27.html'><b>06-27</b> - ﻿विघ्नकरण-मन्तरायस्य ॥२७॥</option>");
+       $optgrp.append("<option value='06-27.html'><b>06-27</b> - ﻿विघ्नकरणमन्तरायस्य ॥२७॥</option>");
   mySel.append($optgrp);
     $optgrp=$('<optgroup label="﻿७-आस्रवाधिकार">')
        $optgrp.append("<option value='07-01.html'><b>07-01</b> - ﻿हिंसाऽनृत-स्तेयाब्रह्म-परिग्रहेभ्यो विरतिर्व्रतम् ॥१॥</option>");
@@ -278,7 +278,7 @@ $( document ).ready(function() {
        $optgrp.append("<option value='07-08.html'><b>07-08</b> - ﻿मनोज्ञामनोज्ञेन्द्रिय-विषय-राग-द्वेष वर्जनानि पञ्च ॥८॥</option>");
        $optgrp.append("<option value='07-09.html'><b>07-09</b> - ﻿हिंसादिष्विहामुत्रापायावद्यदर्शनम् ॥९॥</option>");
        $optgrp.append("<option value='07-10.html'><b>07-10</b> - ﻿दु:खमेव वा ॥१०॥</option>");
-       $optgrp.append("<option value='07-11.html'><b>07-11</b> - ﻿मैत्री-प्रमोद-कारुण्य-माध्यस्थानि च सत्त्व-गुणाधिक-क्लिश्यमानाविनेयेषु ॥११॥</option>");
+       $optgrp.append("<option value='07-11.html'><b>07-11</b> - ﻿मैत्री-प्रमोद-कारुण्य-माध्यस्थानि च सत्त्व-गुणाधिक-क्लिश्यमानाविनयेषु ॥११॥</option>");
        $optgrp.append("<option value='07-12.html'><b>07-12</b> - ﻿जगत्काय-स्वभावौ वा संवेगवैराग्यार्थम् ॥१२॥</option>");
        $optgrp.append("<option value='07-13.html'><b>07-13</b> - ﻿प्रमत्तयोगात्प्राण-व्यपरोपणं हिंसा ॥१३॥</option>");
        $optgrp.append("<option value='07-14.html'><b>07-14</b> - ﻿असदभिधानमनृतम् ॥१४॥</option>");
