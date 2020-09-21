@@ -329,7 +329,7 @@ $( document ).ready(function() {
        $optgrp.append("<option value='078.html'><b>078</b> - ﻿आस्रवों से निवृत्ति का उपाय  </option>");
        $optgrp.append("<option value='079.html'><b>079</b> - ﻿ज्ञान और आस्रवों से निवृत्ति का एक काल  </option>");
        $optgrp.append("<option value='080.html'><b>080</b> - ﻿ज्ञानी की पहचान</option>");
-       $optgrp.append("<option value='081.html'><b>081</b> - ﻿आत्मा पृण्य-पापादि परिणामों का कर्त्ता -- व्यवहार</option>");
+       $optgrp.append("<option value='081.html'><b>081</b> - ﻿आत्मा पुण्य-पापादि परिणामों का कर्त्ता -- व्यवहार</option>");
        $optgrp.append("<option value='082.html'><b>082</b> - ﻿कर्मों को जानते हुए इस जीव का पुद्गल के साथ अतादात्म्य</option>");
        $optgrp.append("<option value='083.html'><b>083</b> - ﻿कर्मोदय के साथ अतादात्म्य</option>");
        $optgrp.append("<option value='084.html'><b>084</b> - ﻿ज्ञानी के कर्म-फल में कर्ता-कर्म भाव नहीं</option>");
