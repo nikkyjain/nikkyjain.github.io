@@ -120,8 +120,8 @@ $( document ).ready(function() {
        $optgrp.append("<option value='120-122.html'><b>113-115</b> - ﻿जीव और क्रोधादि प्रत्ययों का एकत्व नहीं</option>");
        $optgrp.append("<option value='123-125.html'><b>116-120</b> - ﻿पुद्गल के कथंचित परिणामी स्वभावपना</option>");
        $optgrp.append("<option value='126-130.html'><b>121-125</b> - ﻿जीव-द्रव्य में कथंचित परिणामित्व</option>");
-       $optgrp.append("<option value='134.html'><b>126</b> - ﻿अब उक्त अर्थ को लेकर भावों का विशेषकर कर्त्ता कहते हैं --</option>");
-       $optgrp.append("<option value='135.html'><b>127</b> - ﻿ज्ञानमय भाव से क्या होता है और अज्ञानमय भाव से क्या होता है, अब यह कहते हैं -- </option>");
+       $optgrp.append("<option value='134.html'><b>126</b> - ﻿ज्ञानी और अज्ञानी के कर्तापन</option>");
+       $optgrp.append("<option value='135.html'><b>127</b> - ﻿ज्ञानमय या अज्ञानमय भाव से क्या होता है?</option>");
        $optgrp.append("<option value='136-137.html'><b>128-129</b> - ﻿ज्ञानी के ज्ञानमय और अज्ञानी के अज्ञानमय ही भाव कैसे ?</option>");
        $optgrp.append("<option value='138-139.html'><b>130-131</b> - ﻿दृष्टांत</option>");
        $optgrp.append("<option value='140-144.html'><b>132-136</b> - ﻿अज्ञानी अज्ञान-मय भावों द्वारा आगामी भाव-कर्म को प्राप्त होता है</option>");
@@ -362,8 +362,8 @@ $( document ).ready(function() {
        $optgrp.append("<option value='123-125.html'><b>123-125</b> - ﻿पुद्गल के कथंचित परिणामी स्वभावपना</option>");
        $optgrp.append("<option value='126-130.html'><b>126-130</b> - ﻿जीव-द्रव्य में कथंचित परिणामित्व</option>");
        $optgrp.append("<option value='131-133.html'><b>131-133</b> - ﻿ज्ञानी-जीव ज्ञानभाव का कर्ता</option>");
-       $optgrp.append("<option value='134.html'><b>134</b> - ﻿अब उक्त अर्थ को लेकर भावों का विशेषकर कर्त्ता कहते हैं --</option>");
-       $optgrp.append("<option value='135.html'><b>135</b> - ﻿ज्ञानमय भाव से क्या होता है और अज्ञानमय भाव से क्या होता है, अब यह कहते हैं -- </option>");
+       $optgrp.append("<option value='134.html'><b>134</b> - ﻿ज्ञानी और अज्ञानी के कर्तापन</option>");
+       $optgrp.append("<option value='135.html'><b>135</b> - ﻿ज्ञानमय या अज्ञानमय भाव से क्या होता है?</option>");
        $optgrp.append("<option value='136-137.html'><b>136-137</b> - ﻿ज्ञानी के ज्ञानमय और अज्ञानी के अज्ञानमय ही भाव कैसे ?</option>");
        $optgrp.append("<option value='138-139.html'><b>138-139</b> - ﻿दृष्टांत</option>");
        $optgrp.append("<option value='140-144.html'><b>140-144</b> - ﻿अज्ञानी अज्ञान-मय भावों द्वारा आगामी भाव-कर्म को प्राप्त होता है</option>");

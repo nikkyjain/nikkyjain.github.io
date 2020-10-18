@@ -22,6 +22,24 @@ function toggleSTeeka(teeka) {
 }
 $( document ).ready(function() {
   mySel=$('select#select-native-0')
+  mySel.append("<option value='001.html'><b>001</b></option>");
+    $optgrp=$('<optgroup label="﻿मंगलाचरण">')
+       $optgrp.append("<option value='01.html'><b>01</b> - ﻿मंगलाचरण</option>");
+  mySel.append($optgrp);
+    $optgrp=$('<optgroup label="﻿छह-द्रव्य अधिकार">')
+       $optgrp.append("<option value='02.html'><b>02</b> - ﻿जीव द्रव्य के नव अधिकार</option>");
+       $optgrp.append("<option value='03.html'><b>03</b> - ﻿जीवत्व का लक्षण</option>");
+       $optgrp.append("<option value='04.html'><b>04</b> - ﻿उपयोग का वर्णन</option>");
+       $optgrp.append("<option value='05.html'><b>05</b> - ﻿ज्ञानोपयोग के भेद</option>");
+       $optgrp.append("<option value='06.html'><b>06</b> - ﻿उभयनय से उपयोग का लक्षण</option>");
+       $optgrp.append("<option value='07.html'><b>07</b> - ﻿जीव अमूर्तिक है</option>");
+       $optgrp.append("<option value='08.html'><b>08</b> - ﻿जीव कर्ता है</option>");
+    mySel.append($optgrp);
+  mySel.selectmenu();
+  mySel.selectmenu('refresh', true);
+})
+$( document ).ready(function() {
+  mySel=$('select#select-native-1')
     $optgrp=$('<optgroup label="﻿मंगलाचरण">')
        $optgrp.append("<option value='01.html'><b>01</b> - ﻿मंगलाचरण</option>");
   mySel.append($optgrp);
