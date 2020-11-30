@@ -197,6 +197,7 @@ $( document ).ready(function() {
        $optgrp.append("<option value='28-22.html'><b>28-22</b> - ﻿नव नारायण निर्देश</option>");
        $optgrp.append("<option value='28-23.html'><b>28-23</b> - ﻿नव प्रातिनारायण निर्देश</option>");
        $optgrp.append("<option value='28-24.html'><b>28-24</b> - ﻿नव प्रातिनारायण निर्देश</option>");
+       $optgrp.append("<option value='28-31.html'><b>28-31</b> - ﻿भगवान महावीर के पूर्व भव</option>");
   mySel.append($optgrp);
     $optgrp=$('<optgroup label="﻿अलौकिक गणित">')
        $optgrp.append("<option value='29-01.html'><b>29-01</b> - ﻿क्षेत्र प्रमाण</option>");

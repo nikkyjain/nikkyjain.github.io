@@ -170,7 +170,7 @@ $( document ).ready(function() {
        $optgrp.append("<option value='203.html'><b>194</b> - ﻿भाव-निर्जरा का भी स्वरूप</option>");
        $optgrp.append("<option value='204-205.html'><b>195-196</b> - ﻿ज्ञान-शक्ति का वर्णन</option>");
        $optgrp.append("<option value='206.html'><b>197</b> - ﻿दृष्टांत</option>");
-       $optgrp.append("<option value='207.html'><b>199</b> - ﻿अब कहते हैं कि सम्यग्दृष्टि अपने को और पर को विषेषरूप से इस प्रकार जानता है --</option>");
+       $optgrp.append("<option value='207.html'><b>199</b> - ﻿अब कहते हैं कि सम्यग्दृष्टि अपने को और पर को विशेषरूप से इस प्रकार जानता है --</option>");
        $optgrp.append("<option value='209.html'><b>200</b> - ﻿औपाधिक भावों की परभावता जानने का फल</option>");
        $optgrp.append("<option value='210.html'><b>198</b> - ﻿सम्यग्दृष्टि अपने और पर के स्वभाव का ज्ञाता होता है</option>");
        $optgrp.append("<option value='211-212.html'><b>201-202</b> - ﻿सम्यग्दृष्टि रागी कैसे नहीं होता? यदि ऐसा पूछें तो सुनिये --</option>");
@@ -194,8 +194,7 @@ $( document ).ready(function() {
        $optgrp.append("<option value='246-247.html'><b>231-232</b> - ﻿निर्वचिकित्सा व अमूढदृष्टि अंग का स्वरूप</option>");
        $optgrp.append("<option value='248-249.html'><b>233-234</b> - ﻿उपगूहन और स्थितिकरण अंग का स्वरूप</option>");
        $optgrp.append("<option value='250-251.html'><b>235-236</b> - ﻿वात्सल्य और प्रभावना अंग का धारी सम्यग्दृष्टि का वर्णन</option>");
-  mySel.append($optgrp);
-    $optgrp=$('<optgroup label="﻿बंध अधिकार">')
+       $optgrp.append("<option value='251.html'><b>251</b></option>");
        $optgrp.append("<option value='252-256.html'><b>237-241</b> - ﻿मिथ्या-ज्ञान श्रंगार-सहित प्रवेश कर रहा है</option>");
        $optgrp.append("<option value='257-261.html'><b>242-246</b> - ﻿आगे वीतराग सम्यग्दृष्टि जीव के कर्म-बंध नहीं होता है, ऐसा पांच गाथाओं से बतलाते हैं --</option>");
        $optgrp.append("<option value='262-264.html'><b>247-252</b> - ﻿हिंस्य-हिंसकभाव रूप परिणमन अज्ञानी का लक्षण ज्ञानी का नहीं</option>");
@@ -414,8 +413,8 @@ $( document ).ready(function() {
        $optgrp.append("<option value='203.html'><b>203</b> - ﻿भाव-निर्जरा का भी स्वरूप</option>");
        $optgrp.append("<option value='204-205.html'><b>204-205</b> - ﻿ज्ञान-शक्ति का वर्णन</option>");
        $optgrp.append("<option value='206.html'><b>206</b> - ﻿दृष्टांत</option>");
-       $optgrp.append("<option value='207.html'><b>207</b> - ﻿अब कहते हैं कि सम्यग्दृष्टि अपने को और पर को विषेषरूप से इस प्रकार जानता है --</option>");
-       $optgrp.append("<option value='208.html'><b>208</b> - ﻿विभाव भाव आत्म-स्वभाव क्यों नहीं ?</option>");
+       $optgrp.append("<option value='207.html'><b>207</b> - ﻿अब कहते हैं कि सम्यग्दृष्टि अपने को और पर को विशेषरूप से इस प्रकार जानता है --</option>");
+       $optgrp.append("<option value='208.html'><b>208</b> - ﻿औपाधिक-भाव आत्म-स्वभाव क्यों नहीं ?</option>");
        $optgrp.append("<option value='209.html'><b>209</b> - ﻿औपाधिक भावों की परभावता जानने का फल</option>");
        $optgrp.append("<option value='210.html'><b>210</b> - ﻿सम्यग्दृष्टि अपने और पर के स्वभाव का ज्ञाता होता है</option>");
        $optgrp.append("<option value='211-212.html'><b>211-212</b> - ﻿सम्यग्दृष्टि रागी कैसे नहीं होता? यदि ऐसा पूछें तो सुनिये --</option>");
@@ -440,8 +439,7 @@ $( document ).ready(function() {
        $optgrp.append("<option value='246-247.html'><b>246-247</b> - ﻿निर्वचिकित्सा व अमूढदृष्टि अंग का स्वरूप</option>");
        $optgrp.append("<option value='248-249.html'><b>248-249</b> - ﻿उपगूहन और स्थितिकरण अंग का स्वरूप</option>");
        $optgrp.append("<option value='250-251.html'><b>250-251</b> - ﻿वात्सल्य और प्रभावना अंग का धारी सम्यग्दृष्टि का वर्णन</option>");
-  mySel.append($optgrp);
-    $optgrp=$('<optgroup label="﻿बंध अधिकार">')
+       $optgrp.append("<option value='251.html'><b>251</b></option>");
        $optgrp.append("<option value='252-256.html'><b>252-256</b> - ﻿मिथ्या-ज्ञान श्रंगार-सहित प्रवेश कर रहा है</option>");
        $optgrp.append("<option value='257-261.html'><b>257-261</b> - ﻿आगे वीतराग सम्यग्दृष्टि जीव के कर्म-बंध नहीं होता है, ऐसा पांच गाथाओं से बतलाते हैं --</option>");
        $optgrp.append("<option value='262-264.html'><b>262-264</b> - ﻿हिंस्य-हिंसकभाव रूप परिणमन अज्ञानी का लक्षण ज्ञानी का नहीं</option>");
