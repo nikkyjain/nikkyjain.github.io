@@ -8,7 +8,6 @@ echo "Top Dir : $outDir"
 
 for audio in $(find $outDir/jainDataBase/bhajans/*/audio -name '*.mp3')
 do
-  echo "ha ha $audio"
   myAudioFile=$(echo $audio | perl -pe 's|.*?jainData|.|')
   echo "myAudioFIles.push(relPath+'$myAudioFile');" >> $myAudioJs
 done

@@ -61,6 +61,5 @@ for group in glob.glob(dbDir+"/others/collaborate/bhajans/*/"):
         html.write("<br>    <div class=pooja>\n"+fData+"<br><br>\n")
         html.write("  </div></div></body></html>")
         myCntr+=1
-        sys.exit()
     print("Bhajan group "+myGroup+" Done")
 
