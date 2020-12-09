@@ -104,11 +104,12 @@ $( document ).ready(function() {
        $optgrp.append("<option value='09-12.html'><b>09-12</b> - ﻿सम्यक्त्व मार्गणा में कर्म का उदय</option>");
        $optgrp.append("<option value='09-13.html'><b>09-13</b> - ﻿संज्ञी मार्गणा में कर्म का उदय</option>");
        $optgrp.append("<option value='09-14.html'><b>09-14</b> - ﻿आहार मार्गणा में कर्म का उदय</option>");
-       $optgrp.append("<option value='09-20.html'><b>09-20</b> - ﻿एक जीव की अपेक्षा नाम कर्म के उदय-स्थान</option>");
-       $optgrp.append("<option value='09-21.html'><b>09-21</b> - ﻿ओघ से एक जीव के एक काल में कर्म-उदय</option>");
-       $optgrp.append("<option value='09-22.html'><b>09-22</b> - ﻿आदेश से एक जीव के एक काल में नाम कर्म-उदय</option>");
-       $optgrp.append("<option value='09-23.html'><b>09-23</b> - ﻿नाम-कर्म उदय-स्थान जीव-समास प्ररूपणा</option>");
-       $optgrp.append("<option value='09-24.html'><b>09-24</b> - ﻿उदय योग्य पाँच काल</option>");
+       $optgrp.append("<option value='09-19.html'><b>09-19</b> - ﻿उदय योग्य पाँच काल</option>");
+       $optgrp.append("<option value='09-20.html'><b>09-20</b> - ﻿ओघ से एक जीव के एक काल में कर्म-उदय</option>");
+       $optgrp.append("<option value='09-21.html'><b>09-21</b> - ﻿एक जीव की अपेक्षा नाम कर्म के उदय-स्थान</option>");
+       $optgrp.append("<option value='09-22.html'><b>09-22</b> - ﻿नाम-कर्म उदय-स्थान जीव-समास प्ररूपणा</option>");
+       $optgrp.append("<option value='09-23.html'><b>09-23</b> - ﻿नाम-कर्म के उदय-स्थानों का यंत्र</option>");
+       $optgrp.append("<option value='09-24.html'><b>09-24</b> - ﻿आदेश से एक जीव के एक काल में नाम कर्म-उदय</option>");
   mySel.append($optgrp);
     $optgrp=$('<optgroup label="﻿कर्म-सत्व">')
        $optgrp.append("<option value='10-01.html'><b>10-01</b> - ﻿नरक गति मार्गणा में सत्व</option>");

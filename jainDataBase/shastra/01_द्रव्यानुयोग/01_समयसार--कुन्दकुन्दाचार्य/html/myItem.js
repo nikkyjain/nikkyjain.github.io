@@ -194,6 +194,8 @@ $( document ).ready(function() {
        $optgrp.append("<option value='246-247.html'><b>231-232</b> - ﻿निर्वचिकित्सा व अमूढदृष्टि अंग का स्वरूप</option>");
        $optgrp.append("<option value='248-249.html'><b>233-234</b> - ﻿उपगूहन और स्थितिकरण अंग का स्वरूप</option>");
        $optgrp.append("<option value='250-251.html'><b>235-236</b> - ﻿वात्सल्य और प्रभावना अंग का धारी सम्यग्दृष्टि का वर्णन</option>");
+  mySel.append($optgrp);
+    $optgrp=$('<optgroup label="﻿बंध अधिकार">')
        $optgrp.append("<option value='251.html'><b>251</b></option>");
        $optgrp.append("<option value='252-256.html'><b>237-241</b> - ﻿मिथ्या-ज्ञान श्रंगार-सहित प्रवेश कर रहा है</option>");
        $optgrp.append("<option value='257-261.html'><b>242-246</b> - ﻿आगे वीतराग सम्यग्दृष्टि जीव के कर्म-बंध नहीं होता है, ऐसा पांच गाथाओं से बतलाते हैं --</option>");
@@ -439,6 +441,8 @@ $( document ).ready(function() {
        $optgrp.append("<option value='246-247.html'><b>246-247</b> - ﻿निर्वचिकित्सा व अमूढदृष्टि अंग का स्वरूप</option>");
        $optgrp.append("<option value='248-249.html'><b>248-249</b> - ﻿उपगूहन और स्थितिकरण अंग का स्वरूप</option>");
        $optgrp.append("<option value='250-251.html'><b>250-251</b> - ﻿वात्सल्य और प्रभावना अंग का धारी सम्यग्दृष्टि का वर्णन</option>");
+  mySel.append($optgrp);
+    $optgrp=$('<optgroup label="﻿बंध अधिकार">')
        $optgrp.append("<option value='251.html'><b>251</b></option>");
        $optgrp.append("<option value='252-256.html'><b>252-256</b> - ﻿मिथ्या-ज्ञान श्रंगार-सहित प्रवेश कर रहा है</option>");
        $optgrp.append("<option value='257-261.html'><b>257-261</b> - ﻿आगे वीतराग सम्यग्दृष्टि जीव के कर्म-बंध नहीं होता है, ऐसा पांच गाथाओं से बतलाते हैं --</option>");
