@@ -349,6 +349,8 @@ table.mainIndex td {
   background-color : #ffe0b3;
 }
 
+
+
 .cellY {
     background-color: #f5ffe6;
 }
@@ -375,6 +377,15 @@ table.mainIndex td {
   color : darkblue;
   background-color: #ffcc99;
 }
+.tableHover {
+    background-color: #ADFF2F !important;
+    /*color: #1e8ae4;
+    cursor: pointer;*/
+}
+/*.myAltTable:hover td[rowspan],
+tr:hover td {
+    background-color: #ADFF2F !important;
+}*/
 // ChartJs related
 .canvas-holder {
   text-align : center;

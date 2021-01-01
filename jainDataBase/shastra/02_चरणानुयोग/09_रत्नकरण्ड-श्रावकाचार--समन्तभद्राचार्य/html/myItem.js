@@ -147,8 +147,8 @@ $( document ).ready(function() {
        $optgrp.append("<option value='115.html'><b>115</b> - ﻿नवधा भक्ति का फल</option>");
        $optgrp.append("<option value='116.html'><b>116</b> - ﻿अल्पदान से महाफल</option>");
        $optgrp.append("<option value='117.html'><b>117</b> - ﻿दान के भेद</option>");
-       $optgrp.append("<option value='118.html'><b>118</b> - ﻿वैयावृत्य में अर्हंत पूजा</option>");
-       $optgrp.append("<option value='119.html'><b>119</b> - ﻿दानों में प्रसिद्ध नाम</option>");
+       $optgrp.append("<option value='118.html'><b>118</b> - ﻿दानों में प्रसिद्ध नाम</option>");
+       $optgrp.append("<option value='119.html'><b>119</b> - ﻿वैयावृत्य में अर्हंत पूजा</option>");
        $optgrp.append("<option value='120.html'><b>120</b> - ﻿पूजा का माहात्म्य</option>");
        $optgrp.append("<option value='121.html'><b>121</b> - ﻿वैयावृत्य के अतिचार</option>");
   mySel.append($optgrp);
@@ -314,8 +314,8 @@ $( document ).ready(function() {
        $optgrp.append("<option value='115.html'><b>115</b> - ﻿नवधा भक्ति का फल</option>");
        $optgrp.append("<option value='116.html'><b>116</b> - ﻿अल्पदान से महाफल</option>");
        $optgrp.append("<option value='117.html'><b>117</b> - ﻿दान के भेद</option>");
-       $optgrp.append("<option value='118.html'><b>118</b> - ﻿वैयावृत्य में अर्हंत पूजा</option>");
-       $optgrp.append("<option value='119.html'><b>119</b> - ﻿दानों में प्रसिद्ध नाम</option>");
+       $optgrp.append("<option value='118.html'><b>118</b> - ﻿दानों में प्रसिद्ध नाम</option>");
+       $optgrp.append("<option value='119.html'><b>119</b> - ﻿वैयावृत्य में अर्हंत पूजा</option>");
        $optgrp.append("<option value='120.html'><b>120</b> - ﻿पूजा का माहात्म्य</option>");
        $optgrp.append("<option value='121.html'><b>121</b> - ﻿वैयावृत्य के अतिचार</option>");
   mySel.append($optgrp);
