@@ -137,7 +137,17 @@ for group in sorted(glob.glob(dbDir+"/others/collaborate/bhajans/*/")):
             fData=fData.replace('\n', '<br>')
             fData=fData.replace('((', '<span class=tarj>')
             fData=fData.replace('))', '</span>')
-        html.write("<div class=pooja>"+fData+"\n  </div><br>\n<hr class=type_7>\n")
+        html.write("<div class=pooja>"+fData+"\n  </div>\n")
+        myBjnName=os.path.basename(bhajan)
+        myArthFile=group+"/arth/"+myBjnName
+        if (os.path.isfile(myArthFile)):
+           with open(myArthFile, 'r') as myfile:
+             fData=myfile.read().replace('\xef\xbb\xbf', '')
+             fData=fData.replace('\n', '<br>')
+             fData=fData.replace('((', '<span class=tarj>')
+             fData=fData.replace('))', '</span>')
+           html.write("<br><div class=poojarth><font color=maroon><b>अर्थ : </b></font>"+fData+"\n  </div>\n")
+        html.write("\n<br>\n<hr class=type_7>\n")
         myCntr+=1
     print ("\rDone - Bhajan Group "+os.path.basename(group), end="")
     myGrCntr+=1

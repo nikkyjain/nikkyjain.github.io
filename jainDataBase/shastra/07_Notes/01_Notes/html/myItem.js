@@ -54,6 +54,12 @@ $( document ).ready(function() {
        $optgrp.append("<option value='04-03.html'><b>04-03</b> - ﻿मूल-प्रकृतियों में त्रिसंयोग में स्थान</option>");
        $optgrp.append("<option value='04-04.html'><b>04-04</b> - ﻿ओघ से मूल-प्रकृतियों में त्रिसंयोग में स्थान</option>");
        $optgrp.append("<option value='04-05.html'><b>04-05</b> - ﻿उत्तर-प्रकृतियों में त्रिसंयोग में स्थान</option>");
+       $optgrp.append("<option value='04-06.html'><b>04-06</b> - ﻿गोत्र कर्म के त्रिसंयोग भंग</option>");
+       $optgrp.append("<option value='04-07.html'><b>04-07</b> - ﻿चारों गति में आयु कर्म के त्रिसंयोग भंग</option>");
+       $optgrp.append("<option value='04-08.html'><b>04-08</b> - ﻿मोहनीय कर्म के त्रिसंयोग भंग</option>");
+       $optgrp.append("<option value='04-09.html'><b>04-09</b> - ﻿मोहनीय के बंध अधिकरण, उदय-सत्त्व आधेय भंग</option>");
+       $optgrp.append("<option value='04-10.html'><b>04-10</b> - ﻿मोहनीय के उदय अधिकरण, बंध-सत्त्व आधेय भंग</option>");
+       $optgrp.append("<option value='04-11.html'><b>04-11</b> - ﻿मोहनीय के सत्त्व अधिकरण, बंध-उदय आधेय भंग</option>");
   mySel.append($optgrp);
     $optgrp=$('<optgroup label="﻿प्रकृति बंध ">')
        $optgrp.append("<option value='05-01.html'><b>05-01</b> - ﻿प्रकृति-बन्ध प्ररूपणा</option>");
