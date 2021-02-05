@@ -155,7 +155,7 @@ $( document ).ready(function() {
        $optgrp.append("<option value='177-178.html'><b>170-171</b> - ﻿ज्ञानी निरास्रव किस तरह ? उत्तर</option>");
        $optgrp.append("<option value='179.html'><b>172</b> - ﻿ज्ञान-गुण के जघन्य-भाव परिणमन के रहते ज्ञानी निरास्रव कैसे</option>");
        $optgrp.append("<option value='180-183.html'><b>173-176</b> - ﻿सभी द्रव्यास्रव की संतति के रहने पर भी ज्ञानी नित्य ही निरास्रव कैसे</option>");
-       $optgrp.append("<option value='184-185.html'><b>177-178</b> - ﻿ज्ञानी के राग-देष-मोह नहीं अत: नवीन कर्मों का बंध नहीं</option>");
+       $optgrp.append("<option value='184-185.html'><b>177-178</b> - ﻿ज्ञानी के राग-द्वेष-मोह नहीं अत: नवीन कर्मों का बंध नहीं</option>");
        $optgrp.append("<option value='186-187.html'><b>179-180</b> - ﻿इसी का समर्थन दृष्टांत पूर्वक</option>");
   mySel.append($optgrp);
     $optgrp=$('<optgroup label="﻿संवर अधिकार">')
@@ -398,7 +398,7 @@ $( document ).ready(function() {
        $optgrp.append("<option value='177-178.html'><b>177-178</b> - ﻿ज्ञानी निरास्रव किस तरह ? उत्तर</option>");
        $optgrp.append("<option value='179.html'><b>179</b> - ﻿ज्ञान-गुण के जघन्य-भाव परिणमन के रहते ज्ञानी निरास्रव कैसे</option>");
        $optgrp.append("<option value='180-183.html'><b>180-183</b> - ﻿सभी द्रव्यास्रव की संतति के रहने पर भी ज्ञानी नित्य ही निरास्रव कैसे</option>");
-       $optgrp.append("<option value='184-185.html'><b>184-185</b> - ﻿ज्ञानी के राग-देष-मोह नहीं अत: नवीन कर्मों का बंध नहीं</option>");
+       $optgrp.append("<option value='184-185.html'><b>184-185</b> - ﻿ज्ञानी के राग-द्वेष-मोह नहीं अत: नवीन कर्मों का बंध नहीं</option>");
        $optgrp.append("<option value='186-187.html'><b>186-187</b> - ﻿इसी का समर्थन दृष्टांत पूर्वक</option>");
   mySel.append($optgrp);
     $optgrp=$('<optgroup label="﻿संवर अधिकार">')

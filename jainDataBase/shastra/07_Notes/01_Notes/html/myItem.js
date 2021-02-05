@@ -60,6 +60,10 @@ $( document ).ready(function() {
        $optgrp.append("<option value='04-09.html'><b>04-09</b> - ﻿मोहनीय के बंध अधिकरण, उदय-सत्त्व आधेय भंग</option>");
        $optgrp.append("<option value='04-10.html'><b>04-10</b> - ﻿मोहनीय के उदय अधिकरण, बंध-सत्त्व आधेय भंग</option>");
        $optgrp.append("<option value='04-11.html'><b>04-11</b> - ﻿मोहनीय के सत्त्व अधिकरण, बंध-उदय आधेय भंग</option>");
+       $optgrp.append("<option value='04-12.html'><b>04-12</b> - ﻿नाम कर्म के बंध, उदय, सत्त्व त्रिसंयोग भंग</option>");
+       $optgrp.append("<option value='04-13.html'><b>04-13</b> - ﻿14 जीव-समास में नाम कर्म के बंध, उदय, सत्त्व</option>");
+       $optgrp.append("<option value='04-14.html'><b>04-14</b> - ﻿14 मार्गणा में नाम कर्म के बंध, उदय, सत्त्व भंग</option>");
+       $optgrp.append("<option value='04-15.html'><b>04-15</b> - ﻿नाम कर्म के बंध अधिकरण, उदय, सत्त्व आधेय</option>");
   mySel.append($optgrp);
     $optgrp=$('<optgroup label="﻿प्रकृति बंध ">')
        $optgrp.append("<option value='05-01.html'><b>05-01</b> - ﻿प्रकृति-बन्ध प्ररूपणा</option>");
