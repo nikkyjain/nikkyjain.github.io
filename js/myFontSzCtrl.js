@@ -7,7 +7,7 @@ var curTableTitle=2;
 var curTableNotes=1;
 var curOrgChartSz=1;
 $(function() {
-    $('.head1').css('background-color', '#ccffcc');
+    $('.head1').css('background-color', '#00FF00');
     $('.head2').css('background-color', '#b3ffff');
     $('.head3').css('background-color', '#e6ccff');
     $('.head4').css('background-color', '#b3d9ff');
