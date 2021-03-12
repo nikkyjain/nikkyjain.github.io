@@ -256,6 +256,9 @@ $( document ).ready(function() {
        $optgrp.append("<option value='437.html'><b>413</b> - ﻿भाव-लिंग के बिना द्रव्य-लिंग द्वारा समयसार का ग्रहण नहीं</option>");
        $optgrp.append("<option value='438.html'><b>414</b> - ﻿परमार्थ से लिंग मोक्षमार्ग नहीं</option>");
        $optgrp.append("<option value='439.html'><b>415</b> - ﻿ग्रन्थ समाप्ति और इसके पढ़ने का फल</option>");
+  mySel.append($optgrp);
+    $optgrp=$('<optgroup label="﻿परिशिष्ट">')
+       $optgrp.append("<option value='440-parishisht.html'><b>440-parishisht</b> - ﻿परिशिष्ट</option>");
     mySel.append($optgrp);
   mySel.selectmenu();
   mySel.selectmenu('refresh', true);
