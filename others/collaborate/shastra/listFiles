@@ -1,0 +1,2 @@
+LC_COLLATE=C ls -1 main > index.txt
+unix2dos index.txt

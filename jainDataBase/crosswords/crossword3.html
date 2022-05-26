@@ -1,0 +1,99 @@
+
+<html>
+<head>
+<title>जैन वर्ग पहेली - 1</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Language" content="hi" />
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/puzzle3.js"></script>
+<script type="text/javascript" src="js/puzzleCreator.js"></script>
+<style type="text/css">
+  select {
+	background: url(dropdown_arw.png) no-repeat right center;
+    -webkit-appearance: none;
+    -moz-appearance	: none;
+    text-indent		: 1px;
+    text-overflow	: '';
+    font-size		: 100%; 
+    border			:0px;
+    outline			:0px;
+  }
+  select::-ms-expand {
+    display			: none;
+    font-size		: 100%; 
+  }
+  table {
+    border-collapse: collapse;
+  }
+  td.topSubScript {
+    position		: absolute;
+    top				: 0;
+    left			: 0;
+    z-index			: -1;
+    text-align		:left;
+    vertical-align	:top;
+  }
+  td.ss {
+    position		: absolute;
+    top				: 0;
+    left			: 0;
+    z-index			: -1;
+    text-align		:left;
+    vertical-align	:bottom;
+  }
+  #puzzleContainer {
+	width  :100%;
+	/*height :110%;*/
+	margin :auto;
+	float:left;
+  }
+  #acrossContainer, #downContainer {
+    border : 4px solid black;
+    width: 45%;
+    height : 200%;
+    margin : 4% 2% 2% 2%;
+    overflow-y:auto;
+    float:left;
+    overflow-x:hidden;
+  }
+</style>
+
+<script type="text/javascript">
+  var curCntr=0;
+
+</script>
+
+</head>
+<body oncopy="return false" onpaste="return false" oncut="return false">
+    <div id=top align=right>
+		<h2 align=center>जैन वर्ग पहेली - 3</h2>
+    	<button onclick="calculate(); return false;">Done</button>
+    	<button onclick="solve(); return false;">Solve</button>
+    	<button onclick="reset(); return false;">Reset</button><br><hr><br>
+	</div>
+   	<div id=showGif align=center style="visibility:hidden"><img src="images/LookHere.gif" alt="HTML tutorial" width=32 height=32>
+   	  <div id=showMarks align=center></div>
+   	</div>
+   	<div id="showHints" align=center></div><br>
+    <div id=puzzleContainer align=center>
+ 		<table border=1 id=tableId>
+ 		<script> 
+			createPuzzle();
+		</script>
+		</table>
+	</div>
+   	<div id="showHints1" align=center></div>
+ 	<script> 
+		setDivSz();
+	</script>
+	<div width=100%>
+		<br><br>
+		<div id=acrossContainer> </div>
+		<div id=downContainer> </div>
+	</div>
+	<script>
+		fillClues("acrossContainer", "across", "बाएं से दाएं");
+		fillClues("downContainer", "down", "ऊपर से नीचे");
+	</script>
+</body>
+</html>

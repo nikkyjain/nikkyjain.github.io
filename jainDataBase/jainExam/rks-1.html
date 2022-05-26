@@ -1,0 +1,105 @@
+<html>
+  <head>
+    <title>रत्न-करण्ड श्रावकाचार - सम्यग्दर्शन अध्याय</title>
+    <link id='favicon' rel="icon" type="image/png" href="images/jainFlag-short.jpg" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Language" content="hi" />
+    <meta name="description" content="Gunsthan Vivechan Test" />
+    <meta name="author" content="Vishal Jain" />
+    <link type="text/css" rel="stylesheet" href="css/alertify.css">
+    <style type="text/css">
+      body, label {
+        font-size:2vw;
+      }
+      input[type='radio'] {
+        -ms-transform: scale(2); /* IE 9 */
+        -webkit-transform: scale(2); /* Chrome, Safari, Opera */
+        transform: scale(2);
+      }
+      tr.d0 td {
+          background-color: #66FFFF; color: black; font-size:2vw; padding:5px;
+      }
+      tr.d1 td {
+          background-color: #FFCC66; color: black; font-size:2vw; padding:5px
+      }
+      div.d0 {
+          background-color: #CCCCFF; color: black;
+      }
+      div.d1 {
+          background-color: #FFFFCC; color: black;
+      }
+      select {
+        //font-family: Arial, sans-serif;
+        font-size: 1.8vw;
+        height:85;
+      }
+      button {
+          border: none;
+          color: white;
+          padding: 15px 32px;
+          text-align: center;
+          text-decoration: none;
+          display: inline-block;
+          font-size: 1vw;
+	        border-radius: 12px;
+      }
+      .submit {
+          background-color: #4CAF50; /* Green */
+      }
+      .reset {
+          background-color: #f44336; /* Red */
+      }
+      .solution {
+          background-color: #008CBA; /* Blue */
+      }
+      #showMarks {
+	        font-weight: bold;
+      }
+    </style>
+    <script type="text/javascript" src='js/jquery.js'></script>
+    <script type="text/javascript" src='js/jainExam.js'></script>
+    <script type="text/javascript" src="js/alertify.js"></script>
+    <script type="text/javascript" src="js/notify.js"></script>
+  </head>
+  <body oncopy="return false" onpaste="return false" oncut="return false">
+    <div id="para1"><h2 align=center>रत्न-करण्ड श्रावकाचार - सम्यग्दर्शन अध्याय</h2>
+    <span class=incrExamFontSz>&#x1f5da;</span> <span class=decExamFontSz float=right>&#x1f5db;</span>
+    <script>
+      var d = new Date();
+	  var myStorageID="RatnkarandShravakachaar-Adhyaay1";
+      document.write("<h5 align=right>" + d.getDate() + "-" + monthNames[d.getMonth()] + "-" + d.getFullYear() + "</align></h3>");
+    </script>
+    <form name=myForm id=form>
+    <table cellspacing=5>
+        <tr><td><p style="font-size:2vw">UserName : </font></td><td><input type=text name=mainUname id=myName></td></tr>
+    <!--tr><td>MobileNo</td><td><input type=text name=MobileNo id=myMobile></td></tr>
+        <tr><td>eMail</td><td><input type=text name=eMail id=myEmail></td></tr-->
+    </table>
+    <div id=showGif align=center style="visibility:hidden"><img src="images/LookHere.gif" alt="HTML tutorial" width=100 height=100>
+      <font size=50><div id=showMarks align=center></div></font>
+    </div>
+    <button type="button" class=reset onclick="resetVals(); return false;" style='float:right;margin:20'>Reset</button>
+    <button class=solution type="button" name="submit" value="submit" style='float:right;margin : 20;'>Solve</button>
+    <button class=submit type="button" name="submit" value="submit" style='float:right;margin : 20;'>Submit</button><BR><BR></div><hr><BR>
+    <div id=mainPaper>
+    <script>
+      createTrueFalse(2, "पंचम काल के मनुष्य हीन कर्म को नष्ट कर मोक्ष जा सकते हैं।");
+      var choice=["२ कोडाकोडी सागर", "४ कोडाकोडी सागर", "३ कोडाकोडी सागर"];
+      createMultipleChoice(3, "सुषमा सुषमा काल का प्रमाण बताइये?", choice);
+      var qColumn=["जम्बूद्वीप का आकार", "कमल", "बीस कोडा कोडी सागर का"];
+      var aColumn=["पृथ्वीकाय है", "एक कल्प का", "उत्तमभोगभूमि"];
+      var ans=[3, 14, 15];
+      createMatchTheColumn("One to one match", qColumn, aColumn, ans);
+      var qColumn=["मिथ्यात्व"];
+      var aColumn=["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"];
+      var aRow=["आगमन", "गमन"];
+      var ans=[11, 11];
+      createTableGridChose("गुणस्थानों में गमन-आगमन की संख्या (कृप्या सभी अपेक्षाऎं लगाऎं)", qColumn, aColumn, aRow, ans);
+      </script>
+      </div>
+      <br> <hr> <br>
+      <button class=submit type="button" name="submit" value="submit" style="float:right;">Submit</button>
+      <script>restoreAns();</script>
+    </form>
+  </body>
+</html>

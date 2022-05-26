@@ -1,0 +1,101 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <link type="text/css"  rel="stylesheet" href="myFlot.css">
+	<script language="javascript" type="text/javascript" src="https://www.flotcharts.org/flot/source/jquery.js"></script>
+	<script language="javascript" type="text/javascript" src="https://www.flotcharts.org/flot/source/jquery.canvaswrapper.js"></script>
+	<script language="javascript" type="text/javascript" src="https://www.flotcharts.org/flot/source/jquery.colorhelpers.js"></script>
+	<script language="javascript" type="text/javascript" src="https://www.flotcharts.org/flot/source/jquery.flot.js"></script>
+	<script language="javascript" type="text/javascript" src="https://www.flotcharts.org/flot/source/jquery.flot.stack.js"></script>
+	<script language="javascript" type="text/javascript" src="https://www.flotcharts.org/flot/source/jquery.flot.saturated.js"></script>
+	<script language="javascript" type="text/javascript" src="https://www.flotcharts.org/flot/source/jquery.flot.browser.js"></script>
+	<script language="javascript" type="text/javascript" src="https://www.flotcharts.org/flot/source/jquery.flot.drawSeries.js"></script>
+	<script language="javascript" type="text/javascript" src="https://www.flotcharts.org/flot/source/jquery.flot.uiConstants.js"></script>
+	<script language="javascript" type="text/javascript" src="https://www.flotcharts.org/flot/source/jquery.flot.selection.js"></script>
+	<script language="javascript" type="text/javascript" src="https://www.flotcharts.org/flot/source/jquery.flot.legend.js"></script>
+  <script type="text/javascript" src="https://www.flotcharts.org/flot/source/jquery.flot.resize.js"></script>
+  <script type="text/javascript" src="https://www.flotcharts.org/flot/source/jquery.flot.hover.js"></script>
+  <script type="text/javascript" src="http://www.benjaminbuffet.com/public/js/jquery.flot.orderBars.js"></script>
+  <script type="text/javascript" src="myFlot.js"></script>
+  <title>Flot stacked bar example</title>
+  <style>
+  #chart {
+    height: 600px;
+  </style>
+</head>
+<body>
+  <div id="chart"></div>
+  <div id="legendContainer" class="legend" style="width:9em;height:8em;border-style:solid;border-color:threedface"></div>
+  <button id=resetZoom value="reset" type="button" style="float:right">Reset Zoom</button>
+  <script>
+$(function() {
+		var d1 = [], d2=[], d3=[], d4=[], names=[];
+    for (var i = 1; i <= 10; i += 1) {
+			d1.push([i, parseInt(Math.random() * 30)+1]);
+			d2.push([i, parseInt(Math.random() * 30)+1]);
+			d3.push([i, parseInt(Math.random() * 30)+1]);
+			d4.push([i, parseInt(Math.random() * 30)+1]);
+			d1.push([i, d1[i]+parseInt(Math.random() * 30)+1]);
+			d2.push([i, d2[i]+parseInt(Math.random() * 30)+1]);
+			d3.push([i, d3[i]+parseInt(Math.random() * 30)+1]);
+			d4.push([i, d4[i]+parseInt(Math.random() * 30)+1]);
+      names.push([i,'run_'+i]);
+		}
+    var data = [
+        {
+            label: "facebook",
+            data: d1,
+            bars: {
+                order: 1
+            }
+        },
+        {
+            label: "cadence",
+            data: d2,
+            bars: {
+                order: 1
+            }
+        },
+        {
+            label: "twitter",
+            data: d3,
+            bars: {
+                order: 2
+            }
+        },
+        {
+            label: "google",
+            data: d4,
+            bars: {
+                order: 2
+            }
+        }
+    ];
+    
+//    $.plot("#chart", data, {
+//        xaxis: {
+//            min: 0,
+//            /*mode: "categories",
+//            ticks: [ [1, 'facebook'], [2, 'twitter'], [3, 'google'] ]*/
+//        },
+//        yaxis: {
+//            min: 0
+//        },
+//        series: {
+//            bars: {
+//                show: true,
+//                align: 'center'
+//            }
+//        },
+//      legend: {
+//        show: true,
+//        noColumns: 4,
+//        container: document.getElementById("legendContainer")
+//      }
+//    });
+    drawFlotStackBar('chart', data);
+});
+  </script>
+</body>
+</html>

@@ -1,0 +1,29 @@
+#!/bin/sh
+
+#perl -i -pe 's/।।/॥/g' *
+#/bin/rm *.bak
+#perl -i -pe 's/0/०/g' *
+#/bin/rm *.bak
+#perl -i -pe 's/1/१/g' *
+#/bin/rm *.bak
+#perl -i -pe 's/2/२/g' *
+#/bin/rm *.bak
+#perl -i -pe 's/3/३/g' *
+#/bin/rm *.bak
+#perl -i -pe 's/4/४/g' *
+#/bin/rm *.bak
+#perl -i -pe 's/5/५/g' *
+#/bin/rm *.bak
+#perl -i -pe 's/6/६/g' *
+#/bin/rm *.bak
+#perl -i -pe 's/7/७/g' *
+#/bin/rm *.bak
+#perl -i -pe 's/8/८/g' *
+#/bin/rm *.bak
+#perl -i -pe 's/9/९/g' *
+#/bin/rm *.bak
+
+perl -i -pe "s/‘/\'/g" *
+/bin/rm *.bak
+perl -i -pe "s/’/\'/g" *
+/bin/rm *.bak

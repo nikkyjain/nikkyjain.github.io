@@ -1,0 +1,91 @@
+﻿<style>
+  body {
+    margin: 15px;
+  }
+  
+  div.search span,
+  div.search input[name="regex"] {
+    display: block;
+  }
+  
+  div.search input[name="regex"],
+  button {
+    margin-top: 4px;
+  }
+  
+  div.panel {
+    margin-bottom: 15px;
+  }
+  
+  div.panel .panel-body p:last-child {
+    margin-bottom: 0;
+  }
+  
+  mark {
+    padding: 0;
+  }
+</style>
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/jquery.mark.min.js"></script>
+
+<div class="panel panel-default">
+    <div class="panel-body">
+        <div class="search row">
+            <div class="col-xs-6">
+                <input type="text" name="regex" class="form-control input-sm" placeholder="/Lor[^]?m/gmi">
+                <button type="button" name="mark" class="btn btn-primary">Mark</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="panel panel-default">
+    <div class="panel-body context">
+        <p>
+        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, nò sea takimata
+        sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea
+        rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+        At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie çonsequat, vel illum dolore
+        eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet,
+अलबर्ट आइंस्टीन ने अस्तित्व के संघटक तत्व दो माने हैं। टाइम और स्पेस। समय और क्षेत्र। और फिर बाद में जैसे-जैसे आइंस्टीन की खोज गहरी होती गयी, उसे यह भी प्रतीत होने लगा कि इन दो तत्वों को दो कहना ठीक नहीं है। इसलिए फिर उसने दोनों के लिए एक ही शब्द चुन लिया: स्पेसियोटाइम। समय-क्षेत्र।
+क्षेत्र बाहर है, समय भीतर है।
+जीवन को अगर हम ठीक से समझें, तो हमें होने के लिए दो चीजें चाहिए। कोई जगह चाहिए होने के लिए। हम कुछ जगह घेरेंगे। तुम यहां बैठे हो, तो तुमने थोड़ी जगह घेरी। वही है क्षेत्र, आकाश, स्पेस। लेकिन उतना काफी नहीं है। अगर उतना ही हो, तो तुम वस्तु हो जाओगे। फिर तुममें और टेबल और कुर्सी में कोई फर्क न रहेगा। टेबल और कुर्सी ने भी जगह घेरी है। जैसी तुमने जगह घेरी। तुम जिस फर्श पर बैठे हो, उसने भी जगह घेरी है। जैसी तुमने जगह घेरी है।
+फिर तुममें और पत्थर में फर्क क्या है?
+        </p>
+
+    </div>
+</div>
+<script>
+    $(function() {
+
+        var mark = function() {
+
+        // Read input
+        var inputstring = $("input[name='regex']").val();
+        if (inputstring.trim() === "") {
+        return;
+        }
+
+        // Create regex
+        var flags = inputstring.replace(/.*\/([gimy]*)$/, '$1');
+        var pattern = inputstring.replace(new RegExp('^/(.*?)/' + flags + '$'), '$1');
+        var regex = new RegExp(pattern, flags);
+
+        // Determine selected options
+        var options = {};
+        $("input[name='opt[]']").each(function() {
+            options[$(this).val()] = $(this).is(":checked");
+            });
+
+        // Mark the regex inside the context
+        $(".context").unmark({
+          done: function() {
+            $(".context").markRegExp(regex, options);
+          }
+        });
+      };
+    // Trigger mark action on button click
+    $("button[name='mark']").on("click", mark);
+  });
+</script>

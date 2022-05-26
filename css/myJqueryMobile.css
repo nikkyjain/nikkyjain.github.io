@@ -1,0 +1,529 @@
+img {
+    border-radius: 10px 10px 10px 10px;
+}
+iframe {
+	pointer-events=none;
+}
+p img {
+    width: 20%;
+}
+.png {
+    width: 20%;
+}
+div.teekakaar {
+    font-size: 2vw;
+    font-weight: bold;
+    text-align: center;
+    color: darkGreen;
+}
+div.title {
+    font-size: 2vw;
+    font-weight: bold;
+    text-align: center;
+}
+div.hdr {
+	text-shadow: 0 0 20px #FF0000;
+}
+div.main {
+    font-size: 5vw;
+    color: maroon;
+    font-weight: bold;
+    text-align: center;
+	text-shadow: 0 0 5px purple;
+}
+div.main1 {
+    font-size: 5vw;
+    color: maroon;
+    font-weight: bold;
+    text-align: center;
+}
+div.chapter {
+    font-size: 4vw;
+    color: #ff4000;
+    font-weight: bold;
+    text-align: center;
+}
+div.gatha {
+    font-size: 4vw;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+	text-shadow: 0 0 10px #FF0000;
+}
+div.gatha1 {
+    font-size: 4vw;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}
+div.pooja {
+    font-size: 4vw;
+    color: navy;
+    text-align: center;
+    line-height: 140%;
+}
+span.tarj {
+    font-size: 1vw;
+    color: brown;
+    font-weight: bold;
+    float: right;
+}
+div.arth {
+    font-size: 2.6vw;
+    color: navy;
+    width: 90%;
+    text-align: justify;
+    margin: 0 auto;
+}
+div.paragraph {
+    font-size: 2.3vw;
+    color: navy;
+    width: 90%;
+    text-align: justify;
+    margin: 0 auto;
+    text-indent: 10%;
+}
+div.paragraphE {
+    font-size: 2.3vw;
+    color: darkGreen;
+    width: 90%;
+    text-align: justify;
+    margin: 0 auto;
+    text-indent: 10%;
+}
+span.stitle {
+    color: red;
+    float :right;
+}
+div.teeka {
+    font-size: 2.6vw;
+    color: black;
+    text-align: justify;
+    text-indent:4vw;
+    margin: 0 auto;
+}
+div.steeka {
+    font-size: 2vw;
+    color: brown;
+    text-align: justify;
+    margin: 0 auto;
+    display:none;
+}
+span.om {
+    font-size: 2vw;
+    color: maroon;
+    width: 90%;
+    text-align: center;
+    margin: 0 auto;
+}
+div.om {
+    font-size: 2vw;
+    color: maroon;
+    width: 90%;
+    text-align: center;
+    margin: 0 auto;
+}
+div.gathaS {
+    font-size: 1.5vw;
+    color: darkslategray;
+    text-align: center;
+    margin: 0 auto;
+    font-weight: bold;
+}
+div.gadya {
+    font-size: 2.5vw;
+    color: darkgreen;
+    text-align: center;
+    margin: 0 auto;
+    font-weight: bold;
+}
+div.poojarth {
+    font-size: 2vw;
+    color: darkred;
+    width: 90%;
+    text-align: justify;
+	line-height: 140%;
+    margin: 0 auto;
+	text-indent: 10%;
+}
+div.lay {
+    font-size: 1.2vw;
+    color: darkRed;
+    text-align: justify;
+    margin: 0 auto;
+}
+span.gatharth {
+    font-size: 2vw;
+    color: navy;
+    font-weight: bold;
+}
+span.shortFont {
+    font-size: 1.6vw;
+    color: violet;
+}
+.comment {
+    font-size: 2vw;
+    color: Purple;
+    width: 90%;
+    text-align: center;
+    margin: 0 auto;
+}
+.lay {
+    font-size: 1.2vw;
+    color: darkRed;
+    text-align: center;
+    margin: 0 auto;
+}
+.detail {
+    font-size: 1.4vw;
+    color: steelBlue;
+    width: 90%;
+    text-align: center;
+    margin: 0 auto;
+    font-weight: bold;
+}
+.itemImage {
+    border-radius: 6%;
+}
+.myCenter {
+    font-size: 5vw;
+    color: darkBlue;
+    font-weight: bold;
+    text-align: center;
+    width: 90%;
+}
+.myBold {
+    font-size: 5vw;
+    color: maroon;
+    font-weight: bold;
+    text-align: center;
+    width: 90%;
+}
+#myQuotes p {
+  font-size : 4vw;
+  font-weight: bold;
+  text-align: center;
+  width: 90%;
+  margin: 0 auto;
+  border-radius: 20px;
+  border-bottom: 6px solid red;
+  background-color: lightgrey;
+}
+.aacharyaName {
+  text-align: right;
+  color : black; 
+  font-size : 7vw;
+  width: 90%;
+  margin: 0 auto;
+  font-weight: bold;
+}
+
+#myQuotes p::first-letter {
+    font-size: 150%;
+}
+
+.jsm2 {
+            width:100%;
+            height:250px;
+            overflow: hidden;
+            font-size: 1.5vw;
+        }
+.jsm {
+            width:100%;
+            height:400px;
+            overflow: hidden;
+            font-size: 1.5vw;
+        }
+.jsm6 {
+            width:100%;
+            height:600px;
+            overflow: hidden;
+            font-size: 1.5vw;
+        }
+.jsm7 {
+            width:100%;
+            height:800px;
+            overflow: hidden;
+            font-size: 1.5vw;
+        }
+.jsm10 {
+            width:100%;
+            height:1100px;
+            overflow: hidden;
+            font-size: 1.5vw;
+        }
+.jsm12 {
+            width:100%;
+            height:1600px;
+            overflow: hidden;
+            font-size: 1.5vw;
+        }
+
+//p::first-letter {
+//    font-size: 200%;
+//}
+
+//#demo-page :not(INPUT):not(TEXTAREA) {
+//    -webkit-user-select: none;
+//    -moz-user-select: none;
+//    -ms-user-select: none;
+//    -o-user-select: none;
+//    user-select: none;
+//}
+/* Content styling. */
+//dl { font-family: "Times New Roman", Times, serif; padding: 1em; }
+//dt { font-size: 2em; font-weight: bold; }
+//dt span { font-size: .5em; color: #777; margin-left: .5em; }
+//dd { font-size: 1.25em; margin: 1em 0 0; padding-bottom: 1em; border-bottom: 1px solid #eee; }
+//.back-button { float: right; margin: 0 2em 1em 0; }
+
+
+// Adhikaar related -- Begin
+div.adhikaar {
+    font-size: 8vw;
+    color: saddlebrown;
+    text-align: center;
+    font-weight: bold;
+    margin: 0 auto;
+}
+h1 {
+    position: relative;
+    font-size: 5vw;
+    z-index: 1;
+    overflow: hidden;
+    text-align: center;
+}
+h1:before, h1:after {
+    position: absolute;
+    top: 51%;
+    overflow: hidden;
+    width: 50%;
+    height: 1px;
+    content: '\a0';
+    background-color: red;
+}
+h1:before {
+    margin-left: -50%;
+    text-align: right;
+}
+.adhikaar {
+    background-color: #ccc;
+}
+
+// Adhikaar related -- end
+
+table {
+   border-spacing: 0px;
+   border-collapse: collapse;
+//   overflow-x:auto;
+  //border: 1px solid DarkOrange;
+  //border-radius: 13px; 
+}
+table.adhikarIndex td {
+  font-size : 2.7vw;
+  text-align: left; 
+  color : darkblue;
+  padding: 15px;
+  font-weight: bold;
+}
+table.mainIndex td {
+  font-size : 2.3vw;
+  text-align: left; 
+  color : darkblue;
+  padding: 5px;
+  font-weight: bold;
+}
+
+
+.myTable, th,td {
+  font-size : 1.4vw;
+  border: 1px solid black;
+  text-align: center; 
+  vertical-align: middle;
+}
+
+.myAltTable th,td {
+  font-size : 1.4vw;
+  border: 1px solid black;
+  text-align: center; 
+  vertical-align: middle;
+}
+.myAltTable tr:nth-child(odd) {
+    background-color: #e6ffe6;
+}
+.myAltTable tr:nth-child(even) {
+    background-color: AliceBlue;
+}
+
+// Alt Row Coloured
+.myAltTable th,td {
+  font-size : 1.4vw;
+  border: 1px solid black;
+  text-align: center; 
+  vertical-align: middle;
+}
+.myAltTable tr:nth-child(odd) {
+    background-color: #e6ffe6;
+}
+.myAltTable tr:nth-child(even) {
+    background-color: AliceBlue;
+}
+
+// Alt Col Coloured
+.myAltColTable th,td {
+  font-size : 1.4vw;
+  border: 1px solid black;
+  text-align: center; 
+  vertical-align: middle;
+}
+.myAltColTable col:nth-child(odd) {
+    background-color: #e6ffe6;
+}
+.myAltColTable col:nth-child(even) {
+    background-color: AliceBlue;
+}
+.myAltColTable thead {
+  position: relative;
+}
+ .myAltColTable thead th {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  left: 0;
+  z-index:1;
+}
+.myTable th {
+  background-color : #ffcc99;
+}
+.myTable th,td div {
+  //writing-mode: vertical-lr;
+  //min-width: 50px; /* for firefox */
+}
+.myAltTable th {
+  background-color : #ffe0b3;
+}
+.myAltTable th,td div {
+  //writing-mode: vertical-lr;
+  //min-width: 50px; /* for firefox */
+}
+.myAltColTable th {
+  background-color : #ffe0b3;
+}
+
+
+
+.cellY {
+    background-color: #f5ffe6;
+}
+.cellN {
+    background-color: #ffe6f3;
+}
+.tableNotes {
+  font-size : 1vw;
+  background-color: lightgray;
+  color: 330000;
+}
+.notes {
+  color: darkBlue;
+  font-style: oblique;
+}
+
+.emptyTableCell {
+  background-color: #fcf5e8;
+  border-spacing: 0px;
+  border-style:none;
+  text-align: left; 
+}
+.tableTitle {
+  color : darkblue;
+  background-color: #ffcc99;
+}
+.tableHover {
+    background-color: #ADFF2F !important;
+    /*color: #1e8ae4;
+    cursor: pointer;*/
+}
+/*.myAltTable:hover td[rowspan],
+tr:hover td {
+    background-color: #ADFF2F !important;
+}*/
+// ChartJs related
+.canvas-holder {
+  text-align : center;
+  width : 50%;
+  position : relative;
+}
+.chartJsCanvas {
+  position : relative;
+}
+
+/* Css for Rotating Box */
+.spinner div {
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    border: 1px solid #ccc;
+    background: rgba(255,255,255,0.8);
+    box-shadow: inset 0 0 20px rgba(0,0,0,0.2);
+    text-align: center;
+    line-height: 120px;
+    font-size: 80px;
+}
+
+.spinner .face1 { 
+    -webkit-transform: translateZ(60px);
+    -ms-transform: translateZ(60px);
+    transform: translateZ(60px);
+}
+.spinner .face2 { 
+    -webkit-transform: rotateY(90deg) translateZ(60px); 
+    -ms-transform: rotateY(90deg) translateZ(60px); 
+    transform: rotateY(90deg) translateZ(60px); 
+}
+.spinner .face3 { 
+    -webkit-transform: rotateY(90deg) rotateX(90deg) translateZ(60px); 
+    -ms-transform: rotateY(90deg) rotateX(90deg) translateZ(60px); 
+    transform: rotateY(90deg) rotateX(90deg) translateZ(60px); 
+}
+.spinner .face4 { 
+    -webkit-transform: rotateY(180deg) rotateZ(90deg) translateZ(60px); 
+    -ms-transform: rotateY(180deg) rotateZ(90deg) translateZ(60px); 
+    transform: rotateY(180deg) rotateZ(90deg) translateZ(60px); 
+}
+.spinner .face5 { 
+    -webkit-transform: rotateY(-90deg) rotateZ(90deg) translateZ(60px); 
+    -ms-transform: rotateY(-90deg) rotateZ(90deg) translateZ(60px); 
+    transform: rotateY(-90deg) rotateZ(90deg) translateZ(60px); 
+}
+.spinner .face6 { 
+    -webkit-transform: rotateX(-90deg) translateZ(60px); 
+    -ms-transform: rotateX(-90deg) translateZ(60px); 
+    transform: rotateX(-90deg) translateZ(60px); 
+}
+
+.spinner {
+    -webkit-animation: spincube 12s ease-in-out infinite;
+    animation: spincube 12s ease-in-out infinite;
+    -webkit-transform-style: preserve-3d;
+    -ms-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+    -webkit-transform-origin: 60px 60px 0;
+    -ms-transform-origin: 60px 60px 0;
+    transform-origin: 60px 60px 0;
+}
+
+@-webkit-keyframes spincube {
+    16%      { -webkit-transform: rotateY(-90deg);                }
+    33%      { -webkit-transform: rotateY(-90deg) rotateZ(90deg); }
+    50%      { -webkit-transform: rotateY(180deg) rotateZ(90deg); }
+    66%      { -webkit-transform: rotateY(90deg) rotateX(90deg);  }
+    83%      { -webkit-transform: rotateX(90deg);                 }
+}
+@keyframes spincube {
+    16%      { -ms-transform: rotateY(-90deg); transform: rotateY(-90deg); }
+    33%      { -ms-transform: rotateY(-90deg) rotateZ(90deg); transform: rotateY(-90deg) rotateZ(90deg); }
+    50%      { -ms-transform: rotateY(180deg) rotateZ(90deg); transform: rotateY(180deg) rotateZ(90deg); }
+    66%      { -ms-transform: rotateY(90deg) rotateX(90deg); transform: rotateY(90deg) rotateX(90deg); }
+    83%      { -ms-transform: rotateX(90deg); transform: rotateX(90deg); }
+}
+

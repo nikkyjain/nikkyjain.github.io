@@ -1,0 +1,136 @@
+<!doctype html>
+<html>
+
+<head>
+	<title>Pie Chart</title>
+  <script src="jquery.js"></script>
+  <script src="moment.min.js"></script>
+	<script src="utils.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.1"></script>
+  <script src="palette.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/hammerjs@2.0.8"></script>
+	<!--script src="chartjs-plugin-zoom@0.7.7.js"></script-->
+  <script src="chartjs-plugin-zoom.min.js"></script>
+	<script src="myChart.js"></script>
+  <style>
+    .canvasDiv {
+      text-align : center;
+      position : relative;
+      width : 80%;
+    }
+    #doughnutCanvas {
+      position : relative;
+    }
+    #barCanvas {
+      position : relative;
+    }
+	canvas {
+		-moz-user-select: none;
+		-webkit-user-select: none;
+		-ms-user-select: none;
+	}
+  </style>
+</head>
+
+<body>
+	<div id="canvas-holder" class=canvasDiv align=center>
+  <canvas id="doughnutCanvas"></canvas>
+  <canvas id="barCanvas"></canvas>
+  <div id="chartTarget">
+  <canvas id="canvas"></canvas>
+  <div style="opacity:0;" class="chartTooltip center">
+  </div>
+  <canvas id="simpleBar"></canvas>
+</div>
+  </div>
+  
+<button onclick="resetZoom()" align=left>
+  
+  <script>
+    myData=[ 20, 10, 30, 5];
+    myLabels=[ 'Passed', 'Failed', 'Running', 'Waiting' ];
+    create2DPieChart('doughnutCanvas',myData, myLabels);
+	</script>
+
+  <script>
+    var label=[ 'run1', 'run2', 'run3', 'run4', 'run5', 'run6', 'run7', 'run8', 'run9' ];
+    
+    var myBarData = [
+    {
+    'data' : [ 55, 61, 79, 85, 120, 81, 110, 130, 150 ],
+    'label' : 'Session1--Passed',
+    stack: "Stack 0" 
+    },
+    {
+    'data' : [ 60, 55, 45, 33, 30, 69, 40, 20, 0 ],
+    'label' : 'Session1--Failed',
+    stack: "Stack 0" 
+    },
+    {
+    'data' : [ 100, 110, 100, 200, 30, 70, 140, 120, 110 ],
+    'label' : 'Session1--SimTime',
+    stack: "Stack 0" 
+    },
+    {
+    'data' : [ 45, 63, 75, 89, 121, 87, 115, 135, 150 ],
+    'label' : 'Session2--Passed',
+    stack: "Stack 1" 
+    },
+    {
+    'data' : [ 65, 53, 45, 33, 30, 69, 40, 20, 0 ],
+    'label' : 'Session2--Failed',
+    stack: "Stack 1" 
+    },
+    {
+    'data' : [ 100, 110, 100, 200, 30, 70, 140, 120, 110 ],
+    'label' : 'Session2--SimTime',
+    stack: "Stack 1" 
+    }
+    ];
+    console.log("Dbg: "+myBarData);
+    create2DBarChart("barCanvas", label, myBarData);
+    
+
+    var fLabels=[];
+    var jobStarts=[];
+    var simPrep=[];
+    var simTime=[];
+    var simEnds=[];
+    for (var i=0; i<64; i++) {
+        fLabels.push('run_'+i);
+        jobStarts.push(5+i);
+        simPrep.push(20+i);
+        simTime.push(50+i);
+        simEnds.push(2000+i);
+}
+
+
+    var fDatasets=[
+        {
+            label:'JobStarts',
+            data:jobStarts
+        },
+        {
+            label:'SimPrep',
+            data:simPrep
+        },
+        {
+            label:'SimTime',
+            data:simEnds
+        
+        }];
+        
+    createFloatChart("canvas", fLabels, fDatasets);
+
+
+var mySimpleBarData = [];
+var mySimpleBarLabels = [];
+for (var i=0; i<500; i++) {
+  mySimpleBarData.push(100+Math.floor(Math.random() * 101));
+  mySimpleBarLabels.push('A'+i);
+}
+simpleBar('simpleBar',mySimpleBarLabels,mySimpleBarData);
+  </script>
+</body>
+
+</html>

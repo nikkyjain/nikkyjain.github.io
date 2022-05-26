@@ -1,0 +1,49 @@
+<!DOCTYPE html> 
+<html> 
+<head> 
+<title> 
+    Jai Jinendra
+</title> 
+</head> 
+
+<body style="text-align:center;" id="body"> 
+<h1 style="color:green;"> 
+    GeeksForGeeks 
+</h1> 
+
+<form id="form">
+    Name: <input type="text" name="name"><br>
+    Age: <input type="text" name="email"><br>
+    FavColor: <input type="text" name="favc"><br>
+    <input id="submit" type="button" name="submit" value="submit">
+</form>
+
+<script src="js/jquery.js"></script>
+<script src="js/jquery.serializejson.js"></script>
+<script>
+$(document).ready(function(){
+        // click on button submit
+        $("#submit").on('click', function(){
+            console.log(JSON.stringify( $('#form').serializeJSON()));
+            // send ajax
+            $.ajax({
+                url: 'http://noi-vishalj:3001/post', // url where to submit the request
+                type : "POST", // type of action POST || GET
+                dataType : 'json', // data type
+                data : JSON.stringify($("#form").serializeJSON()), // post data || get data
+                success : function(result) {
+                    // you can see the result from the console
+                    // tab of the developer tools
+                    console.log(result);
+                    },
+                    error: function(xhr, resp, text) {
+                    console.log(xhr, resp, text);
+                    }
+                })
+            });
+});
+
+</script>
+
+</body> 
+</html> 

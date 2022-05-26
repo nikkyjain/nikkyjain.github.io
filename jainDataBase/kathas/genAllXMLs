@@ -1,0 +1,16 @@
+#!/bin/sh
+
+curDir=$PWD
+while read oDir; do
+  oDir=$(echo "$oDir" | tr -d '\r')
+  #echo $oDir
+  cd $oDir
+  while read iDir; do
+    iDir=$(echo "$iDir" | tr -d '\r')
+    iDirPath=`readlink -f $iDir` 
+    echo $iDirPath
+	cd $iDirPath
+	$curDir/createXML.sh
+  done < "index.txt"
+  cd $curDir
+done < "index.txt"

@@ -1,0 +1,98 @@
+<html>
+  <head>
+    <title>कर्म उदय / बंध व्युछित्ति</title>
+    <link id='favicon' rel="icon" type="image/png" href="images/jainFlag-short.jpg" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Language" content="hi" />
+    <meta name="description" content="Gunsthan Vivechan Test" />
+    <meta name="author" content="Vishal Jain" />
+    <link type="text/css" rel="stylesheet" href="css/alertify.css">
+    <style type="text/css">
+      body, label {
+        font-size:2vw;
+      }
+      input[type='radio'] {
+        -ms-transform: scale(2); /* IE 9 */
+        -webkit-transform: scale(2); /* Chrome, Safari, Opera */
+        transform: scale(2);
+      }
+      tr.d0 td {
+          background-color: #66FFFF; color: black; font-size:2vw; padding:5px;
+      }
+      tr.d1 td {
+          background-color: #FFCC66; color: black; font-size:2vw; padding:5px
+      }
+      div.d0 {
+          background-color: #CCCCFF; color: black;
+      }
+      div.d1 {
+          background-color: #FFFFCC; color: black;
+      }
+      select {
+        //font-family: Arial, sans-serif;
+        font-size: 1.8vw;
+        height:85;
+      }
+      button {
+          border: none;
+          color: white;
+          padding: 15px 32px;
+          text-align: center;
+          text-decoration: none;
+          display: inline-block;
+          font-size: 1vw;
+	        border-radius: 12px;
+      }
+      .submit {
+          background-color: #4CAF50; /* Green */
+      }
+      .reset {
+          background-color: #f44336; /* Red */
+      }
+      .solution {
+          background-color: #008CBA; /* Blue */
+      }
+      #showMarks {
+	        font-weight: bold;
+      }
+    </style>
+    <script type="text/javascript" src='js/jquery.js'></script>
+    <script type="text/javascript" src='js/jainExam.js'></script>
+    <script type="text/javascript" src="js/alertify.js"></script>
+    <script type="text/javascript" src="js/notify.js"></script>
+  </head>
+  <body oncopy="return false" onpaste="return false" oncut="return false">
+    <div id="para1"><h2 align=center>कर्म उदय / बंध व्युछित्ति</h2>
+    <span class=incrExamFontSz>&#x1f5da;</span> <span class=decExamFontSz float=right>&#x1f5db;</span>
+    <script>
+      var d = new Date();
+	  var myStorageID="karmUdayBandhSatta";
+      document.write("<h5 align=right>" + d.getDate() + "-" + monthNames[d.getMonth()] + "-" + d.getFullYear() + "</align></h3>");
+    </script>
+    <form name=myForm id=form>
+    <table cellspacing=5>
+        <tr><td><p style="font-size:2vw">UserName : </font></td><td><input type=text name=mainUname id=myName></td></tr>
+    <!--tr><td>MobileNo</td><td><input type=text name=MobileNo id=myMobile></td></tr>
+        <tr><td>eMail</td><td><input type=text name=eMail id=myEmail></td></tr-->
+    </table>
+    <div id=showGif align=center style="visibility:hidden"><img src="images/LookHere.gif" alt="HTML tutorial" width=100 height=100>
+      <font size=50><div id=showMarks align=center></div></font>
+    </div>
+    <button type="button" class=reset onclick="resetVals(); return false;" style='float:right;margin:20'>Reset</button>
+    <button class=solution type="button" name="submit" value="submit" style='float:right;margin : 20;'>Solve</button>
+    <button class=submit type="button" name="submit" value="submit" style='float:right;margin : 20;'>Submit</button><BR><BR></div><hr><BR>
+    <div id=mainPaper>
+    <script>
+      var qColumn=["१ इन्द्रिय जाति	       ", "२ इन्द्रिय जाति	       ", "५ इन्द्रिय जाति	       ", "अगुरुलघु		   ", "अनंतानुबंधी लोभ               ", "अनादेय	       ", "अपर्याप्त	       ", "अप्रत्याख्यानावरण क्रोध      ", "अप्रशस्त विहायोगति          ", "अयशःकीर्ति	       ", "अवधि दर्शानावरण             ", "अशुभ	           ", "असाता वेदनीय	   ", "अस्थिर	           ", "आतप	           ", "आदेय	           ", "आहारक शरीर	   ", "उच्च गोत्र	       ", "उच्छवास	       ", "उद्योत	           ", "उपघात	       ", "औदारिक शरीर	   ", "कीलक संहनन	   ", "केवल ज्ञानावरण                 ", "गंध	           ", "चक्षु दर्शानावरण	   ", "जुगुप्सा	       ", "तिर्यंच आयु	       ", "तिर्यंच गति	       ", "तीर्थंकर	       ", "तैजस शरीर	       ", "त्रस	           ", "दु स्वर	           ", "दुर्भग		       ", "देव आनुपूर्व्य 	       ", "देव आयु	       ", "देव गति	       ", "नपुंसक वेद	       ", "नरक आनुपूर्व्य	   ", "नरक आयु	       ", "नरक गति	       ", "नाराच संहनन	       ", "निद्रा	    	   ", "निर्माण		       ", "नीच गोत्र		   ", "परघात		       ", "पर्याप्त		       ", "पुरुष वेद		   ", "प्रचला		       ", "प्रचला-प्रचला	       ", "प्रत्याख्यानावरण मान          ", "प्रत्येक		       ", "प्रशस्त विहायोगति	   ", "बादर		       ", "मनुष्य आयु		   ", "मनुष्य गति		   ", "यशःकीर्ति		   ", "रति		       ", "लाभान्ताराय		   ", "वज्रवृषभनाराच संहनन       ", "वीर्यान्ताराय		   ", "वैक्रियिक अंगोपांग	   ", "शुभ		       ", "शोक		       ", "श्रुत ज्ञानावरण 		   ", "संज्ज्वलन क्रोध	       ", "संज्ज्वलन लोभ	       ", "सम्यक प्रकृति	       ", "सम्यकमिथ्यात्व	   ", "साता वेदनीय		   ", "साधारण		   ", "सुभग		       ", "सुस्वर		       ", "सूक्ष्म		       ", "स्त्री वेद		   ", "स्थावर		       ", "स्थिर		       ", "हास्य		       "];
+      var aColumn=[" 1 मिथ्यात्व गुणस्थान", " 2 सासादन गुणस्थान", " 3 मिश्र गुणस्थान", " 4 अविरत सम्यक्त्व गुणस्थान", " 5 देशविरत गुणस्थान", " 6 प्रमत्तविरत गुणस्थान", " 7 अप्रमत्तविरत गुणस्थान", " 8 अपूर्वकरण गुणस्थान", " 9 अनिवृत्तिकरण गुणस्थान", "10 सूक्ष्म साम्पराय गुणस्थान", "11 उपशान्त मोह गुणस्थान", "12 क्षीणमोह गुणस्थान", "13 सयोगकेवली गुणस्थान", "14 अयोगकेवली गुणस्थान", "-NA-"];
+      var aRow=["बंध", "उदय", "सत्त्व"];
+      var ans=[2, 4, 12, 5, 7, 15, 15, 22, 23, 18, 24, 25, 15, 16, 22, 18, 21, 32, 20, 21, 35, 26, 27, 31, 27, 39, 41, 34, 33, 44, 41, 44, 45, 40, 48, 50, 43, 52, 53, 46, 54, 56, 44, 45, 54, 54, 61, 62, 57, 56, 65, 62, 67, 68, 63, 69, 71, 60, 64, 69, 69, 75, 77, 68, 78, 80, 69, 75, 83, 80, 83, 84, 81, 87, 89, 86, 89, 90, 87, 88, 90, 84, 88, 89, 87, 91, 96, 96, 103, 104, 99, 105, 107, 102, 109, 110, 99, 111, 113, 102, 105, 116, 111, 108, 114, 113, 111, 115, 117, 114, 120, 113, 122, 123, 116, 120, 126, 119, 123, 124, 122, 126, 132, 126, 136, 140, 135, 140, 141, 138, 144, 146, 135, 139, 149, 144, 150, 152, 147, 154, 155, 151, 152, 153, 153, 158, 159, 150, 155, 159, 156, 157, 160, 162, 168, 170, 165, 171, 173, 168, 175, 176, 167, 178, 179, 170, 181, 182, 179, 184, 185, 180, 181, 183, 185, 188, 189, 182, 192, 194, 191, 194, 195, 192, 189, 200, 195, 201, 203, 196, 199, 201, 203, 206, 207, 205, 206, 207, 208, 210, 211, 217, 210, 211, 220, 209, 214, 221, 223, 224, 212, 213, 222, 222, 229, 230, 225, 231, 233, 221, 222, 231, 225, 233, 234, 227, 229, 237, 237, 243, 245, 240, 241, 243];
+      createTableGridChose("नीचे दिये गए कर्मों के बंध / उदय / सत्त्व नाना जीवों की अपेक्षा किस गुणस्थान तक पाया जाता है - (सत्त्व में क्षपक श्रेणी को प्राथमिकता देवें) ।", qColumn, aColumn, aRow, ans);
+      </script>
+      </div>
+      <br> <hr> <br>
+      <button class=submit type="button" name="submit" value="submit" style="float:right;">Submit</button>
+      <script>restoreAns();</script>
+    </form>
+  </body>
+</html>

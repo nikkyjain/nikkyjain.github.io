@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Flot</title>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.js"></script>
+	<!--script type="text/javascript" src="https://www.flotcharts.org/flot/source/jquery.canvaswrapper.js"></script-->
+	<!--script type="text/javascript" src="https://www.flotcharts.org/flot/source/jquery.colorhelpers.js"></script-->
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/flot/0.8.3/jquery.colorhelpers.js"></script>
+	<!--script type="text/javascript" src="https://www.flotcharts.org/flot/source/jquery.flot.js"></script-->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/flot/0.8.3/jquery.flot.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/flot/0.8.3/jquery.flot.selection.js"></script>
+	<!--script type="text/javascript" src="https://www.flotcharts.org/flot/source/jquery.flot.selection.js"></script-->
+	<script type="text/javascript" src="https://www.flotcharts.org/flot/source/jquery.flot.stack.js"></script>
+	<!--script type="text/javascript" src="https://www.flotcharts.org/flot/source/jquery.flot.saturated.js"></script>
+	<script type="text/javascript" src="https://www.flotcharts.org/flot/source/jquery.flot.browser.js"></script>
+	<script type="text/javascript" src="https://www.flotcharts.org/flot/source/jquery.flot.drawSeries.js"></script>
+	<script type="text/javascript" src="https://www.flotcharts.org/flot/source/jquery.flot.uiConstants.js"></script-->
+	<!--script type="text/javascript" src="https://www.flotcharts.org/flot/source/jquery.flot.legend.js"></script-->
+  <!--script type="text/javascript" src="https://www.flotcharts.org/flot/source/jquery.flot.symbol.js"></script-->
+  <!--script type="text/javascript" src="https://www.flotcharts.org/flot/source/jquery.flot.hover.js"></script-->
+  <script type="text/javascript" src="https://www.flotcharts.org/flot/source/jquery.flot.resize.js"></script>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/flot.tooltip/0.9.0/jquery.flot.tooltip.js"></script>
+  <!--script type="text/javascript" src="http://www.benjaminbuffet.com/public/js/jquery.flot.orderBars.js"></script-->
+  <!--script type="text/javascript" src="jquery.flot.orderBars.js"></script-->
+	<script type="text/javascript" src="jquery.flot.axislabels.js"></script>
+  <script type="text/javascript" src="myFlot.js"></script>
+  
+	<script type="text/javascript">
+
+	$(function() {
+
+		var d1=[], d2=[], d3=[], d4=[], d5=[], d6=[], d7=[], d8=[], names=[];
+		for (var i = 1; i <= 100; i += 1) {
+			d1.push([i, parseInt(Math.random() * 30)+1]);
+			d2.push([i, parseInt(Math.random() * 30)+1]);
+			d3.push([i, parseInt(Math.random() * 30)+1]);
+			d4.push([i, parseInt(Math.random() * 30)+1]);
+			d5.push([i+.5, parseInt(Math.random() * 30)+1]);
+			d6.push([i+.5, parseInt(Math.random() * 30)+1]);
+			d7.push([i+.5, parseInt(Math.random() * 30)+1]);
+			d8.push([i+.5, parseInt(Math.random() * 30)+1]);
+      //names.push([i,'run_'+i]);
+		}
+    var data = [
+        {label: 'time2exec',   data: d1},
+        {label: 'time2sim',    data: d2},
+        {label: 'simWallTime', data: d3},
+        {label: 'postSimTime', data: d4},
+        /*{label: 'time2exec',   data: d5},
+        {label: 'time2sim',    data: d6},
+        {label: 'simWallTime', data: d7},
+        {label: 'postSimTime', data: d8}*/
+    ];
+    
+    drawFlotStackBar('flotChart', data, 2);
+
+	});
+  
+
+	</script>
+</head>
+<body>
+
+	<div id="content">
+
+		<div class="demo-container" style="height:600px;">
+			<div id="flotChart" class="demo-flotChart" style="height:100%;" ></div>
+      </div>
+      <button id=resetZoom value="reset" type="button" style="float:right">Reset Zoom</button>
+		</div>
+	</div>
+</body>
+</html>

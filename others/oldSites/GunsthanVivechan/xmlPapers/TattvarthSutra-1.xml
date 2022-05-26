@@ -1,0 +1,512 @@
+﻿<quePaper>
+    <title>तत्वार्थ मंजुषा - अध्याय 1</title>
+    <queBlocks>
+        <queBlock>
+            <qType>TRUE_FALSE</qType>
+            <que>
+                <des>तर्क ज्ञान के लिये अनुमान ज्ञान जरूरी है</des>
+                <ans>0</ans>
+            </que>
+            <que>
+                <des>अनुमान ज्ञान प्रमाण ज्ञान भी हो सकता है</des>
+                <ans>1</ans>
+            </que>
+            <que>
+                <des>पहले सूत्र में साक्षात् (निश्चय) मोक्षमार्ग का कथन किया गया है</des>
+                <ans>1</ans>
+            </que>
+            <que>
+                <des>क्षायिक सम्यग्दर्शन अधिगमज ही होता है क्योंकि वह तीर्थंकर आदि के पादमूल में ही होता है</des>
+                <ans>0</ans>
+            </que>
+            <que>
+                <des>नय और प्रमाण सम्यक भी होते हैं और मिथ्या भी</des>
+                <ans>1</ans>
+            </que>
+            <que>
+                <des>भाव निक्षेप पर्यायाथिक नय का विषय है</des>
+                <ans>1</ans>
+            </que>
+            <que>
+                <des>सम्यकद्रष्टी का ज्ञान प्रत्यक्ष और मिथ्याद्रष्टी का ज्ञान परोक्ष होता है</des>
+                <ans>0</ans>
+            </que>
+            <que>
+                <des>सम्यक चारित्र सम्यक ज्ञान पूर्वक ही होता है</des>
+                <ans>1</ans>
+            </que>
+            <que>
+                <des>स्थापना तो नाम अवश्य होगी, परन्तु जिसका नाम रखा है उसकी स्थापना हो भी, न भी हो</des>
+                <ans>1</ans>
+            </que>
+            <que>
+                <des>किसी विषय का सम्पूर्ण ज्ञान ही प्रमाण ज्ञान है</des>
+                <ans>0</ans>
+            </que>
+            <que>
+                <des>नय प्रमाण से पूज्य है</des>
+                <ans>0</ans>
+            </que>
+            <que>
+                <des>आप एक ही समय में कथंचित जीव और कथंचित अजीव हैं</des>
+                <ans>1</ans>
+            </que>
+            <que>
+                <des>निर्देशादि प्रमाण रूप भी होते हैं और नय रूप भी</des>
+                <ans>1</ans>
+            </que>
+            <que>
+                <des>शुद्ध जीव आदि तत्वार्थों का श्रद्धानरूप सराग सम्यक्त्व है</des>
+                <ans>1</ans>
+            </que>
+            <que>
+                <des>नपुंसक वेद वाला क्षायिक सम्यक्त्वी हो सकता है</des>
+                <ans>1</ans>
+            </que>
+            <que>
+                <des>कान से सुनकर ज्ञान करना श्रुत ज्ञान है</des>
+                <ans>0</ans>
+            </que>
+            <que>
+                <des>अवधिज्ञान से शुद्ध जीव नहीं जाना जा सकता</des>
+                <ans>1</ans>
+            </que>
+            <que>
+                <des>परोक्ष ज्ञान प्रमाण हो सकता है</des>
+                <ans>1</ans>
+            </que>
+            <que>
+                <des>परोक्ष ज्ञान मूर्तिक को ही जान सकता है</des>
+                <ans>0</ans>
+            </que>
+            <que>
+                <des>मन के द्वारा व्यंजन अवग्रह नहीं होता</des>
+                <ans>1</ans>
+            </que>
+            <que>
+                <des>मति ज्ञान के द्वारा द्रव्य और पर्याय दोनों का जानना होता है</des>
+                <ans>1</ans>
+            </que>
+            <que>
+                <des>ऋद्धिधारी मुनि के ही मनःपर्ययज्ञान होता है</des>
+                <ans>1</ans>
+            </que>
+            <que>
+                <des>मति और श्रुतज्ञान से सिर्फ़ रूपी पदार्थों को जाना जा सकता है</des>
+                <ans>0</ans>
+            </que>
+            <que>
+                <des>तीनों प्रकार के सम्यक्त्वियों (क्षायोपशमिक / औपशमिक / क्षायिक) को सर्वावधिज्ञान हो सकता है</des>
+                <ans>1</ans>
+            </que>
+            <que>
+                <des>कुश्रुतज्ञान परोक्ष प्रमाण ज्ञान होता है</des>
+                <ans>0</ans>
+            </que>
+            <que>
+                <des>विभंगावधि ज्ञान गुणप्रत्यय और भवप्रत्यय दोनों प्रकार का होता है</des>
+                <ans>1</ans>
+            </que>
+            <que>
+                <des>केवलज्ञान होने पर मति आदि ज्ञान अत्यंत हीन हो जाते हैं जैसे दिन में सूर्य से तिरोहित नक्षत्र, तारा आदि</des>
+                <ans>0</ans>
+            </que>
+            <que>
+                <des>जीव के उपयोग में एक बार में एक ही ज्ञान होता है</des>
+                <ans>1</ans>
+            </que>
+            <que>
+                <des>विपुलमति मन:पर्यय ज्ञानी या तो क्षायिक सम्यक्त्वी होते हैं नहीं तो उसी भव में क्षायिक सम्यक्त्व प्राप्त कर लेते हैं</des>
+                <ans>1</ans>
+            </que>
+            <que>
+                <des>परमावधिज्ञान का विषय सर्वावधिज्ञान से अधिक है</des>
+                <ans>0</ans>
+            </que>
+            <que>
+                <des>गुणप्रत्यय अवधिज्ञान का दूसरा नाम क्षयोपशम निमित्त्क अवधिज्ञान है</des>
+                <ans>1</ans>
+            </que>
+            <que>
+                <des>अनुदिश विमानों के देवों में सम्यक्त्व प्राप्ति का एक कारण जाति-स्मरण है</des>
+                <ans>0</ans>
+            </que>
+            <que>
+                <des>एक ही वस्तु को विषय करने वाला सद्भूत व्यवहारनय और भिन्न वस्तु को विषय करने वाला असद्भूत व्यवहारनय होता है</des>
+                <ans>1</ans>
+            </que>
+            <que>
+                <des>अवधिज्ञान रूपी पदार्थ के स्पर्श-रस-गंध-वर्ण सबको जानता है</des>
+                <ans>1</ans>
+            </que>
+            <que>
+                <des>संयतासंयत औपशमिक सम्यक्त्वी असंख्यात हैं </des>
+                <ans>1</ans>
+            </que>
+            <que>
+                <des>नैगम से एवंभूत नय तक विषय स्थूल होता जाता है</des>
+                <ans>0</ans>
+            </que>
+            <que>
+                <des>द्रव्य द्रष्टि शुद्ध और पर्याय द्रष्टि की अशुद्ध होती है</des>
+                <ans>0</ans>
+            </que>
+        </queBlock>
+        <queBlock>
+            <qType>MTPL_CH</qType>
+            <que>
+                <des>अवधिज्ञान मुक्तिप्राप्ति या केवलज्ञान पर्यन्त जैसे का तैसा बना रहे, न बड़े और न घटे वह _________ अवधिज्ञान है</des>
+                <ans>5</ans>
+                	<choices><choice>अनुगामी</choice><choice>अननुगामी</choice><choice>वर्द्धमान</choice><choice>हीयमान</choice><choice>अवस्थित</choice><choice>अनवस्थित</choice></choices>
+            </que>
+            <que>
+                <des>कुअवधिज्ञान में __________ ही होते हैं</des>
+                <ans>4</ans>
+                <choices><choice>संशय</choice><choice>विपर्यय</choice><choice>अनध्यवसाय</choice><choice>विपर्यय,अनध्यवसाय</choice><choice>संशय,विपर्यय</choice><choice>संशय,विपर्यय,अनध्यवसाय</choice></choices>
+            </que>
+            <que>
+                <des>अनिबद्ध मंगल - ग्रन्थ की आदि में ग्रन्थकार द्धारा -</des>
+                <ans>1</ans>
+                <choices>
+		<choice>देवता को मन वचन काय से नमस्कार करना, लीपिबद्ध नहीं करना</choice>
+		<choice>देवता को नमस्कार लीपिबद्ध करना</choice>
+		<choice>देवता को नमस्कार लीपिबद्ध नहीं करना</choice>
+		<choice>किसी और ग्रंथ का मंगलाचरण अपने ग्रंथ में लीपिबद्ध करना</choice>
+		<choice>ग्रंथ के मध्य या अंत में मंगलाचरण करना</choice>
+	       </choices>
+            </que>
+            <que>
+                <des>सम्यक्त्व मार्गणा में एक जीव की अपेक्षा क्षायोपशमिक असंयतों में उत्कृष्ट अन्तर ________ है</des>
+                <ans>2</ans>
+                <choices><choice>साधिक तैंतीस सागर</choice><choice>कुछ कम एक पूर्व कोटी</choice><choice>कुछ कम छ्‌यासठ सागरोपम</choice><choice>वर्ष पृथक्त्व</choice></choices>
+            </que>
+            <que>
+                <des>सम्यक्त्व मार्गणा में एक जीव की अपेक्षा क्षायिक असंयत में उत्कृष्ट काल ________ है</des>
+                <ans>1</ans>
+                <choices><choice>साधिक तैंतीस सागर</choice><choice>कुछ कम एक पूर्व कोटी</choice><choice>कुछ कम छ्‌यासठ सागरोपम</choice><choice>वर्ष पृथक्त्व</choice></choices>
+            </que>
+            <que>
+                <des>शुद्ध ऋजुसूत्र नय से __________ है</des>
+                <ans>1</ans>
+	      <choices><choice>एक समय की पर्याय ही द्रव्य</choice>
+	      <choice>द्रव्य कुछ नहीं होता बस पर्याय होती</choice>
+	      <choice>द्रव्य नित्य होता है लेकिन पर्याय एक समय की होती</choice>
+	      <choice>द्रव्य और पर्यायें नित्य होती है</choice>
+	      <choice>पर्यायें शुद्ध होती है</choice></choices>
+            </que>
+            <que>
+                <des>नैगम नय ____________ को मुख्य गौण करके विषय करता है [धर्म=गुण, धर्मी=द्रव्य]</des>
+                <ans>4</ans>
+                <choices><choice>2 धर्मी</choice><choice>2 धर्म</choice><choice>धर्मी-धर्म</choice><choice>तीनों में से कोइ भी एक</choice></choices>
+            </que>
+            <que>
+                <des>नैगम आदि सात नयों में से ______ द्रव्यार्थिक हैं ______ पर्यायार्थिक हैं</des>
+                <ans>1</ans>
+                <choices><choice>3,4</choice><choice>4,3</choice>1,6<choice>6,1</choice><choice>2,5</choice></choices>
+            </que>
+            <que>
+                <des>वर्द्धमान स्वामी के समय में ______ अन्तकृत केवली हुए हैं </des>
+                <ans>5</ans>
+                <choices><choice>1</choice><choice>2</choice><choice>3</choice><choice>6</choice><choice>10</choice><choice>12</choice></choices>
+            </que>
+            <que>
+                <des>नैगम आदि सात नयों में से ______ अर्थ नय हैं ______ शब्द नय हैं</des>
+                <ans>2</ans>
+                <choices><choice>3,4</choice><choice>4,3</choice>1,6<choice>6,1</choice><choice>2,5</choice></choices>
+            </que>
+            <que>
+                <des>आत्मा और कर्मप्रदेशों का परस्पर मिल जाना ________ है</des>
+                <ans>2</ans>
+                <choices><choice>आस्रव</choice><choice>बंध</choice><choice>संवर</choice><choice>आस्रव या बंध</choice></choices>
+            </que>
+            <que>
+                <des>बारहवें __________ अंग के 5 भेद में से चौथे भेद पूर्वगत के ________ भेद हैं</des>
+                <ans>2</ans>
+                <choices><choice>दृष्टिवादांग,11</choice><choice>दृष्टिवादांग,14</choice><choice>समवायांग,11</choice><choice>समवायांग,14</choice></choices>
+            </que>
+            <que>
+                <des>मूल शरीर को न छोड्कर ______ का मूल शरीर से बाहर निकलना समुद्‍घात है</des>
+                <ans>1</ans>
+                <choices>
+		<choice>कार्मण और तैजस रूप उत्तर शरीर से युक्त जीव के प्रदेश समूह</choice>
+		<choice>कार्मण और तैजस रूप उत्तर शरीर</choice>
+		<choice>तैजस रूप उत्तर शरीर से युक्त जीव के प्रदेश समूह</choice>
+		<choice>तैजस रूप उत्तर शरीर</choice>
+		<choice>जीव के प्रदेश समूह</choice>
+	      </choices>
+            </que>
+            <que>
+                <des>वस्तु के उत्पत्ति के कारण को ___________ कहते हैं।</des>
+                <ans>3</ans>
+                <choices><choice>निर्देश</choice><choice>स्वामित्व</choice><choice>साधन</choice><choice>अधिकरण</choice><choice>स्थिति</choice><choice>विधान</choice></choices>
+            </que>
+	  <que>
+	     <des>अक्षिप्र किसे कहते हैं?</des>
+	     <ans>2</ans>
+	     <choices><choice>शीघ्रता से जानना</choice><choice>धीरे-धीरे जानना</choice><choice>कहने पर जानना</choice><choice>नहीं कहने पर भी जानना</choice></choices>
+   	  </que>
+            <que>
+                <des>जीव के लब्धि में एक साथ __________ ज्ञान हो सकते हैं</des>
+                <ans>1</ans>
+                <choices><choice>1,2,3,4</choice><choice>1,2,3,4,5</choice><choice>1</choice><choice>1,2</choice><choice>2,3,4</choice></choices>
+            </que>
+            <que>
+                <des>अंगप्रविष्ट श्रुतज्ञान ________ प्रकार का होता है</des>
+                <ans>4</ans>
+                <choices><choice>4</choice><choice>5</choice><choice>11</choice><choice>12</choice></choices>
+            </que>
+            <que>
+                <des>प्रमाण ज्ञान वस्तु के ___________ अंश को विषय करता है</des>
+                <ans>3</ans>
+                <choices><choice>सामान्य</choice><choice>विशेष</choice><choice>सामान्य और विशेष</choice></choices>
+            </que>
+            <que>
+                <des>ज्ञान में विपरीतता ______ से आती है</des>
+                <ans>2</ans>
+                <choices><choice>स्वभाव (अपने आप)</choice><choice>मिथ्यादर्शन के उदय</choice><choice>मिथ्यादर्शन के उपशम</choice><choice>मिथ्यादर्शन के क्षय</choice></choices>
+            </que>
+            <que>
+                <des>अवधिज्ञान इन 9 विषयों में से ______ को विषय कर सकता है - जीव की संख्यात वर्ष आगे-पीछे की पर्याय, जीव की असंख्यात वर्ष आगे-पीछे की पर्याय, जीव की अनंत वर्ष आगे-पीछे की पर्याय, औदयिक भाव, क्षायोपशमिक भाव, पारिणामिक भाव, आकाश द्रव्य, काल द्रव्य, पुद्गल द्रव्य</des>
+                <ans>5</ans>
+                <choices><choice>1</choice><choice>2</choice><choice>3</choice><choice>4</choice><choice>5</choice><choice>6</choice><choice>7</choice><choice>8</choice><choice>9</choice></choices>
+            </que>
+            <que>
+                <des>अवग्रहादि ज्ञान के विषयभूत पदार्थों के ________ भेद हैं</des>
+                <ans>6</ans>
+                <choices><choice>2</choice><choice>4</choice><choice>6</choice><choice>8</choice><choice>10</choice><choice>12</choice></choices>
+            </que>
+            <que>
+                <des>________ नय पर्यायवाची शब्दों के प्रयोग को एक समान मानता है</des>
+                <ans>1</ans>
+                <choices><choice>शब्द</choice><choice>समभिरुढ</choice><choice>एवंभूत</choice><choice>शब्द और समभिरुढ</choice><choice>समभिरुढ और एवंभूत</choice></choices>
+            </que>
+            <que>
+                <des>मतिज्ञान के ____ भेद हैं</des>
+                <ans>3</ans>
+                <choices><choice>2</choice><choice>3</choice><choice>4</choice><choice>5</choice><choice>6</choice></choices>
+            </que>
+            <que>
+                <des>सम्यक्त्व मार्गणा में संयतासंयत जीव __________ हैं और क्षायिक सम्यक्त्वी _________ हैं</des>
+                <ans>3</ans>
+                <choices><choice>संख्यात,संख्यात</choice><choice>संख्यात,असंख्यात</choice><choice>असंख्यात,असंख्यात</choice><choice>असंख्यात,अनंत</choice><choice>अनंत,अनंत</choice></choices>
+            </que>
+            <que>
+                <des>इनमें से कौनसा नय वस्तु का निर्णय कराने में समर्थ है</des>
+                <ans>4</ans>
+	      <choices><choice>शुद्ध नय</choice><choice>अशुद्ध नय</choice><choice>शुद्धाशुद्ध नय</choice><choice>कोई भी नहीं</choice></choices>
+            </que>
+            <que>
+                <des>रागादि की मंदता होना _____ भाव है</des>
+                <ans>1</ans>
+                <choices><choice>प्रशम</choice><choice>संवेग</choice><choice>अनुकम्पा</choice><choice>आस्तिक्य</choice></choices>
+            </que>
+            <que>
+                <des>वस्तु के भेद-प्रभेद को _____ कहते हैं</des>
+                <ans>6</ans>
+                <choices><choice>निर्देश</choice><choice>स्वामित्व</choice><choice>साधन</choice><choice>अधिकरण</choice><choice>स्थिति</choice><choice>विधान</choice></choices>
+            </que>
+            <que>
+                <des>छदमस्थ जीवों को इन्द्रिय अगोचर मोक्ष का अस्तित्व ___ प्रमाण से जाना जाता है</des>
+                <ans>1</ans>
+                <choices><choice>आगम</choice><choice>प्रत्यक्ष</choice><choice>परोक्ष (तर्क-अनुमान)</choice></choices>
+            </que>
+            <que>
+                <des>इस ज्ञान का विषय क्षेत्र की अपेक्षा सबसे अधिक है</des>
+                <ans>3</ans>
+                <choices><choice>मति</choice><choice>श्रुत</choice><choice>अवधि</choice><choice>मन:पर्यय</choice></choices>
+            </que>
+            <que>
+                <des>इनमें से क्षायिक ज्ञान चुनिये</des>
+                <ans>5</ans>
+                <choices><choice>मति</choice><choice>श्रुत</choice><choice>अवधि</choice><choice>मन:पर्यय</choice><choice>केवल</choice></choices>
+            </que>
+            <que>
+                <des>यह वही मनुष्य है जिसे कल देखा था</des>
+                <ans>2</ans>
+                <choices><choice>स्मरण</choice><choice>प्रत्यभि</choice><choice>तर्क</choice><choice>अनुमान</choice></choices>
+            </que>
+            <que>
+                <des>__________ ज्ञान चरमशरीरियों को ही होते हैं</des>
+                <ans>3</ans>
+                <choices><choice>परमावधि और विपुलमति</choice>
+	      <choice>सर्वावधि और विपुलमति</choice><choice>परमावधि, सर्वावधि और विपुलमति</choice>
+	      <choice>ऋजुमति और सर्वावधि</choice><choice>ऋजुमति और परमावधि</choice>
+	      <choice>ऋजुमति, परमावधि, सर्वावधि और विपुलमति</choice></choices>
+            </que>
+            <que>
+                <des>तर्क का दूसरा नाम</des>
+                <ans>1</ans>
+                <choices><choice>उहा</choice><choice>इहा</choice><choice>अनुमान</choice><choice>प्रत्यभि</choice><choice>नय</choice><choice>प्रमाण</choice></choices>
+            </que>
+	  <que>
+	      <des>सुअवधिज्ञान के गुणस्थान</des>
+	      <ans>6</ans>
+	      <choices><choice>6-12</choice><choice>4-10</choice><choice>1-12</choice><choice>4-11</choice><choice>6-10</choice><choice>4-12</choice></choices>
+	   </que>
+	  <que>
+	      <des>कारक व्यभिचार __________ नय को स्वीकार नहीं है</des>
+	      <ans>5</ans>
+	      <choices><choice>शब्द</choice><choice>समभिरुढ</choice><choice>एवंभूत</choice><choice>समभिरुढ और एवंभूत</choice><choice>शब्द, समभिरुढ और एवंभूत</choice></choices>
+	   </que>
+        </queBlock>
+	<queBlock>
+		<qType>TABLE_GRID_CHOSE</qType>
+		<que>
+			<des>सम्यक दर्शन के स्वामी अवस्था के अनुसार चुनिये</des>
+			<qColumn>
+				<c>तिर्यंच (नर)</c>
+				<ans>1</ans><ans>3</ans><ans>3</ans>
+			</qColumn>
+			<qColumn>
+				<c>तिर्यंचिनी</c>
+				<ans>1</ans><ans>1</ans><ans>4</ans>
+			</qColumn>
+			<qColumn>
+				<c>वैमानिक देव</c>
+				<ans>3</ans><ans>3</ans><ans>3</ans>
+			</qColumn>
+			<qColumn>
+				<c>भवनत्रिक देव</c>
+				<ans>1</ans><ans>1</ans><ans>4</ans>
+			</qColumn>
+			<qColumn>
+				<c>देवांगना</c>
+				<ans>1</ans><ans>1</ans><ans>4</ans>
+			</qColumn>
+			<qColumn>
+				<c>मनुष्य (नर)</c>
+				<ans>1</ans><ans>3</ans><ans>3</ans>
+			</qColumn>
+			<qColumn>
+				<c>मनुष्यिनी</c>
+				<ans>1</ans><ans>1</ans><ans>1</ans>
+			</qColumn>
+			<qColumn>
+				<c>नारकी (प्रथम नरक)</c>
+				<ans>1</ans><ans>3</ans><ans>3</ans>
+			</qColumn>
+			<qColumn>
+				<c>नारकी (2-7 नरक)</c>
+				<ans>1</ans><ans>1</ans><ans>4</ans>
+			</qColumn>
+			<aRow>
+				<c>औपशमिक</c>
+				<c>क्षायोपशमिक</c>
+				<c>क्षायिक</c>
+			</aRow>
+			<aColumn>
+				<c>पर्याप्त अवस्था में</c>
+				<c>अपर्याप्त अवस्था में</c>
+				<c>दोनों अवस्था में</c>
+				<c>दोनों अवस्था में नहीं</c>
+			</aColumn>
+		</que>
+	</queBlock>
+	<queBlock>
+		<qType>TABLE_CHOSE</qType>
+		<que>
+			<des>कौनसा जीव किस प्रकार की चेतना को भोगता है</des>
+			<qColumn>
+				<c>निगोदिया</c>
+				<c>वायुकायिक</c>
+				<c>चींटी</c>
+				<c>मिथ्याद्रष्टि देव</c>
+				<c>क्षायिक सम्यक्त्वी नारकी</c>
+				<c>उपशान्त मोही मुनि</c>
+				<c>केवली भगवान</c>
+  			</qColumn>
+			<answers>
+				<ans>2</ans>
+				<ans>2</ans>
+				<ans>4</ans>
+				<ans>4</ans>
+				<ans>5</ans>
+				<ans>3</ans>
+				<ans>3</ans>
+			</answers>
+			<aColumn>
+				<c>कर्म</c>
+				<c>कर्मफ़ल</c>
+				<c>ज्ञान</c>
+				<c>कर्म,कर्मफ़ल</c>
+				<c>कर्म,कर्मफ़ल,ज्ञान</c>
+			</aColumn>
+		</que>
+		<que>
+			<des>नीचे दिये वाक्य किस नय से कहे गए हैं</des>
+			<qColumn>
+				<c>स्फ़टिक मणी किसी भी अवस्था में सफ़ेद ही है</c>
+				<c>मैं छह फ़ुट लंबा हूं</c>
+				<c>जीव ज्ञान-दर्शन वाला होता है</c>
+				<c>मैं कार चलाता हूं</c>
+				<c>सम्यक्त्व संज्ञी पंचेंद्रिय को ही हो सकता है</c>
+				<c>जीव राग द्वेष मय है</c>
+				<c>सभी द्रव्य सत्तात्मक होने से एक जैसे हैं</c>
+				<c>खडगासन या पद्मासन अवस्था में मोक्ष होता है</c>
+				<c>क्षायिक सम्यक्त्वी मोक्ष सुख को भोगते हैं</c>
+				<c>सम्यक्त्वी का ज्ञान सिद्ध समान है</c>
+				<c>मैं अपने कर्मोदय से सुखी-दुखी होता हूं</c>
+				<c>अप्रत्याख्यानावरणी कषाय के उदय से जीव को चतुर्थ गुणस्थान होता है</c>
+				<c>जीव अपने राग द्वेष से दुखी होता है</c>
+				<c>कर्म के क्षय से मोक्ष होता है</c>
+				<c>जीव के ज्ञान, दर्शन, सुख, बंध, मोक्ष आदि कुछ नहीं, जीव तो ज्ञायक है</c>
+				<c>देव अवधिज्ञान वाले होते हैं</c>
+  			</qColumn>
+			<answers>
+				<ans>1</ans>
+				<ans>7</ans>
+				<ans>5</ans>
+				<ans>8</ans>
+				<ans>7</ans>
+				<ans>4</ans>
+				<ans>1</ans>
+				<ans>7</ans>
+				<ans>2</ans>
+				<ans>3</ans>
+				<ans>7</ans>
+				<ans>7</ans>
+				<ans>4</ans>
+				<ans>7</ans>
+				<ans>1</ans>
+				<ans>6</ans>
+			</answers>
+			<aColumn>
+				<c>परम शुद्ध निश्चय नय</c>
+				<c>शुद्ध निश्चय नय</c>
+				<c>एकदेश शुद्ध निश्चय नय</c>
+				<c>अशुद्ध निश्चय नय</c>
+				<c>अनुपचरित सद्भूत व्यवहारनय</c>
+				<c>उपचरित सद्भूत व्यवहारनय</c>
+				<c>अनुपचरित असद्भूत व्यवहारनय</c>
+				<c>उपचरित असद्भूत व्यवहारनय</c>
+			</aColumn>
+		</que>
+	</queBlock>
+	<queBlock>
+		<qType>MATCH_THE_COLUMN</qType>
+		<que>
+			<des>सूत्र 7</des>
+			<tr>
+				<left>वस्तु किसकी है</left>
+				<right>निर्देश</right>
+				<ans>2</ans>
+				<left>वस्तु कहां है</left>
+				<right>स्वामित्व</right>
+				<ans>4</ans>
+				<left>वस्तु कौन सी है</left>
+				<right>साधन</right>
+				<ans>1</ans>
+				<left>कब-कब पाई जाती है</left>
+				<right>अधिकरण</right>
+				<ans>5</ans>
+				<left>इसके भेद कितने हैं</left>
+				<right>स्थिति</right>
+				<ans>6</ans>
+				<left>कैसे प्राप्त की जाती है</left>
+				<right>विधान</right>
+				<ans>3</ans>
+  			</tr>
+		</que>
+	</queBlock>
+    </queBlocks>
+</quePaper>

@@ -1,0 +1,27 @@
+
+@import url("myCss.css");
+@import url("style.css");
+@import url("jquery.dropdown.css");
+
+  .mainTitle 	   		{ font-size : 30; }
+  .titleContainer  		{ font-size : 20; }
+  .bottomContainer 		{ font-size : 20; }
+  .tikaTopContainer		{ text-align : left; }
+  .shortFont   			{ font-size : 15; color : purple; }
+  .tikaContainer   		{ font-size : 20; text-align : center; }
+  .teekaContainer  		{ font-size : 20; text-align : center; }
+  .topContainer    		{ font-size : 20; }
+  .display    	   		{ font-size : 20; border-spacing: 2px; table-layout:fixed; }
+  .display b   	   		{ color : #330000; }
+  .display td      		{ 
+	  vertical-align: text-top; 
+	  padding: 15px; 
+	  text-align : justify; 
+	  background-color: #F8F8F8;
+      line-height: 150%; 
+  }
+  /*.arthContainer td 	{ text-align : center; }*/
+  .arthTable td 		{ padding: 1px; text-align : center; }
+  /*.arthContainer table 	{ text-align : center; }*/
+  .arthContainer  		{ color: indigo; line-height: 150%; }
+  .arthContainer b		{ color: maroon; }

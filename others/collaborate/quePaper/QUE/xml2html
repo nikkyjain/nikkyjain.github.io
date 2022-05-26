@@ -1,0 +1,213 @@
+#!/usr/bin/perl
+
+# ----------------------------------------------------------------------
+#   Copyright 2013 Vishal Jain.
+# ----------------------------------------------------------------------
+
+use strict;
+use Getopt::Long;
+use XML::LibXML;
+use Encode qw/encode_utf8 decode_utf8/;
+
+
+our $myVars = {
+  # Value Options
+  inFile              =>"",
+  outDir              =>".",
+  outFile             =>"index",
+  # Flag Options
+  Dbg                 =>0,
+  jsInHtml            =>0,
+  help                =>0,
+  version             =>0,
+};
+
+# Get Options
+my $options = GetOptions (
+  "i=s"      => \$myVars->{inFile},    # Input file - string
+  "d=s"      => \$myVars->{outDir},    # Output Dir - string
+  "o=s"      => \$myVars->{oFile},     # Output File - string
+  "js"       => \$myVars->{jsInHtml},  # Man, help
+  "help"     => \$myVars->{help},      # Man, help
+  "version"  => \$myVars->{version},   # Print version
+);
+
+
+sub help {
+  my $usage = <<EOS;
+  
+HELP :
+-----------------------------------------------------------------------------------------------
+    Required Arguments
+    ==================
+    -i <fileName>    input ipxact (XML) file
+    -h[elp]          Man, help
+
+    Typical usage example
+    =====================
+    a) Help Menu / 'man'
+       $0 -h
+
+    b) Generate HTML code i/p file=input.xml
+       $0 -i input.xml
+
+-----------------------------------------------------------------------------------------------
+EOS
+  print STDOUT "$usage\n";
+}
+
+use Term::ANSIColor qw(:constants);
+
+if ($myVars->{version}) {
+  print STDOUT BOLD BLUE "<++> Vishal's xml2html version 1.0\n", RESET;
+  exit;
+}
+
+if ($myVars->{help}) {
+  help();
+  exit;
+}
+
+if(!$myVars->{inFile}) { help(); print STDOUT ("*Err20 : \"-i <inputFile> Option Required.\"\n"); exit}
+if(!(-e $myVars->{inFile})) { help(); print STDOUT ("*Err21 : \"File '$myVars->{inFile}' doesnt exist. Quitting...\"\n"); exit }
+if(!(-r $myVars->{inFile})) { help(); print STDOUT ("*Err22 : \"No read permission for File $myVars->{inFile}. Quitting...\"\n"); exit}
+if(!(-e $myVars->{outDir})) {
+  print STDOUT ("<++> *W => \"Output directory '$myVars->{outDir}' doesnt exist. Trying to create ..\"\n");
+  if(!(mkdir $myVars->{outDir})) {
+    help(); 
+    print STDOUT ("*Err23 : \"Cannot create output directory '$myVars->{outDir}'. Quitting ..\"\n");
+    exit;
+  }
+}
+
+binmode STDOUT, ':utf8';
+
+require "QUE/COMMON.pm";
+require "QUE/MULTIPLE_CHOICE.pm";
+require "QUE/MATCH_THE_COLUMN.pm";
+require "QUE/TRUE_FALSE.pm";
+require "QUE/TABLE_CHOSE.pm";
+require "QUE/TABLE_GRID_CHOSE.pm";
+require "QUE/GRID.pm";
+require "QUE/QUES.pm";
+
+# create object
+my $xml = new XML::LibXML;
+
+# read XML file
+my $data = $xml->parse_file($myVars->{inFile});
+my $queNo=1;
+#print STDOUT "<++> XML parsed. Started decoding\n";
+
+sub decode_queBlock {
+  my $data=shift;
+  my $qDb=shift;
+  my $que;
+  my $qType;
+  $qType=$_->textContent() foreach($data->getChildrenByTagName("qType"));
+  if($qType eq "MTPL_CH") {
+    foreach my $q ($data->findnodes("que")) {
+      $que=MULTIPLE_CHOICE->new();
+      $que->qType($qType);
+      $que->que($_->textContent()) foreach($q->getChildrenByTagName("des"));
+      $que->answer($_->textContent()+$queNo++) foreach($q->getChildrenByTagName("ans"));
+      foreach my $c ($q->findnodes("choices")) {
+        $que->choice($_->textContent()) foreach($c->getChildrenByTagName("choice"));
+      }
+      $qDb->ques($que);
+    }
+  }
+  if($qType eq "MATCH_THE_COLUMN") {
+    foreach my $q ($data->findnodes("que")) {
+      $que=TABLE_CHOSE->new() if $qType eq "TABLE_CHOSE";
+      $que=MATCH_THE_COLUMN->new() if $qType eq "MATCH_THE_COLUMN";
+      $que->qType($qType);
+      $que->description($_->textContent()) foreach($q->getChildrenByTagName("des"));
+      foreach my $tr ($q->findnodes("tr")) {
+        $que->qColumn($_->textContent()) foreach($tr->getChildrenByTagName("left"));
+        $que->aColumn($_->textContent()) foreach($tr->getChildrenByTagName("right"));
+        $que->answers($_->textContent()+$queNo++) foreach($tr->getChildrenByTagName("ans"));
+      }
+      $qDb->ques($que);
+    }
+  }
+  if($qType eq "TABLE_CHOSE") {
+    foreach my $q ($data->findnodes("que")) {
+      $que=TABLE_CHOSE->new() if $qType eq "TABLE_CHOSE";
+      $que=MATCH_THE_COLUMN->new() if $qType eq "MATCH_THE_COLUMN";
+      $que->qType($qType);
+      $que->description($_->textContent()) foreach($q->getChildrenByTagName("des"));
+      foreach my $c ($q->findnodes("qColumn")) {
+        $que->qColumn($_->textContent()) foreach($c->getChildrenByTagName("c"));
+      }
+      foreach my $a ($q->findnodes("aColumn")) {
+        $que->aColumn($_->textContent()) foreach($a->getChildrenByTagName("c"));
+      }
+      foreach my $a ($q->findnodes("answers")) {
+        $que->answers($_->textContent()+$queNo++) foreach($a->getChildrenByTagName("ans"));
+      }
+      $qDb->ques($que);
+    }
+  }
+  if($qType eq "TABLE_GRID_CHOSE") {
+    foreach my $q ($data->findnodes("que")) {
+      $que=TABLE_GRID_CHOSE->new();
+      $que->qType($qType);
+      $que->description($_->textContent()) foreach($q->getChildrenByTagName("des"));
+      foreach my $c ($q->findnodes("qColumn")) {
+        $que->qColumn($_->textContent()) foreach($c->getChildrenByTagName("c"));
+        $que->answers($_->textContent()+$queNo++) foreach($c->getChildrenByTagName("ans"));
+      }
+      foreach my $a ($q->findnodes("aColumn")) {
+        $que->aColumn($_->textContent()) foreach($a->getChildrenByTagName("c"));
+      }
+      foreach my $a ($q->findnodes("aRow")) {
+        $que->aRow($_->textContent()) foreach($a->getChildrenByTagName("c"));
+      }
+      $qDb->ques($que);
+    }
+  }
+  if($qType eq "GRID") {
+    foreach my $q ($data->findnodes("que")) {
+      $que=GRID->new();
+      $que->qType($qType);
+      $que->description($_->textContent()) foreach($q->getChildrenByTagName("des"));
+      $que->solveDir($_->textContent()) foreach($q->getChildrenByTagName("solveDir"));
+      foreach my $c ($q->findnodes("vertical")) {
+        $que->vertical($_->textContent()) foreach($c->getChildrenByTagName("c"));
+      }
+      foreach my $a ($q->findnodes("horizontal")) {
+        $que->horizontal($_->textContent()) foreach($a->getChildrenByTagName("c"));
+      }
+      $qDb->ques($que);
+    }
+  }
+  if($qType eq "TRUE_FALSE") {
+    foreach my $q ($data->findnodes("que")) {
+      $que=TRUE_FALSE->new();
+      $que->qType($qType);
+      $que->description($_->textContent()) foreach($q->getChildrenByTagName("des"));
+      $que->answer($_->textContent()+$queNo++) foreach($q->getChildrenByTagName("ans"));
+      $qDb->ques($que);
+    }
+  }
+}
+# This subroutine decodes properties of topmost level data-base
+sub decode_rdb {
+  my $qDb = QUES->new();
+  my $doc=shift;
+  my $data = $doc->getDocumentElement();
+  #$rdb->line_no($data->line_number());
+  $qDb->title($_->textContent()) foreach($data->getChildrenByTagName("title"));
+  foreach my $qb ($data->findnodes("queBlocks")) {
+    foreach ($qb->findnodes("queBlock")) {
+      decode_queBlock($_, $qDb);
+    }
+  }
+  #print STDOUT "\n<++> Decoding done\n";
+  return $qDb;
+}
+
+#my $rdb = decode_rdb($data);
+my $ques=decode_rdb($data);
+   $ques->convert2html($myVars);

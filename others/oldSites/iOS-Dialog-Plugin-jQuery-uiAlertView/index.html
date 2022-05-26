@@ -1,0 +1,164 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>jQuery uiAlertView: iOS Dialog Plugin Demos</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0;" name="viewport"/>	
+        <link type="text/css" rel="stylesheet" href="css/uiAlertView-1.0.0.css" />
+        <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+        <script type="text/javascript" src="js/jquery.uiAlertView-1.0.0.js"></script>
+        <style>
+        body { font-family:'Roboto';}
+        </style>
+        <script type="text/javascript">
+
+            $(function() {
+        
+        
+                $("#btn0").click(function() {
+                    $.alertView("Alert Message");
+                });
+                
+ 
+                $("#btn1").click(function() {
+					
+					var json = {
+						title:"Confirm Dialog",
+						msg:"Are You Sure?",
+						buttons:[
+							{ title:"Delete",color:"red",click:function(){alert("You clicked Delete")} },
+							{ title:"Cancel",click:function(){alert("You clicked Cancel")} }
+						]
+					}
+				
+                    $.alertView(json);
+                });
+                
+    
+                $("#btn2").click(function() {
+				
+                    var json = {
+						title:"Action Sheets",
+						msg:"With several action buttons",
+						buttons:[
+							{ title:"first",click:function(){alert("You clicked first")} },
+							{ title:"second",click:function(){alert("You clicked second")} },
+							{ title:"delete",color:"red" }
+						]
+					}
+				
+                    $.alertView(json);
+                });
+				
+				
+                
+
+                $("#btn6").click(function(){
+                    var json = {
+						title:"Prompt",
+						msg:"Your username",
+						input:{ type:"text", value:"JQueryScript" },
+						buttons:[
+							{ title:"OK",click:function(text){alert("You Typed:" + text)} },
+							{ title:"Cancel" }
+						]
+					}
+				
+                    $.alertView(json);
+                });
+                
+    
+                $("#btn7").click(function(){
+                    var json = {
+						title:"Prompt",
+						msg:"Your password",
+						input:{ type:"password", placeholder:"Type..." },
+						buttons:[
+							{ title:"OK",click:function(text){alert("Your typed:" + text)} },
+							{ title:"Cancel" }
+						]
+					}
+				
+                    $.alertView(json);
+                });
+                
+  
+                $("#btn11").click(function(){
+                	var json = {
+						title:"Dialog",
+						msg:"Type 123 to close dialog",
+						input:{ type:"password", placeholder:"Password here" },
+						buttons:[
+							{ title:"OK", autoClose:false, click:
+								function(text,element){
+									if (text == "123") {
+										$.closeView();
+									}
+									else {
+										element.find("input").css("border","red solid 1px");
+									}
+								} 
+							},
+							{ title:"Cancel" }
+						]
+					}
+				
+                    $.alertView(json);
+                });
+				
+
+				$("#btn3").click(function() {
+				
+                    var json = {
+						msg:"Disable background overlay",
+						showMask: false 
+					}
+				
+                    $.alertView(json);
+                });
+            })
+        </script>
+    </head>
+    <body>
+        <h1 style="text-align: center;">jQuery uiAlertView: iOS Dialog Plugin Demos</h1>
+        <div class="jquery-script-ads" align="center" style="margin:30px auto;"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-2783044520727903";
+/* jQuery_demo */
+google_ad_slot = "2780937993";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="https://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+        <pre>
+			<a id="btn0" href="#">Alert</a><br>
+			<a id="btn1" href="#">Confirm Dialog</a><br>
+			<a id="btn2" href="#">Action Sheets</a><br><br>
+			
+			<a id="btn6" href="#">Prompt 1</a><br>
+			<a id="btn7" href="#">Prompt 2</a><br>
+			
+			<a id="btn11" href="#">Close Dialog Manually</a><br>
+			<a id="btn3" href="#">Mask = false</a><br><br>
+        </pre>
+        <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36251023-1']);
+  _gaq.push(['_setDomainName', 'jqueryscript.net']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+	</body>
+</html>

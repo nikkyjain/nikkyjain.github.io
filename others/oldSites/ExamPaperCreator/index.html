@@ -1,0 +1,105 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>ExamCreator</title>
+    <link rel="icon" type="image/png" href='images/default/jainFlag-short.jpg'/>
+    <link rel="stylesheet" href='js/jquery-mobile/1.5-alpha/css/themes/default/jquery.mobile.css'>
+    <link rel="stylesheet" href='css/myJqueryMobile.css'>
+    <!--link rel="stylesheet" href='css/orgchart.css'-->
+    <script type="text/javascript" src='js/jquery.js'></script>
+    <script type="text/javascript" src='js/jquery-mobile/1.5-alpha/jquery.mobile.js'></script>
+    <!--script type="text/javascript" src='js/Chart.min.js'></script>
+    <script type="text/javascript" src='js/palette.js'></script>
+    <script type="text/javascript" src='js/myChart.js'></script>
+    <script type="text/javascript" src='js/myMobile.js'></script-->
+<style>
+	[contenteditable] {
+	  outline: 0px solid transparent;
+	  font-weight: bold;
+	}
+	#examTitle {
+	  text-align:center;
+	  font-size:3vw;
+	  color:darkBrown;
+	}
+</style>
+<script>
+var examTitle='Title_'+Math.floor(Math.random() * 10001);
+// Handle Exam Title
+$(document).ready(function(){
+    $.ajax({
+        url: 'http://'+window.location.hostname+':8002/post', // url where to submit the request
+        type : 'POST', // type of action POST || GET
+        data : 'postType=setTitle&newTitle='+examTitle,
+        success : function(result) {
+            console.log(result);
+            if(result.status==true) {
+                $('#examTitle').html(result.title);
+            }
+        }
+    });
+    $("div [contenteditable=true]").focus(function() {
+        examTitle=$(this).html();
+    });
+    $("div [contenteditable=true]").blur(function() {
+        if ($(this).html()!=examTitle) {
+            //Here you can write the code to run when the content change
+            console.log("Send Title");
+            $.ajax({
+                url: 'http://'+window.location.hostname+':8002/post', // url where to submit the request
+                type : "POST", // type of action POST || GET
+                data : 'postType=updateTitle&newTitle='+$(this).html()+'&oldTitle='+examTitle,
+                success : function(result) {
+                    examTitle=$(this).html();
+                }
+            });
+        }           
+    });
+});
+
+// Handle Que Add
+$(document).ready(function(){    
+    $('#pickQue li a').on("click", function(e) {
+        console.log("Chosen Que = " + this.id);
+        $.ajax({
+            url: 'http://'+window.location.hostname+':8002/post', // url where to submit the request
+            type : "POST", // type of action POST || GET
+            data : 'postType=addQue&queType='+this.id, // post data || get data
+            success : function(result) {
+            
+            }
+        });
+    });
+    
+    $('#pickMisc li a').on("click", function(e) {
+        console.log("Chosen Misc = " + this.id);
+    });
+});
+</script>
+</head>
+<body>
+<div contenteditable="true" id="examTitle">Exam Title</div>
+<div id=mainPaper></div>
+<a href="#popupNested" data-rel="popup" class="ui-button ui-corner-all ui-shadow ui-button-inline ui-button-b" data-transition="pop">Action <span class="ui-icon ui-icon-gear"></span></span></a>
+<div data-role="popup" id="popupNested" data-theme="none">
+    <div data-role="collapsibleset" data-theme="b" data-content-theme="a" data-collapsed-icon="arrow-r" data-expanded-icon="arrow-d" style="margin:0; width:250px;">
+        <div data-role="collapsible" data-inset="false">
+        <h2>Add Question</h2>
+            <ul data-role="listview" id=pickQue>
+                <li><a href="#" data-rel="dialog" id=Q_TF>True / False</a></li>
+                <li><a href="#" data-rel="dialog" id=Q_MC>Multiple Choice</a></li>
+                <li><a href="#" data-rel="dialog" id=Q_TG>Table Grid</a></li>
+                <li><a href="#" data-rel="dialog" id=_TGC>Table Grid Chose</a></li>
+            </ul>
+        </div><!-- /collapsible -->
+        <div data-role="collapsible" data-inset="false">
+        <h2>Misc</h2>
+            <ul data-role="listview" id=pickMisc>
+                <li><a href="#" data-rel="dialog" id=misc1>Add Quesion Group</a></li>
+            </ul>
+        </div><!-- /collapsible -->
+    </div><!-- /collapsible set -->
+</div><!-- /popup -->
+</body>
+</html>

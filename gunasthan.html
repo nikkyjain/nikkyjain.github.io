@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html>
+<html>
+<head><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-117955546-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-117955546-1');
+</script>
+<title>जैन पूजा</title>
+<link rel="icon" type="image/png" href="images/default/jainFlag-short.jpg"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Language" content="hi" />
+
+<link type="text/css" rel="stylesheet" href="css/myCss.css" />
+<link type="text/css" rel="stylesheet" href="css/style.css" media="screen"/>
+<link type="text/css" rel="stylesheet" href="css/jquery.dropdown.css" />
+<link type="text/css" rel="stylesheet" href="css/jquery-ui.css" />
+
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="js/jquery.dropdown.js"></script>
+<script type="text/javascript" src="js/jquery-animate-css-rotate-scale.js"></script>
+<script type="text/javascript" src="js/spin.min.js"></script>
+<!--script type="text/javascript" src="js/common.js"></script-->
+<script type="text/javascript" src="js/gunasthan.js"></script>
+
+<style>
+table {
+  border-collapse:collapse; 
+}
+th,td { padding:15px; }
+th { color:red; }
+</style>
+</head>
+<body>
+  <script src="js/myRockingRolling.js" type="text/javascript"></script>
+  <img src="images/common/next.jpg" id=next height=50 width=50 align=right onclick="clickNext(); return false;"/>
+  <img src="images/common/prev.jpg" id=prev height=50 width=50 align=left  onclick="clickPrev(); return false;"/>
+  <br>
+  <form name=myForm>
+    <div align=center>
+      <input type=text id=itemSearch placeholder=पूजा>
+      <button onclick="findItem(); return false;">Search</button>
+      <button onclick="showAll();">Show All</button>
+      <button id=submitCorrections onclick="return false;">Submit Corrections</button>
+	</div>
+  </form>
+  <br>
+  <script>init();</script>
+  <script>addTable();</script>
+  <hr style="height:4px;border:none;color:#333;background-color:#333;">
+
+  <div id=busy align=center>
+    <img src="images/common/spinnerLarge.gif" alt="Be patient..." />
+  </div>
+  <div class=correctionForm align=center style="display: none;">
+  <iframe src="https://docs.google.com/forms/d/1896j4GUu8XLmmi2k4clU88pPlbl6G6kWvGJ4oJ-a7rU/viewform?embedded=true"
+    width=550 height=330 frameborder=0 marginheight=0 marginwidth=0 scrolling=no>Loading...</iframe>
+  </div>
+  <div id=mainContainer align=center></div>
+
+</body>
+</html>

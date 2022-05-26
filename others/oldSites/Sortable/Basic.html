@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>jQuery UI Sortable - Default functionality</title>
+  <link rel="stylesheet" href="css/netliva_switch.css">
+  <link rel="stylesheet" href="css/jquery-ui.css">
+  <style>
+  #sortable { list-style-type: none; margin: 0; padding: 0; width: 90%; }
+  #sortable li { margin: 0 3px 3px 3px; padding: 0.4em; padding-left: 1.5em; font-size: 1.4em; height: 18px; }
+  #sortable li .ui-icon { position: absolute; margin-left: -1.3em; }
+  </style>
+  <script src="js/jquery.js"></script>
+  <script src="js/jquery-ui.js"></script>
+  <script>
+  $( function() {
+    $( "#sortable" ).sortable({cancel: ':input,button,[contenteditable]'});
+    //$( "#sortable" ).disableSelection();
+    
+    $('span').bind('dblclick',
+    function(){
+        $(this).attr('contentEditable',true);
+    });
+  });
+  
+
+  </script>
+</head>
+<body>
+ 
+<ul id="sortable">
+  <li class="ui-state-default">
+    <span class="ui-icon ui-icon-arrowthick-2-n-s"></span>
+    <div>
+    <input type="checkbox" netliva-switch
+      data-size="mini" 
+      data-active-text="True"
+      data-passive-text="False"
+    />
+    <span>True False Que</span>
+    </div>
+  </li>
+  <li class="ui-state-default"><span class="ui-icon ui-icon-arrowthick-2-n-s"></span>Item 2</li>
+  <li class="ui-state-default"><span class="ui-icon ui-icon-arrowthick-2-n-s"></span>Item 3</li>
+  <li class="ui-state-default"><span class="ui-icon ui-icon-arrowthick-2-n-s"></span>Item 4</li>
+  <li class="ui-state-default"><span class="ui-icon ui-icon-arrowthick-2-n-s"></span>Item 5</li>
+  <li class="ui-state-default"><span class="ui-icon ui-icon-arrowthick-2-n-s"></span>Item 6</li>
+  <li class="ui-state-default"><span class="ui-icon ui-icon-arrowthick-2-n-s"></span>Item 7</li>
+</ul>
+
+<input type="checkbox" netliva-switch data-size="mini" />
+
+<div><span>True False Que</span>
+    <input type="checkbox" netliva-switch
+      data-size="mini" 
+      data-active-text="True"
+      data-passive-text="False"
+    />
+    </div>
+ 
+ 
+  <script src="js/netliva_switch.js"></script>
+</body>
+</html>

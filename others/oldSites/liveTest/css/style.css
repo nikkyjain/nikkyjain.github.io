@@ -1,0 +1,93 @@
+.rrItem{
+    position:relative;
+    background-color:#f0f0f0;
+    /*float:right;*/
+	display:inline-block;
+    width:52px;
+    margin:0px 5px;
+    height:52px;
+    border:2px solid #ddd;
+    -moz-border-radius:30px;
+    -webkit-border-radius:30px;
+    border-radius:30px;
+    -moz-box-shadow:1px 1px 3px #555;
+    -webkit-box-shadow:1px 1px 3px #555;
+    box-shadow:1px 1px 3px #555;
+    cursor:pointer;
+    overflow:hidden;
+}
+
+.link{
+    left:2px;
+    top:2px;
+    position:absolute;
+    width:48px;
+    height:48px;
+}
+.icon_home{
+    background:transparent url(../images/home.png) no-repeat top left;
+}
+.icon_mail{
+    background:transparent url(../images/mail.png) no-repeat top left;
+}
+.icon_help{
+    background:transparent url(../images/help.png) no-repeat top left;
+}
+.icon_find{
+    background:transparent url(../images/find.png) no-repeat top left;
+}
+.icon_photos{
+    background:transparent url(../images/photos.png) no-repeat top left;
+}
+.icon_incrsz{
+    background:transparent url(../images/incrSz.png) no-repeat top left;
+}
+.icon_decrsz{
+    background:transparent url(../images/decrSz.png) no-repeat top left;
+}
+.item_content{
+    position:absolute;
+    height:52px;
+    width:220px;
+    overflow:hidden;
+    left:56px;
+    top:7px;
+    background:transparent;
+    display:none;
+    margin: 0;
+	padding: 0;
+}
+.item_content h2{
+    color:#aaa;
+    text-shadow: 1px 1px 1px #fff;
+    background-color:transparent;
+    font-size:14px;
+    margin: 0;
+    padding: 0;
+}
+.item_content a{
+    background-color:transparent;
+    float:left;
+    margin-right:7px;
+    margin-top:3px;
+    color:#bbb;
+    text-shadow: 1px 1px 1px #fff;
+    text-decoration:none;
+    font-size:12px;
+}
+.item_content a:hover{
+    color:#0b965b;
+}
+.item_content p {
+    background-color:transparent;
+    display:none;
+    margin: 0;
+	padding: 0;
+}
+.item_content p input{
+    border:1px solid #ccc;
+    padding:1px;
+    width:155px;
+    float:left;
+    margin-right:5px;
+}

@@ -1,0 +1,12 @@
+
+#sortable { list-style-type: none; margin: 0; padding: 0; width: 90%; }
+#sortable li { margin: 5px 5px 5px 0; padding: 10px; float: left; width: 300px; height: 40px; font-size: 2em; text-align: center; }
+#result { text-align:center; }
+#clock {
+  padding: 10px;
+  position:absolute;
+  top: 0px;
+  right: 0px;
+  color: red;
+  font-size: 3em;
+}

@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+    <html>
+    <head>
+    	<meta charset="utf-8">
+    	<meta name="viewport" content="width=device-width, initial-scale=1">
+      <title>प्रवचनसार--कुन्दकुन्दाचार्य</title>
+      <link rel="icon" type="image/png" href='../../../../../images/default/jainFlag-short.jpg'/>
+      <link rel="stylesheet" href='../../../../../css/orgchart.css'>
+      <link rel="stylesheet" href='../../../../../css/myJqueryMobile.css'>
+      <link rel="stylesheet" href='../../../../../css/jsmind.css'>
+      <link rel="stylesheet" href='../../../../../js/jquery-mobile/1.5-alpha/css/themes/default/jquery.mobile.css'>
+      <script type="text/javascript" src='../../../../../js/jsmind.js'></script>
+      <script type="text/javascript" src='../../../../../js/jquery.js'></script>
+      <script type="text/javascript" src='../../../../../js/jquery-mobile/1.5-alpha/jquery.mobile.js'></script>
+      <script type="text/javascript" src='../../../../../js/myFontSzCtrl.js'></script>
+      <script type="text/javascript" src='myItem.js'></script>
+      <style>
+        body {
+          background-color: #fcf5e8;
+        }
+        a {
+          text-decoration: none !important;
+        }
+        .hdr {
+          font-size: 5vw;
+          color : darkred;
+          font-weight:bold;
+        }
+        .index {
+          color:blue;
+          float:right;
+        }
+        hr {
+          border: none;
+          height: 3px;
+          color: #333;
+          background-color: #333;
+          width:50%;
+        }
+        a, a:visited, a:hover, a:active {
+          color: inherit;
+        }
+        $('select option:even').css({'color': 'red'})
+        $('select option:odd').css({'color': 'blue'})
+      </style>
+    </head>
+    <body oncopy="return false" onpaste="return false" oncut="return false">
+    <a href='002.html' rel=external style='float: left'><img src='../../../../../images/common/prev.jpg' height=50 width=50/></a><a href='004-005.html' rel=external style='float: right'><img src='../../../../../images/common/next.jpg' height=50 width=50/></a><div style='text-align: center'><a href='../../../../../index.html' rel=external><img src='../../../../../images/jain-saint.jpg' width=8%></img></a></div>  <div data-role='navbar'>
+    <ul>
+
+        <li>
+          <select name='select-native-0' class='teekakaar' id='select-native-0' >
+              <option disabled=disabled selected=true>अमृतचंद्राचार्य</option>
+      </select>
+    </li>
+
+        <li>
+          <select name='select-native-1' class='teekakaar' id='select-native-1' >
+              <option disabled=disabled selected=true>जयसेनाचार्य</option>
+      </select>
+    </li>
+      </ul>
+    </div>
+    <br><div class=title id=gatha-003><span class=incFontSz>+ </span><a href=#index>
+﻿वर्तमान तीर्थंकरों को नमन</a><span class=decFontSz> -</span></div>
+   <div class=gatha>﻿ते ते सव्वे समगं समगं पत्तेगमेव पत्तेगं ।<br>वंदामि य वट्टंते अरहंते माणुसे खेत्ते ॥3॥</div>
+    <div class=gathaS>﻿तांस्तान् सर्वान् समकं समकं प्रत्येकमेव प्रत्येकम् ।<br>वन्दे च वर्तमानानर्हतो मानुषे क्षेत्रे ॥३॥</div>
+    <div class=gadya>﻿उन सभी को युगपत तथा प्रत्येक को प्रत्येक को <br>मैं नमूँ विदमान मानस क्षेत्र के अरहंत को ॥३॥ </div>
+    <div class=paragraph><b><font color=darkmagenta>अन्वयार्थ : </font></b>﻿<b><font color=darkRed>[तान् तान् सर्वान्]</font></b> उन उन सबको <b><font color=darkRed>[च]</font></b> तथा <b><font color=darkRed>[मानुषे क्षेत्रे वर्तमानान्]</font></b> मनुष्य क्षेत्र में विद्यमान <b><font color=darkRed>[अर्हत:]</font></b> अरहन्तों को <b><font color=darkRed>[समकं समकं]</font></b> साथ ही साथ--समुदायरूप से और <b><font color=darkRed>[प्रत्येकं एव प्रत्येकं]</font></b> प्रत्येक प्रत्येक को--व्यक्तिगत <b><font color=darkRed>[वंदे]</font></b> वन्दना करता हूँ ॥३॥</div>
+    <div class=paragraphE><b><font color=darkmagenta>Meaning : </font></b>Then, I <span class=comment>(Aachaarya Kundakunda)</span> make obeisance to all the Tirthankara <span class=comment>(the Arhat)</span> present in the human region collectively and individually.</div>
+  <br><div class=teekakaar>
+    <span onclick='toggleTeeka("0")' class=teeka0>&nbsp;&nbsp;अमृतचंद्राचार्य</span>&nbsp;
+    <span onclick='toggleTeeka("1")' class=teeka1>&nbsp;&nbsp;जयसेनाचार्य</span>&nbsp;
+  </div>
+  <br><table width=90% align=center>
+    <tr><td><div id=teeka0 class=teeka><b><font color=darkgreen>अमृतचंद्राचार्य :</font></b> <span class=stitle id=stitle0 onclick='toggleSTeeka("0")'><b><font color=red>संस्कृत</font></b></span><div class=steeka id=steeka0>﻿तदन्वेतानेव पंचपरमेष्ठिनस्तत्तद्वय्यक्तिव्यापिन: सर्वानेव सांप्रतमेतत्क्षेत्रसंभवतीर्थकरासंभवा-  न्महाविदेहभूमिसंभवत्वे सति मनुष्यक्षेत्रप्रवर्तिभिस्तीर्थनायकै: सह वर्तमानकालं गोचरीकृत्य  युगपद्युगपत्प्रत्येकं प्रत्येकं च मोक्षलक्ष्मीस्वयंवरायमाणपरमनैर्ग्रन्थ्यदीक्षाक्षणोचितमंगलाचारभूतकृतिकर्मशास्त्रोपदिष्टवंदनाभिधानेन सम्भावयामि ॥३॥<hr class=type_7></div><br><br>﻿तत्पश्चात् इन्हीं पंचपरमेष्ठियों को, उस-उस व्यक्ति में <font color=DarkSlateGray>(पर्याय में)</font> व्याप्त होनेवाले सभी को, वर्तमान में इस क्षेत्र में उत्पन्न तीर्थंकरों का अभाव होने से और महाविदेहक्षेत्र में उनका सद्भाव होने से मनुष्य-क्षेत्र में प्रवर्तमान तीर्थ-नायक युक्त वर्तमान काल गोचर करके, <font color=DarkSlateGray>(-महाविदेहक्षेत्र में वर्तमान श्री सीमधरादि तीर्थंकरों की भाँति मानों सभी पंच परमेष्ठी भगवान वर्तमान काल में ही विद्यमान हों, इस प्रकार अत्यन्त भक्ति के कारण भावना भाकर-चिंतवन करके उन्हें)</font> युगपद्‌ युगपद् अर्थात् समुदायरूप से और प्रत्येक प्रत्येक को अर्थात् व्यक्तिगत रूप से <sup>*</sup>संभावना करता हूँ । किस प्रकार से संभावना करता हूँ? मोक्षलक्ष्मी के स्वयंवर समान जो परम निर्ग्रंथता की दीक्षा का उत्सव <font color=DarkSlateGray>(आनन्दमय प्रसंग)</font> है उसके उचित मंगलाचरण-भूत जो <sup>*</sup>कृतिकर्म शास्त्रोपदिष्ट वन्दनोच्चार <font color=DarkSlateGray>(कृतिकर्मशास्त्र मे उपदेशे हुए स्तुति-वचन)</font> के द्वारा सम्भावना करता हूँ ॥३॥<br><br>
+<span class=shortFont><sup>*</sup>संभावना = संभावना करना, सन्मान करना, आराधन करना<br>
+<sup>*</sup>कृतिकर्म = अंगबाह्य १४ प्रकीर्णकों में छट्टा प्रकीर्णक कृतिकर्म है जिसमें नित्य-नैमित्तिक क्रिया का वर्णन है </span>
+       </div>
+    </td></tr>
+    <tr><td><div id=teeka1 class=teeka><b><font color=darkgreen>जयसेनाचार्य :</font></b> <span class=stitle id=stitle1 onclick='toggleSTeeka("1")'><b><font color=red>संस्कृत</font></b></span><div class=steeka id=steeka1>﻿अथ [[ते ते सव्वे]] तांस्तान्पूर्वोक्तानेव पञ्चपरमेष्ठिनः सर्वान् वंदामि य वन्दे,अहं कर्ता । कथं । [[समगं समगं]] समुदायवन्दनापेक्षया युगपद्युगपत् । पुनरपि कथं । [[पत्तेगमेव]] पत्तेगंप्रत्येकवन्दनापेक्षया प्रत्येकं प्रत्येकम् । न केवलमेतान् वन्दे । [[अरहंते]] अर्हतः । किंविशिष्टान् । [[वट्टंते माणुसेखेत्ते]] वर्तमानान् । क्व । मानुषे क्षेत्रे । तथा हि -- साम्प्रतमत्र भरतक्षेत्रे तीर्थकराभावात् पञ्च-महाविदेहस्थितश्रीसीमन्धरस्वामीतीर्थकरपरमदेवप्रभृतितीर्थकरैः सह तानेव पञ्चपरमेष्ठिनो नमस्करोमि ।कया करणभूतया । मोक्षलक्ष्मीस्वयंवरमण्डपभूतजिनदीक्षाक्षणे मङ्गलाचारभूतया अनन्तज्ञानादिसिद्धगुण-भावनारूपया सिद्धभक्त्या, तथैव निर्मलसमाधिपरिणतपरमयोगिगुणभावनालक्षणया योगभक्त्या चेति ।एवं पूर्वविदेहतीर्थकरनमस्कारमुख्यत्वेन गाथा गतेत्यभिप्रायः ॥३॥<hr class=type_7></div><br><br>﻿अब, <b>[<font color=maroon>ते ते सव्वे</font>]</b> पहले कहे हुये उन सभी पंच-परमेष्ठियों को । <b>[<font color=maroon>वंदामि च</font>]</b> कर्ता-रूप मैं नमस्कार करता हूँ । उन सभी को कैसे नमस्कार करता हूँ? <b>[<font color=maroon>समगं समगं</font>]</b> सामूहिक वन्दना-रूप से अर्थात् सभी को एक साथ नमस्कार करता हूँ । उन सभी को और कैसे नमस्कार करता हूँ? <b>[<font color=maroon>पत्तेगमेव पत्तेगं</font>]</b> व्यक्तिगत वन्दनारूप से अर्थात प्रत्येक को पृथक्‌-पृथक्‌ नमस्कार करता हूँ । मैं मात्र पूर्वोक्त इन्हें ही नमस्कार नहीं करता हूँ, वरन्‌ । <b>[<font color=maroon>अरहंते</font>]</b> अरहन्तों को भी नमस्कार करता हूँ । वे अरहंत कैसे है? <b>[<font color=maroon>वट्टंते माणुसे खेत्ते</font>]</b> विद्यमान हैं । वे अरहंत कहाँ विद्यमान हैं? मानुष क्षेत्र में <font color=DarkSlateGray>(ढ़ाई द्वीप में)</font> विद्यमान हैं ।<br><br>
+वह इसप्रकार- अभी यहीं भरतक्षेत्र में तीर्थकरों का अभाव होने से पाँच महाविदेहों में विद्यमान श्री सीमन्धर-स्वामी तीर्थंकर परमदेव आदि तीर्थंकरों के साथ उन्हीं पंच-परमेष्ठियों को नमस्कार करता हूँ । पूर्वोक्त सभी को कैसे नमस्कार करता हूँ? मोक्ष-लक्ष्मी के स्वयंवर मण्डपभूत जिनदीक्षा के अवसर पर साधनभूत मंगलाचार स्वरूप, सिद्ध भगवान के अनन्त ज्ञानादि गुणों की भावनारूप सिद्ध-भक्ति से, और उसी-प्रकार निर्मल समाधि-रूप परिणमित परमयोगियों के गुणों की भावना लक्षण योग-भक्ति से; उन सभी को नमस्कर करता हूँ ।
+       </div>
+    </td></tr>
+  </table><br><br><br>
+  </body>
+</html>

@@ -1,0 +1,140 @@
+﻿/*.title {
+  font-size: 30px;
+  text-align:center;
+  width: 100%;
+}
+BODY {
+  width:90%;
+  font: 20px sans-serif;
+  line-height: 1.4;
+  margin: 20px auto;
+  background-color: ivory;
+  /*overflow:hidden;*/
+}*/
+.home {
+  cursor:pointer;
+}
+.sanskritTeeka {
+  float:right;
+}
+.teekaPadya {
+  text-align:center;
+  color: darkred;
+}
+#sanskritTeeka {
+  display:none;
+}
+.titleContainer {
+  text-align:center;
+}
+#busy { 
+  display: none; 
+}
+
+p {text-indent: 2em; margin-top: 0; margin-bottom: 0;}
+
+/*A { color: #08C; }*/
+.highlight { color: #090; }
+.example {
+  color: #08C;
+  cursor: pointer;
+  font: 30px sans-serif;
+  padding: 4px;
+  border-radius: 8px;
+}
+/*.example:after {
+  font-family: Consolas, Courier New, Arial, sans-serif;
+  font: 20px sans-serif;
+  content: '↓';
+  margin-right: 4px;
+  color: #08C;
+}*/
+.example:hover {
+  background: #F2F2F2;
+}
+.example.dropdown-open {
+  background: #888;
+  color: #FFF;
+}
+.example.dropdown-open:after { color: #FFF; }
+
+#indexButton {
+    color: rgba(255,255,255,1);
+    text-decoration: none;
+    background-color: rgba(219,87,5,1);
+    font-weight: 700;
+    font-size: 30;
+    display: block;
+    padding: 4px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    -webkit-box-shadow: 0px 9px 0px rgba(219,31,5,1), 0px 9px 25px rgba(0,0,0,.7);
+    -moz-box-shadow: 0px 9px 0px rgba(219,31,5,1), 0px 9px 25px rgba(0,0,0,.7);
+    box-shadow: 0px 9px 0px rgba(219,31,5,1), 0px 9px 25px rgba(0,0,0,.7);
+	width: 160px;
+	text-align: center;
+	
+	-webkit-transition: all .1s ease;
+	-moz-transition: all .1s ease;
+	-ms-transition: all .1s ease;
+	-o-transition: all .1s ease;
+	transition: all .1s ease;
+}
+
+#indexButton:active {
+    -webkit-box-shadow: 0px 3px 0px rgba(219,31,5,1), 0px 3px 6px rgba(0,0,0,.9);
+    -moz-box-shadow: 0px 3px 0px rgba(219,31,5,1), 0px 3px 6px rgba(0,0,0,.9);
+    box-shadow: 0px 3px 0px rgba(219,31,5,1), 0px 3px 6px rgba(0,0,0,.9);
+    position: relative;
+    top: 6px;
+}
+
+
+
+
+/* 
+   -------------------
+   Tooltip Related CSS 
+   ------------------- 
+*/
+
+.tooltip {
+  border-bottom: 1px dotted #000000; color: #000000; outline: none;
+  cursor: help; text-decoration: none;
+  position: relative;
+}
+.tooltip span {
+  margin-left: -999em;
+  position: absolute;
+}
+.tooltip:hover span {
+  border-radius: 5px 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; 
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1); -webkit-box-shadow: 5px 5px rgba(0, 0, 0, 0.1); -moz-box-shadow: 5px 5px rgba(0, 0, 0, 0.1);
+  font-family: Calibri, Tahoma, Geneva, sans-serif;
+  position: absolute; left: 1em; top: 2em; z-index: 99;
+  margin-left: 0; width: 100px;
+  font-size: 15px; 
+}
+.tooltip:hover img {
+  border: 0; margin: -10px 0 0 -55px;
+  float: left; position: absolute;
+}
+.tooltip:hover em {
+  font-family: Candara, Tahoma, Geneva, sans-serif; 
+  font-size: 1.2em; 
+  font-weight: bold;
+  display: block; padding: 0.2em 0 0.6em 0;
+}
+.classic { padding: 0.8em 1em; }
+.custom { padding: 0.5em 0.8em 0.8em 2em; }
+* html a:hover { background: transparent; }
+.classic {background: #FFFFAA; border: 1px solid #FFAD33; }
+.critical { background: #FFCCAA; border: 1px solid #FF3334;	}
+.help { background: #9FDAEE; border: 1px solid #2BB0D7;	}
+.info { background: #9FDAEE; border: 1px solid #2BB0D7;	}
+.warning { background: #FFFFAA; border: 1px solid #FFAD33; }
+hr {
+ height : 5px;
+}
+

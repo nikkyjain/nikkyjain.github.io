@@ -1,0 +1,127 @@
+<!doctype html>
+<html>
+
+<head>
+	<title>Pie Chart</title>
+  <link type="text/css" rel="stylesheet" href="Chart.min.css">
+  <script src="Chart.min.js"></script>
+  <script src="palette.js"></script>
+	<script src="utils.js"></script>
+  <style>
+    .canvasDiv {
+      text-align : center;
+      position : relative;
+      width : 40%;
+    }
+    #doughnutCanvas {
+      position : relative;
+    }
+    #barCanvas {
+      position : relative;
+    }
+  </style>
+</head>
+
+<body>
+
+<canvas id="myChart" width="400" height="100"></canvas>
+
+<script>
+var ctx = document.getElementById("myChart");
+var color = ["#ff6384", "#5959e6", "#2babab", "#8c4d15", "#8bc34a", "#607d8b", "#009688"];
+
+var scatterChart = new Chart(ctx, {
+    type: 'line',
+    data: {
+        datasets: [{
+                label: 'Linea A',
+                backgroundColor: "transparent",
+                borderColor: color[1],
+                pointBackgroundColor: color[1],
+                pointBorderColor: color[1],
+                pointHoverBackgroundColor: color[1],
+                pointHoverBorderColor: color[1],
+                data: [{
+                    x: "2014-09-02",
+                    y: 90,
+                    id: '1A'
+                }, {
+                    x: "2014-11-02",
+                    y: 96,
+                    id: '2A'
+                }, {
+                    x: "2014-12-03",
+                    y: 97,
+                    id: '3A'
+                }]
+            },
+            {
+                label: 'Linea B',
+                backgroundColor: "transparent",
+                borderColor: color[2],
+                pointBackgroundColor: color[2],
+                pointBorderColor: color[2],
+                pointHoverBackgroundColor: color[2],
+                pointHoverBorderColor: color[2],
+                data: [{
+                    x: "2014-09-01",
+                    y: 96,
+                    id: "1B"
+                }, {
+                    x: "2014-10-04",
+                    y: 95.8,
+                    id: "2B"
+                }, {
+                    x: "2014-11-06",
+                    y: 99,
+                    id: "3B"
+                }]
+            }
+        ]
+    },
+    options: {
+        title: {
+            display: true,
+            text: 'Polveri',
+            fontSize: 18
+        },
+        legend: {
+            display: true,
+            position: "bottom"
+        },
+        scales: {
+            xAxes: [{
+                type: 'time',
+                time: {
+                    displayFormats: {
+                        'millisecond': 'MM/YY',
+                        'second': 'MM/YY',
+                        'minute': 'MM/YY',
+                        'hour': 'MM/YY',
+                        'day': 'MM/YY',
+                        'week': 'MM/YY',
+                        'month': 'MM/YY',
+                        'quarter': 'MM/YY',
+                        'year': 'MM/YY',
+                    },
+                    tooltipFormat: "DD/MM/YY"
+                }
+            }]
+        }
+    }
+});
+
+document.getElementById("myChart").onclick = function(evt) {
+    var activePoints = scatterChart.getElementsAtEvent(evt);
+    var firstPoint = activePoints[1];
+    console.log(firstPoint._datasetIndex);
+    console.log(firstPoint._index);
+    var label = scatterChart.data.labels[firstPoint._index];
+    console.log(scatterChart.data.datasets[0].data[0].id);
+    var value = scatterChart.data.datasets[firstPoint._datasetIndex].data[firstPoint._index];
+    if (firstPoint !== undefined)
+        alert(label + ": " + value);
+    };  
+    </script>
+</body>
+</html>

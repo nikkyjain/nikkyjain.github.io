@@ -1,0 +1,56 @@
+<!doctype html>
+<html>
+
+<head>
+	<title>Pie Chart</title>
+  <script src="Chart.min.js"></script>
+  <script src="palette.js"></script>
+	<script src="utils.js"></script>
+	<script src="myChart.js"></script>
+  <script src="chartjs-plugin-zoom@0.7.7.js"></script>
+  <script src="hammerjs@2.0.8.js"></script>
+  <style>
+    .canvasDiv {
+      text-align : center;
+      position : relative;
+      width : 40%;
+    }
+    #doughnutCanvas {
+      position : relative;
+    }
+    #barCanvas {
+      position : relative;
+    }
+  </style>
+</head>
+
+<body>
+	<div id="canvas-holder" class=canvasDiv align=center>
+  <canvas id="doughnutCanvas"></canvas>
+  <canvas id="barCanvas"></canvas>
+  </div>
+  
+  <script>
+    myData=[ 5, 10, 20, 35, 40];
+    myLabels=[ 'Red', 'Orange', 'Yellow', 'Green', 'Blue' ];
+    create2DPieChart('doughnutCanvas',myData, myLabels);
+	</script>
+
+  <script>
+    var label=[ 'मिथ्यात्व', 'सासादन', 'मिश्र', 'अविरत स.', 'देशविरत', 'प्रमत्तसंयत', 'अप्रमत्तसंयत', 'अपूर्वकरण', 'अनिवृतिकरण', 'सूक्ष्मसाम्पराय', 'उपशान्तमोह', 'क्षीणमोह', 'सयोगकेवली', 'अयोगकेवली' ];
+    
+    var myBarData = [
+    {
+    'data' : [ 117, 111, 100, 104, 87, 81, 76, 72, 66, 60, 59, 57, 42, 12 ],
+    'label' : 'गुणस्थानों में कर्म के उदय की संख्या '
+    },
+    {
+    'data' : [ 117, 101, 74, 77, 67, 63, 59, 58, 22, 17, 1, 1, 1, 0 ],
+    'label' : 'गुणस्थानों में कर्म के बंध की संख्या '
+    }];
+    console.log("Dbg: "+myBarData);
+    create2DBarChart("barCanvas", label, myBarData);
+  </script>
+</body>
+
+</html>

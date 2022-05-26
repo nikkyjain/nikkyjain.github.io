@@ -1,0 +1,131 @@
+<html>
+  <head>
+    <title>Gunsthan Vivechan - Final Test</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Language" content="hi" />
+    <meta name="description" content="Gunsthan Vivechan Test" />
+    <meta name="author" content="Vishal Jain" />
+    <style type="text/css">
+      tr.d0 td {
+          background-color: #66FFFF; color: black; font-size:16;
+      }
+      tr.d1 td {
+          background-color: #FFCC66; color: black; font-size:16;
+      }
+      div.d0 {
+          background-color: #CCCCFF; color: black;
+      }
+      div.d1 {
+          background-color: #FFFFCC; color: black;
+      }
+    </style>
+    <script src='js/jquery.js'></script>
+    <script src='js/index.js'></script>
+  </head>
+  <body>
+    <div id="para1"><h2 align=center>तत्वार्थ सूत्र - अध्याय 1</h2>
+    <script>
+      var d = new Date();
+      document.write("<h5 align=right>" + d.getDate() + "-" + monthNames[d.getMonth()] + "-" + d.getFullYear() + "</align></h3>");
+    </script>
+    <form name=myForm>
+    <table cellspacing=5>
+    <tr><td>Name</td><td><input type=text name=Name id=myName></td></tr>
+    <tr><td>Mobile No</td><td><input type=text name=MobileNo id=myMobile></td></tr>
+    <tr><td>eMail</td><td><input type=text name=eMail id=myEmail></td></tr>
+    </table>
+    <div id=showGif align=center style="visibility:hidden"><img src="LookHere.gif" alt="HTML tutorial" width=32 height=32>
+      <div id=showMarks align=center></div>
+    </div>
+    <button onclick="resetVals(); return false;" style="float:right;">Reset</button>
+    <button onclick="calcMarks(); return false;" style="float:right;">Done</button><BR><BR></div><hr><BR>
+    <script>
+      createTrueFalse(2, "सम्यकदर्शन, सम्यकज्ञान और सम्यकचारित्र का समुदाय मोक्ष का मार्ग नहीं है।");
+      createTrueFalse(3, "जो मोक्षमार्ग का उपदेश देते हैं उन्हें वीतरागी कहते हैं।");
+      createTrueFalse(4, "जो कर्मों को नष्ट करते हैं उन्हें हितोपदेशी कहते हैं।");
+      createTrueFalse(5, "जो समस्त तत्वों को जानते हैं उन्हें सर्वज्ञ कहते हैं।");
+      createTrueFalse(6, "जिसमें चेतना नहीं होती है उसे जीव कहते हैं।।");
+      createTrueFalse(7, "कर्मों के आने के द्वार को संवर कहते हैं।");
+      createTrueFalse(8, "आस्रव के रुकने को आस्रव कहते हैं।");
+      createTrueFalse(9, "रागादि की तीव्रता का न होना संवेग भाव है।");
+      createTrueFalse(10, "संसार से भीतरूप परिणाम का होना प्रशम है।");
+      createTrueFalse(11, "सब जीवों में दया भाव रखना अनुकंपा नहीं है।");
+      createTrueFalse(12, "वस्तु के स्वरूप या नाम के कथन को साधन कहते हैं।।");
+      createTrueFalse(13, "वस्तु के उत्पत्ति के कारण को निर्देश कहते हैं।");
+      createTrueFalse(14, "वस्तु के ठहरने के काल की मर्यादा को विधान कहते हैं।।");
+      createTrueFalse(15, "नारकियों के तीसरे नरक तक सम्यक्त्व का कारण है:- जिनबिम्ब दर्शन, देवऋद्धि दर्शन, जिनमहिमा दर्शन।");
+      createTrueFalse(16, "१२वें स्वर्ग तक के देवों के सम्यक्त्व के ४ कारण हैं:- जातिस्मरण, धर्मश्रवण, जिनमहिमा दर्शन, देवऋद्धि दर्शन।");
+      createTrueFalse(17, "नौ ग्रैवेयक के देवों के सम्यक्त्व के २ कारण हैं:- वेदनाभिभव, जिनबिम्बदर्शन।");
+      createTrueFalse(18, "औपशमिक सम्यगदर्शन की जघन्य और उत्कृष्ट स्थिति २ अंतर्मुहूर्त है।");
+      createTrueFalse(19, "संसारी जीव के क्षायिक सम्यग्दर्शन की जघन्य स्थिति 8 अंतमुहूर्त है।");
+      createTrueFalse(20, "क्षायिक की उत्कृष्ट स्थिति आठ वर्ष है और अंतर्मुहूर्त कम दो पूर्व कोटि अधिक तैंतीस सागरोपम है।");
+      createTrueFalse(21, "मुक्त जीव के क्षायिक सम्यक्त्व आदि असंख्यात है।");
+      createTrueFalse(22, "क्षायोपशमिक सम्यग्दर्शन की जघन्य स्थिति अंतर्मुहूर्त है व उत्कृष्ट स्थिति ६६ सागरोपम है।");
+      createTrueFalse(23, "वस्तु के अस्तित्व को संख्या कहते हैं।");
+      createTrueFalse(24, "वस्तु के भेदों की गिनती को सत कहते हैं।");
+      createTrueFalse(25, "वस्तु के वर्तमान निवास स्थान को काल कहते हैं।");
+      createTrueFalse(26, "वस्तु के ठहरने की मर्यादा को काल कहते हैं।");
+      createTrueFalse(27, "इंद्रियों और मन के द्वारा पदार्थों का जो ज्ञान होता है उसे केवलज्ञान कहते हैं।।");
+      createTrueFalse(28, "सब द्रव्यों तथा उनकी पर्यायों को एक साथ स्पष्ट जानने वाले काल को मतिज्ञान कहते हैं।");
+      createTrueFalse(29, "मतिज्ञान से ज्ञात पदार्थ का जो विशेष रूप से ज्ञान होता है उसे श्रुतज्ञान कहते हैं।");
+      createTrueFalse(30, "जो ज्ञान वस्तु के सर्वदेश को जाने, उस ज्ञान को प्रमाण कहते हैं।");
+      createTrueFalse(31, "मतिज्ञान और श्रुतज्ञान प्रत्यक्ष प्रमाण है।");
+      var choice=["अरिहंत", "आचार्य", "उपाध्याय"];
+      createMultipleChoice(32, "मंगलाचरण में कौन से परमेष्ठी को नमस्कार किया है?", choice);
+      var choice=["53", "42", "33"];
+      createMultipleChoice(33, "पहले अध्याय में कितने सूत्र होते हैं?", choice);
+      var choice=["समंतभद्र मुनिराज", "उमास्वामी मुनिराज", "आचार्य पूज्यपादस्वामी"];
+      createMultipleChoice(34, "तत्त्वार्थ सूत्र किन मुनिराज ने लिखा है?", choice);
+      var choice=["वीतरागी", "हितोपदेशी", "सर्वज्ञता"];
+      createMultipleChoice(35, "ज्ञातार शब्द का अर्थ क्या है?", choice);
+      var choice=["सम्यग्दर्शन", "सम्यग्दर्शन, सम्यग्ज्ञान", "सम्यग्दर्शन, सम्यग्ज्ञान, सम्यग्चारित्र"];
+      createMultipleChoice(36, "मोक्ष की प्राप्ति के उपाय", choice);
+      var choice=["संस्कृत", "प्राकृत", "कन्नड"];
+      createMultipleChoice(37, "तत्त्वार्थ सूत्र कौन सी भाषा में लिखा है?", choice);
+      var choice=["निर्जरा करना", "कर्मों का क्षय करना", "आस्रव को रुकाना"];
+      createMultipleChoice(38, "मोक्ष किसे कहते हैं?", choice);
+      var choice=["वस्तु की उत्पत्ति", "वस्तु का ठहरना", "वस्तु के भेद"];
+      createMultipleChoice(39, "विधान किसे कहते हैं?", choice);
+      var choice=["तीर्थंकर", "मुनि महाराज", "आर्यिका माताजी"];
+      createMultipleChoice(40, "केवलज्ञान किसको होता है?", choice);
+      var choice=["मुनिमहाराज", "ऐलक जी", "अरिहंत"];
+      createMultipleChoice(41, "मनःपर्यय ज्ञान किसको होता है?", choice);
+      var choice=["पक्का करना", "निर्णय करना", "जिज्ञासा होना"];
+      createMultipleChoice(42, "धारणा किसे कहते हैं?", choice);
+      var choice=["शीघ्रता से जाना", "धीरे धीरे जाना", "कहने पर जाना"];
+      createMultipleChoice(43, "क्षिप्र किसे कहते हैं?", choice);
+      var choice=["बहुत वस्तु को जानना", "अल्प ज्ञान होना", "बहुत प्रकार के वस्तु को जानना"];
+      createMultipleChoice(44, "बहु किसे कहते हैं?", choice);
+      var choice=["स्पष्ट पदार्थ को जानना", "अस्पष्ट पदार्थ को जानना", "स्पष्ट और अस्पष्ट पदार्थ को जानना"];
+      createMultipleChoice(45, "अर्थावग्रह किसे कहते हैं?", choice);
+      var choice=["श्रेणिक राजा", "श्रेयांस राजा", "सुदर्शन राजा"];
+      createMultipleChoice(46, "साठ हजार प्रश्‍न किसने पूछे थे?", choice);
+      var choice=["6-12", "4-12", "1-6"];
+      createMultipleChoice(47, "सुअवधिज्ञान कौनसे गुणस्थान तक होता है?", choice);
+      var choice=["देव-नारकी", "मनुष्य-तिर्यंच", "मनुष्य-नारकी"];
+      createMultipleChoice(48, "भवप्रत्यय अवधिज्ञान किनको होता है?", choice);
+      var choice=["मनुष्य-तिर्यंच", "देव-नारकी", "तिर्यंच-मनुष्य"];
+      createMultipleChoice(49, "गुणप्रत्यय अवधिज्ञान किनको होता है?", choice);
+      var choice=["उसी भव से मोक्ष जाने वाले मुनी", "दो भव से मोक्ष जाने वाले मुनी", "तीन भव से मोक्ष जाने वाले मुनी"];
+      createMultipleChoice(50, "परमावधि और सर्वावधि किनको होता है?", choice);
+      var choice=["सरलता से स्पष्ट", "गूढ अथवा जटिल", "मन से जानता है"];
+      createMultipleChoice(51, "ऋजुमति किसे कहते हैं?", choice);
+      var choice=["गिरावट का न होना", "गिरावट का होना", "दोनों का न होना"];
+      createMultipleChoice(52, "अप्रतिपात किसे कहते हैं?", choice);
+      var choice=["ऋजुमति", "विपुलमति", "ऋजुमति-विपुलमति "];
+      createMultipleChoice(53, "कौन सा ज्ञान केवलज्ञान होने तक बराबर बना रहता है?", choice);
+      var choice=["अवधिज्ञान", "मनःपर्यज्ञान", "मतिज्ञान"];
+      createMultipleChoice(54, "कौन से ज्ञान का क्षेत्र बडा होता है?", choice);
+      var choice=[" द्रव्य के कुछ पर्याय", "द्रव्य का अनंतवां भाग", "द्रव्यों की त्रिकालवर्ती अनंतानंत पर्यायें"];
+      createMultipleChoice(55, "केवलज्ञान के विषय बताइये?", choice);
+      var qColumn=["निर्देश", "स्वामित्व", "साधन", "अधिकरण", "स्थिति", "विधान"];
+      var aColumn=["इसका स्वामी कौन है", " कैसे बना है", "वस्तु कौन सी है", "कितने काल से है", "इसके भेद कितने हैं", "कहां रहता है"];
+      var ans=[65, 66, 67, 68, 69, 70];
+      createMatchTheColumn("One to one match", qColumn, aColumn, ans);
+      </script>
+      <br> <hr> <br>
+      <button onclick="calcMarks(); return false;" style="float:right;">Done</button>
+      <script>restoreAns();</script>
+    </form>
+  </body>
+</html>

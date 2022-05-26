@@ -1,0 +1,64 @@
+<html>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.jqplot.com/src/jquery.jqplot.js"></script>
+<script type="text/javascript" src="http://www.jqplot.com/src/plugins/jqplot.barRenderer.js"></script>
+<script type="text/javascript" src="http://www.jqplot.com/src/plugins/jqplot.pieRenderer.js"></script>
+<script type="text/javascript" src="http://www.jqplot.com/src/plugins/jqplot.categoryAxisRenderer.js"></script>
+<script type="text/javascript" src="http://www.jqplot.com/src/plugins/jqplot.pointLabels.js"></script>
+<script type="text/javascript" src="http://www.jqplot.com/src/plugins/jqplot.dateAxisRenderer.js"></script>
+<script type="text/javascript" src="http://www.jqplot.com/src/plugins/jqplot.cursor.js"></script>
+<script type="text/javascript" src="http://www.jqplot.com/src/plugins/jqplot.highlighter.js"></script>
+<link rel="stylesheet" type="text/css" href="http://www.jqplot.com/src/jquery.jqplot.css" />
+<script>
+$(document).ready(function(){
+
+    // Enable plugins like cursor and highlighter by default.
+    $.jqplot.config.enablePlugins = true;
+    // For these examples, don't show the to image button.
+    $.jqplot._noToImageButton = true;
+        var data = [];
+        for(var i=0; i<4; i++) {
+          var myData=[];
+          for(var j=1; j<100; j++) {
+            myData.push(Math.floor(Math.random()*10)+1);
+          }
+          data.push(myData);
+        }
+        console.log(data);
+        //var data = [[[2,1], [6,2], [7,3], [10,4]], [[7,1], [5,2],[3,3],[2,4]], [[14,1], [9,2], [9,3], [8,4]]];
+        var opts = {
+            title: 'Exec Timeline',
+            stackSeries: true,
+            //captureRightClick: true,
+            seriesDefaults:{
+                renderer:$.jqplot.BarRenderer,
+                shadow: false,
+                //lineWidth: 1,
+                rendererOptions: {
+                    barDirection: 'horizontal',
+                    highlightMouseDown: false,
+                    smooth: false
+                },
+                markerOptions: { show: true, shadow: false, size: 2 },
+                //pointLabels: {show: true, formatString: '%d'}
+            },
+            legend: {
+                show: true,
+                location: 'e',
+                placement: 'outside'
+            },
+            axes: {
+                yaxis: {
+                    renderer: $.jqplot.CategoryAxisRenderer
+                }
+            },
+            cursor:{zoom:true}
+        };
+        plot4 = $.jqplot('chart4', data, opts);
+    });
+</script>
+<body>
+  <div id="chart4" style="height:90%;"></div>
+   <div style="padding-top:20px"><button value="reset" type="button" onclick="plot4.resetZoom();">Reset Zoom</button></div>
+<body>
+</html>

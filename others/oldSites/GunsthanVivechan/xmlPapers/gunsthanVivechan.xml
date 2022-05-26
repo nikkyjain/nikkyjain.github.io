@@ -1,0 +1,730 @@
+﻿<quePaper>
+          <title>गुणस्थान विवेचन परीक्षा</title>
+	<queBlocks>
+		<queBlock>
+			<qType>TRUE_FALSE</qType>
+			<que>
+				<des>मिथ्यात्व की प्रधानता से 16 प्रकृतियों का बंध होता है</des>
+				<ans>1</ans>
+			</que>
+			<que>
+				<des>तीर्थंकर प्रकृति का बंध प्रथम गुणस्थान से आठवे तक हो सकता है </des>
+				<ans>0</ans>
+			</que>
+			<que>
+				<des>मिथ्यात्व गुणस्थान के प्रत्येक जीव को 117 प्रकृतियों का बंध सदा रहता है</des>
+				<ans>0</ans>
+			</que>
+			<que>
+				<des>सम्यक-मिथ्यात्व गुणस्थान में आयु का बंध नहीं होता है</des>
+				<ans>1</ans>
+			</que>
+			<que>
+				<des>गोत्र कर्म का बंध 1 से 12 गुणस्थान तक होता है</des>
+				<ans>0</ans>
+			</que>
+			<que>
+				<des>मिश्र गुणस्थान में एक भी प्रकृति की व्युच्छित्ति नहीं होती है</des>
+				<ans>0</ans>
+			</que>
+			<que>
+				<des>अपूर्वकरण गुणस्थान में पूर्वबद्ध कर्मों का असंख्यात गुणा स्थितिकांडक घात होता है</des>
+				<ans>1</ans>
+			</que>
+			<que>
+				<des>अविरत सम्यक-दृष्टि नरक गति का बंध कर सकता है</des>
+				<ans>0</ans>
+			</que>
+			<que>
+				<des>सासादन गुणस्थान वाला दो-इंद्रिय में जन्म ले सकता है</des>
+				<ans>1</ans>
+			</que>
+			<que>
+				<des>आयु कर्म का बंध मात्र 1 से 4 गुणस्थान तक ही होता है</des>
+				<ans>0</ans>
+			</que>
+			<que>
+				<des>अयश:कीर्ति का बंध प्रमत्त-संयत गुणस्थान में नही होता</des>
+				<ans>0</ans>
+			</que>
+			<que>
+				<des>विग्रह गति में तीन गुणस्थान हो सकते हैं</des>
+				<ans>1</ans>
+			</que>
+			<que>
+				<des>मिथ्यात्व 18 दोषों में से एक दोष है</des>
+				<ans>1</ans>
+			</que>
+			<que>
+				<des>क्षायिक सम्यक्त्वी उपशम या क्षपक दोनों श्रेणी चढ सकता है</des>
+				<ans>1</ans>
+			</que>
+			<que>
+				<des>पुण्य भाव को धर्म मानना विपरीत मिथ्यात्व है</des>
+				<ans>1</ans>
+			</que>
+			<que>
+				<des>मिश्र गुणस्थान वाला सम्यक-मिथ्यात्व प्रकृति का बंध करता है</des>
+				<ans>0</ans>
+			</que>
+			<que>
+				<des>बादर कषाय का उदय अनिवृतिकरण गुणस्थान तक होता है</des>
+				<ans>1</ans>
+			</que>
+			<que>
+				<des>औदारिक शरीर का बंध प्रमत्त-संयत गुणस्थान में होता है</des>
+				<ans>0</ans>
+			</que>
+			<que>
+				<des>अनंतानुबंधी कषाय से असंप्राप्तासृपाटिका संहनन का बंध होता है</des>
+				<ans>0</ans>
+			</que>
+			<que>
+				<des>सिद्ध भगवान के कोई गुणस्थान नहीं है</des>
+				<ans>1</ans>
+			</que>
+			<que>
+				<des>सातवें गुणस्थान में 3 शरीर होते हैं</des>
+				<ans>1</ans>
+			</que>
+		</queBlock>
+		<queBlock>
+			<qType>MTPL_CH</qType>
+			<que>
+				<des>जीवन-मुक्त किन्हे कहा जाता है और क्यों कह जाता है</des>
+				<ans>1</ans>
+				<choices><choice>अरिहंत परमेष्ठी, घाति कर्म रहित</choice><choice>अरिहंत परमेषठी, सर्व कर्म रहित</choice><choice>सिद्ध परमेष्ठी, सर्व कर्म रहित</choice><choice>सिद्ध परमेष्ठी, आयु का अभाव</choice><choice>क्षीण मोही, समस्त मोह का अभाव</choice></choices>
+			</que>
+			<que>
+				<des>अनिवृतिकरण गुणस्थान में संज्वलन कषाय का  ____________ उदय रहता है </des>
+				<ans>3</ans>
+				<choices><choice>तीव्र</choice><choice>मंद</choice><choice>मंदतम</choice><choice>मंदतर</choice><choice>नहीं</choice></choices>
+			</que>
+			<que>
+				<des>परिग्रह-त्याग ________ नं की प्रतिमा है</des>
+				<ans>4</ans>
+				<choices><choice>6</choice><choice>7</choice><choice>8</choice><choice>9</choice><choice>10</choice><choice>11</choice></choices>
+			</que>
+			<que>
+				<des>दस कोडा-कोडी अद्धापल्योपम काल को _____ कहते हैं</des>
+				<ans>6</ans>
+				<choices><choice>पल्य</choice><choice>पल्योपम</choice><choice>पूर्व</choice><choice>पूर्वांग</choice><choice>व्यवहार पल्य</choice><choice>सागर</choice></choices>
+			</que>
+			<que>
+				<des>इस गुणस्थान से सभी जीवों का धर्मरूप (वीतराग) परिणाम समान होता है</des>
+				<ans>4</ans>
+				<choices><choice>अविरत सम्यक्त्व</choice><choice>अप्रमत्त विरत</choice><choice>अपूर्वकरण</choice><choice>अनिवृतिकरण</choice><choice>सूक्ष्म साम्पराय</choice><choice>सयोग केवळी</choice><choice>अयोग केवळी</choice></choices>
+			</que>
+			<que>
+				<des>अयोगकेवली गुणस्थान के अंतिम समय में ________ प्रकृतियों का नाश होता है</des>
+				<ans>3</ans>
+				<choices><choice>1</choice><choice>9</choice><choice>13</choice><choice>36</choice><choice>63</choice><choice>72</choice><choice>85</choice></choices>
+			</que>
+			<que>
+				<des>इनमें से __________ मार्गणा का भेद नहीं है</des>
+				<ans>1</ans>
+				<choices><choice>पर्याप्ति</choice><choice>काय</choice><choice>ज्ञान</choice><choice>संज्ञी</choice><choice>आहार</choice><choice>योग</choice></choices>
+			</que>
+			<que>
+				<des>मति-ज्ञानावरण कर्म का ____________________ होता है</des>
+				<ans>3</ans>
+				<choices><choice>उदय, उपशम</choice><choice>उपशम, क्षय, क्षयोपशम</choice><choice>उदय, क्षयोपशम, क्षय</choice><choice>क्षयोपशम, क्षय</choice><choice>उदय, उपशम, क्षयोपशम, क्षय</choice></choices>
+			</que>
+			<que>
+				<des>तिर्यंच-गति कर्म का ______________________ हो सकता है ।</des>
+				<ans>4</ans>
+				<choices><choice>बंध, उदय</choice><choice>बंध, उदय, अपकर्षण</choice><choice>बंध, उदय, अपकर्षण, उदीरणा</choice><choice>बंध, उदय, अपकर्षण, उदीरणा, संक्रमण</choice></choices>
+			</que>
+			<que>
+				<des>अविरत-सम्यक्त्व गुणस्थान का उत्कृष्ट काल __________________________________ है ।</des>
+				<ans>1</ans>
+				<choices><choice>साधिक 33 सागर</choice><choice>33 सागर</choice><choice>साधिक 66 सागर</choice><choice>66 सागर</choice><choice>तीन पल्य</choice><choice>1 कोटी पूर्व</choice></choices>
+			</que>
+			<que>
+				<des>इनमें से सर्व-घाती प्रकृतियाँ चुनिये –</des>
+				<ans>2</ans>
+				<choices><choice>मनःपर्यय-ज्ञानावरणी, निद्रा, सम्यक-मिथ्यात्व</choice><choice>सम्यक-मिथ्यात्व, प्रत्याख्यानावरणी-मान, निद्रा</choice><choice>निद्रा, वीर्यान्तराय, प्रत्याख्यानावरणी-मान</choice><choice>सम्यक-मिथ्यात्व, प्रत्याख्यानावरणी-मान, मनःपर्यय-ज्ञानावरणी</choice></choices>
+			</que>
+			<que>
+				<des>पांच प्रकार के भावॊं में से अविरत सम्यक्त्व गुणस्थान में पाए जाने वाले भाव –</des>
+				<ans>5</ans>
+				<choices><choice>क्षायिक, पारिणामिक</choice><choice>क्षायिक, क्षायोपशमिक, औपशमिक</choice><choice>औपशमिक, क्षायोपशमिक, पारिणामिक</choice><choice>औपशमिक, क्षायिक, क्षायोपशमिक, औदयिक</choice><choice>औपशमिक, क्षायिक, क्षायोपशमिक, औदयिक, पारिणामिक</choice></choices>
+			</que>
+			<que>
+				<des>छ्ठे गुणस्थान का काल सातवें की अपेक्षा ________ है </des>
+				<ans>3</ans>
+				<choices><choice>समान (अंतर-मुहर्त)</choice><choice>आधा</choice><choice>दो-गुना</choice><choice>अधिक</choice></choices>
+			</que>
+			<que>
+				<des>चक्षु दर्शनावरण के क्षयोपशम के समय उसकी _____________  प्रकृतियाँ उदयावली में होती हैं</des>
+				<ans>3</ans>
+				<choices><choice>देशघाती</choice><choice>सर्वघाती</choice><choice>दोनों</choice><choice>न देशघाती न सर्वघाती</choice></choices>
+			</que>
+			<que>
+				<des>नव-लब्धियां इनमें पाई जाती है</des>
+				<ans>4</ans>
+				<choices><choice>4-7 गुणस्थान</choice><choice>क्षायिक सम्यक्त्वी</choice><choice>क्षपक श्रेणी</choice><choice>सयोग केवळी</choice></choices>
+			</que>
+			<que>
+				<des>निधत्ति, निकाचित और उपशांत कर्म ______________ गुणस्थान कि आगे नहीं पाए जाते -</des>
+				<ans>3</ans>
+				<choices><choice>अविरत सम्यक्त्व</choice><choice>अप्रमत्त विरत</choice><choice>अपूर्वकरण</choice><choice>सूक्ष्म साम्पराय</choice><choice>सयोग केवळी</choice><choice>अयोग केवळी</choice></choices>
+			</que>
+			<que>
+				<des>जीव में ______________ भाव सदाकाल पाये जाते है</des>
+				<ans>5</ans>
+				<choices><choice>औदयिक, क्षायोपशमिक</choice><choice>औपक्षमिक, क्षायोपशमिक</choice><choice>क्षायिक, पारिणामिक</choice><choice>क्षायोपशमिक</choice><choice>पारिणामिक</choice></choices>
+			</que>
+			<que>
+				<des>अनंतानुबंधी की विसंयोजना का कार्य ________________ गुणस्थान में होता है</des>
+				<ans>1</ans>
+				<choices><choice>4 से 7</choice><choice>स्वस्थान अप्रमत्त</choice><choice>सातिशय अप्रमत्त</choice><choice>अपूर्वकरण</choice><choice>क्षीण कषाय</choice></choices>
+			</que>
+			<que>
+				<des>तीर्थंकर प्रकृति की सत्ता वाला जीव ____________________ गुणस्थान में प्रवेश नहीं करता</des>
+				<ans>3</ans>
+				<choices><choice>सासादन</choice><choice>मिश्र</choice><choice>सासादन और मिश्र</choice><choice>मिथ्यात्व</choice><choice>मिथ्यात्व, सासादन, मिश्र</choice></choices>
+			</que>
+			<que>
+				<des>जिसके _____________________ कर्म की सत्ता हो, उसके देशव्रत नहीं होते</des>
+				<ans>3</ans>
+				<choices><choice>मिथ्यात्व</choice><choice>आहारक द्विक</choice><choice>नरक आयु</choice><choice>नरक, तिर्यंच आयु</choice><choice>नरक गति</choice><choice>अनंतानुबंधी</choice><choice>मिथ्यात्व, अनंतानुबंधी</choice></choices>
+			</que>
+			<que>
+				<des>चारित्र मोहनीय की _________________________ प्रकृतियों की सत्ता नष्ट होकर पुन: प्रकट हो सकती है</des>
+				<ans>1</ans>
+				<choices><choice>अनंतानुबंधी</choice><choice>संज्वलन</choice><choice>नोकर्म</choice><choice>अप्रत्याख्यानावरणी</choice><choice>प्रत्याख्यानावरणी</choice><choice>सभी</choice></choices>
+			</que>
+			<que>
+				<des>जिस जीव के _____________________ आयु कर्म की सत्ता हो, वह क्षपक श्रेणी नहीं चढ सकता</des>
+				<ans>5</ans>
+				<choices><choice>नरक</choice><choice>तिर्यंच</choice><choice>नरक, तिर्यंच</choice><choice>नरक, तिर्यंच, मनुष्य</choice><choice>नरक, तिर्यंच, देव</choice><choice>कोई भी एक</choice></choices>
+			</que>
+			<que>
+				<des>जिस जीव के _____________________ आयु कर्म की सत्ता हो, वह उपशम श्रेणी नहीं चढ सकता</des>
+				<ans>3</ans>
+				<choices><choice>नरक</choice><choice>तिर्यंच</choice><choice>नरक, तिर्यंच</choice><choice>नरक, तिर्यंच, मनुष्य</choice><choice>कोई भी एक</choice></choices>
+			</que>
+			<que>
+				<des>मुनिराज के चौरासी लाख उत्तरगुण और 18 हजार प्रकार के शील की पूर्णता इस गुणस्थान में होती है</des>
+				<ans>6</ans>
+				<choices><choice>अप्रमत्त विरत</choice><choice>अपूर्वकरण</choice><choice>सूक्ष्म साम्पराय</choice><choice>क्षीण मोह</choice><choice>सयोग केवळी</choice><choice>अयोग केवळी</choice></choices>
+			</que>
+			<que>
+				<des>गुणस्थान ___________ है </des>
+				<ans>3</ans>
+				<choices><choice>द्रव्य</choice><choice>गुण</choice><choice>पर्याय</choice><choice>ध्रौव्य</choice><choice>सभी</choice></choices>
+			</que>
+			<que>
+				<des>नोकषाय का उदय कौन से गुणस्थान तक होता है</des>
+				<ans>4</ans>
+				<choices><choice>उपशांत मोह</choice><choice>क्षीण मोह</choice><choice>सूक्ष्म सांपराय</choice><choice>अनिवृत्तिकरण</choice><choice>अपूर्वकरण</choice><choice>सयोग केवली</choice></choices>
+			</que>
+			<que>
+				<des>देशविरत गुणस्थान में मोहनीय की कितनी प्रकृतियों का उदय हो सकता है </des>
+				<ans>3</ans>
+				<choices><choice>15</choice><choice>17</choice><choice>18</choice><choice>19</choice><choice>21</choice></choices>
+			</que>
+			<que>
+				<des>अपूर्वकरण गुणस्थान में कौन सा चारित्र है </des>
+				<ans>5</ans>
+				<choices><choice>क्षायोपशमिक</choice><choice>क्षायिक</choice><choice>क्षायोपशमिक, क्षायिक</choice><choice>औपशमिक</choice><choice>औपशमिक, क्षायिक</choice></choices>
+			</que>
+			<que>
+				<des>सासादन गुणस्थान में ________________ भाव होते है</des>
+				<ans>1</ans>
+				<choices><choice>पारिणामिक</choice><choice>क्षायोपशमिक</choice><choice>क्षायिक</choice><choice>औपशमिक</choice><choice>औदयिक</choice></choices>
+			</que>
+			<que>
+				<des>विग्रह गति में नही पाया जाने वाला गुणस्थान</des>
+				<ans>5</ans>
+				<choices><choice>देशविरत, सासादन</choice><choice>मिश्र, सासादन</choice><choice>सासादन, देशविरत</choice><choice>देशविरत, सासादन, मिश्र</choice><choice>इनमें से कोई नहीं</choice></choices>
+			</que>
+			<que>
+				<des>नोकषाय का उदय _______ चारित्र का बाधक है</des>
+				<ans>4</ans>
+				<choices><choice>सम्यक्त्वाचरण</choice><choice>स्वरूपाचरण</choice><choice>सामायिक</choice><choice>यथाख्यात</choice><choice>परम यथाख्यात</choice><choice>सभी</choice></choices>
+			</que>
+			<que>
+				<des>इनमें से ________ प्रमाद का भेद नहीं है</des>
+				<ans>1</ans>
+				<choices><choice>मिथ्यात्व</choice><choice>निद्रा</choice><choice>स्नेह</choice><choice>चोर कथा</choice><choice>रसना इंद्रिय के विषय</choice></choices>
+			</que>
+			<que>
+				<des>सातिशय अप्रमत्त गुणस्थान में होने वाले 4 आवश्यक _______ गुणस्थान तक होते रहते हैं</des>
+				<ans>3</ans>
+				<choices><choice>8वें</choice><choice>9वें</choice><choice>10वें</choice><choice>11-12वें</choice><choice>13वें</choice><choice>14वें</choice></choices>
+			</que>
+			<que>
+				<des>संसारी जीव के अधिक से अधिक __________ समयप्रबद्ध प्रमाण कर्मों की सत्ता पाई जाती है</des>
+				<ans>3</ans>
+				<choices><choice>संख्यात</choice><choice>जघन्य असंख्यात</choice><choice>असंख्याता-असंख्यात</choice><choice>जघन्य अनंत</choice><choice>अनंतानंत</choice></choices>
+			</que>
+			<que>
+				<des>छठे गुणस्थान में ______________ ध्यान हो सकते हैं </des>
+				<ans>4</ans>
+				<choices><choice>आर्त, रौद्र</choice><choice>आर्त, रौद्र, धर्म</choice><choice>रौद्र, धर्म</choice><choice>आर्त, धर्म</choice><choice>धर्म</choice><choice>आर्त, रौद्र, धर्म, शुक्ल</choice></choices>
+			</que>
+			<que>
+				<des>मुक्ति प्राप्ति के लिये 14 में से ______________ गुणस्थान अनिवार्य नहीं है - (संख्या बताइये)</des>
+				<ans>5</ans>
+				<choices><choice>1</choice><choice>2</choice><choice>3</choice><choice>4</choice><choice>5</choice></choices>
+			</que>
+			<que>
+				<des>साम्परायिक आस्रव के ये कारण हैं</des>
+				<ans>7</ans>
+				<choices><choice>मिथ्यात्व</choice><choice>अविरति</choice><choice>प्रमाद</choice><choice>कषाय</choice><choice>योग</choice><choice>मिथ्यात्व, अविरति, प्रमाद, कषाय</choice><choice>मिथ्यात्व, अविरति, प्रमाद, कषाय, योग</choice></choices>
+			</que>
+			<que>
+				<des>14 गुणस्थानों में से ___________ गुणस्थानों में जीव सदा विद्यमान रहते ही हैं </des>
+				<ans>3</ans>
+				<choices><choice>4</choice><choice>5</choice><choice>6</choice><choice>7</choice><choice>8</choice><choice>9</choice><choice>10</choice></choices>
+			</que>
+			<que>
+				<des>सयोग-केवली के __________ आहार होता है </des>
+				<ans>4</ans>
+				<choices><choice>ओजाहार</choice><choice>कवलाहार</choice><choice>लेपाहार</choice><choice>नोकर्माहार</choice><choice>मानसिक</choice></choices>
+			</que>
+			<que>
+				<des>इनमें से _______ समुद्घात का भेद नहीं है </des>
+				<ans>1</ans>
+				<choices><choice>औदारिक</choice><choice>आहारक</choice><choice>वैक्रियिक</choice><choice>मारणान्तिक</choice><choice>केवली</choice><choice>कषाय</choice><choice>वेदना</choice></choices>
+			</que>
+		</queBlock>
+		<queBlock>
+			<qType>MATCH_THE_COLUMN</qType>
+			<que>
+				<des>One to one match</des>
+				<tr>
+					<left>क्षायोपशमिक सम्यक्त्व</left>
+					<right>केवलज्ञान</right>
+					<ans>10</ans>
+				</tr>
+				<tr>
+					<left>क्षीण मोह</left>
+					<right>सम्यक्त्व सहित अव्रत अवस्था</right>
+					<ans>7</ans>
+				</tr>
+				<tr>
+					<left>120</left>
+					<right>मिथ्यात्व</right>
+					<ans>9</ans>
+				</tr>
+				<tr>
+					<left>संज्वलन</left>
+					<right>उद्धोत</right>
+					<ans>15</ans>
+				</tr>
+				<tr>
+					<left>122</left>
+					<right>औपशमिक चारित्र</right>
+					<ans>6</ans>
+				</tr>
+				<tr>
+					<left>असहाय</left>
+					<right>उदय योग्य प्रकृतिया</right>
+					<ans>1</ans>
+				</tr>
+				<tr>
+					<left>अविरत सम्यक्त्व</left>
+					<right>मोहनीय सत्ता नाश</right>
+					<ans>2</ans>
+				</tr>
+				<tr>
+					<left>41</left>
+					<right>मरण कर नरक नही जाता</right>
+					<ans>12</ans>
+				</tr>
+				<tr>
+					<left>सासादन गुणस्थान</left>
+					<right>बंध योग्य प्रकृतिया</right>
+					<ans>8</ans>
+				</tr>
+				<tr>
+					<left>अनन्तानुबन्धी</left>
+					<right>सम्यक्त्व प्रकृति</right>
+					<ans>4</ans>
+				</tr>
+				<tr>
+					<left>117</left>
+					<right>आतप</right>
+					<ans>3</ans>
+				</tr>
+				<tr>
+					<left>मिथ्यात्व</left>
+					<right>क्षायिक सम्यक्त्वी</right>
+					<ans>11</ans>
+				</tr>
+				<tr>
+					<left>उपशांत मोह</left>
+					<right>सातिषय अप्रमत्त</right>
+					<ans>5</ans>
+				</tr>
+				<tr>
+					<left>स्थितिकांडक घात</left>
+					<right>अपूर्वकरण</right>
+					<ans>14</ans>
+				</tr>
+				<tr>
+					<left>स्तिबुक संक्रमण</left>
+					<right>सकल चारित्र</right>
+					<ans>16</ans>
+				</tr>
+				<tr>
+					<left>स्थितिबंधापसरण</left>
+					<right>उदयाभावी क्षय</right>
+					<ans>13</ans>
+				</tr>
+			</que>
+		</queBlock>
+		<queBlock>
+			<qType>TABLE_CHOSE</qType>
+			<que>
+				<des>गुणस्थानों के वर्णन में इनका उदाहरण /उल्लेख लिया गया है</des>
+				<qColumn>
+					<c>शिवभूति मुनिराज</c>
+					<c>अग्नि-शिखा</c>
+					<c>स्फटिक-मणि का पात्र</c>
+					<c>कौसुंभी-वस्त्र</c>
+					<c>साईकल सवार</c>
+					<c>निर्मली-फल</c>
+					<c>गुड-मिश्रित-दही</c>
+					<c>रत्नपर्वत</c>
+					<c>मित्रामित्र-न्याय</c>
+					<c>खीर का वमन होने के बाद का स्वाद</c>
+					<c>लाठी पकडे हुए वृद्ध पुरुष</c>
+					<c>आदिनाथ मुनिवर को हजार वर्ष लगे</c>
+					<c>सोते हुए बलवान शत्रुओं को जीत लेना</c>
+  				</qColumn>
+				<answers>
+					<ans>12</ans>
+					<ans>9</ans>
+					<ans>12</ans>
+					<ans>10</ans>
+					<ans>1</ans>
+					<ans>11</ans>
+					<ans>3</ans>
+					<ans>2</ans>
+					<ans>3</ans>
+					<ans>2</ans>
+					<ans>4</ans>
+					<ans>6</ans>
+					<ans>8</ans>
+				</answers>
+				<aColumn>
+					<c> 1 मिथ्यात्व गुणस्थान</c>
+					<c> 2 सासादन गुणस्थान</c>
+					<c> 3 मिश्र गुणस्थान</c>
+					<c> 4 अविरत सम्यक्त्व गुणस्थान</c>
+					<c> 5 देशविरत गुणस्थान</c>
+					<c> 6 प्रमत्तविरत गुणस्थान</c>
+					<c> 7 अप्रमत्तविरत गुणस्थान</c>
+					<c> 8 अपूर्वकरण गुणस्थान</c>
+					<c> 9 अनिवृत्तिकरण गुणस्थान</c>
+					<c>10 सूक्ष्म साम्पराय गुणस्थान</c>
+					<c>11 उपशान्त मोह गुणस्थान</c>
+					<c>12 क्षीणमोह गुणस्थान</c>
+					<c>13 सयोगकेवली गुणस्थान</c>
+					<c>14 अयोगकेवली गुणस्थान</c>
+				</aColumn>
+			</que>
+			<que>
+				<des>आयु के बंध में आठ अपकर्ष काल का नियम</des>
+				<qColumn>
+					<c>देव</c>
+					<c>कर्मभूमि-मनुष्य</c>
+					<c>नारकी</c>
+					<c>भोगभूमि-मनुष्य</c>
+					<c>कर्मभूमि-तिर्यंच</c>
+  				</qColumn>
+				<aColumn>
+					<c>भुज्यमान (current) आयु में</c>
+					<c>मृत्यु के अंतरमुहर्त पहले</c>
+					<c>आयु के नौ मास शेष रह जाने पर</c>
+					<c>आयु के छ्ह मास शेष रह जाने पर</c>
+					<c>आयु के एक मास शेष रह जाने पर</c>
+				</aColumn>
+				<answers>
+					<ans>4</ans>
+					<ans>1</ans>
+					<ans>4</ans>
+					<ans>3</ans>
+					<ans>1</ans>
+				</answers>
+			</que>
+		</queBlock>
+		<queBlock>
+			<qType>TABLE_GRID_CHOSE</qType>
+			<que>
+				<des>नीचे दिये गए कर्मों के उदय किस गुणस्थान तक पाया जाता है -</des>
+				<qColumn>
+					<c>ज्ञानावरणी</c>
+					<ans>10</ans><ans>12</ans><ans>12</ans>
+				</qColumn>
+				<qColumn>
+					<c>दर्शनावरणी</c>
+					<ans>10</ans><ans>12</ans><ans>12</ans>
+				</qColumn>
+				<qColumn>
+					<c>दर्शन मोहनीय</c>
+					<ans>1</ans><ans>7</ans><ans>11</ans>
+				</qColumn>
+				<qColumn>
+					<c>चारित्र मोहनीय</c>
+					<ans>9</ans><ans>10</ans><ans>11</ans>
+				</qColumn>
+				<qColumn>
+					<c>अंतराय</c>
+					<ans>10</ans><ans>12</ans><ans>12</ans>
+				</qColumn>
+				<qColumn>
+					<c>आयु</c>
+					<ans>7</ans><ans>14</ans><ans>14</ans>
+				</qColumn>
+				<qColumn>
+					<c>नाम</c>
+					<ans>10</ans><ans>14</ans><ans>14</ans>
+				</qColumn>
+				<qColumn>
+					<c>नीच गोत्र</c>
+					<ans>2</ans><ans>5</ans><ans>14</ans>
+				</qColumn>
+				<qColumn>
+					<c>उच्च गोत्र</c>
+					<ans>10</ans><ans>14</ans><ans>14</ans>
+				</qColumn>
+				<qColumn>
+					<c>साता वेदनीय</c>
+					<ans>13</ans><ans>14</ans><ans>14</ans>
+				</qColumn>
+				<qColumn>
+					<c>असाता वेदनीय</c>
+					<ans>6</ans><ans>14</ans><ans>14</ans>
+				</qColumn>
+				<aRow>
+					<c>बंध</c>
+					<c>उदय</c>
+					<c>सत्ता</c>
+				</aRow>
+				<aColumn>
+					<c> 1 मिथ्यात्व गुणस्थान</c>
+					<c> 2 सासादन गुणस्थान</c>
+					<c> 3 मिश्र गुणस्थान</c>
+					<c> 4 अविरत सम्यक्त्व गुणस्थान</c>
+					<c> 5 देशविरत गुणस्थान</c>
+					<c> 6 प्रमत्तविरत गुणस्थान</c>
+					<c> 7 अप्रमत्तविरत गुणस्थान</c>
+					<c> 8 अपूर्वकरण गुणस्थान</c>
+					<c> 9 अनिवृत्तिकरण गुणस्थान</c>
+					<c>10 सूक्ष्म साम्पराय गुणस्थान</c>
+					<c>11 उपशान्त मोह गुणस्थान</c>
+					<c>12 क्षीणमोह गुणस्थान</c>
+					<c>13 सयोगकेवली गुणस्थान</c>
+					<c>14 अयोगकेवली गुणस्थान</c>
+				</aColumn>
+			</que>
+			<que>
+				<des>गुणस्थानों में गमन-आगमन की संख्या (कृप्या सभी अपेक्षाऎं लगाऎं)</des>
+				<qColumn>
+					<c>मिथ्यात्व</c>
+					<ans>5</ans><ans>4</ans>
+  				</qColumn>
+				<qColumn>
+					<c>मिश्र</c>
+					<ans>4</ans><ans>2</ans>
+  				</qColumn>
+				<qColumn>
+					<c>अविरत</c>
+					<ans>9</ans><ans>5</ans>
+  				</qColumn>
+				<qColumn>
+					<c>प्रमत्तविरत</c>
+					<ans>1</ans><ans>6</ans>
+  				</qColumn>
+				<qColumn>
+					<c>अप्रमत्तविरत</c>
+					<ans>5</ans><ans>3</ans>
+  				</qColumn>
+				<qColumn>
+					<c>अनिवृत्तिकरण</c>
+					<ans>2</ans><ans>3</ans>
+  				</qColumn>
+				<qColumn>
+					<c>उपशान्त मोह</c>
+					<ans>1</ans><ans>2</ans>
+  				</qColumn>
+				<qColumn>
+					<c>सयोगकेवली</c>
+					<ans>1</ans><ans>1</ans>
+  				</qColumn>
+				<aRow>
+					<c>आगमन</c>
+					<c>गमन</c>
+				</aRow>
+				<aColumn>
+					<c>1</c>
+					<c>2</c>
+					<c>3</c>
+					<c>4</c>
+					<c>5</c>
+					<c>6</c>
+					<c>7</c>
+					<c>8</c>
+					<c>9</c>
+					<c>10</c>
+				</aColumn>
+			</que>
+			<que>
+				<des>गुणस्थानों में सही विभाजन कीजिये</des>
+				<qColumn>
+					<c>क्षायोपशमिक सम्यक्त्व</c>
+					<ans>4</ans><ans>7</ans>
+  				</qColumn>
+				<qColumn>
+					<c>उपशम सम्यक्त्व</c>
+					<ans>4</ans><ans>11</ans>
+  				</qColumn>
+				<qColumn>
+					<c>क्षायिक सम्यक्त्व</c>
+					<ans>4</ans><ans>14</ans>
+  				</qColumn>
+				<qColumn>
+					<c>अविरति</c>
+					<ans>1</ans><ans>4</ans>
+  				</qColumn>
+				<qColumn>
+					<c>प्रमाद</c>
+					<ans>1</ans><ans>6</ans>
+  				</qColumn>
+				<qColumn>
+					<c>कषाय</c>
+					<ans>1</ans><ans>10</ans>
+  				</qColumn>
+				<qColumn>
+					<c>योग</c>
+					<ans>1</ans><ans>13</ans>
+  				</qColumn>
+				<qColumn>
+					<c>अंतरात्मा</c>
+					<ans>4</ans><ans>12</ans>
+  				</qColumn>
+				<qColumn>
+					<c>पूर्ण विरत</c>
+					<ans>6</ans><ans>14</ans>
+  				</qColumn>
+				<qColumn>
+					<c>छद्मस्थ</c>
+					<ans>1</ans><ans>12</ans>
+  				</qColumn>
+				<qColumn>
+					<c>श्रावक</c>
+					<ans>4</ans><ans>5</ans>
+  				</qColumn>
+				<qColumn>
+					<c>एकत्व वितर्क वीचार</c>
+					<ans>12</ans><ans>12</ans>
+  				</qColumn>
+				<qColumn>
+					<c>प्रथकत्व वितर्क वीचार</c>
+					<ans>8</ans><ans>11</ans>
+  				</qColumn>
+				<qColumn>
+					<c>व्युपरत क्रिया निवृति</c>
+					<ans>14</ans><ans>14</ans>
+  				</qColumn>
+				<qColumn>
+					<c>रौद्र ध्यान</c>
+					<ans>1</ans><ans>5</ans>
+  				</qColumn>
+				<qColumn>
+					<c>आर्त ध्यान</c>
+					<ans>1</ans><ans>6</ans>
+  				</qColumn>
+				<qColumn>
+					<c>धर्म ध्यान</c>
+					<ans>4</ans><ans>7</ans>
+  				</qColumn>
+				<qColumn>
+					<c>अधर्मी</c>
+					<ans>1</ans><ans>3</ans>
+  				</qColumn>
+				<qColumn>
+					<c>सम्यक्त्व प्रकृति का उदय</c>
+					<ans>4</ans><ans>7</ans>
+  				</qColumn>
+				<qColumn>
+					<c>आहारक अंगोपांग का उदय</c>
+					<ans>6</ans><ans>6</ans>
+  				</qColumn>
+				<qColumn>
+					<c>आहारक अंगोपांग का बंध</c>
+					<ans>7</ans><ans>8</ans>
+  				</qColumn>
+				<qColumn>
+					<c>तीर्थंकर का उदय</c>
+					<ans>13</ans><ans>14</ans>
+  				</qColumn>
+				<qColumn>
+					<c>तीर्थंकर का बंध</c>
+					<ans>4</ans><ans>8</ans>
+  				</qColumn>
+				<qColumn>
+					<c>प्रचला-प्रचला का उदय</c>
+					<ans>1</ans><ans>6</ans>
+  				</qColumn>
+				<qColumn>
+					<c>अरति का उदय</c>
+					<ans>1</ans><ans>8</ans>
+  				</qColumn>
+				<qColumn>
+					<c>आदेय का उदय</c>
+					<ans>1</ans><ans>14</ans>
+  				</qColumn>
+				<qColumn>
+					<c>उपभोगांतराय का बंध</c>
+					<ans>1</ans><ans>10</ans>
+  				</qColumn>
+				<qColumn>
+					<c>तिर्यंचायु की सत्ता</c>
+					<ans>1</ans><ans>5</ans>
+  				</qColumn>
+				<qColumn>
+					<c>अनंतानुबंधी की सत्ता</c>
+					<ans>1</ans><ans>7</ans>
+  				</qColumn>
+				<qColumn>
+					<c>मिथ्यात्व की सत्ता</c>
+					<ans>1</ans><ans>11</ans>
+  				</qColumn>
+				<qColumn>
+					<c>असंप्राप्ता-सृपाटिका संहनन का उदय</c>
+					<ans>1</ans><ans>7</ans>
+  				</qColumn>
+				<qColumn>
+					<c>वज्र वृषभ नाराच संहनन का उदय</c>
+					<ans>1</ans><ans>13</ans>
+  				</qColumn>
+				<aRow>
+					<c>यहां से</c>
+					<c>यहां तक</c>
+				</aRow>
+				<aColumn>
+					<c> 1 मिथ्यात्व गुणस्थान</c>
+					<c> 2 सासादन गुणस्थान</c>
+					<c> 3 मिश्र गुणस्थान</c>
+					<c> 4 अविरत सम्यक्त्व गुणस्थान</c>
+					<c> 5 देशविरत गुणस्थान</c>
+					<c> 6 प्रमत्तविरत गुणस्थान</c>
+					<c> 7 अप्रमत्तविरत गुणस्थान</c>
+					<c> 8 अपूर्वकरण गुणस्थान</c>
+					<c> 9 अनिवृत्तिकरण गुणस्थान</c>
+					<c>10 सूक्ष्म साम्पराय गुणस्थान</c>
+					<c>11 उपशान्त मोह गुणस्थान</c>
+					<c>12 क्षीणमोह गुणस्थान</c>
+					<c>13 सयोगकेवली गुणस्थान</c>
+					<c>14 अयोगकेवली गुणस्थान</c>
+				</aColumn>
+			</que>
+		</queBlock>
+	</queBlocks>
+</quePaper>

@@ -1,0 +1,86 @@
+<!doctype html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" media="all" href="css/reset.css" />
+<script src="http://code.jquery.com/jquery.min.js"></script>
+<style>
+    body{ background-color: ivory; }
+    canvas{border:1px solid red;}
+</style>
+<script>
+    $(function(){
+
+        var canvas=document.getElementById("canvas");
+        var ctx=canvas.getContext("2d");
+        var cx=150;
+        var cy=150;
+        var PI2=Math.PI*2;
+        var radius=0;
+
+        // these are the circle definitions kept in an array
+        // each definition holds: radius, color, stroke-width
+        var circles=[];
+
+        // add some test circles
+        addCircle(15,"red");
+        addCircle(15,"green");
+        addCircle(15,"blue");
+        addCircle(15,"purple");
+        addCircle(15,"lightblue");
+        addCircle(15,"lightgreen");
+        addCircle(15,"maroon");
+        var targetIndex=0;
+
+
+        function addCircle(lineWidth,color){
+            if(radius==0){
+                radius=lineWidth/2;
+            }else{
+                radius+=lineWidth;
+            }
+            circles.push({radius:radius,color:color,width:lineWidth});
+        }
+
+
+        // draw 1 circle based on its definition
+        // "color" specifies the alternate color for the circle
+        function drawCircle(circle,color){
+                ctx.beginPath();
+                ctx.arc(cx,cy,circle.radius,0,PI2);
+                ctx.closePath();
+                ctx.lineWidth=circle.width;
+                ctx.strokeStyle=color;
+                ctx.stroke();
+        }
+
+
+        // animate at about 1 frame-per-second
+        var fps = 1;
+        function animate() {
+            setTimeout(function() {
+                // request another animation loop
+                requestAnimationFrame(animate);
+                // Drawing code goes here
+                ctx.clearRect(0,0,canvas.width,canvas.height);
+                for(var i=0;i<circles.length;i++){
+                    var circle=circles[i];
+                    var color=circle.color;
+                    if(i==targetIndex){ color="gold"; }
+                    drawCircle(circles[i],color);
+                }
+                // target the next circle
+                if(targetIndex++ > circles.length){ targetIndex=0; }
+            }, 1000 / fps);
+        }
+
+        // start!
+        animate();        
+
+    }); // end $(function(){});
+</script>
+</head>
+<body>
+    <h4>Each stroked circle will animate to gold color</h4>
+    <canvas id="canvas" width=350 height=350></canvas>
+</body>
+</html>

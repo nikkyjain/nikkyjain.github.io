@@ -1,0 +1,91 @@
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Cadence Session Analyzer</title>
+  <link rel="icon" type="image/png" href='/images/Cadence_Logo.png'/>
+  <link rel="stylesheet" href='/css/myJqueryMobile.css'>
+  <link rel="stylesheet" href='/js/jquery-mobile/1.5-alpha/css/themes/default/jquery.mobile.css'>
+  <script type="text/javascript" src='/js/jquery.js'></script>
+  <script type="text/javascript" src='/js/jquery-mobile/1.5-alpha/jquery.mobile.js'></script>
+
+<script>
+
+$.ajax({
+    url: "https://vlnx312:8080/small,charoncluster/vapi/rest/sessions/list",
+    beforeSend: function(xhr) { 
+      xhr.setRequestHeader("Authorization", "Basic " + btoa("vishalj:letmein")); 
+    },
+    type: 'POST',
+    dataType: 'json',
+    contentType: 'application/json',
+    processData: false,
+    data : JSON.stringify({ 
+      "filter": {
+        "attName": "name",
+        "operand": "EQUALS",
+        "@c": ".AttValueFilter",
+        "attValue": "rfvip.sanity.vishalj.20_04_22_23_27_19_2997"
+      },
+      "projection": {
+          "type": "SELECTION_ONLY",
+          "selection": [
+              "session_status",
+              "name",
+              "total_runs_in_session",
+              "passed_runs",
+              "failed_runs",
+              "running",
+              "waiting",
+              "other_runs",
+              "start_time",
+              "owner",
+              "duration" ]
+      }
+    }),
+    success: function (data) {
+      console.log(JSON.stringify(data));
+      var lookup = {};
+      var items = data;
+      var result = [];
+      
+      for (var item, i = 0; item = items[i++];) {
+        var name = item.owner;
+      
+        if (!(name in lookup)) {
+          lookup[name] = 1;
+          result.push(name);
+        }
+      }
+
+      var select = $('#select-native-1');
+      select.append('<option value="choose" data-placeholder="true">Select Session</option>');
+      result.forEach(function(item) {
+        console.log("DBG : Session Owners : " + item);
+        select.append('<optgroup label="'+item+'" id = "sessionSel'+item+'"></optgroup>');
+        for (var key in data) {
+          $('#sessionSel'+item).append('<option>'+ data[key].name + '</option>');
+          console.log("DBG : Session Name : " + data[key].name);
+        }
+      });
+      select.selectmenu('refresh', true);
+    },
+    error: function(){
+      console.log("Error : Cannot get data");
+    }
+});
+  
+</script>
+</head>
+<body>
+<form>
+<div class="ui-field-contain">
+    <label for="select-native-1">Select Session : </label>
+    <select name="select-native-1" id="select-native-1">
+    </select>
+</div>
+</form>
+</div>
+</form>
+</body>
+</html>

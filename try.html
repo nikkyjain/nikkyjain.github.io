@@ -1,0 +1,1228 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Jai Jinendra</title>
+  <link rel="icon" type="image/png" href="./images/default/jainFlag-short.jpg"/>
+  <link rel="stylesheet" href="./css/myJqueryMobile.css">
+  <link rel="stylesheet" href="./js/jquery-mobile/1.5-alpha/css/themes/default/jquery.mobile.css">
+  <script type="text/javascript" src="./js/jquery.js"></script>
+  <script type="text/javascript" src="./js/jquery-mobile/1.5-alpha/jquery.mobile.js"></script>
+  <script>
+    relPath="./";
+  </script>
+  <script type="text/javascript" src="./js/myMobile.js"></script>
+</head>
+<body>
+<div data-role=page id=demo-page>
+  <div data-role=panel id=leftPanel>
+    <div data-role=navbar data-maxbutton=1 class=ui-body-a>
+        <ul id=myPanelUl>
+            <li><a data-rel=popup data-icon=ui-icon-star data-transition=pop href='#popupBhajan'>भजन</a></li>
+            <li><a data-rel=popup data-icon=ui-icon-star data-transition=pop href='#popupPooja'>पूजा-पाठ</a></li>
+            <li><a data-rel=popup data-icon=ui-icon-star data-transition=pop href='#popupTeeka'>Granth Only Gatha</a></li>
+            <li><a data-rel=popup data-icon=ui-icon-star data-transition=pop href='#popupShastra'>Granth Gaatha-With-Teeka</a></li>
+            <li><a data-rel=popup data-icon=ui-icon-star data-transition=pop href='#popupGames'>Play / Test</a></li>
+            <li><a data-rel=popup data-icon=ui-icon-star data-transition=pop href='#popupMisc'>Misc</a></li>
+        </ul>
+    </div>
+    <a href="#jainRadio" data-rel="popup" class="ui-button ui-corner-all ui-shadow ui-button-inline">Jain Radio</a>
+    <div data-role="popup" id=jainRadio class="ui-content" style="max-width:480px">
+      <a href="#" data-rel=back data-ajax=false class="ui-button ui-corner-all ui-shadow ui-button-a ui-button-icon-only ui-toolbar-header-button-right">Close <span class="ui-icon ui-icon-delete"></span></a>
+      <br><p> Play Jain Bhajan / Pooja / Path</p>
+      <a href='#' data-role=button data-inline=true data-icon=ui-icon-audio id=myRadioId>Radio</a>
+      <a href="#" data-role=button data-inline=true data-icon=ui-icon-arrow-r id=myRadioNextId data-show-label=false>Next Audio</a>
+      <div id=myRadio></div>
+    </div>
+    <div>
+      <form>
+        <input data-type='search' id='searchTitleIn' placeholder='Search in Hindi..'>
+      </form>
+      <ul id=searchTitle data-role="listview" data-filter="true" data-input="#searchTitleIn" data-filter-reveal="true" data-filter-placeholder="Search Bhajan / Pooja / Shastra">
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-1.html>1) अरिहंत देव स्वामी शरण</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-2.html>2) अशरीरी सिद्ध भगवान</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-3.html>3) आ गया... आ गया...</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-4.html>4) आओ जिनमंदिर में आओ</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-5.html>5) आज मैं महावीर जी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-6.html>6) आज सी सुहानी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-7.html>7) आज हम जिनराज</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-8.html>8) आया कहां से</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-9.html>9) आया तेरे दरबार में</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-10.html>10) आये तेरे द्वार</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-11.html>11) आयो आयो रे हमारो</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-12.html>12) एक तुम्हीं आधार हो</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-13.html>13) ओ जगत के शांति दाता</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-14.html>14) कभी वीर बनके</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-15.html>15) कर लो जिनवर का गुणगान</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-16.html>16) करता हूं तुम्हारा सुमिरन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-17.html>17) करुणा सागर भगवान</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-18.html>18) केसरिया केसरिया</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-19.html>19) कोई इत आओ जी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-20.html>20) गा रे भैया</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-21.html>21) गाएँ जी गाएँ आदिनाथ</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-22.html>22) घडी घडी पल पल</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-23.html>23) चंद्रानन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-24.html>24) चरणों में आया हूं</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-25.html>25) चवलेश्वर पारसनाथ</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-26.html>26) चाह मुझे है दर्शन की</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-27.html>27) छोटा सा मंदिर</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-28.html>28) जगदानंदन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-29.html>29) जब कोई नहीं आता मेरे बाबा</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-30.html>30) जयवंतो जिनबिम्ब</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-31.html>31) जिन ध्याना गुण गाना</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-32.html>32) जिनवर आनन भान</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-33.html>33) जिनवर दरबार तुम्हारा</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-34.html>34) झीनी झीनी उडे रे</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-35.html>35) तिहारे ध्यान की मूरत</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-36.html>36) तुझे प्रभु वीर कहते हैं</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-37.html>37) तुम जैसा मैं भी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-38.html>38) तुमसे लागी लगन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-39.html>39) तुम्हारे दर्श बिन स्वामी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-40.html>40) तुम्ही हो ज्ञाता</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-41.html>41) तू ज्ञान का सागर है</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-42.html>42) तेरी शांत छवि</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-43.html>43) तेरी शीतल शीतल मूरत</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-44.html>44) तेरी सुंदर मूरत</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-45.html>45) तेरे दर्शन से मेरा</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-46.html>46) तोरी पल पल</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-47.html>47) दरबार तुम्हारा मनहर है</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-48.html>48) दिन रात स्वामी तेरे गीत</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-49.html>49) देखो जी आदिश्वर स्वामी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-50.html>50) धन्य धन्य आज घडी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-51.html>51) नाथ तुम्हारी पूजा</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-52.html>52) नाम तुम्हारा तारणहारा कब तेरा</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-53.html>53) निरखत जिन चंद्रवदन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-54.html>54) निरखी निरखी मनहर</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-55.html>55) निरखो अंग अंग</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-56.html>56) नेमि जिनेश्वर</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-57.html>57) पंचपरम परमेष्ठी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-58.html>58) पद्मासद्म</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-59.html>59) पारस प्यारा लागो</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-60.html>60) पारस प्रभु का दर्शन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-61.html>61) प्रभु दर्शन कर जीवन की</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-62.html>62) प्रभु हम सब का एक</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-63.html>63) प्रभुजी अब ना भटकेंगे</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-64.html>64) बाहुबली भगवान</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-65.html>65) भटके हुए राही को</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-66.html>66) भव भव रुले हैं</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-67.html>67) भावना की चूनरी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-68.html>68) मन भाये चित हुलसाये</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-69.html>69) मनहर तेरी मूरतियाँ</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-70.html>70) महाराजा स्वामी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-71.html>71) महावीर स्वामी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-72.html>72) मिलता है सच्चा सुख केवल</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-73.html>73) मेरे मन मंदिर में आन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-74.html>74) मेरे महावीर झूले पलना</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-75.html>75) मेरे सर पर रख दो भगवन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-76.html>76) मैं तेरे ढिंग आया रे</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-77.html>77) म्हारा आदीश्वर जी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-78.html>78) रंगमा रंगमा</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-79.html>79) रोम रोम पुलकित हो जाये</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-80.html>80) रोम रोम में नेमिकुंवर के</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-81.html>81) रोम रोम से निकले</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-82.html>82) वन्दों अद्भुत चन्द्रवीर जिन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-83.html>83) वर्तमान को वर्धमान की</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-84.html>84) वर्धमान ललना से</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-85.html>85) वीतरागी देव</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-86.html>86) वीर प्रभु के ये बोल</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-87.html>87) शुद्धात्मा का श्रद्धान</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-88.html>88) शौरीपुर वाले</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-89.html>89) श्री अरिहंत छवि लखिके</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-90.html>90) श्री जिनवर पद ध्यावें जे नर</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-91.html>91) सीमंधर स्वामी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-92.html>92) सुरपति ले अपने शीश</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-93.html>93) स्वामी तेरा मुखडा</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-94.html>94) हम यही कामना करते हैं</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-95.html>95) हरो पीर मेरी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-96.html>96) हे प्रभो चरणों में</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/02-शास्त्र/html/bhajan-1.html>1) आज मैं परम पदारथ</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/02-शास्त्र/html/bhajan-2.html>2) ओंकारमयी वाणी तेरी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/02-शास्त्र/html/bhajan-3.html>3) करता हूं मैं अभिनंदन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/02-शास्त्र/html/bhajan-4.html>4) चरणों में आ पडा हूं</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/02-शास्त्र/html/bhajan-5.html>5) जब एक रत्न अनमोल</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/02-शास्त्र/html/bhajan-6.html>6) जिनवाणी अमृत रसाल</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/02-शास्त्र/html/bhajan-7.html>7) जिनवाणी की सुनै सो</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/02-शास्त्र/html/bhajan-8.html>8) जिनवाणी जग मैया</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/02-शास्त्र/html/bhajan-9.html>9) जिनवाणी माँ जिनवाणी माँ</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/02-शास्त्र/html/bhajan-10.html>10) जिनवाणी माता दर्शन की</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/02-शास्त्र/html/bhajan-11.html>11) जिनवाणी माता रत्नत्रय निधि</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/02-शास्त्र/html/bhajan-12.html>12) जिनवैन सुनत, मोरी भूल भगी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/02-शास्त्र/html/bhajan-13.html>13) धन्य धन्य जिनवाणी माता शरण</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/02-शास्त्र/html/bhajan-14.html>14) धन्य धन्य वीतराग वाणी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/02-शास्त्र/html/bhajan-15.html>15) महिमा है अगम</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/02-शास्त्र/html/bhajan-16.html>16) माँ जिनवाणी तेरो नाम</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/02-शास्त्र/html/bhajan-17.html>17) माँ जिनवाणी बसो हृदय में</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/02-शास्त्र/html/bhajan-18.html>18) माता तू दया करके</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/02-शास्त्र/html/bhajan-19.html>19) म्हारी माँ जिनवाणी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/02-शास्त्र/html/bhajan-20.html>20) ये शाश्वत सुख का प्याला</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/02-शास्त्र/html/bhajan-21.html>21) शरण कोई नहीं जग में</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/02-शास्त्र/html/bhajan-22.html>22) शांती सुधा बरसाये</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/02-शास्त्र/html/bhajan-23.html>23) सांची तो गंगा</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/02-शास्त्र/html/bhajan-24.html>24) सीमंधर मुख से</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/02-शास्त्र/html/bhajan-25.html>25) सुनकर वाणी जिनवर की</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/02-शास्त्र/html/bhajan-26.html>26) हे जिनवाणी माता तुमको लाखों प्रणाम</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/02-शास्त्र/html/bhajan-27.html>27) हे शारदे माँ</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/03-गुरु/html/bhajan-1.html>1) ऐसा योगी क्यों न अभयपद पावै</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/03-गुरु/html/bhajan-2.html>2) ऐसे मुनिवर देखें</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/03-गुरु/html/bhajan-3.html>3) ऐसे साधु सुगुरु कब मिलि हैं</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/03-गुरु/html/bhajan-4.html>4) कबधौं मिलै मोहि श्रीगुरु</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/03-गुरु/html/bhajan-5.html>5) गुरु रत्नत्रय के धारी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/03-गुरु/html/bhajan-6.html>6) धन धन जैनी साधु…</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/03-गुरु/html/bhajan-7.html>7) धनि मुनि जिन यह</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/03-गुरु/html/bhajan-8.html>8) धनि मुनि निज आतमहित कीना</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/03-गुरु/html/bhajan-9.html>9) धन्य मुनिराज हमारे हैं</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/03-गुरु/html/bhajan-10.html>10) धन्य मुनीश्वर आतम हित में</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/03-गुरु/html/bhajan-11.html>11) नित उठ ध्याऊँ, गुण गाऊँ</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/03-गुरु/html/bhajan-12.html>12) निर्ग्रंथों का मार्ग</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/03-गुरु/html/bhajan-13.html>13) परम गुरु बरसत ज्ञान झरी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/03-गुरु/html/bhajan-14.html>14) परम दिगम्बर मुनिवर देखे</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/03-गुरु/html/bhajan-15.html>15) परम दिगम्बर यती</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/03-गुरु/html/bhajan-16.html>16) बधाई आज मिल गाओ</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/03-गुरु/html/bhajan-17.html>17) मुनिवर आज मेरी कुटिया में</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/03-गुरु/html/bhajan-18.html>18) मुनिवर को आहार</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/03-गुरु/html/bhajan-19.html>19) म्हारा परम दिगम्बर मुनिवर आया</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/03-गुरु/html/bhajan-20.html>20) वे मुनिवर कब मिली हैं उपगारी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/03-गुरु/html/bhajan-21.html>21) वेष दिगम्बर धार</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/03-गुरु/html/bhajan-22.html>22) शान्ति सुधा बरसा गये</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/03-गुरु/html/bhajan-23.html>23) शुद्धातम तत्व विलासी रे</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/03-गुरु/html/bhajan-24.html>24) श्री मुनि राजत समता संग</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/03-गुरु/html/bhajan-25.html>25) संत साधु बन के विचरूँ</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/03-गुरु/html/bhajan-26.html>26) सिद्धों की श्रेणी में आने वाला</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/03-गुरु/html/bhajan-27.html>27) है परम-दिगम्बर मुद्रा जिनकी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/03-गुरु/html/bhajan-28.html>28) होली खेलें मुनिराज शिखर वन में</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/04-धर्म/html/bhajan-1.html>1) आजा अपने धर्म की तू राह में</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/04-धर्म/html/bhajan-2.html>2) उठे सब के कदम</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/04-धर्म/html/bhajan-3.html>3) जय जिनेन्द्र बोलिए</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/04-धर्म/html/bhajan-4.html>4) जहाँ रागद्वेष से रहित निराकुल</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/04-धर्म/html/bhajan-5.html>5) जैन धर्म के हीरे मोती</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/04-धर्म/html/bhajan-6.html>6) बडे भाग्य से हमको मिला जिन धर्म</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/04-धर्म/html/bhajan-7.html>7) भावों में सरलता रहती है</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/04-धर्म/html/bhajan-8.html>8) माँ मुझे सुना गुरुवर</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/04-धर्म/html/bhajan-9.html>9) मैं महापुण्य उदय से जिनधर्म</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/04-धर्म/html/bhajan-10.html>10) ये धरम है आतम ज्ञानी का</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/04-धर्म/html/bhajan-11.html>11) लहर लहर लहराये, केसरिया झंडा</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/04-धर्म/html/bhajan-12.html>12) लहरायेगा-लहरायेगा झंडा</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/04-धर्म/html/bhajan-13.html>13) श्रीजिनधर्म सदा जयवन्त</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/04-धर्म/html/bhajan-14.html>14) सब जैन धर्म की जय बोलो</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/05-तीर्थ/html/bhajan-1.html>1) ऊंचे ऊंचे शिखरों वाला 1</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/05-तीर्थ/html/bhajan-2.html>2) ऊंचे ऊंचे शिखरों वाला 2</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/05-तीर्थ/html/bhajan-3.html>3) ऊंचे शिखरों पे बसा है</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/05-तीर्थ/html/bhajan-4.html>4) गगन मंडल में उड जाऊं</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/05-तीर्थ/html/bhajan-5.html>5) चलो सब मिल सिधगिरी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/05-तीर्थ/html/bhajan-6.html>6) जीयरा...जीयरा...जीयरा</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/05-तीर्थ/html/bhajan-7.html>7) मधुबन के मंदिरों में</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/05-तीर्थ/html/bhajan-8.html>8) रे मन भज ले प्रभु का नाम</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/05-तीर्थ/html/bhajan-9.html>9) विश्व तीर्थ बडा प्यारा</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/05-तीर्थ/html/bhajan-10.html>10) सम्मेद शिखर पर मैं जाऊंगा</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/05-तीर्थ/html/bhajan-11.html>11) सांवरिया पारसनाथ शिखर पर</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-1.html>1) आज तो बधाई राजा नाभि</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-2.html>2) आनंद अवसर आज सुरगण आये</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-3.html>3) आया पंच कल्याणक महान</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-4.html>4) कल्पद्रुम यह समवसरण है</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-5.html>5) कुण्डलपुर में वीर हैं जन्मे</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-6.html>6) कुण्डलपुर वाले कुण्डलपुर वाले वीरजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-7.html>7) गर्भ कल्याणक आ गया</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-8.html>8) गावो री बधाईयां</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-9.html>9) गिरनारी पर तप कल्याणक</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-10.html>10) घर घर आनंद छायो</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-11.html>11) चन्द्रोज्वल अविकार स्वामी जी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-12.html>12) जनम लिया है महावीर ने</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-13.html>13) झुलाय दइयो पलना</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-14.html>14) तेरे पांच हुये कल्याण प्रभु</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-15.html>15) दिन-आयो दिन-आयो</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-16.html>16) दिव्य ध्वनि वीरा खिराई</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-17.html>17) नाचे रे इन्दर देव</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-18.html>18) पंखिड़ा तू उड़ के जाना स्वर्ग</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-19.html>19) पंखिडा रे उड के आओ कुंड्लपुर में</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-20.html>20) पंचकल्याण मनाओ मेरे साथी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-21.html>21) पालकी उठाने का हमें अधिकार है</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-22.html>22) बाजे कुण्डलपुर में बधाई</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-23.html>23) मणियों के पलने में स्वामी महावीर</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-24.html>24) महावीरा झूले पलना</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-25.html>25) मेरा पलने में</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-26.html>26) ये महामहोत्सव पंच कल्याणक</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-27.html>27) रोम रोम में नेमिकुंवर के</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-28.html>28) लिया आज प्रभु जी ने जनम सखी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-29.html>29) लिया प्रभू अवतार जयजयकार</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-30.html>30) लिया रिषभ देव अवतार</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-31.html>31) विषयों की तृष्णा को छोड</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-32.html>32) सुरपति ले अपने शीश</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-33.html>33) हो संसार लगने लगा अब</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/07-महामंत्र/html/bhajan-1.html>1) करना मन ध्यान महामंत्र</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/07-महामंत्र/html/bhajan-2.html>2) जप जप रे नवकार मंत्र</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/07-महामंत्र/html/bhajan-3.html>3) जय जय जय कार परमेष्ठी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/07-महामंत्र/html/bhajan-4.html>4) जो मंगल चार जगत में हैं</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/07-महामंत्र/html/bhajan-5.html>5) णमोकार नाम का ये कौन मंत्र</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/07-महामंत्र/html/bhajan-6.html>6) णमोकार मन्त्र को प्रणाम हो</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/07-महामंत्र/html/bhajan-7.html>7) नमन हमारा अरिहंतों को</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/07-महामंत्र/html/bhajan-8.html>8) पंच परम परमेष्ठी देखे</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/07-महामंत्र/html/bhajan-9.html>9) बने जीवन का मेरा आधार रे</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/07-महामंत्र/html/bhajan-10.html>10) मंत्र जपो नवकार मनुवा</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/07-महामंत्र/html/bhajan-11.html>11) मंत्र नवकार हमें प्राणों से प्यारा</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/07-महामंत्र/html/bhajan-12.html>12) मंत्र नवकारा हृदय में धर</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-1.html>1) अपनी सुधि पाय आप</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-2.html>2) अपनी सुधि भूल आप</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-3.html>3) अपने में अपना परमातम</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-4.html>4) अब गतियों में नाहीं रुलेंगे</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-5.html>5) अब मेरे समकित सावन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-6.html>6) अरे जिया जग धोखे की टाटी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-7.html>7) आओ रे आओ रे ज्ञानानंद की डगरिया</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-8.html>8) आतम रूप अनूपम अद्भुत</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-9.html>9) ऐसा मोही क्यों न अधोगति जावै</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-10.html>10) ओ जीवड़ा तू थारी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-11.html>11) और अबै न कुदेव सुहावै</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-12.html>12) कबधौं सर पर धर डोलेगा</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-13.html>13) कबै निरग्रंथ स्वरूप धरूंगा</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-14.html>14) करलो आतम ज्ञान परमातम</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-15.html>15) कहा मानले ओ मेरे भैया</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-16.html>16) काहे पाप करे काहे छल</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-17.html>17) कैसो सुंदर अवसर आयो है</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-18.html>18) कोई लाख करे चतुराई</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-19.html>19) क्यूं करे अभिमान जीवन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-20.html>20) गाडी खडी रे खडी रे तैयार</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-21.html>21) चेतन अपनो रूप निहारो</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-22.html>22) चेतन तूँ तिहुँ काल अकेला</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-23.html>23) जब चले आत्माराम</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-24.html>24) जिया कब तक उलझेगा</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-25.html>25) जीव! तू भ्रमत सदैव अकेला</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-26.html>26) जीवन के किसी भी पल में</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-27.html>27) जैन धरम के हीरे मोती</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-28.html>28) जो अपना नहीं उसके अपनेपन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-29.html>29) जो आज दिन है वो, कल ना रहेगा</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-30.html>30) जो जो देखी वीतराग</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-31.html>31) ज्ञाता दृष्टा राही हूं</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-32.html>32) तन पिंजरे के अन्दर बैठा</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-33.html>33) तू जाग रे चेतन देव तुझे जिनदेव</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-34.html>34) तू जाग रे चेतन प्राणी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-35.html>35) तोड़ विषियों से मन जोड़</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-36.html>36) देखा जब अपने अंतर को</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-37.html>37) धोली हो गई रे काली कामली</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-38.html>38) ध्यान धर ले प्रभू को</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-39.html>39) निजपुर में आज मची रे होरी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-40.html>40) निजपुर में आज मची होरी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-41.html>41) पाना नहीं जीवन को</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-42.html>42) पाप मिटाता चल ओ बंधू</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-43.html>43) भजन बिन योंही जनम गमायो</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-44.html>44) भाया थारी बावली जवानी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-45.html>45) भूल के अपना घर</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-46.html>46) मन महल में दो दो भाव जगे</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-47.html>47) ममता की पतवार ना तोडी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-48.html>48) माया में फ़ंसे इंसान</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-49.html>49) मेरे कब ह्वै वा दिन की सुघरी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-50.html>50) मैं ज्ञानानंद स्वभावी हूं</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-51.html>51) मैं दर्शन ज्ञान स्वरूपी हूं</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-52.html>52) मैं हूँ आतमराम</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-53.html>53) मोक्ष पद मिलता है धीरे धीरे</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-54.html>54) मोह की महिमा देखो</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-55.html>55) मोहे भावे न भैया थारो देश</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-56.html>56) ये शाश्वत सुख का प्याला</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-57.html>57) वीर भज ले रे भाया</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-58.html>58) शास्त्रों की बातों को मन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-59.html>59) संसार महा अघसागर</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-60.html>60) सजधज के जिस दिन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-61.html>61) सिद्धों से मिलने का मार्ग</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-62.html>62) सुन रे जिया चिरकाल गया</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-63.html>63) सुनो जिया ये सतगुरु की बातैं</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-64.html>64) सोते सोते ही निकल</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-65.html>65) हम तो कबहुँ न निज घर आये</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-66.html>66) हम तो कबहुँ न निजगुन भाये</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-67.html>67) हम तो कबहूँ न हित उपजाये</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-68.html>68) हम न किसीके कोई न हमारा</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/01_प्रारम्भ/001_श्री-मंगलाष्टक-स्तोत्र/html/index.html>1) श्री-मंगलाष्टक-स्तोत्र</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/01_प्रारम्भ/004_दर्शनं-देव-देवस्य/html/index.html>2) दर्शनं-देव-देवस्य</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/01_प्रारम्भ/005_दर्शन-पाठ---बुधजनजी/html/index.html>3) दर्शन-पाठ---बुधजनजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/01_प्रारम्भ/006_दर्शन-पाठ/html/index.html>4) दर्शन-पाठ</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/01_प्रारम्भ/007_प्रतिमा-प्रक्षाल-विधि-पाठ/html/index.html>5) प्रतिमा-प्रक्षाल-विधि-पाठ</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/01_प्रारम्भ/008_अभिषेक-पाठ-भाषा--हरजसरायजी/html/index.html>6) अभिषेक-पाठ-भाषा--हरजसरायजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/01_प्रारम्भ/009_अभिषेक-पाठ-लघु/html/index.html>7) अभिषेक-पाठ-लघु</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/01_प्रारम्भ/010_अमृत-से-गगरी-भरो/html/index.html>8) अमृत-से-गगरी-भरो</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/01_प्रारम्भ/011_महावीर-की-मूंगावरणी/html/index.html>9) महावीर-की-मूंगावरणी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/01_प्रारम्भ/012_विनय-पाठ-दोहावली/html/index.html>10) विनय-पाठ-दोहावली</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/01_प्रारम्भ/012_विनय-पाठ-लघु--सफ़ल-जन्म/html/index.html>11) विनय-पाठ-लघु--सफ़ल-जन्म</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/01_प्रारम्भ/013_मंगलपाठ/html/index.html>12) मंगलपाठ</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/01_प्रारम्भ/014_भजन-मैं-थाने-पूजन-आयो/html/index.html>13) भजन-मैं-थाने-पूजन-आयो</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/01_प्रारम्भ/016_पूजा-विधि-प्रारंभ/html/index.html>14) पूजा-विधि-प्रारंभ</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/01_प्रारम्भ/018_अर्घ/html/index.html>15) अर्घ</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/01_प्रारम्भ/020_स्वस्ति-मंगल-विधान/html/index.html>16) स्वस्ति-मंगल-विधान</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/01_प्रारम्भ/023_चतुर्विंशति-तीर्थंकर-स्वस्ति-विधान/html/index.html>17) चतुर्विंशति-तीर्थंकर-स्वस्ति-विधान</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/01_प्रारम्भ/026_अथ-परमर्षि-स्वस्ति-मंगल-विधान/html/index.html>18) अथ-परमर्षि-स्वस्ति-मंगल-विधान</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/01_प्रारम्भ/030_स्तुति-बुधजनजी/html/index.html>19) स्तुति-बुधजनजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/02_नित्य-पूजा/01_देव-शास्त्र-गुरु-युगलजी/html/index.html>1) देव-शास्त्र-गुरु-युगलजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/02_नित्य-पूजा/02_देव-शास्त्र-गुरु-द्यानतरायजी/html/index.html>2) देव-शास्त्र-गुरु-द्यानतरायजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/02_नित्य-पूजा/03_पंचपरमेष्ठी-पवैयाजी/html/index.html>3) पंचपरमेष्ठी-पवैयाजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/02_नित्य-पूजा/04_नवदेवता-पूजन-आर्यिका-ज्ञानमती/html/index.html>4) नवदेवता-पूजन-आर्यिका-ज्ञानमती</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/02_नित्य-पूजा/05_सिद्धपूजा-युगलजी/html/index.html>5) सिद्धपूजा-युगलजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/02_नित्य-पूजा/05_सिद्धपूजा--हीराचंद/html/index.html>6) सिद्धपूजा--हीराचंद</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/02_नित्य-पूजा/06_सम्यकदर्शन/html/index.html>7) सम्यकदर्शन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/02_नित्य-पूजा/07_सम्यकज्ञान/html/index.html>8) सम्यकज्ञान</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/02_नित्य-पूजा/08_सम्यकचारित्र/html/index.html>9) सम्यकचारित्र</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/02_नित्य-पूजा/09_चौबीस-तीर्थंकर-वृन्दावनदास/html/index.html>10) चौबीस-तीर्थंकर-वृन्दावनदास</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/02_नित्य-पूजा/10_समुच्च-पूजा-ब्र.सरदारमलजी/html/index.html>11) समुच्च-पूजा-ब्र.सरदारमलजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/02_नित्य-पूजा/11_बाहुबली-भगवान-पवैयाजी/html/index.html>12) बाहुबली-भगवान-पवैयाजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/02_नित्य-पूजा/12_सीमन्धर-भगवान-हुकमचन्द-भारिल्ल/html/index.html>13) सीमन्धर-भगवान-हुकमचन्द-भारिल्ल</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/02_नित्य-पूजा/13_दशलक्षण-धर्म-द्यानतरायजी/html/index.html>14) दशलक्षण-धर्म-द्यानतरायजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/02_नित्य-पूजा/14_पंचमेरु-पूजन/html/index.html>15) पंचमेरु-पूजन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/02_नित्य-पूजा/15_विद्यमान-बीस-तीर्थंकर-द्यानतरायजी/html/index.html>16) विद्यमान-बीस-तीर्थंकर-द्यानतरायजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/02_नित्य-पूजा/16_सोलहकारण-भावना-द्यानतरायजी/html/index.html>17) सोलहकारण-भावना-द्यानतरायजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/02_नित्य-पूजा/17_नंदीश्वर-द्वीप-पूजन/html/index.html>18) नंदीश्वर-द्वीप-पूजन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/02_नित्य-पूजा/18_निर्वाणक्षेत्र-पवैयाजी/html/index.html>19) निर्वाणक्षेत्र-पवैयाजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/02_नित्य-पूजा/19_सरस्वती-पूजन--द्यानतरायजी/html/index.html>20) सरस्वती-पूजन--द्यानतरायजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/02_नित्य-पूजा/20_आदिनाथ-भगवान--जिनेश्वरदासजी/html/index.html>21) आदिनाथ-भगवान--जिनेश्वरदासजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/03_तीर्थंकर/01_श्रीआदिनाथ-पूजन/html/index.html>1) श्रीआदिनाथ-पूजन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/03_तीर्थंकर/02_श्रीअजितनाथ-पूजन/html/index.html>2) श्रीअजितनाथ-पूजन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/03_तीर्थंकर/03_श्रीसंभवनाथ-पूजन/html/index.html>3) श्रीसंभवनाथ-पूजन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/03_तीर्थंकर/04_श्रीअभिनन्दननाथ-पूजन/html/index.html>4) श्रीअभिनन्दननाथ-पूजन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/03_तीर्थंकर/05_श्रीसुमतिनाथ-पूजन/html/index.html>5) श्रीसुमतिनाथ-पूजन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/03_तीर्थंकर/06_श्रीपद्मप्रभ-पूजन/html/index.html>6) श्रीपद्मप्रभ-पूजन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/03_तीर्थंकर/07_श्रीसुपार्श्वनाथ-पूजन/html/index.html>7) श्रीसुपार्श्वनाथ-पूजन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/03_तीर्थंकर/08_श्रीचन्द्रप्रभनाथ-पूजन--वृन्दावनदासजी/html/index.html>8) श्रीचन्द्रप्रभनाथ-पूजन--वृन्दावनदासजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/03_तीर्थंकर/09_श्रीपुष्पदन्त-पूजन/html/index.html>9) श्रीपुष्पदन्त-पूजन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/03_तीर्थंकर/10_श्रीशीतलनाथ-पूजन/html/index.html>10) श्रीशीतलनाथ-पूजन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/03_तीर्थंकर/11_श्रीश्रेयांसनाथ-पूजन/html/index.html>11) श्रीश्रेयांसनाथ-पूजन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/03_तीर्थंकर/12_श्रीवासुपूज्य-पूजन/html/index.html>12) श्रीवासुपूज्य-पूजन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/03_तीर्थंकर/13_श्रीविमलनाथ-पूजन/html/index.html>13) श्रीविमलनाथ-पूजन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/03_तीर्थंकर/14_श्रीअनन्तनाथ-पूजन/html/index.html>14) श्रीअनन्तनाथ-पूजन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/03_तीर्थंकर/15_श्रीधर्मनाथ-पूजन/html/index.html>15) श्रीधर्मनाथ-पूजन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/03_तीर्थंकर/16_श्रीशांतिनाथ-पूजन--बख्तावरजी/html/index.html>16) श्रीशांतिनाथ-पूजन--बख्तावरजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/03_तीर्थंकर/16_श्रीशांतिनाथ-पूजन--वृन्दावनदासजी/html/index.html>17) श्रीशांतिनाथ-पूजन--वृन्दावनदासजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/03_तीर्थंकर/17_श्रीकुंथुनाथ-पूजन/html/index.html>18) श्रीकुंथुनाथ-पूजन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/03_तीर्थंकर/18_श्रीअरहनाथ-पूजन/html/index.html>19) श्रीअरहनाथ-पूजन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/03_तीर्थंकर/19_श्रीमल्लिनाथ-पूजन/html/index.html>20) श्रीमल्लिनाथ-पूजन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/03_तीर्थंकर/20_श्रीमुनिसुव्रतनाथ-पूजन/html/index.html>21) श्रीमुनिसुव्रतनाथ-पूजन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/03_तीर्थंकर/21_श्रीनमिनाथ-पूजन/html/index.html>22) श्रीनमिनाथ-पूजन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/03_तीर्थंकर/22_श्रीनेमिनाथ-पूजन/html/index.html>23) श्रीनेमिनाथ-पूजन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/03_तीर्थंकर/23_श्रीपार्श्वनाथ-पूजन-बख्तावरजी/html/index.html>24) श्रीपार्श्वनाथ-पूजन-बख्तावरजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/03_तीर्थंकर/24_श्रीमहावीर-पूजन--वृन्दावनदासजी/html/index.html>25) श्रीमहावीर-पूजन--वृन्दावनदासजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/04_पर्व-पूजन/01_अक्षय-तृतीया-पवैयाजी/html/index.html>1) अक्षय-तृतीया-पवैयाजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/04_पर्व-पूजन/02_दीपावली-पवैयाजी/html/index.html>2) दीपावली-पवैयाजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/04_पर्व-पूजन/03_वीरशासन-जयन्ती-पवैयाजी/html/index.html>3) वीरशासन-जयन्ती-पवैयाजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/04_पर्व-पूजन/04_क्षमावाणी-पवैयाजी/html/index.html>4) क्षमावाणी-पवैयाजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/04_पर्व-पूजन/05_रक्षाबन्धन-पवैयाजी/html/index.html>5) रक्षाबन्धन-पवैयाजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/04_पर्व-पूजन/06_श्रुतपंचमी-पवैयाजी/html/index.html>6) श्रुतपंचमी-पवैयाजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/05_विसर्जन/01_महाअर्घ्य/html/index.html>1) महाअर्घ्य</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/05_विसर्जन/02_शांति-पाठ/html/index.html>2) शांति-पाठ</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/05_विसर्जन/03_शांति-पाठ-भाषा/html/index.html>3) शांति-पाठ-भाषा</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/05_विसर्जन/04_विसर्जन-पाठ/html/index.html>4) विसर्जन-पाठ</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/05_विसर्जन/05_भगवान-महावीर-आरती/html/index.html>5) भगवान-महावीर-आरती</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/05_विसर्जन/07_भगवान-आदिनाथ-चालीसा/html/index.html>6) भगवान-आदिनाथ-चालीसा</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/05_विसर्जन/08_भगवान-महावीर-चालीसा/html/index.html>7) भगवान-महावीर-चालीसा</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/01_देव-स्तुति--भूधरदासजी/html/index.html>1) देव-स्तुति--भूधरदासजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/02_मेरी-भावना--मुख्तारजी/html/index.html>2) मेरी-भावना--मुख्तारजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/03_बारह-भावना--जयचंदजी/html/index.html>3) बारह-भावना--जयचंदजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/04_बारह-भावना--भूधरदासजी/html/index.html>4) बारह-भावना--भूधरदासजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/05_बारह-भावना--मंगतरायजी/html/index.html>5) बारह-भावना--मंगतरायजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/06_महावीर-वंदना--हुकमचंदजी/html/index.html>6) महावीर-वंदना--हुकमचंदजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/06_समाधिमरण--द्यानतरायजी/html/index.html>7) समाधिमरण--द्यानतरायजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/07_समाधि-भावना--शिवरामजी/html/index.html>8) समाधि-भावना--शिवरामजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/08_समाधिमरण-भाषा--सूरचंदजी/html/index.html>9) समाधिमरण-भाषा--सूरचंदजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/09_दर्शन-स्तुति--दौलतरामजी/html/index.html>10) दर्शन-स्तुति--दौलतरामजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/10_जिनवाणी-स्तुति/html/index.html>11) जिनवाणी-स्तुति</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/11_आराधना-पाठ--द्यानतरायजी/html/index.html>12) आराधना-पाठ--द्यानतरायजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/12_इह-विधि-मंगल-आरति--द्यानतरायजी/html/index.html>13) इह-विधि-मंगल-आरति--द्यानतरायजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/13_आलोचना-पाठ--जौहरिलालजी/html/index.html>14) आलोचना-पाठ--जौहरिलालजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/14_दुखहरन-विनती--वृन्दावनदासजी/html/index.html>15) दुखहरन-विनती--वृन्दावनदासजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/15_अमूल्य-तत्त्व-विचार--युगलजी/html/index.html>16) अमूल्य-तत्त्व-विचार--युगलजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/16_बाईस-परीषह--आ.ज्ञानमती/html/index.html>17) बाईस-परीषह--आ.ज्ञानमती</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/17_सामायिक-पाठ--आ.अमितगति/html/index.html>18) सामायिक-पाठ--आ.अमितगति</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/19_सामायिक-पाठ--युगलजी/html/index.html>19) सामायिक-पाठ--युगलजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/21_सामायिक-पाठ--महाचंद्रजी/html/index.html>20) सामायिक-पाठ--महाचंद्रजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/22_सामायिक-पाठ--रविन्द्रजी/html/index.html>21) सामायिक-पाठ--रविन्द्रजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/23_निर्वाण-कांड--भगवतीदास/html/index.html>22) निर्वाण-कांड--भगवतीदास</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/25_वैराग्य-भावना--भूधरदासजी/html/index.html>23) वैराग्य-भावना--भूधरदासजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/27_स्वयंभू-स्तोत्र--आ.विद्यासागर/html/index.html>24) स्वयंभू-स्तोत्र--आ.विद्यासागर</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/29_स्वयंभू-स्तोत्र-भाषा--द्यानतरायजी/html/index.html>25) स्वयंभू-स्तोत्र-भाषा--द्यानतरायजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/30_आत्मबोध-शतक--आर्यिका-पूर्णमति/html/index.html>26) आत्मबोध-शतक--आर्यिका-पूर्णमति</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/33_पार्श्वनाथ-स्त्रोत्र--द्यनतरायजी/html/index.html>27) पार्श्वनाथ-स्त्रोत्र--द्यनतरायजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/34_महावीराष्टक-स्तोत्र--पं.भागचन्द्र/html/index.html>28) महावीराष्टक-स्तोत्र--पं.भागचन्द्र</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/35_महावीराष्टक-स्तोत्र--हिंदी/html/index.html>29) महावीराष्टक-स्तोत्र--हिंदी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/37_कल्याणमन्दिरस्तोत्रम/html/index.html>30) कल्याणमन्दिरस्तोत्रम</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/39_कल्याणमन्दिर-स्तोत्र-हिंदी/html/index.html>31) कल्याणमन्दिर-स्तोत्र-हिंदी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/41_भक्तामर--आ.मानतुंग/html/index.html>32) भक्तामर--आ.मानतुंग</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/43_भक्तामर--कमलकुमारजी/html/index.html>33) भक्तामर--कमलकुमारजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/45_भक्तामर--हेमराजजी/html/index.html>34) भक्तामर--हेमराजजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/47_भक्तामर--मु.श्रीरसागर/html/index.html>35) भक्तामर--मु.श्रीरसागर</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/49_एकीभाव-स्तोत्र--आ.वादीराज/html/index.html>36) एकीभाव-स्तोत्र--आ.वादीराज</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/50_विषापहारस्तोत्रम्--श्रीधनञ्जय/html/index.html>37) विषापहारस्तोत्रम्--श्रीधनञ्जय</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/51_विषापहारस्तोत्र--श्रीशांतिदास/html/index.html>38) विषापहारस्तोत्र--श्रीशांतिदास</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/52_मृत्युमहोत्सव/html/index.html>39) मृत्युमहोत्सव</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/53_अपूर्व-अवसर--श्री.राजचंद्र/html/index.html>40) अपूर्व-अवसर--श्री.राजचंद्र</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/55_कुंदकुंद-शतक/html/index.html>41) कुंदकुंद-शतक</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/59_ध्यान-सूत्र-शतक--आ.माघनंदी/html/index.html>42) ध्यान-सूत्र-शतक--आ.माघनंदी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/61_छहढाला--बुधजनजी/html/index.html>43) छहढाला--बुधजनजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/63_छहढाला--द्यानतरायजी/html/index.html>44) छहढाला--द्यानतरायजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/65_श्री-गोम्टेश्वर-स्तुति/html/index.html>45) श्री-गोम्टेश्वर-स्तुति</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/67_सहस्रनाम-स्तोत्र/html/index.html>46) सहस्रनाम-स्तोत्र</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/69_रत्नाकर-पंचविंशतिका--रामचरितजी/html/index.html>47) रत्नाकर-पंचविंशतिका--रामचरितजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/70_भूपाल-पंचविंशतिका--भूधरदासजी/html/index.html>48) भूपाल-पंचविंशतिका--भूधरदासजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/07_छहढाला/01_पहली-ढाल/html/index.html>1) पहली-ढाल</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/07_छहढाला/02_दूसरी-ढाल/html/index.html>2) दूसरी-ढाल</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/07_छहढाला/03_तीसरी-ढाल/html/index.html>3) तीसरी-ढाल</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/07_छहढाला/04_चौथी-ढाल/html/index.html>4) चौथी-ढाल</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/07_छहढाला/05_पांचवी-ढाल/html/index.html>5) पांचवी-ढाल</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/07_छहढाला/06_छठी-ढाल/html/index.html>6) छठी-ढाल</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/teeka/01_द्रव्यानुयोग/01_समयसार--कुन्दकुंदाचार्य/html/index.html>1) समयसार--कुन्दकुंदाचार्य</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/teeka/01_द्रव्यानुयोग/02_प्रवचनसार--कुन्दकुंदाचार्य/html/index.html>2) प्रवचनसार--कुन्दकुंदाचार्य</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/teeka/01_द्रव्यानुयोग/05_पन्चास्तिकाय--कुन्दकुंदाचार्य/html/index.html>3) पन्चास्तिकाय--कुन्दकुंदाचार्य</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/teeka/01_द्रव्यानुयोग/06_द्रव्यसंग्रह--नेमिचंद्र-सिद्धांतचक्रवर्ती/html/index.html>4) द्रव्यसंग्रह--नेमिचंद्र-सिद्धांतचक्रवर्ती</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/teeka/01_द्रव्यानुयोग/07_समाधितन्त्र--आचार्य‌-पूज्यपाद/html/index.html>5) समाधितन्त्र--आचार्य‌-पूज्यपाद</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/teeka/01_द्रव्यानुयोग/08_स्वरूप-संबोधन--अकलंक-देव/html/index.html>6) स्वरूप-संबोधन--अकलंक-देव</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/teeka/01_द्रव्यानुयोग/09_इष्टोपदेश--आचार्य‌-पूज्यपाद/html/index.html>7) इष्टोपदेश--आचार्य‌-पूज्यपाद</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/teeka/01_द्रव्यानुयोग/10_परमात्मप्रकाश--योगींदुदेव/html/index.html>8) परमात्मप्रकाश--योगींदुदेव</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/teeka/01_द्रव्यानुयोग/11_ज्ञानार्णव/html/index.html>9) ज्ञानार्णव</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/teeka/01_द्रव्यानुयोग/12_योगसार-प्राभृत--अमितगति-आचार्य/html/index.html>10) योगसार-प्राभृत--अमितगति-आचार्य</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/teeka/01_द्रव्यानुयोग/13_तत्त्वार्थसूत्र--आचार्य-उमास्वामी/html/index.html>11) तत्त्वार्थसूत्र--आचार्य-उमास्वामी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/teeka/01_द्रव्यानुयोग/14_योगसार--योगींदुदेव/html/index.html>12) योगसार--योगींदुदेव</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/teeka/02_चरणानुयोग/01_नियमसार--कुन्दकुंदाचार्य/html/index.html>1) नियमसार--कुन्दकुंदाचार्य</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/teeka/02_चरणानुयोग/02_श्रीअष्टपाहुड--कुन्दकुंदाचार्य/html/index.html>2) श्रीअष्टपाहुड--कुन्दकुंदाचार्य</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/teeka/02_चरणानुयोग/03_मूलाचार--वट्टकेराचार्य/html/index.html>3) मूलाचार--वट्टकेराचार्य</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/teeka/02_चरणानुयोग/04_वारासाणुवेक्खा--स्वामि-कार्तिकेय/html/index.html>4) वारासाणुवेक्खा--स्वामि-कार्तिकेय</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/teeka/02_चरणानुयोग/09_रत्नकरण्ड-श्रावकाचार--समन्तभद्राचार्य/html/index.html>5) रत्नकरण्ड-श्रावकाचार--समन्तभद्राचार्य</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/teeka/02_चरणानुयोग/17_भगवती-आराधना--शिवाचार्य/html/index.html>6) भगवती-आराधना--शिवाचार्य</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/teeka/02_चरणानुयोग/18_पद्म्नंदी-पंचविन्शतिका--आ-पद्म्नंदी/html/index.html>7) पद्म्नंदी-पंचविन्शतिका--आ-पद्म्नंदी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/teeka/03_करणानुयोग/01_लब्धिसार--नेमिचंद्र-आचार्य/html/index.html>1) लब्धिसार--नेमिचंद्र-आचार्य</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/teeka/03_करणानुयोग/03_गोम्मटसार-जीवकांड--नेमिचंद्र-आचार्य/html/index.html>2) गोम्मटसार-जीवकांड--नेमिचंद्र-आचार्य</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/teeka/05_प्रथमानुयोग/01_आराधना-कथा-कोश--ब्र-नेमिदत्त/html/index.html>1) आराधना-कथा-कोश--ब्र-नेमिदत्त</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/teeka/05_प्रथमानुयोग/02_उत्तर-पुराण--गुणभद्राचार्य/html/index.html>2) उत्तर-पुराण--गुणभद्राचार्य</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/teeka/05_प्रथमानुयोग/03_उत्तर-पुराण-संस्कृत--गुणभद्राचार्य/html/index.html>3) उत्तर-पुराण-संस्कृत--गुणभद्राचार्य</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/teeka/06_न्याय/01_आप्त-मीमांसा/html/index.html>1) आप्त-मीमांसा</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/teeka/06_न्याय/02_लघीयस्त्रय/html/index.html>2) लघीयस्त्रय</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/teeka/06_न्याय/03_परीक्षामुख/html/index.html>3) परीक्षामुख</a></li>
+      </ul>
+    </div>
+  </div> <!-- Panel -->
+  <div data-role="header" data-position="fixed">
+      <!--h1 align=center>Jai Jinendra</h1-->
+      <figure align=center>
+        <a href="#leftPanel" class="ui-button ui-shadow ui-corner-all ui-button-inline">
+          <img id=enPanel src="./images/jain-saint.jpg" height=80 width=90></img>
+          <figcaption>Click Here</figcaption>
+        </a>
+      </figure>
+  </div> <!-- Header -->
+
+  <div data-history=false data-role=popup id=popupBhajan data-theme=none>
+    <div data-role=collapsibleset data-theme=b data-content-theme=a data-collapsed-icon=arrow-r data-expanded-icon=arrow-d style='margin:0; width:250px;'>
+      <div data-role=collapsible data-inset=false data-theme=a>
+        <h2>01-देव</h2>
+        <ul data-role=listview>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-1.html>1) अरिहंत देव स्वामी शरण</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-2.html>2) अशरीरी सिद्ध भगवान</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-3.html>3) आ गया... आ गया...</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-4.html>4) आओ जिनमंदिर में आओ</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-5.html>5) आज मैं महावीर जी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-6.html>6) आज सी सुहानी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-7.html>7) आज हम जिनराज</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-8.html>8) आया कहां से</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-9.html>9) आया तेरे दरबार में</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-10.html>10) आये तेरे द्वार</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-11.html>11) आयो आयो रे हमारो</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-12.html>12) एक तुम्हीं आधार हो</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-13.html>13) ओ जगत के शांति दाता</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-14.html>14) कभी वीर बनके</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-15.html>15) कर लो जिनवर का गुणगान</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-16.html>16) करता हूं तुम्हारा सुमिरन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-17.html>17) करुणा सागर भगवान</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-18.html>18) केसरिया केसरिया</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-19.html>19) कोई इत आओ जी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-20.html>20) गा रे भैया</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-21.html>21) गाएँ जी गाएँ आदिनाथ</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-22.html>22) घडी घडी पल पल</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-23.html>23) चंद्रानन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-24.html>24) चरणों में आया हूं</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-25.html>25) चवलेश्वर पारसनाथ</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-26.html>26) चाह मुझे है दर्शन की</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-27.html>27) छोटा सा मंदिर</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-28.html>28) जगदानंदन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-29.html>29) जब कोई नहीं आता मेरे बाबा</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-30.html>30) जयवंतो जिनबिम्ब</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-31.html>31) जिन ध्याना गुण गाना</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-32.html>32) जिनवर आनन भान</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-33.html>33) जिनवर दरबार तुम्हारा</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-34.html>34) झीनी झीनी उडे रे</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-35.html>35) तिहारे ध्यान की मूरत</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-36.html>36) तुझे प्रभु वीर कहते हैं</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-37.html>37) तुम जैसा मैं भी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-38.html>38) तुमसे लागी लगन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-39.html>39) तुम्हारे दर्श बिन स्वामी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-40.html>40) तुम्ही हो ज्ञाता</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-41.html>41) तू ज्ञान का सागर है</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-42.html>42) तेरी शांत छवि</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-43.html>43) तेरी शीतल शीतल मूरत</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-44.html>44) तेरी सुंदर मूरत</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-45.html>45) तेरे दर्शन से मेरा</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-46.html>46) तोरी पल पल</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-47.html>47) दरबार तुम्हारा मनहर है</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-48.html>48) दिन रात स्वामी तेरे गीत</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-49.html>49) देखो जी आदिश्वर स्वामी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-50.html>50) धन्य धन्य आज घडी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-51.html>51) नाथ तुम्हारी पूजा</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-52.html>52) नाम तुम्हारा तारणहारा कब तेरा</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-53.html>53) निरखत जिन चंद्रवदन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-54.html>54) निरखी निरखी मनहर</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-55.html>55) निरखो अंग अंग</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-56.html>56) नेमि जिनेश्वर</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-57.html>57) पंचपरम परमेष्ठी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-58.html>58) पद्मासद्म</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-59.html>59) पारस प्यारा लागो</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-60.html>60) पारस प्रभु का दर्शन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-61.html>61) प्रभु दर्शन कर जीवन की</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-62.html>62) प्रभु हम सब का एक</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-63.html>63) प्रभुजी अब ना भटकेंगे</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-64.html>64) बाहुबली भगवान</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-65.html>65) भटके हुए राही को</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-66.html>66) भव भव रुले हैं</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-67.html>67) भावना की चूनरी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-68.html>68) मन भाये चित हुलसाये</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-69.html>69) मनहर तेरी मूरतियाँ</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-70.html>70) महाराजा स्वामी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-71.html>71) महावीर स्वामी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-72.html>72) मिलता है सच्चा सुख केवल</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-73.html>73) मेरे मन मंदिर में आन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-74.html>74) मेरे महावीर झूले पलना</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-75.html>75) मेरे सर पर रख दो भगवन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-76.html>76) मैं तेरे ढिंग आया रे</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-77.html>77) म्हारा आदीश्वर जी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-78.html>78) रंगमा रंगमा</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-79.html>79) रोम रोम पुलकित हो जाये</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-80.html>80) रोम रोम में नेमिकुंवर के</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-81.html>81) रोम रोम से निकले</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-82.html>82) वन्दों अद्भुत चन्द्रवीर जिन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-83.html>83) वर्तमान को वर्धमान की</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-84.html>84) वर्धमान ललना से</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-85.html>85) वीतरागी देव</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-86.html>86) वीर प्रभु के ये बोल</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-87.html>87) शुद्धात्मा का श्रद्धान</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-88.html>88) शौरीपुर वाले</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-89.html>89) श्री अरिहंत छवि लखिके</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-90.html>90) श्री जिनवर पद ध्यावें जे नर</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-91.html>91) सीमंधर स्वामी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-92.html>92) सुरपति ले अपने शीश</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-93.html>93) स्वामी तेरा मुखडा</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-94.html>94) हम यही कामना करते हैं</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-95.html>95) हरो पीर मेरी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/01-देव/html/bhajan-96.html>96) हे प्रभो चरणों में</a></li>
+        </ul>
+      </div>
+      <div data-role=collapsible data-inset=false data-theme=a>
+        <h2>02-शास्त्र</h2>
+        <ul data-role=listview>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/02-शास्त्र/html/bhajan-1.html>1) आज मैं परम पदारथ</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/02-शास्त्र/html/bhajan-2.html>2) ओंकारमयी वाणी तेरी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/02-शास्त्र/html/bhajan-3.html>3) करता हूं मैं अभिनंदन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/02-शास्त्र/html/bhajan-4.html>4) चरणों में आ पडा हूं</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/02-शास्त्र/html/bhajan-5.html>5) जब एक रत्न अनमोल</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/02-शास्त्र/html/bhajan-6.html>6) जिनवाणी अमृत रसाल</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/02-शास्त्र/html/bhajan-7.html>7) जिनवाणी की सुनै सो</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/02-शास्त्र/html/bhajan-8.html>8) जिनवाणी जग मैया</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/02-शास्त्र/html/bhajan-9.html>9) जिनवाणी माँ जिनवाणी माँ</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/02-शास्त्र/html/bhajan-10.html>10) जिनवाणी माता दर्शन की</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/02-शास्त्र/html/bhajan-11.html>11) जिनवाणी माता रत्नत्रय निधि</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/02-शास्त्र/html/bhajan-12.html>12) जिनवैन सुनत, मोरी भूल भगी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/02-शास्त्र/html/bhajan-13.html>13) धन्य धन्य जिनवाणी माता शरण</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/02-शास्त्र/html/bhajan-14.html>14) धन्य धन्य वीतराग वाणी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/02-शास्त्र/html/bhajan-15.html>15) महिमा है अगम</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/02-शास्त्र/html/bhajan-16.html>16) माँ जिनवाणी तेरो नाम</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/02-शास्त्र/html/bhajan-17.html>17) माँ जिनवाणी बसो हृदय में</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/02-शास्त्र/html/bhajan-18.html>18) माता तू दया करके</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/02-शास्त्र/html/bhajan-19.html>19) म्हारी माँ जिनवाणी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/02-शास्त्र/html/bhajan-20.html>20) ये शाश्वत सुख का प्याला</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/02-शास्त्र/html/bhajan-21.html>21) शरण कोई नहीं जग में</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/02-शास्त्र/html/bhajan-22.html>22) शांती सुधा बरसाये</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/02-शास्त्र/html/bhajan-23.html>23) सांची तो गंगा</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/02-शास्त्र/html/bhajan-24.html>24) सीमंधर मुख से</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/02-शास्त्र/html/bhajan-25.html>25) सुनकर वाणी जिनवर की</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/02-शास्त्र/html/bhajan-26.html>26) हे जिनवाणी माता तुमको लाखों प्रणाम</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/02-शास्त्र/html/bhajan-27.html>27) हे शारदे माँ</a></li>
+        </ul>
+      </div>
+      <div data-role=collapsible data-inset=false data-theme=a>
+        <h2>03-गुरु</h2>
+        <ul data-role=listview>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/03-गुरु/html/bhajan-1.html>1) ऐसा योगी क्यों न अभयपद पावै</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/03-गुरु/html/bhajan-2.html>2) ऐसे मुनिवर देखें</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/03-गुरु/html/bhajan-3.html>3) ऐसे साधु सुगुरु कब मिलि हैं</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/03-गुरु/html/bhajan-4.html>4) कबधौं मिलै मोहि श्रीगुरु</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/03-गुरु/html/bhajan-5.html>5) गुरु रत्नत्रय के धारी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/03-गुरु/html/bhajan-6.html>6) धन धन जैनी साधु…</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/03-गुरु/html/bhajan-7.html>7) धनि मुनि जिन यह</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/03-गुरु/html/bhajan-8.html>8) धनि मुनि निज आतमहित कीना</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/03-गुरु/html/bhajan-9.html>9) धन्य मुनिराज हमारे हैं</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/03-गुरु/html/bhajan-10.html>10) धन्य मुनीश्वर आतम हित में</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/03-गुरु/html/bhajan-11.html>11) नित उठ ध्याऊँ, गुण गाऊँ</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/03-गुरु/html/bhajan-12.html>12) निर्ग्रंथों का मार्ग</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/03-गुरु/html/bhajan-13.html>13) परम गुरु बरसत ज्ञान झरी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/03-गुरु/html/bhajan-14.html>14) परम दिगम्बर मुनिवर देखे</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/03-गुरु/html/bhajan-15.html>15) परम दिगम्बर यती</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/03-गुरु/html/bhajan-16.html>16) बधाई आज मिल गाओ</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/03-गुरु/html/bhajan-17.html>17) मुनिवर आज मेरी कुटिया में</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/03-गुरु/html/bhajan-18.html>18) मुनिवर को आहार</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/03-गुरु/html/bhajan-19.html>19) म्हारा परम दिगम्बर मुनिवर आया</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/03-गुरु/html/bhajan-20.html>20) वे मुनिवर कब मिली हैं उपगारी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/03-गुरु/html/bhajan-21.html>21) वेष दिगम्बर धार</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/03-गुरु/html/bhajan-22.html>22) शान्ति सुधा बरसा गये</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/03-गुरु/html/bhajan-23.html>23) शुद्धातम तत्व विलासी रे</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/03-गुरु/html/bhajan-24.html>24) श्री मुनि राजत समता संग</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/03-गुरु/html/bhajan-25.html>25) संत साधु बन के विचरूँ</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/03-गुरु/html/bhajan-26.html>26) सिद्धों की श्रेणी में आने वाला</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/03-गुरु/html/bhajan-27.html>27) है परम-दिगम्बर मुद्रा जिनकी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/03-गुरु/html/bhajan-28.html>28) होली खेलें मुनिराज शिखर वन में</a></li>
+        </ul>
+      </div>
+      <div data-role=collapsible data-inset=false data-theme=a>
+        <h2>04-धर्म</h2>
+        <ul data-role=listview>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/04-धर्म/html/bhajan-1.html>1) आजा अपने धर्म की तू राह में</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/04-धर्म/html/bhajan-2.html>2) उठे सब के कदम</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/04-धर्म/html/bhajan-3.html>3) जय जिनेन्द्र बोलिए</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/04-धर्म/html/bhajan-4.html>4) जहाँ रागद्वेष से रहित निराकुल</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/04-धर्म/html/bhajan-5.html>5) जैन धर्म के हीरे मोती</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/04-धर्म/html/bhajan-6.html>6) बडे भाग्य से हमको मिला जिन धर्म</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/04-धर्म/html/bhajan-7.html>7) भावों में सरलता रहती है</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/04-धर्म/html/bhajan-8.html>8) माँ मुझे सुना गुरुवर</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/04-धर्म/html/bhajan-9.html>9) मैं महापुण्य उदय से जिनधर्म</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/04-धर्म/html/bhajan-10.html>10) ये धरम है आतम ज्ञानी का</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/04-धर्म/html/bhajan-11.html>11) लहर लहर लहराये, केसरिया झंडा</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/04-धर्म/html/bhajan-12.html>12) लहरायेगा-लहरायेगा झंडा</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/04-धर्म/html/bhajan-13.html>13) श्रीजिनधर्म सदा जयवन्त</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/04-धर्म/html/bhajan-14.html>14) सब जैन धर्म की जय बोलो</a></li>
+        </ul>
+      </div>
+      <div data-role=collapsible data-inset=false data-theme=a>
+        <h2>05-तीर्थ</h2>
+        <ul data-role=listview>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/05-तीर्थ/html/bhajan-1.html>1) ऊंचे ऊंचे शिखरों वाला 1</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/05-तीर्थ/html/bhajan-2.html>2) ऊंचे ऊंचे शिखरों वाला 2</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/05-तीर्थ/html/bhajan-3.html>3) ऊंचे शिखरों पे बसा है</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/05-तीर्थ/html/bhajan-4.html>4) गगन मंडल में उड जाऊं</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/05-तीर्थ/html/bhajan-5.html>5) चलो सब मिल सिधगिरी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/05-तीर्थ/html/bhajan-6.html>6) जीयरा...जीयरा...जीयरा</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/05-तीर्थ/html/bhajan-7.html>7) मधुबन के मंदिरों में</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/05-तीर्थ/html/bhajan-8.html>8) रे मन भज ले प्रभु का नाम</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/05-तीर्थ/html/bhajan-9.html>9) विश्व तीर्थ बडा प्यारा</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/05-तीर्थ/html/bhajan-10.html>10) सम्मेद शिखर पर मैं जाऊंगा</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/05-तीर्थ/html/bhajan-11.html>11) सांवरिया पारसनाथ शिखर पर</a></li>
+        </ul>
+      </div>
+      <div data-role=collapsible data-inset=false data-theme=a>
+        <h2>06-कल्याणक</h2>
+        <ul data-role=listview>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-1.html>1) आज तो बधाई राजा नाभि</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-2.html>2) आनंद अवसर आज सुरगण आये</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-3.html>3) आया पंच कल्याणक महान</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-4.html>4) कल्पद्रुम यह समवसरण है</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-5.html>5) कुण्डलपुर में वीर हैं जन्मे</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-6.html>6) कुण्डलपुर वाले कुण्डलपुर वाले वीरजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-7.html>7) गर्भ कल्याणक आ गया</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-8.html>8) गावो री बधाईयां</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-9.html>9) गिरनारी पर तप कल्याणक</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-10.html>10) घर घर आनंद छायो</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-11.html>11) चन्द्रोज्वल अविकार स्वामी जी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-12.html>12) जनम लिया है महावीर ने</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-13.html>13) झुलाय दइयो पलना</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-14.html>14) तेरे पांच हुये कल्याण प्रभु</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-15.html>15) दिन-आयो दिन-आयो</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-16.html>16) दिव्य ध्वनि वीरा खिराई</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-17.html>17) नाचे रे इन्दर देव</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-18.html>18) पंखिड़ा तू उड़ के जाना स्वर्ग</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-19.html>19) पंखिडा रे उड के आओ कुंड्लपुर में</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-20.html>20) पंचकल्याण मनाओ मेरे साथी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-21.html>21) पालकी उठाने का हमें अधिकार है</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-22.html>22) बाजे कुण्डलपुर में बधाई</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-23.html>23) मणियों के पलने में स्वामी महावीर</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-24.html>24) महावीरा झूले पलना</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-25.html>25) मेरा पलने में</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-26.html>26) ये महामहोत्सव पंच कल्याणक</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-27.html>27) रोम रोम में नेमिकुंवर के</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-28.html>28) लिया आज प्रभु जी ने जनम सखी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-29.html>29) लिया प्रभू अवतार जयजयकार</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-30.html>30) लिया रिषभ देव अवतार</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-31.html>31) विषयों की तृष्णा को छोड</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-32.html>32) सुरपति ले अपने शीश</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/06-कल्याणक/html/bhajan-33.html>33) हो संसार लगने लगा अब</a></li>
+        </ul>
+      </div>
+      <div data-role=collapsible data-inset=false data-theme=a>
+        <h2>07-महामंत्र</h2>
+        <ul data-role=listview>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/07-महामंत्र/html/bhajan-1.html>1) करना मन ध्यान महामंत्र</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/07-महामंत्र/html/bhajan-2.html>2) जप जप रे नवकार मंत्र</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/07-महामंत्र/html/bhajan-3.html>3) जय जय जय कार परमेष्ठी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/07-महामंत्र/html/bhajan-4.html>4) जो मंगल चार जगत में हैं</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/07-महामंत्र/html/bhajan-5.html>5) णमोकार नाम का ये कौन मंत्र</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/07-महामंत्र/html/bhajan-6.html>6) णमोकार मन्त्र को प्रणाम हो</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/07-महामंत्र/html/bhajan-7.html>7) नमन हमारा अरिहंतों को</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/07-महामंत्र/html/bhajan-8.html>8) पंच परम परमेष्ठी देखे</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/07-महामंत्र/html/bhajan-9.html>9) बने जीवन का मेरा आधार रे</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/07-महामंत्र/html/bhajan-10.html>10) मंत्र जपो नवकार मनुवा</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/07-महामंत्र/html/bhajan-11.html>11) मंत्र नवकार हमें प्राणों से प्यारा</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/07-महामंत्र/html/bhajan-12.html>12) मंत्र नवकारा हृदय में धर</a></li>
+        </ul>
+      </div>
+      <div data-role=collapsible data-inset=false data-theme=a>
+        <h2>08-अध्यात्म</h2>
+        <ul data-role=listview>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-1.html>1) अपनी सुधि पाय आप</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-2.html>2) अपनी सुधि भूल आप</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-3.html>3) अपने में अपना परमातम</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-4.html>4) अब गतियों में नाहीं रुलेंगे</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-5.html>5) अब मेरे समकित सावन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-6.html>6) अरे जिया जग धोखे की टाटी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-7.html>7) आओ रे आओ रे ज्ञानानंद की डगरिया</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-8.html>8) आतम रूप अनूपम अद्भुत</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-9.html>9) ऐसा मोही क्यों न अधोगति जावै</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-10.html>10) ओ जीवड़ा तू थारी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-11.html>11) और अबै न कुदेव सुहावै</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-12.html>12) कबधौं सर पर धर डोलेगा</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-13.html>13) कबै निरग्रंथ स्वरूप धरूंगा</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-14.html>14) करलो आतम ज्ञान परमातम</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-15.html>15) कहा मानले ओ मेरे भैया</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-16.html>16) काहे पाप करे काहे छल</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-17.html>17) कैसो सुंदर अवसर आयो है</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-18.html>18) कोई लाख करे चतुराई</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-19.html>19) क्यूं करे अभिमान जीवन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-20.html>20) गाडी खडी रे खडी रे तैयार</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-21.html>21) चेतन अपनो रूप निहारो</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-22.html>22) चेतन तूँ तिहुँ काल अकेला</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-23.html>23) जब चले आत्माराम</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-24.html>24) जिया कब तक उलझेगा</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-25.html>25) जीव! तू भ्रमत सदैव अकेला</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-26.html>26) जीवन के किसी भी पल में</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-27.html>27) जैन धरम के हीरे मोती</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-28.html>28) जो अपना नहीं उसके अपनेपन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-29.html>29) जो आज दिन है वो, कल ना रहेगा</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-30.html>30) जो जो देखी वीतराग</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-31.html>31) ज्ञाता दृष्टा राही हूं</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-32.html>32) तन पिंजरे के अन्दर बैठा</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-33.html>33) तू जाग रे चेतन देव तुझे जिनदेव</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-34.html>34) तू जाग रे चेतन प्राणी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-35.html>35) तोड़ विषियों से मन जोड़</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-36.html>36) देखा जब अपने अंतर को</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-37.html>37) धोली हो गई रे काली कामली</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-38.html>38) ध्यान धर ले प्रभू को</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-39.html>39) निजपुर में आज मची रे होरी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-40.html>40) निजपुर में आज मची होरी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-41.html>41) पाना नहीं जीवन को</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-42.html>42) पाप मिटाता चल ओ बंधू</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-43.html>43) भजन बिन योंही जनम गमायो</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-44.html>44) भाया थारी बावली जवानी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-45.html>45) भूल के अपना घर</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-46.html>46) मन महल में दो दो भाव जगे</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-47.html>47) ममता की पतवार ना तोडी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-48.html>48) माया में फ़ंसे इंसान</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-49.html>49) मेरे कब ह्वै वा दिन की सुघरी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-50.html>50) मैं ज्ञानानंद स्वभावी हूं</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-51.html>51) मैं दर्शन ज्ञान स्वरूपी हूं</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-52.html>52) मैं हूँ आतमराम</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-53.html>53) मोक्ष पद मिलता है धीरे धीरे</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-54.html>54) मोह की महिमा देखो</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-55.html>55) मोहे भावे न भैया थारो देश</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-56.html>56) ये शाश्वत सुख का प्याला</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-57.html>57) वीर भज ले रे भाया</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-58.html>58) शास्त्रों की बातों को मन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-59.html>59) संसार महा अघसागर</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-60.html>60) सजधज के जिस दिन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-61.html>61) सिद्धों से मिलने का मार्ग</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-62.html>62) सुन रे जिया चिरकाल गया</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-63.html>63) सुनो जिया ये सतगुरु की बातैं</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-64.html>64) सोते सोते ही निकल</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-65.html>65) हम तो कबहुँ न निज घर आये</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-66.html>66) हम तो कबहुँ न निजगुन भाये</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-67.html>67) हम तो कबहूँ न हित उपजाये</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/bhajans/08-अध्यात्म/html/bhajan-68.html>68) हम न किसीके कोई न हमारा</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div data-history=false data-role=popup id=popupPooja data-theme=none>
+    <div data-role=collapsibleset data-theme=b data-content-theme=a data-collapsed-icon=arrow-r data-expanded-icon=arrow-d style='margin:0; width:250px;'>
+      <div data-role=collapsible data-inset=false data-theme=a>
+        <h2>प्रारम्भ</h2>
+        <ul data-role=listview>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/01_प्रारम्भ/001_श्री-मंगलाष्टक-स्तोत्र/html/index.html>1) श्री-मंगलाष्टक-स्तोत्र</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/01_प्रारम्भ/004_दर्शनं-देव-देवस्य/html/index.html>2) दर्शनं-देव-देवस्य</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/01_प्रारम्भ/005_दर्शन-पाठ---बुधजनजी/html/index.html>3) दर्शन-पाठ---बुधजनजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/01_प्रारम्भ/006_दर्शन-पाठ/html/index.html>4) दर्शन-पाठ</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/01_प्रारम्भ/007_प्रतिमा-प्रक्षाल-विधि-पाठ/html/index.html>5) प्रतिमा-प्रक्षाल-विधि-पाठ</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/01_प्रारम्भ/008_अभिषेक-पाठ-भाषा--हरजसरायजी/html/index.html>6) अभिषेक-पाठ-भाषा--हरजसरायजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/01_प्रारम्भ/009_अभिषेक-पाठ-लघु/html/index.html>7) अभिषेक-पाठ-लघु</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/01_प्रारम्भ/010_अमृत-से-गगरी-भरो/html/index.html>8) अमृत-से-गगरी-भरो</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/01_प्रारम्भ/011_महावीर-की-मूंगावरणी/html/index.html>9) महावीर-की-मूंगावरणी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/01_प्रारम्भ/012_विनय-पाठ-दोहावली/html/index.html>10) विनय-पाठ-दोहावली</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/01_प्रारम्भ/012_विनय-पाठ-लघु--सफ़ल-जन्म/html/index.html>11) विनय-पाठ-लघु--सफ़ल-जन्म</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/01_प्रारम्भ/013_मंगलपाठ/html/index.html>12) मंगलपाठ</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/01_प्रारम्भ/014_भजन-मैं-थाने-पूजन-आयो/html/index.html>13) भजन-मैं-थाने-पूजन-आयो</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/01_प्रारम्भ/016_पूजा-विधि-प्रारंभ/html/index.html>14) पूजा-विधि-प्रारंभ</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/01_प्रारम्भ/018_अर्घ/html/index.html>15) अर्घ</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/01_प्रारम्भ/020_स्वस्ति-मंगल-विधान/html/index.html>16) स्वस्ति-मंगल-विधान</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/01_प्रारम्भ/023_चतुर्विंशति-तीर्थंकर-स्वस्ति-विधान/html/index.html>17) चतुर्विंशति-तीर्थंकर-स्वस्ति-विधान</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/01_प्रारम्भ/026_अथ-परमर्षि-स्वस्ति-मंगल-विधान/html/index.html>18) अथ-परमर्षि-स्वस्ति-मंगल-विधान</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/01_प्रारम्भ/030_स्तुति-बुधजनजी/html/index.html>19) स्तुति-बुधजनजी</a></li>
+        </ul>
+      </div>
+      <div data-role=collapsible data-inset=false data-theme=a>
+        <h2>नित्य-पूजा</h2>
+        <ul data-role=listview>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/02_नित्य-पूजा/01_देव-शास्त्र-गुरु-युगलजी/html/index.html>1) देव-शास्त्र-गुरु-युगलजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/02_नित्य-पूजा/02_देव-शास्त्र-गुरु-द्यानतरायजी/html/index.html>2) देव-शास्त्र-गुरु-द्यानतरायजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/02_नित्य-पूजा/03_पंचपरमेष्ठी-पवैयाजी/html/index.html>3) पंचपरमेष्ठी-पवैयाजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/02_नित्य-पूजा/04_नवदेवता-पूजन-आर्यिका-ज्ञानमती/html/index.html>4) नवदेवता-पूजन-आर्यिका-ज्ञानमती</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/02_नित्य-पूजा/05_सिद्धपूजा-युगलजी/html/index.html>5) सिद्धपूजा-युगलजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/02_नित्य-पूजा/05_सिद्धपूजा--हीराचंद/html/index.html>6) सिद्धपूजा--हीराचंद</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/02_नित्य-पूजा/06_सम्यकदर्शन/html/index.html>7) सम्यकदर्शन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/02_नित्य-पूजा/07_सम्यकज्ञान/html/index.html>8) सम्यकज्ञान</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/02_नित्य-पूजा/08_सम्यकचारित्र/html/index.html>9) सम्यकचारित्र</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/02_नित्य-पूजा/09_चौबीस-तीर्थंकर-वृन्दावनदास/html/index.html>10) चौबीस-तीर्थंकर-वृन्दावनदास</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/02_नित्य-पूजा/10_समुच्च-पूजा-ब्र.सरदारमलजी/html/index.html>11) समुच्च-पूजा-ब्र.सरदारमलजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/02_नित्य-पूजा/11_बाहुबली-भगवान-पवैयाजी/html/index.html>12) बाहुबली-भगवान-पवैयाजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/02_नित्य-पूजा/12_सीमन्धर-भगवान-हुकमचन्द-भारिल्ल/html/index.html>13) सीमन्धर-भगवान-हुकमचन्द-भारिल्ल</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/02_नित्य-पूजा/13_दशलक्षण-धर्म-द्यानतरायजी/html/index.html>14) दशलक्षण-धर्म-द्यानतरायजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/02_नित्य-पूजा/14_पंचमेरु-पूजन/html/index.html>15) पंचमेरु-पूजन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/02_नित्य-पूजा/15_विद्यमान-बीस-तीर्थंकर-द्यानतरायजी/html/index.html>16) विद्यमान-बीस-तीर्थंकर-द्यानतरायजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/02_नित्य-पूजा/16_सोलहकारण-भावना-द्यानतरायजी/html/index.html>17) सोलहकारण-भावना-द्यानतरायजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/02_नित्य-पूजा/17_नंदीश्वर-द्वीप-पूजन/html/index.html>18) नंदीश्वर-द्वीप-पूजन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/02_नित्य-पूजा/18_निर्वाणक्षेत्र-पवैयाजी/html/index.html>19) निर्वाणक्षेत्र-पवैयाजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/02_नित्य-पूजा/19_सरस्वती-पूजन--द्यानतरायजी/html/index.html>20) सरस्वती-पूजन--द्यानतरायजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/02_नित्य-पूजा/20_आदिनाथ-भगवान--जिनेश्वरदासजी/html/index.html>21) आदिनाथ-भगवान--जिनेश्वरदासजी</a></li>
+        </ul>
+      </div>
+      <div data-role=collapsible data-inset=false data-theme=a>
+        <h2>तीर्थंकर</h2>
+        <ul data-role=listview>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/03_तीर्थंकर/01_श्रीआदिनाथ-पूजन/html/index.html>1) श्रीआदिनाथ-पूजन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/03_तीर्थंकर/02_श्रीअजितनाथ-पूजन/html/index.html>2) श्रीअजितनाथ-पूजन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/03_तीर्थंकर/03_श्रीसंभवनाथ-पूजन/html/index.html>3) श्रीसंभवनाथ-पूजन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/03_तीर्थंकर/04_श्रीअभिनन्दननाथ-पूजन/html/index.html>4) श्रीअभिनन्दननाथ-पूजन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/03_तीर्थंकर/05_श्रीसुमतिनाथ-पूजन/html/index.html>5) श्रीसुमतिनाथ-पूजन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/03_तीर्थंकर/06_श्रीपद्मप्रभ-पूजन/html/index.html>6) श्रीपद्मप्रभ-पूजन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/03_तीर्थंकर/07_श्रीसुपार्श्वनाथ-पूजन/html/index.html>7) श्रीसुपार्श्वनाथ-पूजन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/03_तीर्थंकर/08_श्रीचन्द्रप्रभनाथ-पूजन--वृन्दावनदासजी/html/index.html>8) श्रीचन्द्रप्रभनाथ-पूजन--वृन्दावनदासजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/03_तीर्थंकर/09_श्रीपुष्पदन्त-पूजन/html/index.html>9) श्रीपुष्पदन्त-पूजन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/03_तीर्थंकर/10_श्रीशीतलनाथ-पूजन/html/index.html>10) श्रीशीतलनाथ-पूजन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/03_तीर्थंकर/11_श्रीश्रेयांसनाथ-पूजन/html/index.html>11) श्रीश्रेयांसनाथ-पूजन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/03_तीर्थंकर/12_श्रीवासुपूज्य-पूजन/html/index.html>12) श्रीवासुपूज्य-पूजन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/03_तीर्थंकर/13_श्रीविमलनाथ-पूजन/html/index.html>13) श्रीविमलनाथ-पूजन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/03_तीर्थंकर/14_श्रीअनन्तनाथ-पूजन/html/index.html>14) श्रीअनन्तनाथ-पूजन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/03_तीर्थंकर/15_श्रीधर्मनाथ-पूजन/html/index.html>15) श्रीधर्मनाथ-पूजन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/03_तीर्थंकर/16_श्रीशांतिनाथ-पूजन--बख्तावरजी/html/index.html>16) श्रीशांतिनाथ-पूजन--बख्तावरजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/03_तीर्थंकर/16_श्रीशांतिनाथ-पूजन--वृन्दावनदासजी/html/index.html>17) श्रीशांतिनाथ-पूजन--वृन्दावनदासजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/03_तीर्थंकर/17_श्रीकुंथुनाथ-पूजन/html/index.html>18) श्रीकुंथुनाथ-पूजन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/03_तीर्थंकर/18_श्रीअरहनाथ-पूजन/html/index.html>19) श्रीअरहनाथ-पूजन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/03_तीर्थंकर/19_श्रीमल्लिनाथ-पूजन/html/index.html>20) श्रीमल्लिनाथ-पूजन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/03_तीर्थंकर/20_श्रीमुनिसुव्रतनाथ-पूजन/html/index.html>21) श्रीमुनिसुव्रतनाथ-पूजन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/03_तीर्थंकर/21_श्रीनमिनाथ-पूजन/html/index.html>22) श्रीनमिनाथ-पूजन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/03_तीर्थंकर/22_श्रीनेमिनाथ-पूजन/html/index.html>23) श्रीनेमिनाथ-पूजन</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/03_तीर्थंकर/23_श्रीपार्श्वनाथ-पूजन-बख्तावरजी/html/index.html>24) श्रीपार्श्वनाथ-पूजन-बख्तावरजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/03_तीर्थंकर/24_श्रीमहावीर-पूजन--वृन्दावनदासजी/html/index.html>25) श्रीमहावीर-पूजन--वृन्दावनदासजी</a></li>
+        </ul>
+      </div>
+      <div data-role=collapsible data-inset=false data-theme=a>
+        <h2>पर्व-पूजन</h2>
+        <ul data-role=listview>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/04_पर्व-पूजन/01_अक्षय-तृतीया-पवैयाजी/html/index.html>1) अक्षय-तृतीया-पवैयाजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/04_पर्व-पूजन/02_दीपावली-पवैयाजी/html/index.html>2) दीपावली-पवैयाजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/04_पर्व-पूजन/03_वीरशासन-जयन्ती-पवैयाजी/html/index.html>3) वीरशासन-जयन्ती-पवैयाजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/04_पर्व-पूजन/04_क्षमावाणी-पवैयाजी/html/index.html>4) क्षमावाणी-पवैयाजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/04_पर्व-पूजन/05_रक्षाबन्धन-पवैयाजी/html/index.html>5) रक्षाबन्धन-पवैयाजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/04_पर्व-पूजन/06_श्रुतपंचमी-पवैयाजी/html/index.html>6) श्रुतपंचमी-पवैयाजी</a></li>
+        </ul>
+      </div>
+      <div data-role=collapsible data-inset=false data-theme=a>
+        <h2>विसर्जन</h2>
+        <ul data-role=listview>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/05_विसर्जन/01_महाअर्घ्य/html/index.html>1) महाअर्घ्य</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/05_विसर्जन/02_शांति-पाठ/html/index.html>2) शांति-पाठ</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/05_विसर्जन/03_शांति-पाठ-भाषा/html/index.html>3) शांति-पाठ-भाषा</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/05_विसर्जन/04_विसर्जन-पाठ/html/index.html>4) विसर्जन-पाठ</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/05_विसर्जन/05_भगवान-महावीर-आरती/html/index.html>5) भगवान-महावीर-आरती</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/05_विसर्जन/07_भगवान-आदिनाथ-चालीसा/html/index.html>6) भगवान-आदिनाथ-चालीसा</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/05_विसर्जन/08_भगवान-महावीर-चालीसा/html/index.html>7) भगवान-महावीर-चालीसा</a></li>
+        </ul>
+      </div>
+      <div data-role=collapsible data-inset=false data-theme=a>
+        <h2>पाठ</h2>
+        <ul data-role=listview>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/01_देव-स्तुति--भूधरदासजी/html/index.html>1) देव-स्तुति--भूधरदासजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/02_मेरी-भावना--मुख्तारजी/html/index.html>2) मेरी-भावना--मुख्तारजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/03_बारह-भावना--जयचंदजी/html/index.html>3) बारह-भावना--जयचंदजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/04_बारह-भावना--भूधरदासजी/html/index.html>4) बारह-भावना--भूधरदासजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/05_बारह-भावना--मंगतरायजी/html/index.html>5) बारह-भावना--मंगतरायजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/06_महावीर-वंदना--हुकमचंदजी/html/index.html>6) महावीर-वंदना--हुकमचंदजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/06_समाधिमरण--द्यानतरायजी/html/index.html>7) समाधिमरण--द्यानतरायजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/07_समाधि-भावना--शिवरामजी/html/index.html>8) समाधि-भावना--शिवरामजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/08_समाधिमरण-भाषा--सूरचंदजी/html/index.html>9) समाधिमरण-भाषा--सूरचंदजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/09_दर्शन-स्तुति--दौलतरामजी/html/index.html>10) दर्शन-स्तुति--दौलतरामजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/10_जिनवाणी-स्तुति/html/index.html>11) जिनवाणी-स्तुति</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/11_आराधना-पाठ--द्यानतरायजी/html/index.html>12) आराधना-पाठ--द्यानतरायजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/12_इह-विधि-मंगल-आरति--द्यानतरायजी/html/index.html>13) इह-विधि-मंगल-आरति--द्यानतरायजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/13_आलोचना-पाठ--जौहरिलालजी/html/index.html>14) आलोचना-पाठ--जौहरिलालजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/14_दुखहरन-विनती--वृन्दावनदासजी/html/index.html>15) दुखहरन-विनती--वृन्दावनदासजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/15_अमूल्य-तत्त्व-विचार--युगलजी/html/index.html>16) अमूल्य-तत्त्व-विचार--युगलजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/16_बाईस-परीषह--आ.ज्ञानमती/html/index.html>17) बाईस-परीषह--आ.ज्ञानमती</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/17_सामायिक-पाठ--आ.अमितगति/html/index.html>18) सामायिक-पाठ--आ.अमितगति</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/19_सामायिक-पाठ--युगलजी/html/index.html>19) सामायिक-पाठ--युगलजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/21_सामायिक-पाठ--महाचंद्रजी/html/index.html>20) सामायिक-पाठ--महाचंद्रजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/22_सामायिक-पाठ--रविन्द्रजी/html/index.html>21) सामायिक-पाठ--रविन्द्रजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/23_निर्वाण-कांड--भगवतीदास/html/index.html>22) निर्वाण-कांड--भगवतीदास</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/25_वैराग्य-भावना--भूधरदासजी/html/index.html>23) वैराग्य-भावना--भूधरदासजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/27_स्वयंभू-स्तोत्र--आ.विद्यासागर/html/index.html>24) स्वयंभू-स्तोत्र--आ.विद्यासागर</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/29_स्वयंभू-स्तोत्र-भाषा--द्यानतरायजी/html/index.html>25) स्वयंभू-स्तोत्र-भाषा--द्यानतरायजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/30_आत्मबोध-शतक--आर्यिका-पूर्णमति/html/index.html>26) आत्मबोध-शतक--आर्यिका-पूर्णमति</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/33_पार्श्वनाथ-स्त्रोत्र--द्यनतरायजी/html/index.html>27) पार्श्वनाथ-स्त्रोत्र--द्यनतरायजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/34_महावीराष्टक-स्तोत्र--पं.भागचन्द्र/html/index.html>28) महावीराष्टक-स्तोत्र--पं.भागचन्द्र</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/35_महावीराष्टक-स्तोत्र--हिंदी/html/index.html>29) महावीराष्टक-स्तोत्र--हिंदी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/37_कल्याणमन्दिरस्तोत्रम/html/index.html>30) कल्याणमन्दिरस्तोत्रम</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/39_कल्याणमन्दिर-स्तोत्र-हिंदी/html/index.html>31) कल्याणमन्दिर-स्तोत्र-हिंदी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/41_भक्तामर--आ.मानतुंग/html/index.html>32) भक्तामर--आ.मानतुंग</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/43_भक्तामर--कमलकुमारजी/html/index.html>33) भक्तामर--कमलकुमारजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/45_भक्तामर--हेमराजजी/html/index.html>34) भक्तामर--हेमराजजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/47_भक्तामर--मु.श्रीरसागर/html/index.html>35) भक्तामर--मु.श्रीरसागर</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/49_एकीभाव-स्तोत्र--आ.वादीराज/html/index.html>36) एकीभाव-स्तोत्र--आ.वादीराज</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/50_विषापहारस्तोत्रम्--श्रीधनञ्जय/html/index.html>37) विषापहारस्तोत्रम्--श्रीधनञ्जय</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/51_विषापहारस्तोत्र--श्रीशांतिदास/html/index.html>38) विषापहारस्तोत्र--श्रीशांतिदास</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/52_मृत्युमहोत्सव/html/index.html>39) मृत्युमहोत्सव</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/53_अपूर्व-अवसर--श्री.राजचंद्र/html/index.html>40) अपूर्व-अवसर--श्री.राजचंद्र</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/55_कुंदकुंद-शतक/html/index.html>41) कुंदकुंद-शतक</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/59_ध्यान-सूत्र-शतक--आ.माघनंदी/html/index.html>42) ध्यान-सूत्र-शतक--आ.माघनंदी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/61_छहढाला--बुधजनजी/html/index.html>43) छहढाला--बुधजनजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/63_छहढाला--द्यानतरायजी/html/index.html>44) छहढाला--द्यानतरायजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/65_श्री-गोम्टेश्वर-स्तुति/html/index.html>45) श्री-गोम्टेश्वर-स्तुति</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/67_सहस्रनाम-स्तोत्र/html/index.html>46) सहस्रनाम-स्तोत्र</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/69_रत्नाकर-पंचविंशतिका--रामचरितजी/html/index.html>47) रत्नाकर-पंचविंशतिका--रामचरितजी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/06_पाठ/70_भूपाल-पंचविंशतिका--भूधरदासजी/html/index.html>48) भूपाल-पंचविंशतिका--भूधरदासजी</a></li>
+        </ul>
+      </div>
+      <div data-role=collapsible data-inset=false data-theme=a>
+        <h2>छहढाला</h2>
+        <ul data-role=listview>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/07_छहढाला/01_पहली-ढाल/html/index.html>1) पहली-ढाल</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/07_छहढाला/02_दूसरी-ढाल/html/index.html>2) दूसरी-ढाल</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/07_छहढाला/03_तीसरी-ढाल/html/index.html>3) तीसरी-ढाल</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/07_छहढाला/04_चौथी-ढाल/html/index.html>4) चौथी-ढाल</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/07_छहढाला/05_पांचवी-ढाल/html/index.html>5) पांचवी-ढाल</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/poojas/07_छहढाला/06_छठी-ढाल/html/index.html>6) छठी-ढाल</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div data-history=false data-role=popup id=popupTeeka data-theme=none>
+    <div data-role=collapsibleset data-theme=b data-content-theme=a data-collapsed-icon=arrow-r data-expanded-icon=arrow-d style='margin:0; width:250px;'>
+      <div data-role=collapsible data-inset=false data-theme=a>
+        <h2>द्रव्यानुयोग</h2>
+        <ul data-role=listview>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/teeka/01_द्रव्यानुयोग/01_समयसार--कुन्दकुंदाचार्य/html/index.html>1) समयसार--कुन्दकुंदाचार्य</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/teeka/01_द्रव्यानुयोग/02_प्रवचनसार--कुन्दकुंदाचार्य/html/index.html>2) प्रवचनसार--कुन्दकुंदाचार्य</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/teeka/01_द्रव्यानुयोग/05_पन्चास्तिकाय--कुन्दकुंदाचार्य/html/index.html>3) पन्चास्तिकाय--कुन्दकुंदाचार्य</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/teeka/01_द्रव्यानुयोग/06_द्रव्यसंग्रह--नेमिचंद्र-सिद्धांतचक्रवर्ती/html/index.html>4) द्रव्यसंग्रह--नेमिचंद्र-सिद्धांतचक्रवर्ती</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/teeka/01_द्रव्यानुयोग/07_समाधितन्त्र--आचार्य‌-पूज्यपाद/html/index.html>5) समाधितन्त्र--आचार्य‌-पूज्यपाद</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/teeka/01_द्रव्यानुयोग/08_स्वरूप-संबोधन--अकलंक-देव/html/index.html>6) स्वरूप-संबोधन--अकलंक-देव</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/teeka/01_द्रव्यानुयोग/09_इष्टोपदेश--आचार्य‌-पूज्यपाद/html/index.html>7) इष्टोपदेश--आचार्य‌-पूज्यपाद</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/teeka/01_द्रव्यानुयोग/10_परमात्मप्रकाश--योगींदुदेव/html/index.html>8) परमात्मप्रकाश--योगींदुदेव</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/teeka/01_द्रव्यानुयोग/11_ज्ञानार्णव/html/index.html>9) ज्ञानार्णव</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/teeka/01_द्रव्यानुयोग/12_योगसार-प्राभृत--अमितगति-आचार्य/html/index.html>10) योगसार-प्राभृत--अमितगति-आचार्य</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/teeka/01_द्रव्यानुयोग/13_तत्त्वार्थसूत्र--आचार्य-उमास्वामी/html/index.html>11) तत्त्वार्थसूत्र--आचार्य-उमास्वामी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/teeka/01_द्रव्यानुयोग/14_योगसार--योगींदुदेव/html/index.html>12) योगसार--योगींदुदेव</a></li>
+        </ul>
+      </div>
+      <div data-role=collapsible data-inset=false data-theme=a>
+        <h2>चरणानुयोग</h2>
+        <ul data-role=listview>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/teeka/02_चरणानुयोग/01_नियमसार--कुन्दकुंदाचार्य/html/index.html>1) नियमसार--कुन्दकुंदाचार्य</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/teeka/02_चरणानुयोग/02_श्रीअष्टपाहुड--कुन्दकुंदाचार्य/html/index.html>2) श्रीअष्टपाहुड--कुन्दकुंदाचार्य</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/teeka/02_चरणानुयोग/03_मूलाचार--वट्टकेराचार्य/html/index.html>3) मूलाचार--वट्टकेराचार्य</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/teeka/02_चरणानुयोग/04_वारासाणुवेक्खा--स्वामि-कार्तिकेय/html/index.html>4) वारासाणुवेक्खा--स्वामि-कार्तिकेय</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/teeka/02_चरणानुयोग/09_रत्नकरण्ड-श्रावकाचार--समन्तभद्राचार्य/html/index.html>5) रत्नकरण्ड-श्रावकाचार--समन्तभद्राचार्य</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/teeka/02_चरणानुयोग/17_भगवती-आराधना--शिवाचार्य/html/index.html>6) भगवती-आराधना--शिवाचार्य</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/teeka/02_चरणानुयोग/18_पद्म्नंदी-पंचविन्शतिका--आ-पद्म्नंदी/html/index.html>7) पद्म्नंदी-पंचविन्शतिका--आ-पद्म्नंदी</a></li>
+        </ul>
+      </div>
+      <div data-role=collapsible data-inset=false data-theme=a>
+        <h2>करणानुयोग</h2>
+        <ul data-role=listview>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/teeka/03_करणानुयोग/01_लब्धिसार--नेमिचंद्र-आचार्य/html/index.html>1) लब्धिसार--नेमिचंद्र-आचार्य</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/teeka/03_करणानुयोग/03_गोम्मटसार-जीवकांड--नेमिचंद्र-आचार्य/html/index.html>2) गोम्मटसार-जीवकांड--नेमिचंद्र-आचार्य</a></li>
+        </ul>
+      </div>
+      <div data-role=collapsible data-inset=false data-theme=a>
+        <h2>प्रथमानुयोग</h2>
+        <ul data-role=listview>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/teeka/05_प्रथमानुयोग/01_आराधना-कथा-कोश--ब्र-नेमिदत्त/html/index.html>1) आराधना-कथा-कोश--ब्र-नेमिदत्त</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/teeka/05_प्रथमानुयोग/02_उत्तर-पुराण--गुणभद्राचार्य/html/index.html>2) उत्तर-पुराण--गुणभद्राचार्य</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/teeka/05_प्रथमानुयोग/03_उत्तर-पुराण-संस्कृत--गुणभद्राचार्य/html/index.html>3) उत्तर-पुराण-संस्कृत--गुणभद्राचार्य</a></li>
+        </ul>
+      </div>
+      <div data-role=collapsible data-inset=false data-theme=a>
+        <h2>न्याय</h2>
+        <ul data-role=listview>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/teeka/06_न्याय/01_आप्त-मीमांसा/html/index.html>1) आप्त-मीमांसा</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/teeka/06_न्याय/02_लघीयस्त्रय/html/index.html>2) लघीयस्त्रय</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/teeka/06_न्याय/03_परीक्षामुख/html/index.html>3) परीक्षामुख</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div data-history=false data-role=popup id=popupShastra data-theme=none>
+    <div data-role=collapsibleset data-theme=b data-content-theme=a data-collapsed-icon=arrow-r data-expanded-icon=arrow-d style='margin:0; width:250px;'>
+      <div data-role=collapsible data-inset=false data-theme=a>
+        <h2>द्रव्यानुयोग</h2>
+        <ul data-role=listview>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/shastra/01_द्रव्यानुयोग/01_समयसार--कुन्दकुंदाचार्य/html/index.html>1) समयसार--कुन्दकुंदाचार्य</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/shastra/01_द्रव्यानुयोग/02_प्रवचनसार--कुन्दकुंदाचार्य/html/index.html>2) प्रवचनसार--कुन्दकुंदाचार्य</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/shastra/01_द्रव्यानुयोग/05_पन्चास्तिकाय--कुन्दकुंदाचार्य/html/index.html>3) पन्चास्तिकाय--कुन्दकुंदाचार्य</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/shastra/01_द्रव्यानुयोग/06_द्रव्यसंग्रह--नेमिचंद्र-सिद्धांतचक्रवर्ती/html/index.html>4) द्रव्यसंग्रह--नेमिचंद्र-सिद्धांतचक्रवर्ती</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/shastra/01_द्रव्यानुयोग/07_समाधितन्त्र--आचार्य‌-पूज्यपाद/html/index.html>5) समाधितन्त्र--आचार्य‌-पूज्यपाद</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/shastra/01_द्रव्यानुयोग/08_स्वरूप-संबोधन--अकलंक-देव/html/index.html>6) स्वरूप-संबोधन--अकलंक-देव</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/shastra/01_द्रव्यानुयोग/09_इष्टोपदेश--आचार्य‌-पूज्यपाद/html/index.html>7) इष्टोपदेश--आचार्य‌-पूज्यपाद</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/shastra/01_द्रव्यानुयोग/10_परमात्मप्रकाश--योगींदुदेव/html/index.html>8) परमात्मप्रकाश--योगींदुदेव</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/shastra/01_द्रव्यानुयोग/11_ज्ञानार्णव/html/index.html>9) ज्ञानार्णव</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/shastra/01_द्रव्यानुयोग/12_योगसार-प्राभृत--अमितगति-आचार्य/html/index.html>10) योगसार-प्राभृत--अमितगति-आचार्य</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/shastra/01_द्रव्यानुयोग/13_तत्त्वार्थसूत्र--आचार्य-उमास्वामी/html/index.html>11) तत्त्वार्थसूत्र--आचार्य-उमास्वामी</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/shastra/01_द्रव्यानुयोग/14_योगसार--योगींदुदेव/html/index.html>12) योगसार--योगींदुदेव</a></li>
+        </ul>
+      </div>
+      <div data-role=collapsible data-inset=false data-theme=a>
+        <h2>चरणानुयोग</h2>
+        <ul data-role=listview>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/shastra/02_चरणानुयोग/01_नियमसार--कुन्दकुंदाचार्य/html/index.html>1) नियमसार--कुन्दकुंदाचार्य</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/shastra/02_चरणानुयोग/02_श्रीअष्टपाहुड--कुन्दकुंदाचार्य/html/index.html>2) श्रीअष्टपाहुड--कुन्दकुंदाचार्य</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/shastra/02_चरणानुयोग/03_मूलाचार--वट्टकेराचार्य/html/index.html>3) मूलाचार--वट्टकेराचार्य</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/shastra/02_चरणानुयोग/04_वारासाणुवेक्खा--स्वामि-कार्तिकेय/html/index.html>4) वारासाणुवेक्खा--स्वामि-कार्तिकेय</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/shastra/02_चरणानुयोग/09_रत्नकरण्ड-श्रावकाचार--समन्तभद्राचार्य/html/index.html>5) रत्नकरण्ड-श्रावकाचार--समन्तभद्राचार्य</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/shastra/02_चरणानुयोग/17_भगवती-आराधना--शिवाचार्य/html/index.html>6) भगवती-आराधना--शिवाचार्य</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/shastra/02_चरणानुयोग/18_पद्म्नंदी-पंचविन्शतिका--आ-पद्म्नंदी/html/index.html>7) पद्म्नंदी-पंचविन्शतिका--आ-पद्म्नंदी</a></li>
+        </ul>
+      </div>
+      <div data-role=collapsible data-inset=false data-theme=a>
+        <h2>करणानुयोग</h2>
+        <ul data-role=listview>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/shastra/03_करणानुयोग/01_लब्धिसार--नेमिचंद्र-आचार्य/html/index.html>1) लब्धिसार--नेमिचंद्र-आचार्य</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/shastra/03_करणानुयोग/03_गोम्मटसार-जीवकांड--नेमिचंद्र-आचार्य/html/index.html>2) गोम्मटसार-जीवकांड--नेमिचंद्र-आचार्य</a></li>
+        </ul>
+      </div>
+      <div data-role=collapsible data-inset=false data-theme=a>
+        <h2>प्रथमानुयोग</h2>
+        <ul data-role=listview>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/shastra/05_प्रथमानुयोग/01_आराधना-कथा-कोश--ब्र-नेमिदत्त/html/index.html>1) आराधना-कथा-कोश--ब्र-नेमिदत्त</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/shastra/05_प्रथमानुयोग/02_उत्तर-पुराण--गुणभद्राचार्य/html/index.html>2) उत्तर-पुराण--गुणभद्राचार्य</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/shastra/05_प्रथमानुयोग/03_उत्तर-पुराण-संस्कृत--गुणभद्राचार्य/html/index.html>3) उत्तर-पुराण-संस्कृत--गुणभद्राचार्य</a></li>
+        </ul>
+      </div>
+      <div data-role=collapsible data-inset=false data-theme=a>
+        <h2>न्याय</h2>
+        <ul data-role=listview>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/shastra/06_न्याय/01_आप्त-मीमांसा/html/index.html>1) आप्त-मीमांसा</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/shastra/06_न्याय/02_लघीयस्त्रय/html/index.html>2) लघीयस्त्रय</a></li>
+          <li data-theme=b><a data-ajax=false href=./jainDataBase/shastra/06_न्याय/03_परीक्षामुख/html/index.html>3) परीक्षामुख</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div data-history=false data-role=popup id=popupMisc data-theme=none>
+    <div data-role=collapsibleset data-theme=b data-content-theme=a data-collapsed-icon=arrow-r data-expanded-icon=arrow-d style='margin:0; width:250px;'>
+        <div data-role=collapsible data-inset=false data-theme=a>
+          <h2>गुणस्थान</h2>
+          <ul data-role=listview>
+            <li data-theme=b><a data-rel=dialog data-ajax=false href=./jainDataBase/misc/GunsthanTable.html>गुणस्थान-विभाजन</a></li>
+            <li data-theme=b><a data-rel=dialog data-ajax=false href=./jainDataBase/misc/GunsthanKarmUdayTable.html>गुणस्थान में उदय</a></li> 
+            <li data-theme=b><a data-rel=dialog data-ajax=false href=./jainDataBase/misc/GunsthanToAndFrom.html>गुणस्थान-गमनागमन</a></li> 
+            <li data-theme=b><a data-rel=dialog data-ajax=false href=./jainDataBase/misc/GunsthanKaalTable.html>गुणस्थान-काल-संख्या</a></li>
+          </ul>
+        </div>
+        <div data-role=collapsible data-inset=false data-theme=a>
+          <h2>कर्म</h2>
+          <ul data-role=listview>
+            <li data-theme=b><a data-rel=dialog data-ajax=false href=./jainDataBase/misc/karmUdayTable.html>कर्म-उदय</a></li>
+            <li data-theme=b><a data-rel=dialog data-ajax=false href=./jainDataBase/misc/karmBandhTable.html>कर्म-बन्ध</a></li>
+            <li data-theme=b><a data-rel=dialog data-ajax=false href=./jainDataBase/misc/karmSattaTable.html>कर्म-सत्ता</a></li>
+          </ul>
+        </div>
+        <div data-role=collapsible data-inset=false data-theme=a>
+          <h2>बंध</h2>
+          <ul data-role=listview>
+            <li data-theme=b><a data-rel=dialog data-ajax=false href=./jainDataBase/misc/prakratiBandhPrarupana.html>प्रकृति-बंध</a></li>
+            <li data-theme=b><a data-rel=dialog data-ajax=false href=./jainDataBase/misc/stithiSaarani.html>स्थिति-बंध</a></li>
+            <li data-theme=b><a data-rel=dialog data-ajax=false href=./jainDataBase/misc/anubhagBandhPrarupana.html>अनुभाग-बंध</a></li>
+          </ul>
+        </div>
+        <div data-role=collapsible data-inset=false data-theme=a>
+          <h2>प्रमाण</h2>
+          <ul data-role=listview>
+            <li data-theme=b><a data-rel=dialog data-ajax=false href=./jainDataBase/misc/kshetraPramaan.html>क्षेत्र-प्रमाण</a></li>
+            <li data-theme=b><a data-rel=dialog data-ajax=false href=./jainDataBase/misc/sankhyaPramaan.html>संख्याप्रमाण</a></li>
+          </ul>
+        </div>
+        <div data-role=collapsible data-inset=false data-theme=a>
+          <h2>Other</h2>
+          <ul data-role=listview>
+            <li data-theme=b><a data-rel=dialog data-ajax=false href=./jainDataBase/misc/alpBahutva.html>अल्प बहुत्व</a></li>
+            <li data-theme=b><a data-rel=dialog data-ajax=false href=./jainDataBase/misc/GatiAgati.html>गति-आगति</a></li>
+            <li data-theme=b><a data-rel=dialog data-ajax=false href=./jainDataBase/misc/nyaay.html>न्याय</a></li>
+            <li data-theme=b><a data-rel=dialog data-ajax=false href=./jainDataBase/misc/moolSanghPattavali.html>मूल संघ पट्टावली</a></li>
+          </ul>
+        </div>
+        <div data-role=collapsible data-inset=false data-theme=a>
+          <h2>Download</h2>
+          <ul data-role=listview>
+            <li data-theme=b><a data-rel=dialog data-ajax=false href=./jainDataBase/downloads/Jain-Bhajan.pdf>जैन भजन</a></li>
+            <li data-theme=b><a data-rel=dialog data-ajax=false href=./jainDataBase/downloads/Jain-Pooja-Paath.pdf>जैन पूजा-पाठ</a></li>
+            <li data-theme=b><a data-rel=dialog data-ajax=false href=./jainDataBase/downloads/gathaa-ratnakarandShraavakaachaar.pdf>रत्नकरंड-श्रावकाचार--गाथा</a></li>
+            <li data-theme=b><a data-rel=dialog data-ajax=false href=./jainDataBase/downloads/gathaa-samaysaar.pdf>समयसार--गाथा</a></li>
+            <li data-theme=b><a data-rel=dialog data-ajax=false href=./jainDataBase/downloads/gathaa-labdhisaar.pdf>लब्धिसार--गाथा</a></li>
+            <li data-theme=b><a data-rel=dialog data-ajax=false href=./jainDataBase/downloads/gathaa-gommatSaarJeevKand.pdf>गोम्मटसार-जीवकांड--गाथा</a></li>
+            <li data-theme=b><a data-rel=dialog data-ajax=false href=./jainDataBase/downloads/gathaa-panchastikay.pdf>पंचास्तिकाय--गाथा</a></li>
+            <li data-theme=b><a data-rel=dialog data-ajax=false href=./jainDataBase/downloads/JeevSamas.pdf>JeevSamas</a></li>
+            <li data-theme=b><a data-rel=dialog data-ajax=false href=./jainDataBase/downloads/bookmark.pdf>Bookmark</a></li>
+            <li data-theme=b><a data-rel=dialog data-ajax=false href=./jainDataBase/downloads/gathaa-yogsaar.pdf>योगसार--गाथा</a></li>
+          </ul>
+        </div>
+    </div>
+  </div>
+
+  <div data-history=false data-role=popup id=popupGames data-theme=none>
+    <div data-role=collapsibleset data-theme=b data-content-theme=a data-collapsed-icon=arrow-r data-expanded-icon=arrow-d style='margin:0; width:250px;'>
+        <div data-role=collapsible data-inset=false data-theme=a>
+          <h2>Kids Games</h2>
+          <ul data-role=listview>
+            <li data-theme=b><a data-rel=dialog data-ajax=false href=./kidsGames1.html>Arrange Names</a></li>
+          </ul>
+        </div>
+        <div data-role=collapsible data-inset=false data-theme=a>
+          <h2>Crossword Puzzle</h2>
+          <ul data-role=listview>
+            <li data-theme=b><a data-rel=dialog data-ajax=false href=./jainDataBase/crosswords/crossword1.html>Puzzle-1</a></li>
+            <li data-theme=b><a data-rel=dialog data-ajax=false href=./jainDataBase/crosswords/crossword2.html>Puzzle-2</a></li>
+            <li data-theme=b><a data-rel=dialog data-ajax=false href=./jainDataBase/crosswords/crossword3.html>Puzzle-3</a></li>
+          </ul>
+        </div>
+        <div data-role=collapsible data-inset=false data-theme=a>
+          <h2>Word Search</h2>
+          <ul data-role=listview>
+            <li data-theme=b><a data-rel=dialog data-ajax=false href=./jainDataBase/wordSearch/WordSearch-1.pdf>Puzzle-1</a></li>
+            <li data-theme=b><a data-rel=dialog data-ajax=false href=./jainDataBase/wordSearch/WordSearch-2.pdf>Puzzle-2</a></li>
+            <li data-theme=b><a data-rel=dialog data-ajax=false href=./jainDataBase/wordSearch/WordSearch-3.pdf>Puzzle-3</a></li>
+          </ul>
+        </div>
+        <div data-role=collapsible data-inset=false data-theme=a>
+          <h2>Exam</h2>
+          <ul data-role=listview>
+            <li data-theme=b><a data-rel=dialog data-ajax=false href=./jainDataBase/jainExam/GunsthanVivechan.html>गुणस्थान विवेचन</a></li>
+            <li data-theme=b><a data-rel=dialog data-ajax=false href=./jainDataBase/jainExam/TattvarthSutra-1.html>तत्वार्थ मंजुषा - अध्याय 1</a></li>
+            <li data-theme=b><a data-rel=dialog data-ajax=false href=./jainDataBase/jainExam/jeevSamas.html>JeevSamas</a></li>
+            <li data-theme=b><a data-rel=dialog data-ajax=false href=./jainDataBase/jainExam/karmUdayBandh.html>Karm Uday Bandh</a></li>
+          </ul>
+        </div>
+    </div>
+  </div>
+<br><br>
+  <div class=myCenter>जो ऐसा मानता है कि मैं दूसरों को दु:खी या सुखी करता हूँ, वह वस्तुत: अज्ञानी है। ज्ञानी ऐसा कभी नहीं मानते। -- कुन्दकुंदाचार्य </div><br><br>
+  <div class=myBold>एक द्रव्य के द्वारा दोनों द्रव्यों का परिणमन किया जा रहा है, ऐसा मुझे प्रतिभासित मत होवे -- अमृतचंद्राचार्य</div><br><br>
+  <div class=myCenter>यहाँ प्रत्येक जीव अपने—अपने कर्मफल को अकेला ही भोगता है। ऐसी स्थिति में यहाँ कौन किसका स्वजन है और कौन किसका परजन ?</div><br><br>
+  <div class=myBold>धन, यौवन और जीवन को जल के बुलबुले के समान देखते हुए भी मनुष्य उन्हें नित्य मानता है, यह बड़ा आश्चर्य है। मोह का माहात्म्य अति बलवान है।</div><br><br>
+  <div class=myCenter>इसी ध्‍यान से दिव्‍य चिंतामणि मिल सकता है, इसी से खली के टुकड़े भी मिल सकते हैं । जब कि ध्‍यान के द्वारा दोनों मिल सकते हैं, तब विवेकी लोग किस ओर आदरबुद्धि करेंगे ?</div>
+
+  <!--div data-role="footer" data-position="fixed" data-fullscreen="true">
+    <div align=right>nikkyjain@gmail.com</div>
+  </div-->
+</div>
+</body>
+</html>

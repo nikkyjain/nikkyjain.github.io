@@ -1,0 +1,110 @@
+﻿<quePaper>
+  <title>कर्म उदय / बंध व्युछित्ति</title>
+  <queBlocks>  
+    <queBlock>
+      <qType>TABLE_GRID_CHOSE</qType>
+        <que>
+	<des>नीचे दिये गए कर्मों के उदय / बंध किस गुणस्थान तक पाया जाता है -</des>
+	<qColumn><c>१ इन्द्रिय जाति	       </c><ans>2	</ans><ans>1</ans></qColumn>
+	<qColumn><c>२ इन्द्रिय जाति	       </c><ans>2	</ans><ans>1</ans></qColumn>
+	<qColumn><c>५ इन्द्रिय जाति	       </c><ans>14	</ans><ans>8</ans></qColumn>
+	<qColumn><c>अगुरुलघु		       </c><ans>13	</ans><ans>8</ans></qColumn>
+	<qColumn><c>अनंतानुबंधी लोभ          </c><ans>2	</ans><ans>2</ans></qColumn>
+	<qColumn><c>अनादेय	           </c><ans>4	</ans><ans>2</ans></qColumn>
+	<qColumn><c>अपर्याप्त	           </c><ans>1	</ans><ans>1</ans></qColumn>
+	<qColumn><c>अप्रत्याख्यानावरण क्रोध	   </c><ans>4	</ans><ans>4</ans></qColumn>
+	<qColumn><c>अप्रशस्त विहायोगति       </c><ans>13	</ans><ans>2</ans></qColumn>
+	<qColumn><c>अयशःकीर्ति	           </c><ans>4	</ans><ans>6</ans></qColumn>
+	<qColumn><c>अवधि दर्शानावरण        </c><ans>12	</ans><ans>10</ans></qColumn>
+	<qColumn><c>अशुभ	        	   </c><ans>13	</ans><ans>6</ans></qColumn>
+	<qColumn><c>असाता वेदनीय	       </c><ans>14	</ans><ans>6</ans></qColumn>
+	<qColumn><c>अस्थिर	           </c><ans>13	</ans><ans>6</ans></qColumn>
+	<qColumn><c>आतप	        	   </c><ans>1	</ans><ans>1</ans></qColumn>
+	<qColumn><c>आदेय	        	   </c><ans>14	</ans><ans>8</ans></qColumn>
+	<qColumn><c>आहारक शरीर		   </c><ans>6	</ans><ans>8</ans></qColumn>
+	<qColumn><c>उच्च गोत्र	    	   </c><ans>14	</ans><ans>10</ans></qColumn>
+	<qColumn><c>उच्छवास	           </c><ans>13	</ans><ans>8</ans></qColumn>
+	<qColumn><c>उद्योत	           </c><ans>5	</ans><ans>2</ans></qColumn>
+	<qColumn><c>उपघात	           </c><ans>13	</ans><ans>8</ans></qColumn>
+	<qColumn><c>औदारिक शरीर	       </c><ans>13	</ans><ans>4</ans></qColumn>
+	<qColumn><c>कीलक संहनन	       </c><ans>7	</ans><ans>2</ans></qColumn>
+	<qColumn><c>केवल ज्ञानावरण         </c><ans>12	</ans><ans>10</ans></qColumn>
+	<qColumn><c>गंध	               </c><ans>13	</ans><ans>8</ans></qColumn>
+	<qColumn><c>चक्षु दर्शानावरण		   </c><ans>12	</ans><ans>10</ans></qColumn>
+	<qColumn><c>जुगुप्सा	    	   </c><ans>8	</ans><ans>8</ans></qColumn>
+	<qColumn><c>तिर्यंच आयु	           </c><ans>5	</ans><ans>2</ans></qColumn>
+	<qColumn><c>तिर्यंच गति	    	   </c><ans>5	</ans><ans>2</ans></qColumn>
+	<qColumn><c>तीर्थंकर	    	   </c><ans>14	</ans><ans>8</ans></qColumn>
+	<qColumn><c>तैजस शरीर	    	   </c><ans>13	</ans><ans>8</ans></qColumn>
+	<qColumn><c>त्रस	        	   </c><ans>14	</ans><ans>8</ans></qColumn>
+	<qColumn><c>दु स्वर	           </c><ans>13	</ans><ans>2</ans></qColumn>
+	<qColumn><c>दुर्भग		       </c><ans>4	</ans><ans>2</ans></qColumn>
+	<qColumn><c>देव आनुपूर्व्य 	       </c><ans>4	</ans><ans>8</ans></qColumn>
+	<qColumn><c>देव आयु	           </c><ans>4	</ans><ans>7</ans></qColumn>
+	<qColumn><c>देव गति	           </c><ans>4	</ans><ans>8</ans></qColumn>
+	<qColumn><c>नपुंसक वेद	       	   </c><ans>9	</ans><ans>1</ans></qColumn>
+	<qColumn><c>नरक आनुपूर्व्य	       </c><ans>4	</ans><ans>1</ans></qColumn>
+	<qColumn><c>नरक आयु	           </c><ans>4	</ans><ans>1</ans></qColumn>
+	<qColumn><c>नरक गति	           </c><ans>4	</ans><ans>1</ans></qColumn>
+	<qColumn><c>नाराच संहनन	       </c><ans>11	</ans><ans>2</ans></qColumn>
+	<qColumn><c>निद्रा	    	       </c><ans>12	</ans><ans>8</ans></qColumn>
+	<qColumn><c>निर्माण		       </c><ans>13	</ans><ans>8</ans></qColumn>
+	<qColumn><c>नीच गोत्र		       </c><ans>5	</ans><ans>2</ans></qColumn>
+	<qColumn><c>परघात		       </c><ans>13	</ans><ans>8</ans></qColumn>
+	<qColumn><c>पर्याप्त		       </c><ans>14	</ans><ans>8</ans></qColumn>
+	<qColumn><c>पुरुष वेद		       </c><ans>9	</ans><ans>9</ans></qColumn>
+	<qColumn><c>प्रचला		       </c><ans>12	</ans><ans>8</ans></qColumn>
+	<qColumn><c>प्रचला-प्रचला	       </c><ans>6	</ans><ans>2</ans></qColumn>
+	<qColumn><c>प्रत्याख्यानावरण मान      </c><ans>5	</ans><ans>5</ans></qColumn>
+	<qColumn><c>प्रत्येक		       </c><ans>13	</ans><ans>8</ans></qColumn>
+	<qColumn><c>प्रशस्त विहायोगति	       </c><ans>13	</ans><ans>8</ans></qColumn>
+	<qColumn><c>बादर		           </c><ans>14	</ans><ans>8</ans></qColumn>
+	<qColumn><c>मनुष्य आयु		       </c><ans>14	</ans><ans>4</ans></qColumn>
+	<qColumn><c>मनुष्य गति		       </c><ans>14	</ans><ans>4</ans></qColumn>
+	<qColumn><c>यशःकीर्ति		       </c><ans>14	</ans><ans>10</ans></qColumn>
+	<qColumn><c>रति		           </c><ans>8	</ans><ans>8</ans></qColumn>
+	<qColumn><c>लाभान्ताराय		       </c><ans>12	</ans><ans>10</ans></qColumn>
+	<qColumn><c>वज्रवृषभनाराच संहनन     </c><ans>13	</ans><ans>4</ans></qColumn>
+	<qColumn><c>वीर्यान्ताराय		       </c><ans>12	</ans><ans>10</ans></qColumn>
+	<qColumn><c>वैक्रियिक अंगोपांग	       </c><ans>4	</ans><ans>8</ans></qColumn>
+	<qColumn><c>शुभ		           </c><ans>13	</ans><ans>8</ans></qColumn>
+	<qColumn><c>शोक		           </c><ans>8	</ans><ans>6</ans></qColumn>
+	<qColumn><c>श्रुत ज्ञानावरण 		   </c><ans>12	</ans><ans>10</ans></qColumn>
+	<qColumn><c>संज्ज्वलन क्रोध	       </c><ans>9	</ans><ans>9</ans></qColumn>
+	<qColumn><c>संज्ज्वलन लोभ	       </c><ans>10	</ans><ans>9</ans></qColumn>
+	<qColumn><c>सम्यक प्रकृति	       </c><ans>7	</ans><ans>15</ans></qColumn>
+	<qColumn><c>सम्यकमिथ्यात्व	       </c><ans>3	</ans><ans>15</ans></qColumn>
+	<qColumn><c>साता वेदनीय		       </c><ans>14	</ans><ans>13</ans></qColumn>
+	<qColumn><c>साधारण		       </c><ans>1	</ans><ans>1</ans></qColumn>
+	<qColumn><c>सुभग		           </c><ans>14	</ans><ans>8</ans></qColumn>
+	<qColumn><c>सुस्वर		       </c><ans>13	</ans><ans>8</ans></qColumn>
+	<qColumn><c>सूक्ष्म		       </c><ans>1	</ans><ans>1</ans></qColumn>
+	<qColumn><c>स्त्री वेद		       </c><ans>9	</ans><ans>2</ans></qColumn>
+	<qColumn><c>स्थावर		       </c><ans>2	</ans><ans>1</ans></qColumn>
+	<qColumn><c>स्थिर		           </c><ans>13	</ans><ans>8</ans></qColumn>
+	<qColumn><c>हास्य		           </c><ans>8	</ans><ans>8</ans></qColumn>
+	<aRow>
+	  <c>उदय</c>
+	  <c>बंध</c>
+	</aRow>
+	<aColumn>
+		<c> 1 मिथ्यात्व गुणस्थान</c>
+		<c> 2 सासादन गुणस्थान</c>
+		<c> 3 मिश्र गुणस्थान</c>
+		<c> 4 अविरत सम्यक्त्व गुणस्थान</c>
+		<c> 5 देशविरत गुणस्थान</c>
+		<c> 6 प्रमत्तविरत गुणस्थान</c>
+		<c> 7 अप्रमत्तविरत गुणस्थान</c>
+		<c> 8 अपूर्वकरण गुणस्थान</c>
+		<c> 9 अनिवृत्तिकरण गुणस्थान</c>
+		<c>10 सूक्ष्म साम्पराय गुणस्थान</c>
+		<c>11 उपशान्त मोह गुणस्थान</c>
+		<c>12 क्षीणमोह गुणस्थान</c>
+		<c>13 सयोगकेवली गुणस्थान</c>
+		<c>14 अयोगकेवली गुणस्थान</c>
+		<c>-NA-</c>
+	</aColumn>
+      </que>
+    </queBlock>
+  </queBlocks>
+</quePaper>

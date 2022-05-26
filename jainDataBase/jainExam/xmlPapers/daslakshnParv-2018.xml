@@ -1,0 +1,257 @@
+﻿<quePaper>
+    <title>दसलक्षण महापर्व - २०१८ - (तत्त्वार्थ-सूत्र पर आधारित)</title>
+    <queBlocks>
+        <queBlock>
+            <qType>MTPL_CH</qType>
+            <que>
+                <des>पर्युषण का अर्थ क्या होता है ?</des>
+                <ans>1</ans>
+	    <choices>
+		<choice>ध्यान</choice>
+		<choice>पूजा</choice>
+		<choice>आराम</choice>
+		<choice>दान</choice>
+	    </choices>
+            </que>
+	    <que>
+                <des>क्षमा करने से क्या होता है ?</des>
+                <ans>1</ans>
+	    <choices><choice>कर्म-क्षय</choice>
+		<choice>आनन्द</choice>
+		<choice>पाप</choice>
+		<choice>निदान</choice>
+	    </choices>
+            </que>
+	    <que>
+                <des>मान को कैसे जीता जाता है ?</des>
+                <ans>1</ans>
+                <choices>
+			<choice>क्रोध से</choice>
+			<choice>प्रज्ञा से </choice>
+			<choice>विनय से</choice>
+			<choice>शौच से</choice>
+		</choices>
+            </que>
+	    <que>
+                <des>मायाचारी से क्या बनना पड़ता है ?</des>
+                <ans>1</ans>
+                <choices>
+			<choice>दीन</choice>
+			<choice>रोगी </choice>
+			<choice>देव</choice>
+			<choice>तिर्यंच</choice>
+		</choices>
+            </que>
+	    <que>
+                <des>वर्ष में दसलक्षण पर्व कितनी बार आता है ?</des>
+                <ans>1</ans>
+                <choices>
+			<choice>2</choice>
+			<choice>1</choice>
+			<choice>3</choice>
+			<choice>10</choice>
+		</choices>
+            </que>
+	    <que>
+                <des>प्रमाद के योग से क्या होता है ?</des>
+                <ans>1</ans>
+                <choices>
+			<choice>पुण्य</choice>
+			<choice>हिंसा </choice>
+			<choice>व्रत-पालन</choice>
+			<choice>झूठ</choice>
+		</choices>
+            </que>
+	    <que>
+                <des>ॐ बीजाक्षर में कितने परमेष्ठी होते हैं ?</des>
+                <ans>1</ans>
+                <choices>
+			<choice>5</choice>
+			<choice>3</choice>
+			<choice>7</choice>
+			<choice>2</choice>
+		</choices>
+            </que>
+	    <que>
+                <des>ह्रीं में कितने तीर्थंकर श्वेत-वर्णी हैं ?</des>
+                <ans>1</ans>
+                <choices>
+			<choice>16</choice>
+			<choice>2</choice>
+			<choice>4</choice>
+			<choice>8</choice>
+		</choices>
+            </que>
+	    <que>
+                <des>सबसे अधिक कष्ट कौनसा कर्म देता है ?</des>
+                <ans>1</ans>
+                <choices>
+			<choice>आयु</choice>
+			<choice>अन्तराय</choice>
+			<choice>मोहनीय</choice>
+			<choice>वेदनीय</choice>
+		</choices>
+            </que>
+	    <que>
+                <des>दश-धर्म किसके होते हैं ?</des>
+                <ans>1</ans>
+                <choices>
+			<choice>सभी के</choice>
+			<choice>श्रावक के</choice>
+			<choice>मुनियों के</choice>
+			<choice>व्रतियों के</choice>
+		</choices>
+            </que>
+	    <que>
+                <des>शांतिधारा क्यों करते हैं ?</des>
+                <ans>1</ans>
+                <choices>
+			<choice>नाम के लिए</choice>
+			<choice>दान के लिए</choice>
+			<choice>कर्म-क्षय के लिए</choice>
+			<choice>मान के लिए</choice>
+		</choices>
+            </que>
+	    <que>
+                <des>गणधर परमेष्ठी के कितनी रिद्धियां होतीं हैं ?</des>
+                <ans>1</ans>
+                <choices>
+			<choice>63</choice>
+			<choice>64</choice>
+			<choice>14</choice>
+			<choice>52</choice>
+		</choices>
+            </que>
+	    <que>
+                <des>तत्त्वार्थ-सूत्र ग्रन्थ में कितने सूत्र हैं ?</des>
+                <ans>1</ans>
+                <choices>
+			<choice>356</choice>
+			<choice>355</choice>
+			<choice>357</choice>
+			<choice>358</choice>
+		</choices>
+            </que>
+	    <que>
+                <des>पंचम अध्याय में कितने सूत्र हैं ?</des>
+                <ans>1</ans>
+                <choices>
+			<choice>43</choice>
+			<choice>41</choice>
+			<choice>40</choice>
+			<choice>42</choice>
+		</choices>
+            </que>
+	    <que>
+                <des>तत्त्व कितने होते हैं ?</des>
+                <ans>1</ans>
+                <choices>
+			<choice>6</choice>
+			<choice>7</choice>
+			<choice>9</choice>
+			<choice>5</choice>
+		</choices>
+            </que>
+	    <que>
+                <des>तत्त्वार्थ-सूत्र ग्रन्थ-राज के करता कौन हैं ?</des>
+                <ans>1</ans>
+                <choices>
+			<choice>आ. कुंद-कुंद देव</choice>
+			<choice>आ. विद्यासागर जी</choice>
+			<choice>आ. उमास्वामी</choice>
+			<choice>आ. अमितगति</choice>
+		</choices>
+            </que>
+	    <que>
+                <des>गणधरवलय स्तोत्र के कर्ता कौन हैं ?</des>
+                <ans>1</ans>
+                <choices>
+			<choice>अज्ञात</choice>
+			<choice>भद्रबाहु-स्वामी</choice>
+			<choice>समन्तभद्र-स्वामी </choice>
+			<choice>आ. शिवकोटी स्वामी</choice>
+		</choices>
+            </que>
+	    <que>
+                <des>ज्ञान कितने होते हैं ?</des>
+                <ans>1</ans>
+                <choices>
+			<choice>8</choice>
+			<choice>5</choice>
+			<choice>3</choice>
+			<choice>6</choice>
+		</choices>
+            </que>
+	    <que>
+                <des>तीर्थंकर किस भावना से बनते हैं ?</des>
+                <ans>1</ans>
+                <choices>
+			<choice>षोडश-कारण भावना</choice>
+			<choice>मेरी-भावना</choice>
+			<choice>वैराग्य-भावना</choice>
+			<choice>समाधि-भावना</choice>
+		</choices>
+            </que>
+	    <que>
+                <des>देवों का व्याख्यान किस अधिकार में है ?</des>
+                <ans>1</ans>
+                <choices>
+			<choice>1</choice>
+			<choice>3</choice>
+			<choice>4</choice>
+			<choice>9</choice>
+		</choices>
+            </que>
+	    <que>
+                <des>तृतीय अधिकार में किसका वर्णन है ?</des>
+                <ans>1</ans>
+                <choices>
+			<choice>मोक्ष</choice>
+			<choice>नरक</choice>
+			<choice>बंध</choice>
+			<choice>अजीव</choice>
+		</choices>
+            </que>
+	    <que>
+                <des>आपके कितनी इन्द्रियाँ हैं ?</des>
+                <ans>1</ans>
+                <choices>
+			<choice>5</choice>
+			<choice>4</choice>
+			<choice>6</choice>
+			<choice>1</choice>
+		</choices>
+            </que>
+	    <que>
+                <des>देवों के कितने भेद हैं ?</des>
+                <ans>1</ans>
+                <choices>
+			<choice>4</choice>
+			<choice>10</choice>
+			<choice>8</choice>
+			<choice>3</choice>
+		</choices>
+            </que>
+	    <que>
+                <des>स्पर्श-रस-गन्ध-वर्ण किसका गुण है ?</des>
+                <ans>1</ans>
+                <choices>
+			<choice>जीव का</choice>
+			<choice>पुद्गल का</choice>
+			<choice>अजीव का</choice>
+			<choice>सिद्धों का</choice>
+		</choices>
+            </que>
+	    <que>
+                <des>तीव्रकषाय के योग से किसका बंध होता है ?</des>
+                <ans>1</ans>
+                <choices>
+			<choice>ज्ञानावरणी कर्म का</choice>
+			<choice>दर्शनावरणी कर्म का</choice>
+			<choice>चारित्र-मोहनीय कर्म का</choice>
+			<choice>दर्शन-मोहनीय कर्म का</choice>
+		</choices>
+            </que>
+        </queBlock>
+    </queBlocks>
+</quePaper>

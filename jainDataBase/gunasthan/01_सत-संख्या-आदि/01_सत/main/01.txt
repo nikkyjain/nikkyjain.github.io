@@ -1,0 +1,313 @@
+﻿<table  border=1 cellpadding=0 cellspacing=0 style="width: 500px;">
+	<tbody>
+		<tr>
+			<td bgcolor=khaki> <strong>गति मार्गणा</strong></td>
+			<td bgcolor=khaki> <strong>गुणस्थान </strong></td>
+		</tr>
+		<tr>
+			<td> नरकगति</td>
+			<td> 1 से 4</td>
+		</tr>
+		<tr>
+			<td> तिर्यंचगति </td>
+			<td> 1 से 5</td>
+		</tr>
+		<tr>
+			<td> मनुष्यगति</td>
+			<td> 1 से 14</td>
+		</tr>
+		<tr>
+			<td> देवगति</td>
+			<td> 1 से 4</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<table  border=1 cellpadding=0 cellspacing=0 style="width: 500px;">
+	<tbody>
+		<tr>
+			<td bgcolor=khaki> <strong>इन्द्रिय मार्गणा</strong></td>
+			<td bgcolor=khaki> <strong>गुणस्थान </strong></td>
+		</tr>
+		<tr>
+			<td> एकेंद्रिय से ४ इंद्रिय</td>
+			<td> 1</td>
+		</tr>
+		<tr>
+			<td> पंचेंद्रिय</td>
+			<td> 1 से 14</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<table  border=1 cellpadding=0 cellspacing=0 style="width: 500px;">
+	<tbody>
+		<tr>
+			<td bgcolor=khaki> <strong>काय मार्गणा</strong></td>
+			<td bgcolor=khaki> <strong>गुणस्थान </strong></td>
+		</tr>
+		<tr>
+			<td> पृथिवीकाय से लेकर वनस्पति</td>
+			<td> 1</td>
+		</tr>
+		<tr>
+			<td> त्रसकायिकों</td>
+			<td> 1 से 14</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<table  border=1 cellpadding=0 cellspacing=0 style="width: 500px;">
+	<tbody>
+		<tr>
+			<td bgcolor=khaki> <strong>योग मार्गणा</strong></td>
+			<td bgcolor=khaki> <strong>गुणस्थान </strong></td>
+		</tr>
+		<tr>
+			<td> मन-वचन-काय</td>
+			<td> 1-13</td>
+		</tr>
+		<tr>
+			<td> योगरहित</td>
+			<td> 14</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<table  border=1 cellpadding=0 cellspacing=0 style="width: 500px;">
+	<tbody>
+		<tr>
+			<td bgcolor=khaki> <strong>वेद मार्गणा</strong></td>
+			<td bgcolor=khaki> <strong>गुणस्थान </strong></td>
+		</tr>
+		<tr>
+			<td> पुरुष-स्त्री-नपूसक</td>
+			<td> 1-9</td>
+		</tr>
+		<tr>
+			<td> अपगतवेद</td>
+			<td> 9-14</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<table  border=1 cellpadding=0 cellspacing=0 style="width: 500px;">
+	<tbody>
+		<tr>
+			<td bgcolor=khaki> <strong>कषाय मार्गणा</strong></td>
+			<td bgcolor=khaki> <strong>गुणस्थान </strong></td>
+		</tr>
+		<tr>
+			<td> क्रोध-मान-माया</td>
+			<td> 1-9</td>
+		</tr>
+		<tr>
+			<td> लोभ</td>
+			<td> 1-10</td>
+		</tr>
+		<tr>
+			<td> अकषाय</td>
+			<td> 11-14</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<table  border=1 cellpadding=0 cellspacing=0 style="width: 500px;">
+	<tbody>
+		<tr>
+			<td bgcolor=khaki> <strong>ज्ञान मार्गणा</strong></td>
+			<td bgcolor=khaki> <strong>गुणस्थान </strong></td>
+		</tr>
+		<tr>
+			<td> कुमति, कुश्रुत और कुअवधि</td>
+			<td> 1-2</td>
+		</tr>
+		<tr>
+			<td> मति, श्रुत और अवधि</td>
+			<td> 4-12</td>
+		</tr>
+		<tr>
+			<td> मन:पर्यय</td>
+			<td> 6-12</td>
+		</tr>
+		<tr>
+			<td> केवल</td>
+			<td> 13-14</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<table  border=1 cellpadding=0 cellspacing=0 style="width: 500px;">
+	<tbody>
+		<tr>
+			<td bgcolor=khaki> <strong>संयम मार्गणा</strong></td>
+			<td bgcolor=khaki> <strong>गुणस्थान </strong></td>
+		</tr>
+		<tr>
+			<td> सामायिक </td>
+			<td> 6-9</td>
+		</tr>
+		<tr>
+			<td> छेदोपस्थापस्थापना</td>
+			<td> 6-9</td>
+		</tr>
+		<tr>
+			<td> परिहारविशुद्धि</td>
+			<td> 6-7</td>
+		</tr>
+		<tr>
+			<td> सूक्ष्मसाम्पराय</td>
+			<td> 10</td>
+		</tr>
+		<tr>
+			<td> यथाख्यात</td>
+			<td> 11-14</td>
+		</tr>
+		<tr>
+			<td> संयतासंयत</td>
+			<td> 5</td>
+		</tr>
+		<tr>
+			<td> असंयत</td>
+			<td> 1-4</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<table  border=1 cellpadding=0 cellspacing=0 style="width: 500px;">
+	<tbody>
+		<tr>
+			<td bgcolor=khaki> <strong>दर्शन मार्गणा</strong></td>
+			<td bgcolor=khaki> <strong>गुणस्थान </strong></td>
+		</tr>
+		<tr>
+			<td> चक्षुदर्शन और अचक्षुदर्शन</td>
+			<td> 1-12</td>
+		</tr>
+		<tr>
+			<td> अवधिदर्शन</td>
+			<td> 4-12</td>
+		</tr>
+		<tr>
+			<td> केवलदर्शन</td>
+			<td> 13-14</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<table  border=1 cellpadding=0 cellspacing=0 style="width: 500px;">
+	<tbody>
+		<tr>
+			<td bgcolor=khaki> <strong>लेष्या मार्गणा</strong></td>
+			<td bgcolor=khaki> <strong>गुणस्थान </strong></td>
+		</tr>
+		<tr>
+			<td> कृष्ण, नील और कपोत</td>
+			<td> 1-4</td>
+		</tr>
+		<tr>
+			<td> पीत और पद्म</td>
+			<td> 1-7</td>
+		</tr>
+		<tr>
+			<td> शुक्ल</td>
+			<td> 1-13</td>
+		</tr>
+		<tr>
+			<td> लेष्या रहित</td>
+			<td> 14</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<table  border=1 cellpadding=0 cellspacing=0 style="width: 500px;">
+	<tbody>
+		<tr>
+			<td bgcolor=khaki> <strong>भव्य मार्गणा</strong></td>
+			<td bgcolor=khaki> <strong>गुणस्थान </strong></td>
+		</tr>
+		<tr>
+			<td> भव्य</td>
+			<td> 1-14</td>
+		</tr>
+		<tr>
+			<td> अभव्य</td>
+			<td> 1</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<table  border=1 cellpadding=0 cellspacing=0 style="width: 500px;">
+	<tbody>
+		<tr>
+			<td bgcolor=khaki> <strong>सम्यक्त्व  मार्गणा</strong></td>
+			<td bgcolor=khaki> <strong>गुणस्थान </strong></td>
+		</tr>
+		<tr>
+			<td> क्षायिक</td>
+			<td> 4-14</td>
+		</tr>
+		<tr>
+			<td> क्षायोपशमिक </td>
+			<td> 4-7</td>
+		</tr>
+		<tr>
+			<td> औपशमिक </td>
+			<td> 4-11</td>
+		</tr>
+		<tr>
+			<td> सासादन</td>
+			<td> 2</td>
+		</tr>
+		<tr>
+			<td> सम्यग्मिथ्या</td>
+			<td> 3</td>
+		</tr>
+		<tr>
+			<td> मिथ्यादृष्टि </td>
+			<td> 1</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<table  border=1 cellpadding=0 cellspacing=0 style="width: 500px;">
+	<tbody>
+		<tr>
+			<td bgcolor=khaki> <strong>संज्ञा  मार्गणा</strong></td>
+			<td bgcolor=khaki> <strong>गुणस्थान </strong></td>
+		</tr>
+		<tr>
+			<td> संज्ञी</td>
+			<td> 1-12</td>
+		</tr>
+		<tr>
+			<td> असंज्ञी </td>
+			<td> 1</td>
+		</tr>
+		<tr>
+			<td> संज्ञा रहित</td>
+			<td> 13-14</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<table  border=1 cellpadding=0 cellspacing=0 style="width: 500px;">
+	<tbody>
+		<tr>
+			<td bgcolor=khaki> <strong>आहार मार्गणा</strong></td>
+			<td bgcolor=khaki> <strong>गुणस्थान </strong></td>
+		</tr>
+		<tr>
+			<td> आहारक</td>
+			<td> 1-13</td>
+		</tr>
+		<tr>
+			<td> अनाहारक (विग्रहगति)</td>
+			<td> 1,2,4</td>
+		</tr>
+		<tr>
+			<td> अनाहारक (समुद्घात)</td>
+			<td> 13-14</td>
+		</tr>
+	</tbody>
+</table>

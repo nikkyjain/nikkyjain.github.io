@@ -1,0 +1,113 @@
+#!/bin/sh
+
+
+# Add Header
+outFile=index.html
+convert=0
+
+[ "$1" = "-c" ] && convert=1
+
+cat <<EOF > $outFile
+<html>
+<head>
+<title>द्रव्यानुयोग</title>
+<link rel="icon" type="image/png" href="../../../../images/default/jainFlag-short.jpg"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Language" content="hi" />
+
+<link type="text/css" rel="stylesheet" href="../../../../css/myCss.css" />
+<link type="text/css" rel="stylesheet" href="../../../../css/style.css" media="screen"/>
+<link type="text/css" rel="stylesheet" href="../../../../css/jquery.dropdown.css" />
+
+<script type="text/javascript" src="../../../../js/jquery.js"></script>
+<script type="text/javascript" src="../../../../js/jquery-animate-css-rotate-scale.js"></script>
+<script type="text/javascript" src="../../../../js/jquery.dropdown.js"></script>
+<!--script type="text/javascript" src="../../../../js/common.js"></script-->
+<script type="text/javascript" src="../../../../js/dravyanuyog.js"></script>
+<script>
+function myExpand(elem){
+  \$("."+elem).slideToggle();
+}
+</script>
+
+</head>
+<body>
+  <script src="../../../../js/myRockingRolling.js" type="text/javascript"></script>
+  <div>
+  <img src="../../../../images/common/next.jpg" id=next height=50 width=50 align=right onclick="clickNext(); return false;"/>
+  <img src="../../../../images/common/prev.jpg" id=prev height=50 width=50 align=left  onclick="clickPrev(); return false;"/>
+  </div>
+  <br>
+  <form name=myForm>
+    <div align=center>
+      <button id=submitCorrections onclick="return false;">Submit Corrections</button>
+    </div>
+  </form>
+  <br>
+EOF
+
+curCntr=0
+curDir=$(basename $PWD | sed -e 's/.*_//')
+parentDir=$(basename $(dirname $PWD) | sed -e 's/.*_//')
+echo "    <hr><h2 align=center>$parentDir ($curDir)</h2><br>" >> $outFile
+while read cFile; do
+  #q=`echo $p | sed 's/.txt//'`
+  cFile=$(echo "$cFile" | tr -d '\r')
+  sFile=`echo $cFile | sed 's/.txt//'`
+  curFile=main/$cFile
+  [ ! -f "$curFile" ] && echo "Didnt find $curFile" && exit 1
+  curFile=title/$cFile
+  if [ -f "$curFile" ]; then
+    echo "    <p align=center><font color=darkGreen>`cat $curFile`</font></p>" >> $outFile
+  fi
+  curFile=main/$cFile
+  if [ -f "$curFile" ]; then
+	echo "    <h3 align=center><font color=maroon>" >> $outFile
+    { cat $curFile; echo; } | while read cLine; do
+	  c=$cLine;
+      echo "    <p align=center>$c</p>" >> $outFile
+    done
+	curCntr=$((curCntr + 1))
+    echo "      <br><div id=bottomClick$curCntr><a href=# onClick=\"myExpand('bottomTxt$curCntr');return false;\">अर्थ</a></div></font></h3>" >> $outFile
+    bottomFile=bottom/$cFile
+    if [ -f "$bottomFile" ]; then
+      echo "    <font color=black><div class=bottomTxt$curCntr style=\"display: none; test-align: justify; margin: 0 auto; width: 90%;\">" >> $outFile
+      { cat $bottomFile; echo; } | while read cLine; do
+        c=$cLine;
+        c=$(echo $c | perl -i -pe 's/शंका [-–—]/<b><font color=red>शंका –/g'); 
+        c=$(echo $c | perl -i -pe 's/प्रश्न [-–—:]/<b><font color=red>प्रश्न –/g'); 
+        c=$(echo $c | perl -i -pe 's/समाधान [-–—]/<\/font><font color=darkGreen>समाधान –<\/font><\/b>/g'); 
+        c=$(echo $c | perl -i -pe 's/उत्तर [-–—:]/<\/font><font color=darkGreen>उत्तर –<\/font><\/b>/g'); 
+        c=$(echo $c | perl -i -pe 's/अर्थ [-–—]/<b><font color=maroon>अर्थ –<\/font><\/b>/g'); 
+        c=$(echo $c | perl -i -pe 's/विशेषार्थ [-–—]/<b><font color=maroon>विशेषार्थ –<\/font><\/b>/g'); 
+        c=$(echo $c | perl -i -pe 's/भावार्थ [-–—]/<b><font color=maroon>भावार्थ –<\/font><\/b>/g'); 
+        #c=$(echo $c | perl -i -pe 's/Bold (.*?)[—]/<b><font color=maroon>$1 –<\/font><\/b>/g'); 
+        echo "    <p>$c</p>" >> $outFile
+      done
+      echo "      <br><br></div></font>" >> $outFile
+    fi
+  fi
+#  curFile=tooltip/$cFile
+#  if [ -f "$curFile" ]; then
+#    [ "$convert" = "1" ] && dos2unix $curFile
+#    echo "    <tooltip>`cat $curFile`</tooltip>" >> $outFile
+#    [ "$convert" = "1" ] && unix2dos $curFile
+#  fi
+#  cFile=`echo $cFile | sed 's/.txt//'`
+#  iFile="$cFile.jpg"
+#  curFile=images/$iFile
+#  #echo "Vishal:$curFile"
+#  if [ -f "$curFile" ]; then
+#	fullPath=`readlink -f $curFile`
+#	fullPath=`echo $fullPath | sed 's/.*jainDataBase/jainDataBase/'`
+#    #echo "Vishal:$fullPath"
+#    echo "    <image>$fullPath</image>" >> $outFile
+#  fi
+#  echo "  </page>" >> $outFile
+  echo "Processed $cFile"
+done < "index.txt"
+
+# Add Footer
+echo "</body>" >> $outFile
+echo "</html>" >> $outFile
+unix2dos $outFile

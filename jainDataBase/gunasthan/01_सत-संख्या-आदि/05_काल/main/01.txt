@@ -1,0 +1,2160 @@
+<h1> काल प्ररूपणा</h1>
+<h2>
+	<span style="color:#696969;"><strong>सामान्य</strong></span></h2>
+<table border=1>
+	<tbody>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>गुणस्थान</strong></span></td>
+			<td> <span style="color:#b22222;"><strong>काल</strong></span></td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>मिथ्यादृष्टी</strong></span></td>
+			<td>
+				<table border=1>
+					<tbody>
+						<tr>
+							<td> <span style="color: rgb(178, 34, 34);"><b>नाना जीव</b></span></td>
+							<td> <span style="color: rgb(178, 34, 34);"><strong>एक जीव</strong></span></td>
+						</tr>
+						<tr>
+							<td> सब काल</td>
+							<td>
+								<table border=1>
+									<tbody>
+										<tr>
+											<td> अनादि-अनन्त</td>
+										</tr>
+										<tr>
+											<td> अनादि-सान्त</td>
+										</tr>
+										<tr>
+											<td> सादि-सान्त - जघन्य :अन्तर्मुहूर्त उत्कृष्ट :कुछ कम अर्धपुद्गल परिवर्तन</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<span style="color:#b22222;"><strong>सासादन सम्यग्दृष्टी</strong></span></td>
+			<td>
+				<table border=1>
+					<tbody>
+						<tr>
+							<td>
+								<span style="color: rgb(178, 34, 34);"><b>नाना जीव</b></span>
+								<table border=1>
+									<tbody>
+										<tr>
+											<td> <span style="color:#b22222;"><strong>जघन्य</strong></span></td>
+											<td> <span style="color:#b22222;"><strong>उत्कृष्ट</strong></span></td>
+										</tr>
+										<tr>
+											<td> एक समय</td>
+											<td> पल्योपमके असंख्यातवें भाग</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+							<td>
+								<span style="color: rgb(178, 34, 34);"><strong>एक जीव</strong></span>
+								<table border=1>
+									<tbody>
+										<tr>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>जघन्य</strong></span></td>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>उत्कृष्ट</strong></span></td>
+										</tr>
+										<tr>
+											<td> एक समय</td>
+											<td> छह आवलि</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>सम्यग्मिथ्यादृष्टि</strong></span></td>
+			<td>
+				<table border=1>
+					<tbody>
+						<tr>
+							<td>
+								<span style="color: rgb(178, 34, 34);"><b>नाना जीव</b></span>
+								<table border=1>
+									<tbody>
+										<tr>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>जघन्य</strong></span></td>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>उत्कृष्ट</strong></span></td>
+										</tr>
+										<tr>
+											<td> अन्तर्मुहूर्त</td>
+											<td> पल्योपमके असंख्यातवें भाग</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+							<td>
+								<span style="color: rgb(178, 34, 34);"><strong>एक जीव</strong></span>
+								<table border=1>
+									<tbody>
+										<tr>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>जघन्य</strong></span></td>
+											<td> <span style="color: rgb(178,
+
+ 34, 34);"><strong>उत्कृष्ट</strong></span></td>
+										</tr>
+										<tr>
+											<td> अन्तर्मुहूर्त</td>
+											<td> अन्तर्मुहूर्त</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<span style="color:#b22222;"><strong>असंयतसम्यग्दृष्टि</strong></span></td>
+			<td>
+				<table border=1>
+					<tbody>
+						<tr>
+							<td> <span style="color: rgb(178, 34, 34);"><b>नाना जीव</b></span></td>
+							<td> <span style="color: rgb(178, 34, 34);"><strong>एक जीव</strong></span></td>
+						</tr>
+						<tr>
+							<td> सब काल</td>
+							<td>
+								<table border=1>
+									<tbody>
+										<tr>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>जघन्य</strong></span></td>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>उत्कृष्ट</strong></span></td>
+										</tr>
+										<tr>
+											<td> अन्तर्मुहूर्त</td>
+											<td> साधिक तेतीस सागरोपम</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<strong><span style="color:#b22222;">संयतासंयत</span></strong></td>
+			<td>
+				<table border=1>
+					<tbody>
+						<tr>
+							<td> <span style="color: rgb(178, 34, 34);"><b>नाना जीव</b></span></td>
+							<td> <span style="color: rgb(178, 34, 34);"><strong>एक जीव</strong></span></td>
+						</tr>
+						<tr>
+							<td> सब काल</td>
+							<td>
+								<table border=1> 
+									<tbody>
+										<tr>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>जघन्य</strong></span></td>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>उत्कृष्ट</strong></span></td>
+										</tr>
+										<tr>
+											<td> अन्तर्मुहूर्त</td>
+											<td> कुछ कम एक पूर्वकोटि</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<span style="color:#b22222;"><strong>6-7</strong></span></td>
+			<td>
+				<table border=1>
+					<tbody>
+						<tr>
+							<td> <span style="color: rgb(178, 34, 34);"><b>नाना जीव</b></span></td>
+							<td> <span style="color: rgb(178, 34, 34);"><strong>एक जीव</strong></span></td>
+						</tr>
+						<tr>
+							<td> सब काल</td>
+							<td>
+								<table border=1> 
+									<tbody>
+										<tr>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>जघन्य</strong></span></td>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>उत्कृष्ट</strong></span></td>
+										</tr>
+										<tr>
+											<td> एक समय</td>
+											<td> अन्तर्मुहूर्त</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<span style="color:#b22222;"><strong>8-11 (उपशामक)</strong></span></td>
+			<td>
+				<table border=1>
+					<tbody>
+						<tr>
+							<td> <span style="color: rgb(178, 34, 34);"><b>नाना जीव</b></span></td>
+							<td> <span style="color: rgb(178, 34, 34);"><strong>एक जीव</strong></span></td>
+						</tr>
+						<tr>
+							<td> एक समय</td>
+							<td>
+								<table border=1> 
+									<tbody>
+										<tr>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>जघन्य</strong></span></td>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>उत्कृष्ट</strong></span></td>
+										</tr>
+										<tr>
+											<td> एक समय</td>
+											<td> अन्तर्मुहूर्त</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<span style="color:#b22222;"><strong>8-12 (क्षपक)</strong></span></td>
+			<td>
+				<table border=1>
+					<tbody>
+						<tr>
+							<td> <span style="color: rgb(178, 34, 34);"><b>नाना जीव</b></span></td>
+							<td> <span style="color: rgb(178, 34, 34);"><strong>एक जीव</strong></span></td>
+						</tr>
+						<tr>
+							<td> अन्तर्मूहूर्त</td>
+							<td> अन्तर्मूहूर्त</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<span style="color:#b22222;"><strong>सयोगकेवलि</strong></span></td>
+			<td>
+				<table border=1>
+					<tbody>
+						<tr>
+							<td> <span style="color: rgb(178, 34, 34);"><b>नाना जीव</b></span></td>
+							<td> <span style="color: rgb(178, 34, 34);"><strong>एक जीव</strong></span></td>
+						</tr>
+						<tr>
+							<td> सब काल</td>
+							<td>
+								<table border=1> 
+									<tbody>
+										<tr>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>जघन्य</strong></span></td>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>उत्कृष्ट</strong></span></td>
+										</tr>
+										<tr>
+											<td> अन्तर्मुहूर्त</td>
+											<td> कुछ कम एक पूर्वकोटि</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<h2>
+	<span style="color: rgb(105, 105, 105);">विशेष</span></h2>
+<h2>
+	</h2>
+<table border=1>
+	<tbody>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>गति</strong></span></td>
+			<td> <span style="color:#b22222;"><strong>काल</strong></span></td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>नरक</strong></span></td>
+			<td>
+				<table border=1>
+					<tbody>
+						<tr>
+							<td> <span style="color:#b22222;"><b>गुणस्थान</b></span></td>
+							<td> <span style="color:#b22222;"><strong>काल</strong></span></td>
+						</tr>
+						<tr>
+							<td> मिथ्यादृष्टि</td>
+							<td>
+								<table border=1> 
+									<tbody>
+										<tr>
+											<td> <span style="color: rgb(178, 34, 34);"><b>नाना जीव</b></span></td>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>एक जीव</strong></span></td>
+										</tr>
+										<tr>
+											<td> सब काल</td>
+											<td>
+												<table border=1>
+													<tbody>
+														<tr>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>जघन्य</strong></span></td>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>उत्कृष्ट</strong></span></td>
+														</tr>
+														<tr>
+															<td> अन्तर्मुहूर्त</td>
+															<td> एक, तीन, सात, दस, सत्रह, बाईस और तेतीस सागरोपम</td>
+														</tr>
+													</tbody>
+												</table>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+						<tr>
+							<td> 2-3</td>
+							<td> सामान्यमें देखिये</td>
+						</tr>
+						<tr>
+							<td> असंयतसम्यग्दृष्टि</td>
+							<td>
+								<table border=1> 
+									<tbody>
+										<tr>
+											<td> <span style="color: rgb(178, 34, 34);"><b>नाना जीव</b></span></td>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>एक जीव</strong></span></td>
+										</tr>
+										<tr>
+											<td> सब काल</td>
+											<td> <table border=1>
+													<tbody>
+														<tr>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>जघन्य</strong></span></td>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>उत्कृष्ट</strong></span></td>
+														</tr>
+														<tr>
+															<td> अन्तर्मुहूर्त</td>
+															<td> कुछ कमएक, तीन, सात, दस, सत्रह, बाईस और तेतीस सागरोपम</td>
+														</tr>
+													</tbody>
+												</table>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<span style="color:#b22222;"><strong>तिर्यंच</strong></span></td>
+			<td>
+				<table border=1>
+					<tbody>
+						<tr>
+							<td> <span style="color:#b22222;"><b>गुणस्थान</b></span></td>
+							<td> <span style="color:#b22222;"><strong>काल</strong></span></td>
+						</tr>
+						<tr>
+							<td> <span style="color:#b22222;"><strong>मिथ्यादृष्टि</strong></span></td>
+							<td> <table border=1> 
+									<tbody>
+										<tr>
+											<td> <span style="color: rgb(178, 34, 34);"><b>नाना जीव</b></span></td>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>एक जीव</strong></span></td>
+										</tr>
+										<tr>
+											<td> सब काल</td>
+											<td>
+												<table border=1>
+													<tbody>
+														<tr>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>जघन्य</strong></span></td>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>उत्कृष्ट</strong></span></td>
+														</tr>
+														<tr>
+															<td> अन्तर्मुहूर्त</td>
+															<td> असंख्यात पुद्गल परिवर्तनप्रमाण *</td>
+														</tr>
+													</tbody>
+												</table>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+						<tr>
+							<td> <span style="color:#b22222;"><strong>2,3,5</strong></span></td>
+							<td> सामान्यमें देखिये</td>
+						</tr>
+						<tr>
+							<td>
+								<span style="color:#b22222;"><strong>असंयतसम्यग्दृष्टि</strong></span></td>
+							<td>
+								<table border=1>
+
+
+									<tbody>
+										<tr>
+											<td> <span style="color: rgb(178, 34, 34);"><b>नाना जीव</b></span></td>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>एक जीव</strong></span></td>
+										</tr>
+										<tr>
+											<td> सब काल</td>
+											<td>
+												<table border=1>
+													<tbody>
+														<tr>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>जघन्य</strong></span></td>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>उत्कृष्ट</strong></span></td>
+														</tr>
+														<tr>
+															<td> अन्तर्मुहूर्त</td>
+															<td> तीन पल्योपम</td>
+														</tr>
+													</tbody>
+												</table>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>मनुष्य</strong></span></td>
+			<td>
+				<table border=1>
+					<tbody>
+						<tr>
+							<td> <span style="color:#b22222;"><b>गुणस्थान</b></span></td>
+							<td> <span style="color:#b22222;"><strong>काल</strong></span></td>
+						</tr>
+						<tr>
+							<td> <span style="color:#b22222;"><strong>मिथ्यादृष्टि</strong></span></td>
+							<td>
+								<table border=1> 
+									<tbody>
+										<tr>
+											<td> <span style="color: rgb(178, 34, 34);"><b>नाना जीव</b></span></td>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>एक जीव</strong></span></td>
+										</tr>
+										<tr>
+											<td> सब काल</td>
+											<td>
+												<table border=1>
+													<tbody>
+														<tr>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>जघन्य</strong></span></td>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>उत्कृष्ट</strong></span></td>
+														</tr>
+														<tr>
+															<td> अन्तर्मुहूर्त</td>
+															<td> पूर्वकोटि पृथक्त्व से अधिक तीन पल्योपम</td>
+														</tr>
+													</tbody>
+												</table>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+						<tr>
+							<td> <span style="color:#b22222;"><strong>सासादनसम्यग्दृष्टि</strong></span></td>
+							<td>
+								<table border=1> 
+									<tbody>
+										<tr>
+											<td> <span style="color: rgb(178, 34, 34);"><b>नाना जीव</b></span></td>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>एक जीव</strong></span></td>
+										</tr>
+										<tr>
+											<td>
+												<table border=1>
+													<tbody>
+														<tr>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>जघन्य</strong></span></td>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>उत्कृष्ट</strong></span></td>
+														</tr>
+														<tr>
+															<td> एक समय</td>
+															<td> अन्तर्मुहूर्त</td>
+														</tr>
+													</tbody>
+												</table>
+											</td>
+											<td>
+												<table border=1>
+													<tbody>
+														<tr>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>जघन्य</strong></span></td>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>उत्कृष्ट</strong></span></td>
+														</tr>
+														<tr>
+															<td> एक समय</td>
+															<td> छह आवली</td>
+														</tr>
+													</tbody>
+												</table>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+						<tr>
+							<td> <span style="color:#b22222;"><strong>सम्यग्मिथ्यादृष्टि</strong></span></td>
+							<td> अन्तर्मुहूर्त</td>
+						</tr>
+						<tr>
+							<td> <span style="color:#b22222;"><strong>असंयतसम्यग्दृष्टि</strong></span></td>
+							<td>
+								<table border=1> 
+									<tbody>
+										<tr>
+											<td> <span style="color: rgb(178, 34, 34);"><b>नाना जीव</b></span></td>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>एक जीव</strong></span></td>
+										</tr>
+										<tr>
+											<td> सब काल</td>
+											<td>
+												<table border=1>
+													<tbody>
+														<tr>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>जघन्य</strong></span></td>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>उत्कृष्ट</strong></span></td>
+														</tr>
+														<tr>
+															<td> अन्तर्मुहूर्त</td>
+															<td> साधिक तीन पल्योपम</td>
+														</tr>
+													</tbody>
+												</table>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+						<tr>
+							<td> <span style="color:#b22222;"><strong>5- 14</strong></span></td>
+							<td> सामान्यमें देखिये</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>देव</strong></span></td>
+			<td>
+				<table border=1>
+					<tbody>
+						<tr>
+							<td> <span style="color:#b22222;"><b>गुणस्थान</b></span></td>
+							<td> <span style="color:#b22222;"><strong>काल</strong></span></td>
+						</tr>
+						<tr>
+							<td> <span style="color:#b22222;"><strong>मिथ्यादृष्टि</strong></span></td>
+							<td>
+								<table border=1> 
+									<tbody>
+										<tr>
+											<td> <span style="color: rgb(178, 34, 34);"><b>नाना जीव</b></span></td>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>एक जीव</strong></span></td>
+										</tr>
+										<tr>
+											<td> सब काल</td>
+											<td>
+												<table border=1>
+													<tbody>
+														<tr>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>जघन्य</strong></span></td>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>उत्कृष्ट</strong></span></td>
+														</tr>
+														<tr>
+															<td> अन्तर्मुहूर्त</td>
+															<td> 31 सागरोपम</td>
+														</tr>
+													</tbody>
+												</table>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+						<tr>
+							<td> <span style="color:#b22222;"><strong>2- 3</strong></span></td>
+							<td> सामान्यमें देखिये</td>
+						</tr>
+						<tr>
+							<td> <strong style="color: rgb(178, 34, यतसम्यग्दृष्टि</strong></td>
+							<td>
+								<table border=1> 
+									<tbody>
+										<tr>
+											<td> <span style="color: rgb(178, 34, 34);"><b>नाना जीव</b></span></td>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>एक जीव</strong></span></td>
+										</tr>
+										<tr>
+											<td> सब काल</td>
+											<td>
+												<table border=1>
+													<tbody>
+														<tr>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>जघन्य</strong></span></td>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>उत्कृष्ट</strong></span></td>
+														</tr>
+														<tr>
+															<td> अन्तर्मुहूर्त</td>
+															<td> 33 सागरोपम</td>
+														</tr>
+													</tbody>
+												</table>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<table border=1>
+	<tbody>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>इन्द्रिय मार्गणा</strong></span></td>
+			<td> <span style="color:#b22222;"><strong>काल</strong></span></td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>एकेंद्रिय</strong></span></td>
+			<td>
+				<table border=1>
+					<tbody>
+						<tr>
+							<td> <span style="color: rgb(178, 34, 34);"><b>नाना जीव</b></span></td>
+							<td> <span style="color: rgb(178, 34, 34);"><strong>एक जीव</strong></span></td>
+						</tr>
+						<tr>
+							<td> सब काल</td>
+							<td> <table border=1> 
+									<tbody>
+										<tr>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>जघन्य</strong></span></td>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>उत्कृष्ट</strong></span></td>
+										</tr>
+										<tr>
+											<td> क्षुद्रभवग्रहणप्रमाण</td>
+											<td> असंख्यात पुद्गल परिवर्तन</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>2-4</strong></span></td>
+			<td>
+				<table border=1>
+					<tbody>
+						<tr>
+							<td> <span style="color: rgb(178, 34, 34);"><b>नाना जीव</b></span></td>
+							<td> <span style="color: rgb(178, 34, 34);"><strong>एक जीव</strong></span></td>
+						</tr>
+						<tr>
+							<td> सब काल</td>
+							<td>
+								<table border=1> 
+									<tbody>
+										<tr>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>जघन्य</strong></span></td>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>उत्कृष्ट</strong></span></td>
+										</tr>
+										<tr>
+											<td> क्षुद्रभवग्रहणप्रमाण</td>
+											<td> संख्यात हजार वर्ष *</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td> <strong style="color: rgb(178, 34, 34);">पंचेंद्रिय</strong></td>
+			<td>
+				<table border=1>
+					<tbody>
+						<tr>
+							<td> <span style="color:#b22222;"><strong>मिथ्यादृष्टि</strong></span></td>
+							<td>
+								<table border=1> 
+									<tbody>
+										<tr>
+											<td> <span style="color: rgb(178, 34, 34);"><b>नाना जीव</b></span></td>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>एक जीव</strong></span></td>
+										</tr>
+										<tr>
+											<td> सब काल</td>
+											<td>
+												<table border=1>
+													<tbody>
+														<tr>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>जघन्य</strong></span></td>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>उत्कृष्ट</strong></span></td>
+														</tr>
+														<tr>
+															<td> अन्तर्मुहूर्त</td>
+															<td> पूर्वकोटि पृथक्त्वसे अधिक हजार सागरोपम</td>
+														</tr>
+													</tbody>
+												</table>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+						<tr>
+							<td> <span style="color:#b22222;"><strong>2- 14</strong></span></td>
+							<td> सामान्यमें देखिये</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<table border=1>
+	<tbody>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>काय मार्गणा</strong></span></td>
+			<td> <span style="color:#b22222;"><strong>काल</strong></span></td>
+		</tr>
+		<tr>
+			<td> पृथिवी-जल-अग्नि-वायु</td>
+			<td>
+				<table border=1>
+					<tbody>
+						<tr>
+							<td> <span style="color: rgb(178, 34, 34);"><b>नाना जीव</b></span></td>
+							<td> <span style="color: rgb(178, 34, 34);"><strong>एक जीव</strong></span></td>
+						</tr>
+						<tr>
+							<td> सब काल</td>
+							<td>
+								<table border=1> 
+									<tbody>
+										<tr>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>जघन्य</strong></span></td>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>उत्कृष्ट</strong></span></td>
+										</tr>
+										<tr>
+											<td> क्षुद्रभवग्रहण</td>
+											<td> असंख्यात लोकप्रमाण</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td> वनस्पति</td>
+			<td> एकेन्द्रियों के समान</td>
+		</tr>
+		<tr>
+			<td> त्रस</td>
+			<td>
+				<table border=1>
+					<tbody>
+						<tr>
+							<td> <span style="color: rgb(178, 34, trong>मिथ्यादृष्टि</strong></span></td>
+							<td>
+								<table border=1> 
+									<tbody>
+										<tr>
+											<td> <span style="color: rgb(178, 34, 34);"><b>नाना जीव</b></span></td>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>एक जीव</strong></span></td>
+										</tr>
+										<tr>
+											<td> सब काल</td>
+											<td>
+												<table border=1>
+													<tbody>
+														<tr>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>जघन्य</strong></span></td>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>उत्कृष्ट</strong></span></td>
+														</tr>
+														<tr>
+															<td> अन्तर्मुहूर्त</td>
+															<td> पूर्वकोटीपृथक्त्व अधिक दो हजार सागरोपम</td>
+														</tr>
+													</tbody>
+												</table>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+						<tr>
+							<td> <span style="color: rgb(178, 34, 34);"><strong>2- 14</strong></span></td>
+							<td> पंचेन्द्रियों के समान</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<table border=1>
+	<tbody>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>योग मार्गणा</strong></span></td>
+			<td> <span style="color:#b22222;"><strong>काल</strong><strong></strong></span></td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>मन-वचन</strong></span></td>
+			<td>
+				<table border=1>
+					<tbody>
+						<tr>
+							<td> <span style="color: rgb(178, 34, >गुणस्थान</b></span></td>
+							<td> <span style="color: rgb(178, 34, trong>काल</strong></span></td>
+						</tr>
+						<tr>
+							<td> <span style="color:#b22222;"><strong>1,4- 7,13</strong></span></td>
+							<td>
+								<table border=1> 
+									<tbody>
+										<tr>
+											<td> <span style="color: 34, 34);"><b>नाना जीव</b></span></td>
+											<td> <span style="color: 34, 34);"><strong>एक जीव</strong></span></td>
+										</tr>
+										<tr>
+											<td>
+												सब काल</td>
+											<td>
+												<table border=1>
+													<tbody>
+														<tr>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>जघन्य</strong></span></td>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>उत्कृष्ट</strong></span></td>
+														</tr>
+														<tr>
+															<td> एक समय</td>
+															<td> अन्तर्मुहूर्त</td>
+														</tr>
+													</tbody>
+												</table>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+						<tr>
+							<td> <span style="color:#b22222;"><strong>सासादनसम्यग्दृष्टि</strong></span></td>
+							<td> सामान्यमें देखिये</td>
+						</tr>
+						<tr>
+							<td> <span style="color:#b22222;"><strong>सम्यग्मिथ्यादृष्टि</strong></span></td>
+							<td>
+								<table border=1> 
+									<tbody>
+										<tr>
+											<td> <span style="color: rgb(178, 34, 34);"><b>नाना जीव</b></span></td>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>एक जीव</strong></span></td>
+										</tr>
+										<tr>
+											<td>
+												<table border=1>
+													<tbody>
+														<tr>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>जघन्य</strong></span></td>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>उत्कृष्ट</strong></span></td>
+														</tr>
+														<tr>
+															<td> एक समय</td>
+															<td> पल्योपम का असंख्यातवाँ भाग</td>
+														</tr>
+													</tbody>
+												</table>
+											</td>
+											<td>
+												<table border=1>
+													<tbody>
+														<tr>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>जघन्य</strong></span></td>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>उत्कृष्ट</strong></span></td>
+														</tr>
+														<tr>
+															<td> एक समय</td>
+															<td> अन्तर्मुहूर्त</td>
+														</tr>
+													</tbody>
+												</table>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+						<tr>
+							<td> <strong><span style="color:#b22222;">8- 12</span></strong></td>
+							<td>
+								<table border=1> 
+									<tbody>
+										<tr>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>जघन्य</strong></span></td>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>उत्कृष्ट</strong></span></td>
+										</tr>
+										<tr>
+											<td> एक समय</td>
+											<td> अन्तर्मुहूर्त</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>काय</strong></span></td>
+			<td>
+				<table border=1>
+					<tbody>
+						<tr>
+							<td> <strong style="color: rgb(178, 34, यादृष्टि</strong></td>
+							<td> <table border=1> 
+									<tbody>
+										<tr>
+											<td> <span style="color: rgb(178, 34, 34);"><b>नाना जीव</b></span></td>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>एक जीव</strong></span></td>
+										</tr>
+										<tr>
+											<td> सब काल</td>
+											<td>
+												<table border=1>
+													<tbody>
+														<tr>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>जघन्य</strong></span></td>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>उत्कृष्ट</strong></span></td>
+														</tr>
+														<tr>
+															<td> एक समय</td>
+															<td> असंख्यात पुद्गल परिवर्तन</td>
+														</tr>
+													</tbody>
+												</table>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+						<tr>
+							<td> 2-13</td>
+							<td> मनोयोगियों के समान</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>योगरहित</strong></span></td>
+			<td> सामान्यमें देखिये</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<table border=1>
+	<tbody>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>वेद मार्गणा</strong></span></td>
+			<td> <span style="color:#b22222;"><strong>काल</strong></span></td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>स्त्री</strong></span></td>
+			<td>
+				<table border=1>
+					<tbody>
+						<tr>
+							<td> <span style="color:#b22222;"><b>गुणस्थान</b></span></td>
+							<td> <span style="color:#b22222;"><strong>काल</strong></span></td>
+						</tr>
+						<tr>
+							<td> <span style="color:#b22222;"><strong>मिथ्यादृष्टि</strong></span></td>
+							<td>
+								<table border=1> 
+									<tbody>
+										<tr>
+											<td> <span style="color: rgb(178, 34, 34);"><b>नाना जीव</b></span></td>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>एक जीव</strong></span></td>
+										</tr>
+										<tr>
+											<td> सब काल</td>
+											<td>
+												<table border=1>
+													<tbody>
+														<tr>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>जघन्य</strong></span></td>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>उत्कृष्ट</strong></span></td>
+														</tr>
+														<tr>
+															<td> अन्तर्मुहूर्त</td>
+															<td> सौ पल्योपम पृथक्त्व</td>
+														</tr>
+													</tbody>
+												</table>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+						<tr>
+							<td> <strong><span style="color:#b22222;">2- 9</span></strong></td>
+							<td> सामान्यमें देखिये</td>
+						</tr>
+						<tr>
+							<td> <span style="color:#b22222;"><strong>असंयत सम्यग्दृष्टि</strong></span></td>
+							<td>
+								<table border=1> 
+									<tbody>
+										<tr>
+											<td> <span style="color: rgb(178, 34, 34);"><b>नाना जीव</b></span></td>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>एक जीव</strong></span></td>
+										</tr>
+										<tr>
+											<td> सब काल</td>
+											<td>
+												<table border=1>
+													<tbody>
+														<tr>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>जघन्य</strong></span></td>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>उत्कृष्ट</strong></span></td>
+														</tr>
+														<tr>
+															<td> अन्तर्मुहूर्त</td>
+															<td> कुछ कम पचपन पल्योपम</td>
+														</tr>
+													</tbody>
+												</table>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>पुरुष</strong></span></td>
+			<td>
+				<table border=1>
+					<tbody>
+						<tr>
+							<td> <span style="color: rgb(178, 34, trong>मिथ्यादृष्टि</strong></span></td>
+							<td>
+								<table border=1> 
+									<tbody>
+										<tr>
+											<td> <span style="color: rgb(178, 34, 34);"><b>नाना जीव</b></span></td>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>एक जीव</strong></span></td>
+										</tr>
+										<tr>
+											<td> सब काल</td>
+											<td>
+												<table border=1>
+													<tbody>
+														<tr>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>जघन्य</strong></span></td>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>उत्कृष्ट</strong></span></td>
+														</tr>
+														<tr>
+															<td> अन्तर्मुहूर्त</td>
+															<td> सौ सागरोपम पृथक्त्व</td>
+														</tr>
+													</tbody>
+												</table>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+						<tr>
+							<td> <span style="color:#b22222;"><strong>2- 9</strong></span></td>
+							<td> सामान्यमें देखिये</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>नपुंसक</strong></span></td>
+			<td>
+				<table border=1>
+					<tbody>
+						<tr>
+							<td> <span style="color: rgb(178, 34, trong>मिथ्यादृष्टि</strong></span></td>
+							<td>
+								<table border=1> 
+									<tbody>
+										<tr>
+											<td> <span style="color: rgb(178, 34, 34);"><b>नाना जीव</b></span></td>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>एक जीव</strong></span></td>
+										</tr>
+										<tr>
+											<td> सब काल</td>
+											<td>
+												<table border=1>
+													<tbody>
+														<tr>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>जघन्य</strong></span></td>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>उत्कृष्ट</strong></span></td>
+														</tr>
+														<tr>
+															<td> अन्तर्मुहूर्त</td>
+															<td> असंख्यात पुद्गल परिवर्तन</td>
+														</tr>
+													</tbody>
+												</table>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+						<tr>
+							<td> <strong style="color: rgb(178, 34, 34);">2-9</strong></td>
+							<td> सामान्यमें देखिये</td>
+						</tr>
+						<tr>
+							<td> <strong style="color: rgb(178, 34, 34);">असंयत सम्यग्दृष्टि</strong></td>
+							<td>
+								<table border=1> 
+									<tbody>
+										<tr>
+											<td> <span style="color: rgb(178, 34, 34);"><b>नाना जीव</b></span></td>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>एक जीव</strong></span></td>
+										</tr>
+										<tr>
+											<td> सब काल</td>
+											<td>
+												<table border=1>
+													<tbody>
+														<tr>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>जघन्य</strong></span></td>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>उत्कृष्ट</strong></span></td>
+														</tr>
+														<tr>
+															<td> अन्तर्मुहूर्त</td>
+															<td> कुछ कम 33 सागरोपम</td>
+														</tr>
+													</tbody>
+												</table>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>वेदरहित</strong></span></td>
+			<td> सामान्यमें देखिये</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<table border=1>
+	<tbody>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>कषाय मार्गणा</strong></span></td>
+			<td> <span style="color:#b22222;"><strong>काल</strong></span></td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>क्रोध-मान-माया-लोभ</strong></span></td>
+			<td>
+				<table border=1>
+					<tbody>
+						<tr>
+							<td> <b style="color: rgb(178, 34, 34);">गुणस्थान</b></td>
+							<td> </td>
+						</tr>
+						<tr>
+							<td> <strong style="color: rgb(178, 34, 34);">1-7</strong></td>
+							<td> मनोयोगियोंके समान</td>
+						</tr>
+						<tr>
+							<td> <span style="color:#b22222;"><strong>8- 10</strong></span></td>
+							<td> सामान्यमें देखिये</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>अकषाय</strong></span></td>
+			<td> सामान्यमें देखिये</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<table border=1>
+	<tbody>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>ज्ञान मार्गणा</strong></span></td>
+			<td> <span style="color:#b22222;"><strong>काल</strong></span></td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>कुमति, कुश्रुत</strong></span></td>
+			<td>
+				<table border=1>
+					<tbody>
+						<tr>
+							<td> <span style="color: rgb(178, 34, >गुणस्थान</b></span></td>
+							<td> <span style="color: rgb(178, 34, trong>काल</strong></span></td>
+						</tr>
+						<tr>
+							<td> <span style="color: rgb(178, 34, 34);"><strong>1- 2</strong></span></td>
+							<td> सामान्यमें देखिये</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>अवधि</strong></span></td>
+			<td>
+				<table border=1>
+					<tbody>
+						<tr>
+							<td> <span style="color:#b22222;"><strong>मिथ्यादृष्टि</strong></span></td>
+							<td>
+								<table border=1> 
+									<tbody>
+										<tr>
+											<td> <span style="color: rgb(178, 34, 34);"><b>नाना जीव</b></span></td>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>एक जीव</strong></span></td>
+										</tr>
+										<tr>
+											<td> सब काल</td>
+											<td>
+												<table border=1>
+													<tbody>
+														<tr>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>जघन्य</strong></span></td>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>उत्कृष्ट</strong></span></td>
+														</tr>
+														<tr>
+															<td> अन्तर्मुहूर्त</td>
+															<td> कुछ कम तेतीस सागरोपम है</td>
+														</tr>
+													</tbody>
+												</table>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+						<tr>
+							<td> <strong style="color: rgb(178, 34, दनसम्यग्दृष्टि</strong></td>
+							<td> सामान्यमें देखिये</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td> <strong style="color: rgb(178, 34, 34);">मति, श्रुत,</strong><strong style="color: rgb(178, 34, धि,</strong><strong style="color: rgb(178, 34, 34);">मन:पर्यय,</strong><strong style="color: rgb(178, 34, 34);">केवल</strong></td>
+			<td> सामान्यमें देखिये</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<table border=1>
+	<tbody>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>संयममार्गणा</strong></span></td>
+			<td> <span style="color:#b22222;"><strong>काल</strong></span></td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>सामायिक</strong></span></td>
+			<td> सामान्यमें देखिये</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>छेदोपस्थापस्थापना</strong></span></td>
+			<td> सामान्यमें देखिये</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>परिहारविशुद्धि</strong></span></td>
+			<td> सामान्यमें देखिये</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>सूक्ष्मसाम्पराय</strong></span></td>
+			<td> सामान्यमें देखिये</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>यथाख्यात</strong></span></td>
+			<td> सामान्यमें देखिये</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>संयतासंयत</strong></span></td>
+			<td> सामान्यमें देखिये</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>असंयत</strong></span></td>
+			<td> सामान्यमें देखिये</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<table border=1>
+	<tbody>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>दर्शनमार्गणा</strong></span></td>
+			<td> <span style="color:#b22222;"><strong>काल</strong></span></td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>चक्षुदर्शन</strong></span></td>
+			<td>
+				<table border=1>
+					<tbody>
+						<tr>
+							<td> <span style="color: rgb(178, 34, trong>मिथ्यादृष्टि</strong></span></td>
+							<td>
+								<table border=1> 
+									<tbody>
+										<tr>
+											<td> <span style="color: rgb(178, 34, 34);"><b>नाना जीव</b></span></td>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>एक जीव</strong></span></td>
+										</tr>
+										<tr>
+											<td> सब काल</td>
+											<td>
+												<table border=1>
+													<tbody>
+														<tr>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>जघन्य</strong></span></td>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>उत्कृष्ट</strong></span></td>
+														</tr>
+														<tr>
+															<td> अन्तर्मुहूर्त</td>
+															<td> दो हजार सागरोपम</td>
+														</tr>
+													</tbody>
+												</table>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+						<tr>
+							<td> <strong style="color: rgb(178, 34, 34);">2-12</strong></td>
+							<td> सामान्यमें देखिये</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>अचक्षुदर्शन</strong></span></td>
+			<td> सामान्यमें देखिये</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>अवधिदर्शन</strong></span></td>
+			<td> अवधिज्ञानीके समान</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>केवलदर्शन</strong></span></td>
+			<td> केवलज्ञानियों के समान</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<table border=1>
+	<tbody>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>लेश्या मार्गणा</strong></span></td>
+			<td> <span style="color:#b22222;"><strong>काल</strong></span></td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>कृष्ण, नील, कपोत</strong></span></td>
+			<td>
+				<table border=1>
+					<tbody>
+						<tr>
+							<td> <span style="color:#b22222;"><b>गुणस्थान</b></span></td>
+							<td> <span style="color:#b22222;"><strong>काल</strong></span></td>
+						</tr>
+						<tr>
+							<td> <span style="color:#b22222;"><strong>मिथ्यादृष्टि</strong></span></td>
+							<td>
+								<table border=1> 
+									<tbody>
+										<tr>
+											<td> <span style="color: rgb(178, 34, 34);"><b>नाना जीव</b></span></td>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>एक जीव</strong></span></td>
+										</tr>
+										<tr>
+											<td> सब काल</td>
+											<td>
+												<table border=1>
+													<tbody>
+														<tr>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>जघन्य</strong></span></td>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>उत्कृष्ट</strong></span></td>
+														</tr>
+														<tr>
+															<td> अन्तर्मुहूर्त</td>
+															<td> साधिक 33 सागरोपम, साधिक 17 सागरोपम और साधिक 7 सागरोपम</td>
+														</tr>
+													</tbody>
+												</table>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+						<tr>
+							<td> <span style="color:#b22222;"><strong>सासादन</strong></span></td>
+							<td> सामान्यमें देखिये</td>
+						</tr>
+						<tr>
+							<td> <span style="color:#b22222;"><strong>असंयतसम्यग्दृष्टि</strong></span></td>
+							<td>
+								<table border=1> 
+									<tbody>
+										<tr>
+											<td> <span style="color: rgb(178, 34, 34);"><b>नाना जीव</b></span></td>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>एक जीव</strong></span></td>
+										</tr>
+										<tr>
+											<td> सब काल</td>
+											<td>
+												<table border=1>
+													<tbody>
+														<tr>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>जघन्य</strong></span></td>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>उत्कृष्ट</strong></span></td>
+														</tr>
+														<tr>
+															<td> अन्तर्मुहूर्त</td>
+															<td> कुछ कम तेतीस सागरोपम, कुछ कम सत्रह सागरोपम और कुछ कम सात सागरोपम</td>
+														</tr>
+													</tbody>
+												</table>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>पीत-</strong></span><strong style="color: rgb(178, 34, म</strong></td>
+			<td>
+				<table border=1>
+					<tbody>
+						<tr>
+							<td> <span style="color:#b22222;"><strong>मिथ्यादृष्टि</strong></span></td>
+							<td>
+								<table border=1> 
+									<tbody>
+										<tr>
+											<td> <span style="color: rgb(178, 34, 34);"><b>नाना जीव</b></span></td>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>एक जीव</strong></span></td>
+										</tr>
+										<tr>
+											<td> सब काल</td>
+											<td>
+												<table border=1>
+													<tbody>
+														<tr>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>जघन्य</strong></span></td>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>उत्कृष्ट</strong></span></td>
+														</tr>
+														<tr>
+															<td> अन्तर्मुहूर्त</td>
+															<td> साधिक दो सागरोपम</td>
+														</tr>
+													</tbody>
+												</table>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+						<tr>
+							<td> <span style="color:#b22222;"><strong>2- 3</strong></span></td>
+							<td> सामान्यमें देखिये</td>
+						</tr>
+						<tr>
+							<td> <span style="color:#b22222;"><strong>असंयतसम्यग्दृष्टि</strong></span></td>
+							<td>
+								<table border=1> 
+									<tbody>
+										<tr>
+											<td> <span style="color: rgb(178, 34, 34);"><b>नाना जीव</b></span></td>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>एक जीव</strong></span></td>
+										</tr>
+										<tr>
+											<td> सब काल</td>
+											<td>
+												<table border=1>
+													<tbody>
+														<tr>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>जघन्य</strong></span></td>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>उत्कृष्ट</strong></span></td>
+														</tr>
+														<tr>
+															<td> अन्तर्मुहूर्त</td>
+															<td> साधिक अठारह सागरोपम</td>
+														</tr>
+													</tbody>
+												</table>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+						<tr>
+							<td> <span style="color:#b22222;"><strong>5- 7</strong></span></td>
+							<td>
+								<table border=1> 
+									<tbody>
+										<tr>
+											<td> <span style="color: rgb(178, 34, 34);"><b>नाना जीव</b></span></td>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>एक जीव</strong></span></td>
+										</tr>
+										<tr>
+											<td> सब काल</td>
+											<td>
+												<table border=1>
+													<tbody>
+														<tr>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>जघन्य</strong></span></td>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>उत्कृष्ट</strong></span></td>
+														</tr>
+														<tr>
+															<td> एक समय</td>
+															<td> अन्तर्मुहूर्त *</td>
+														</tr>
+													</tbody>
+												</table>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td> <strong style="color: rgb(178, 34, 34);">शुक्ल</strong></td>
+			<td>
+				<table border=1>
+					<tbody>
+						<tr>
+							<td> <span style="color:#b22222;"><strong>मिथ्यादृष्टि</strong></span></td>
+							<td>
+								<table border=1> 
+									<tbody>
+										<tr>
+											<td> <span style="color: rgb(178, 34, 34);"><b>नाना जीव</b></span></td>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>एक जीव</strong></span></td>
+										</tr>
+										<tr>
+											<td> सब काल</td>
+											<td>
+												<table border=1>
+													<tbody>
+														<tr>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>जघन्य</strong></span></td>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>उत्कृष्ट</strong></span></td>
+														</tr>
+														<tr>
+															<td> अन्तर्मुहूर्त</td>
+															<td> साधिक 31 सागरोपम</td>
+														</tr>
+													</tbody>
+												</table>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+						<tr>
+							<td> <span style="color:#b22222;"><strong>2- 13</strong></span></td>
+							<td> सामान्यमें देखिये</td>
+						</tr>
+						<tr>
+							<td> <strong><span style="color:#b22222;">5</span></strong></td>
+							<td>
+								<table border=1> 
+									<tbody>
+										<tr>
+											<td> <span style="color: rgb(178, 34, 34);"><b>नाना जीव</b></span></td>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>एक जीव</strong></span></td>
+										</tr>
+										<tr>
+											<td> सब काल</td>
+											<td>
+												<table border=1>
+													<tbody>
+														<tr>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>जघन्य</strong></span></td>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>उत्कृष्ट</strong></span></td>
+														</tr>
+														<tr>
+															<td> एक समय</td>
+															<td> अन्तर्मुहूर्त</td>
+														</tr>
+													</tbody>
+												</table>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>लेश्या रहित</strong></span></td>
+			<td> सामान्यमें देखिये</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<table border=1>
+	<tbody>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>भव्यमार्गणा</strong></span></td>
+			<td> <span style="color:#b22222;"><strong>काल</strong></span></td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>भव्य</strong></span></td>
+			<td>
+				<table border=1>
+					<tbody>
+						<tr>
+							<td> <span style="color:#b22222;"><strong>मिथ्यादृष्टि</strong></span></td>
+							<td>
+								<table border=1> 
+									<tbody>
+										<tr>
+											<td> <span style="color: rgb(178, 34, 34);"><b>नाना जीव</b></span></td>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>एक जीव</strong></span></td>
+										</tr>
+										<tr>
+											<td> सब काल</td>
+											<td>
+												<table border=1>
+													<tbody>
+														<tr>
+															<td> अनादि-सान्त</td>
+															<td> सादि-सान्त</td>
+														</tr>
+														<tr>
+															<td> </td>
+															<td>
+																<table border=1>
+																	<tbody>
+																		<tr>
+																			<td> <span style="color: rgb(178, 34, 34);"><strong>जघन्य</strong></span></td>
+																			<td> <span style="color: rgb(178, 34, 34);"><strong>उत्कृष्ट</strong></span></td>
+																		</tr>
+																		<tr>
+																			<td> अन्तर्मुहूर्त</td>
+																			<td> अर्धपुद्गल परिवर्तन</td>
+																		</tr>
+																	</tbody>
+																</table>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+						<tr>
+							<td> <span style="color:#b22222;"><strong>2- 14</strong></span></td>
+							<td> सामान्यमें देखिये</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td> <strong><span style="color:#b22222;">अभव्य</span></strong></td>
+			<td> अनादि-अनन्त</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<table border=1>
+	<tbody>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>सम्यक्त्वमार्गणा</strong></span></td>
+			<td> <span style="color:#b22222;"><strong>काल</strong></span></td>
+		</tr>
+		<tr>
+			<td> <strong><span style="color:#b22222;">क्षायिक</span></strong></td>
+			<td> सामान्यमें देखिये</td>
+		</tr>
+		<tr>
+			<td> <strong><span style="color:#b22222;">क्षायोपशमिक</span></strong></td>
+			<td> सामान्यमें देखिये</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>औपशमिक</strong></span></td>
+			<td>
+				<table border=1>
+					<tbody>
+						<tr>
+							<td> <span style="color: rgb(178, 34, >गुणस्थान</b></span></td>
+							<td> <span style="color: rgb(178, 34, trong>काल</strong></span></td>
+						</tr>
+						<tr>
+							<td> <span style="color: rgb(178, 34, 34);"><strong>4- 5</strong></span></td>
+							<td>
+								<table border=1> 
+									<tbody>
+										<tr>
+											<td> <span style="color: rgb(178, 34, 34);"><b>नाना जीव</b></span></td>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>एक जीव</strong></span></td>
+										</tr>
+										<tr>
+											<td>
+												<table border=1>
+													<tbody>
+														<tr>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>जघन्य</strong></span></td>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>उत्कृष्ट</strong></span></td>
+														</tr>
+														<tr>
+															<td> अन्तर्मुहूर्त</td>
+															<td> पल्योपमका असंख्यातवाँ भाग</td>
+														</tr>
+													</tbody>
+												</table>
+											</td>
+											<td>
+												<table border=1>
+													<tbody>
+														<tr>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>जघन्य</strong></span></td>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>उत्कृष्ट</strong></span></td>
+														</tr>
+														<tr>
+															<td> अन्तर्मुहूर्त</td>
+															<td> अन्तर्मुहूर्त</td>
+														</tr>
+													</tbody>
+												</table>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+						<tr>
+							<td> <span style="color: rgb(178, 34, 34);"><strong>6- 11</strong></span></td>
+							<td>
+								<table border=1> 
+									<tbody>
+										<tr>
+											<td> <span style="color: 34, 34);"><b>नाना जीव</b></span></td>
+											<td> <span style="color: 34, 34);"><strong>एक जीव</strong></span></td>
+										</tr>
+										<tr>
+											<td>
+												<table border=1>
+													<tbody>
+														<tr>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>जघन्य</strong></span></td>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>उत्कृष्ट</strong></span></td>
+														</tr>
+														<tr>
+															<td> एक समय</td>
+															<td> अन्तर्मुहूर्त</td>
+														</tr>
+													</tbody>
+												</table>
+											</td>
+											<td>
+												<table border=1>
+													<tbody>
+														<tr>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>जघन्य</strong></span></td>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>उत्कृष्ट</strong></span></td>
+														</tr>
+														<tr>
+															<td> एक समय</td>
+															<td> अन्तर्मुहूर्त</td>
+														</tr>
+													</tbody>
+												</table>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td> <strong><span style="color:#b22222;">सासादन</span></strong></td>
+			<td> सामान्यमें देखिये</td>
+		</tr>
+		<tr>
+			<td> <strong><span style="color:#b22222;">सम्यग्मिथ्या</span></strong></td>
+			<td> सामान्यमें देखिये</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>मिथ्यादृष्टि</strong></span></td>
+			<td> सामान्यमें देखिये</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<table border=1>
+	<tbody>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>संज्ञा मार्गणा</strong></span></td>
+			<td> <span style="color:#b22222;"><strong>काल</strong></span></td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>संज्ञी</strong></span></td>
+			<td>
+				<table border=1>
+					<tbody>
+						<tr>
+							<td> <span style="color: rgb(178, 34, >गुणस्थान</b></span></td>
+							<td> <span style="color: rgb(178, 34, trong>काल</strong></span></td>
+						</tr>
+						<tr>
+							<td> 1-9</td>
+							<td> पुरुषवेदियोंके समान</td>
+						</tr>
+						<tr>
+							<td> 10-13</td>
+							<td> सामान्यमें देखिये</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>असंज्ञी</strong></span></td>
+			<td>
+				<table border=1>
+					<tbody>
+						<tr>
+							<td> <span style="color: rgb(178, 34, 34);"><b>नाना जीव</b></span></td>
+							<td> <span style="color: rgb(178, 34, 34);"><strong>एक जीव</strong></span></td>
+						</tr>
+						<tr>
+							<td> सब काल</td>
+							<td>
+								<table border=1> 
+									<tbody>
+										<tr>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>जघन्य</strong></span></td>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>उत्कृष्ट</strong></span></td>
+										</tr>
+										<tr>
+											<td> क्षुद्रभवग्रहण</td>
+											<td> असंख्यात पुद्गल परिवर्तन</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>संज्ञा रहित</strong></span></td>
+			<td> सामान्यमें देखिये</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<table border=1>
+	<tbody>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>आहारमार्गणा</strong></span></td>
+			<td> <span style="color:#b22222;"><strong>काल</strong></span></td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>आहारक</strong></span></td>
+			<td>
+				<table border=1>
+					<tbody>
+						<tr>
+							<td> <span style="color: rgb(178, 34, >गुणस्थान</b></span></td>
+							<td> <span style="color: rgb(178, 34, trong>काल</strong></span></td>
+						</tr>
+						<tr>
+							<td> <span style="color: rgb(178, 34, trong>मिथ्यादृष्टि</strong></span></td>
+							<td>
+								<table border=1> 
+									<tbody>
+										<tr>
+											<td> <span style="color: rgb(178, 34, 34);"><b>नाना जीव</b></span></td>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>एक जीव</strong></span></td>
+										</tr>
+										<tr>
+											<td> सब काल</td>
+											<td>
+												<table border=1>
+													<tbody>
+														<tr>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>जघन्य</strong></span></td>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>उत्कृष्ट</strong></span></td>
+														</tr>
+														<tr>
+															<td> अन्तर्मुहूर्त</td>
+															<td> असंख्यातासंख्यात उत्सर्पिणी और अवसर्पिणी</td>
+														</tr>
+													</tbody>
+												</table>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+						<tr>
+							<td> <strong><span style="color:#b22222;">2- 13</span></strong></td>
+							<td> सामान्यमें देखिये</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td> <strong><span style="color:#b22222;">अनाहारक</span></strong></td>
+			<td>
+				<table border=1>
+					<tbody>
+						<tr>
+							<td> <span style="color: rgb(178, 34, >गुणस्थान</b></span></td>
+							<td> <span style="color: rgb(178, 34, trong>काल</strong></span></td>
+						</tr>
+						<tr>
+							<td> <span style="color: rgb(178, 34, trong>मिथ्यादृष्टि</strong></span></td>
+							<td>
+								<table border=1> 
+									<tbody>
+										<tr>
+											<td> <span style="color: rgb(178, 34, 34);"><b>नाना जीव</b></span></td>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>एक जीव</strong></span></td>
+										</tr>
+										<tr>
+											<td> सब काल</td>
+											<td>
+												<table border=1>
+													<tbody>
+														<tr>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>जघन्य</strong></span></td>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>उत्कृष्ट</strong></span></td>
+														</tr>
+														<tr>
+															<td> एक समय</td>
+															<td> तीन समय</td>
+														</tr>
+													</tbody>
+												</table>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+						<tr>
+							<td> <span style="color:#b22222;"><strong>2,4</strong></span></td>
+							<td>
+								<table border=1> 
+									<tbody>
+										<tr>
+											<td> <span style="color: rgb(178, 34, 34);"><b>नाना जीव</b></span></td>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>एक जीव</strong></span></td>
+										</tr>
+										<tr>
+											<td>
+												<table border=1>
+													<tbody>
+														<tr>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>जघन्य</strong></span></td>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>उत्कृष्ट</strong></span></td>
+														</tr>
+														<tr>
+															<td> एक समय</td>
+															<td> आवलीके असंख्यातवें भाग</td>
+														</tr>
+													</tbody>
+												</table>
+											</td>
+											<td>
+												<table border=1>
+													<tbody>
+														<tr>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>जघन्य</strong></span></td>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>उत्कृष्ट</strong></span></td>
+														</tr>
+														<tr>
+															<td> तीन समय *</td>
+															<td> दो समय</td>
+														</tr>
+													</tbody>
+												</table>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+						<tr>
+							<td> <span style="color:#b22222;"><strong>सयोगकेवली</strong></span></td>
+							<td>
+								<table border=1> 
+									<tbody>
+										<tr>
+											<td> <span style="color: rgb(178, 34, 34);"><b>नाना जीव</b></span></td>
+											<td> <span style="color: rgb(178, 34, 34);"><strong>एक जीव</strong></span></td>
+										</tr>
+										<tr>
+											<td>
+												<table border=1>
+													<tbody>
+														<tr>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>जघन्य</strong></span></td>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>उत्कृष्ट</strong></span></td>
+														</tr>
+														<tr>
+															<td> तीन समय</td>
+															<td> संख्यात समय</td>
+														</tr>
+													</tbody>
+												</table>
+											</td>
+											<td>
+												<table border=1>
+													<tbody>
+														<tr>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>जघन्य</strong></span></td>
+															<td> <span style="color: rgb(178, 34, 34);"><strong>उत्कृष्ट</strong></span></td>
+														</tr>
+														<tr>
+															<td> तीन समय</td>
+															<td> तीन समय</td>
+														</tr>
+													</tbody>
+												</table>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td> <strong><span style="color:#b22222;">अयोगकेवली</span></strong></td>
+			<td> सामान्यमें देखिये</td>
+		</tr>
+	</tbody>
+</table>

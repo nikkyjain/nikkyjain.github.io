@@ -1,0 +1,73 @@
+<html>
+<head>
+<title>JaiJinendra</title>
+<link id='favicon' rel="icon" type="image/png" href="images/jainFlag-short.jpg" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!--link type="text/css" rel="stylesheet" href="js/font-awesome-4.7.0/css/font-awesome.min.css"-->
+<link type="text/css" rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<!--link type="text/css" rel="stylesheet" href="js/jquery-mobile/css/themes/default/jquery.mobile.css"-->
+<!--link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css" /-->
+<link rel="stylesheet" href="https://code.jquery.com/mobile/1.5.0-rc1/jquery.mobile-1.5.0-rc1.min.css" />
+<!--link type="text/css" rel="stylesheet" href="css/alertify.css"-->
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/alertifyjs@1.13.1/build/css/alertify.min.css"/>
+<script type="text/javascript" src="js/jquery.js"></script>
+<!--script src="js/jquery-mobile/js/jquery.mobile.js"></script-->
+<!--script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script-->
+<script src="https://code.jquery.com/mobile/1.5.0-rc1/jquery.mobile-1.5.0-rc1.min.js"></script>
+<script type="text/javascript" src="js/notify.js"></script>
+<script type="text/javascript" src="js/crypto-js.js"></script>
+<script type="text/javascript" src="js/tinycon.min.js"></script>
+<script type="text/javascript" src="js/alertify.js"></script>
+<script type="text/javascript" src="js/myLogin.js"></script>
+<style type="text/css">
+      button {
+          background-color: #4CAF50; /* Green */
+          border: none;
+          color: white;
+          padding: 15px 32px;
+          text-align: center;
+          text-decoration: none;
+          display: inline-block;
+          font-size: 16px;
+	  border-radius: 12px;
+      }
+    </style>
+</head>
+<body>
+
+<div data-role="tabs" id="tabs">
+    <div data-role="navbar">
+        <ul>
+            <li><a href="#registerDiv" data-ajax="false">Register</a></li>
+            <li><a href="#loginDiv" data-ajax="false">Login</a></li>
+        </ul>
+    </div>
+    <div id="registerDiv" class="ui-body-d ui-content">
+        <h1>Register yourself (first-time user)</h1>
+        <form id=regForm>
+            <label for="regName">Name :</label>
+            <input type="text" name="regName" id="regUname" value=""  onkeypress="return /\p{L}/u.test(event.key)">
+            <label for="regMobile">Tel:</label>
+            <input type="tel" name="regMobile" id="tel" value="" onkeypress="return /[0-9]/u.test(event.key)">
+            <label for="regPasswd">Password:</label>
+            <input type="password" name=regPasswd id=regPasswd value='' autocomplete='off' maxlength='4' placeholder="4 Digit Passcode" onkeypress="return /[0-9]/u.test(event.key)">
+            <label for="regRPasswd">Repeat Password:</label>
+            <input type="password" name=regRPasswd id=regRPasswd value='' autocomplete='off' maxlength='4' placeholder="Repeat 4 Digit Passcode" onkeypress="return /[0-9]/u.test(event.key)">
+            <button data-role="none" id=regSubmit type="button" style="float:right;">Submit</button>
+        </form>
+    </div>
+    <div id="loginDiv">
+        <h1>Login</h1>
+        <form id=lgnForm>
+            <label for="loginUname">Name :</label>
+            <input type="text" name="loginUname" id="loginUname" value="" onkeypress="return /\p{L}/u.test(event.key)">
+            <label for="loginPasswd">Password:</label>
+            <input type="password" name="loginPasswd" id="loginPasswd" value="" autocomplete="off" placeholder="4 Digit Passcode" onkeypress="return /[0-9]/u.test(event.key)">
+            <button data-role="none" id=lgnSubmit type="button" style="float:right;">Submit</button>
+        </form>
+    </div>
+</div>
+</body>
+</html>

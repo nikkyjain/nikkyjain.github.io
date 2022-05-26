@@ -1,0 +1,98 @@
+<html>
+    <head>
+        <title>मार्गणा में बंध</title>
+        <link id='favicon' rel="icon" type="image/png" href="images/jainFlag-short.jpg" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv="Content-Language" content="hi" />
+        <meta name="description" content="Gunsthan Vivechan Test" />
+        <meta name="author" content="Vishal Jain" />
+        <link type="text/css" rel="stylesheet" href="css/alertify.css">
+        <link type="text/css" rel="stylesheet" href='css/jquery-ui.css'>
+        <link type="text/css" rel="stylesheet" href='css/jquery.dataTables.css'>
+        <script type="text/javascript" src='js/jquery.js'></script>
+        <script type="text/javascript" src='js/jquery.dataTables.js'></script>
+        <script type="text/javascript" src='js/jainExamResults.js'></script>
+        <script type="text/javascript" src="js/alertify.js"></script>
+        <script type="text/javascript" src="js/notify.js"></script>
+        <style type="text/css">
+            body, label {
+                font-size:40;
+            }
+            table.dataTable td {
+                font-size:30;
+            }
+            select {
+                //font-family: Arial, sans-serif;
+                font-size: 35px;
+                height:85;
+            }
+            button {
+                border: none;
+                color: white;
+                padding: 15px 32px;
+                text-align: center;
+                text-decoration: none;
+                display: inline-block;
+                font-size: 16px;
+                border-radius: 12px;
+            }
+            .submit {
+                background-color: #4CAF50; /* Green */
+            }
+            .reset {
+                background-color: #f44336; /* Red */
+            }
+            .delResult {
+                background-color: #008CBA; /* Blue */
+            }
+            #showMarks {
+                font-weight: bold;
+            }
+            table.dataTable thead,tfoot {
+                background-color:lightgray;
+                color:blue;
+                text-align:left;
+                font-size:40;
+            }
+            #spinner {
+                display:    none;
+                position:   fixed;
+                z-index:    1000;
+                top:        0;
+                left:       0;
+                height:     100%;
+                width:      100%;
+                background: rgba( 255, 255, 255, .8 ) 
+                /*url('images/pIkfp.gif') */
+                url('images/avanti.gif') 
+                50% 50% 
+                no-repeat;
+            }
+            /* When the body has the loading class, we turn
+            the scrollbar off with overflow:hidden */
+            body.loading {
+                overflow: hidden;   
+            }
+
+            /* Anytime the body has the loading class, our
+            modal element will be visible */
+            body.loading #spinner {
+                display: block;
+            }
+
+        </style>
+        <script>
+            var myStorageID="results";
+            $(document).on({
+                ajaxStart: function() { $('body').addClass("loading");    },
+                ajaxStop: function() { $('body').removeClass("loading"); }    
+            })
+        </script>
+    </head>
+    <body>
+        <h1>Results</h1> 
+        <div id=resultTable></div>
+        <button class=delResult type="button" name="submit" value="submit" style='float:right;margin : 20; display: none;'>Delete User Result</button>
+        <div id="spinner"> </div>
+    </body>
+</html>

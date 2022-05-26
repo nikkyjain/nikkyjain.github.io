@@ -1,0 +1,67 @@
+﻿<quePaper>
+  <title>रत्न-करण्ड श्रावकाचार - सम्यग्दर्शन अध्याय</title>
+  <queBlocks>
+    <queBlock>
+      <qType>TRUE_FALSE</qType>
+      <que>
+        <des>पंचम काल के मनुष्य हीन कर्म को नष्ट कर मोक्ष जा सकते हैं।</des>
+        <ans>1</ans>
+      </que>
+    </queBlock>
+    <queBlock>
+      <qType>MTPL_CH</qType>
+      <que>
+        <des>सुषमा सुषमा काल का प्रमाण बताइये?</des>
+        <ans>1</ans>
+        <choices>
+          <choice>२ कोडाकोडी सागर</choice>
+          <choice>४ कोडाकोडी सागर</choice>
+	  <choice>३ कोडाकोडी सागर</choice>
+	</choices>
+      </que>			
+    </queBlock>
+    <queBlock>
+      <qType>MATCH_THE_COLUMN</qType>
+      <que>
+        <des>One to one match</des>
+        <tr>
+          <left>जम्बूद्वीप का आकार</left>
+          <right>पृथ्वीकाय है</right>
+          <ans>१०</ans>
+          <left>कमल</left>
+          <right>एक कल्प का</right>
+          <ans>10</ans>
+          <left>बीस कोडा कोडी सागर का</left>
+	  <right>उत्तमभोगभूमि</right>
+	  <ans>10</ans>
+        </tr>
+      </que>
+    </queBlock>
+    <queBlock>
+      <qType>TABLE_GRID_CHOSE</qType>
+      <que>
+        <des>गुणस्थानों में गमन-आगमन की संख्या (कृप्या सभी अपेक्षाऎं लगाऎं)</des>
+        <qColumn>
+          <c>मिथ्यात्व</c>
+          <ans>5</ans><ans>4</ans>
+        </qColumn>
+	<aRow>
+          <c>आगमन</c>
+          <c>गमन</c>
+        </aRow>
+        <aColumn>
+	  <c>1</c>
+	  <c>2</c>
+	  <c>3</c>
+	  <c>4</c>
+	  <c>5</c>
+	  <c>6</c>
+	  <c>7</c>
+	  <c>8</c>
+	  <c>9</c>
+	  <c>10</c>
+        </aColumn>
+      </que>
+    </queBlock>
+  </queBlocks>
+</quePaper>

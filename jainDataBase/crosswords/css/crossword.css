@@ -1,0 +1,8 @@
+    
+.clueDiv { width:110%;  height:100%; }
+.liClue { text-decoration:none; color:black; left-margin: 10px; } 
+.cwTable { background-color : black; }
+.cwRow { margin : 0%; color : black; height : 10px; background-color : white; }
+.cwCell {z-index: 20; margin : 0%; text-align : center; height : 42px; width : 42px; font-weight :bold; background-color : white; }
+.cwBlackCell {margin : 0%; text-align : center; height : 42px; width : 42px; background-color : black; }
+.cwNumber { xmargin-top: -12px; float :left; font-size: .5em; font-weight : bold; color : black; }

@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Flot</title>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.js"></script>
+	<!--script type="text/javascript" src="https://www.flotcharts.org/flot/source/jquery.canvaswrapper.js"></script-->
+	<!--script type="text/javascript" src="https://www.flotcharts.org/flot/source/jquery.colorhelpers.js"></script-->
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/flot/0.8.3/jquery.colorhelpers.js"></script>
+	<!--script type="text/javascript" src="https://www.flotcharts.org/flot/source/jquery.flot.js"></script-->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/flot/0.8.3/jquery.flot.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/flot/0.8.3/jquery.flot.selection.js"></script>
+	<!--script type="text/javascript" src="https://www.flotcharts.org/flot/source/jquery.flot.selection.js"></script-->
+	<script type="text/javascript" src="https://www.flotcharts.org/flot/source/jquery.flot.stack.js"></script>
+	<!--script type="text/javascript" src="https://www.flotcharts.org/flot/source/jquery.flot.saturated.js"></script>
+	<script type="text/javascript" src="https://www.flotcharts.org/flot/source/jquery.flot.browser.js"></script>
+	<script type="text/javascript" src="https://www.flotcharts.org/flot/source/jquery.flot.drawSeries.js"></script>
+	<script type="text/javascript" src="https://www.flotcharts.org/flot/source/jquery.flot.uiConstants.js"></script-->
+	<!--script type="text/javascript" src="https://www.flotcharts.org/flot/source/jquery.flot.legend.js"></script-->
+  <!--script type="text/javascript" src="https://www.flotcharts.org/flot/source/jquery.flot.symbol.js"></script-->
+  <!--script type="text/javascript" src="https://www.flotcharts.org/flot/source/jquery.flot.hover.js"></script-->
+  <script type="text/javascript" src="https://www.flotcharts.org/flot/source/jquery.flot.resize.js"></script>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/flot.tooltip/0.9.0/jquery.flot.tooltip.js"></script>
+  <!--script type="text/javascript" src="http://www.benjaminbuffet.com/public/js/jquery.flot.orderBars.js"></script-->
+  <!--script type="text/javascript" src="jquery.flot.orderBars.js"></script-->
+	<script type="text/javascript" src="jquery.flot.axislabels.js"></script>
+  <script type="text/javascript" src="../../../../../js/myFlotYogSthaan.js"></script>
+  <script language="javascript" type="text/javascript" src="http://www.flotcharts.org/flot/source/jquery.flot.categories.js"></script>
+  
+	<script type="text/javascript">
+
+	$(function() {
+
+		var d1=[], d2=[], d3=[], d4=[], d5=[], d6=[], d7=[], d8=[], names=[];
+			d1.push(['सूक्ष्म नि.ल.',10,0], ['सूक्ष्म नि.पर्याप्त',20,5], ['बा.ल.',30,15], ['बा.पर्याप्त',40,25], ['द्वि.अपर्याप्त',50,35], ['द्वि.पर्याप्त',60,45], ['त्रि.अपर्याप्त',70,55], ['त्रि.पर्याप्त',80,65],['च.अपर्याप्त',90,75], ['च.पर्याप्त',100,85], ['असंज्ञी पं.अपर्याप्त',110,95], ['असंज्ञी पं.पर्याप्त',120,105], ['संज्ञी पं.अपर्याप्त',130,115], ['संज्ञी पं.पर्याप्त',140,125]);
+			d2.push(['सूक्ष्म नि.ल.',160,135], ['सूक्ष्म नि.पर्याप्त',165,145], ['बा.ल.',170,150], ['बा.पर्याप्त',175,155], ['द्वि.अपर्याप्त',245,220], ['द्वि.पर्याप्त',345,320], ['त्रि.अपर्याप्त',250,225], ['त्रि.पर्याप्त',350,325],['च.अपर्याप्त',255,230], ['च.पर्याप्त',355,330], ['असंज्ञी पं.अपर्याप्त',260,225], ['असंज्ञी पं.पर्याप्त',360,340], ['संज्ञी पं.अपर्याप्त',265,240], ['संज्ञी पं.पर्याप्त',365,335]);
+			d3.push(['सूक्ष्म नि.ल.',190,180], ['सूक्ष्म नि.पर्याप्त',210,200], ['बा.ल.',195,185], ['बा.पर्याप्त',215,205], ['द्वि.अपर्याप्त',295,270], ['द्वि.पर्याप्त',395,370], ['त्रि.अपर्याप्त',300,275], ['त्रि.पर्याप्त',400,375], ['च.अपर्याप्त',305,280], ['च.पर्याप्त',405,380], ['असंज्ञी पं.अपर्याप्त',310,285], ['असंज्ञी पं.पर्याप्त',410,385], ['संज्ञी पं.अपर्याप्त',315,290], ['संज्ञी पं.पर्याप्त',415,390]);
+    var data = [
+        {label: 'उपपाद-योग',   data: d1},
+        {label: 'एकांतानुवृद्धी-योग',    data: d2},
+        {label: 'परिणाम-योग',    data: d3},
+    ];
+    drawFlotStackBar('flotChart', data, 2);
+
+	});
+  
+
+	</script>
+</head>
+<body oncopy="return false" onpaste="return false" oncut="return false">
+
+	<div id="content">
+
+		<div class="demo-container" style="height:600px;">
+			<div id="flotChart" class="demo-flotChart" style="height:100%;" ></div>
+      </div>
+      <button id=resetZoom value="reset" type="button" style="float:right">Reset Zoom</button>
+		</div>
+	</div>
+</body>
+</html>

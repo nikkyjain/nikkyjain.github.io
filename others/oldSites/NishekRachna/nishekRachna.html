@@ -1,0 +1,134 @@
+<html>
+  <head>
+    <title>निषेक - रचना</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Language" content="hi" />
+  </head>
+  <style>
+	.box {
+      position:fixed;
+      left:50%;
+    }
+  </style>
+  <script language="javascript" type="text/javascript" src="../../../js/jquery.js"></script>
+  <script language="javascript" type="text/javascript" src="flot/jquery.flot.js"></script>
+  <script type="text/javascript">
+
+  function calc_gunHParmanu(gunHN, samayP, nanaGH) 
+  {
+      var gunH_m1=nanaGH-1;
+      var ooper= samayP * Math.pow(2,gunH_m1);
+      var neeche = Math.pow(2,nanaGH)-1;
+      var result = ooper / neeche;
+      return(result/Math.pow(2,gunHN));
+  }
+  function calc_everySParmanu(samay, gunHParmanu, gunHA) 
+  {
+      var lvar = ((gunHA / 2 ) * (3 * gunHA + 1));
+      var chay = gunHParmanu / lvar;
+      lvar = (gunHA-1);
+      lvar = (chay*lvar/2);
+      var lvar1 = (chay*(samay-1));
+      var everySParmanu= (gunHParmanu /gunHA) + lvar - lvar1;
+      return(everySParmanu);
+  }
+
+  //var values = [[0, 3], [4, 8], [8, 5], [9, 13]];
+  var values = new Array();
+  function drawGraph() {
+    var p=$.plot($("#placeholder"), [ values ], {
+       bars: { show: true, },
+       xaxis : { tickLength: 0, },
+       yaxis : { tickLength: 0, },
+    });
+    $.each(p.getData()[0].data, function(i, el){
+      var o = p.pointOffset({x: el[0], y: el[1]});
+      $('<div class="data-point-label" style="font-size:10px">' + el[1] + '</div>').css( {
+        position: 'absolute',
+        left: o.left + 2,
+        top: o.top - 20,
+        display: 'none', 
+      }).appendTo(p.getPlaceholder()).fadeIn('slow');
+    });
+  }
+  function removeGraph() {
+    $('#placeholder').empty();
+  }
+  function createTable()
+  {
+      var samayP = parseInt(document.getElementById('samayP').value, 10);
+      var sthiti = parseInt(document.getElementById('sthiti').value, 10);
+      var nanaGH=parseInt(document.getElementById('nanaGH').value, 10);
+	  values=new Array();
+      if (sthiti % nanaGH) {
+        document.getElementById('wrapper').style.visibility = 'hidden';
+        document.getElementById('graphTable').style.visibility = 'hidden';
+        alert("स्थिति should be a multiple of गुण-हानि. PLease Try again.");
+        return(false);
+      }
+      var gunHA=sthiti/nanaGH;
+      var row=nanaGH+1;
+      var theader = '<table border="1">\n';
+      var tbody = '';
+      var gunHT=0;
+      var gunHParmanu=0;
+      var everySParmanu=0;
+  
+      for( var i=0; i<(row);i++)
+      {
+          tbody += '<tr>';
+          gunHT = 0;
+          for( var j=0; j<(gunHA+2);j++)
+          {
+              tbody += '<td>';
+              if(!j && i) {
+                tbody += 'गुण-हानि ' + i;
+              }else if(!i && j==(gunHA+1)) {
+                tbody += 'Total ';
+              }else if(j==(gunHA+1) && i) {
+                tbody += gunHT.toFixed(2).replace(/\.0+$/, "");
+              }else if(j && !i) {
+                tbody += 'समय ' + j;
+              }else if(j && i) {
+                gunHParmanu=calc_gunHParmanu(i-1, samayP, nanaGH);
+                everySParmanu=calc_everySParmanu(j, gunHParmanu, gunHA);
+                tbody += everySParmanu.toFixed(2).replace(/\.0+$/, "");
+                values.push([((i-1)*gunHA)+(j-1), everySParmanu.toFixed(2).replace(/\.0+$/, "")]);
+                gunHT+=everySParmanu;
+              }
+              tbody += '</td>'
+          }
+          tbody += '</tr>\n';
+      }
+      var tfooter = '</table>';
+      document.getElementById('wrapper').style.visibility = 'visible';
+      document.getElementById('graphTable').style.visibility = 'visible';
+      document.getElementById('wrapper').innerHTML = theader + tbody + tfooter;
+      drawGraph(values);
+  }
+</script>
+</head>
+
+<body>
+<form name="tablegen">
+<label>समय-प्रबद्ध: <input type="text" name="samayP" id="samayP" value="6300"/></label><br />
+<label>स्थिति: <input type="text" name="sthiti" id="sthiti" value="48"/></label><br/>
+<label>गुण-हानि: <input type="text" name="nanaGH" id="nanaGH" value="6"/></label><br/>
+<input name="generate" type="button" value="Create Table!" onclick='createTable();'/>
+<input name="Create Graph" type="button" value="Remove Graph!" onclick='removeGraph();'/>
+</form>
+<div id="wrapper"></div>
+<div id=graphTable style="visibility:hidden;"><table style="text-align:center;">
+  <tr>
+    <td></td><td><B>निषेक रचना</B></td><td> </td>
+  </tr>
+  <tr>
+    <td>परमाणु संख्या</td> <td><div id="placeholder" style="width:1200px;height:300px"></div></td><td></td>
+  </tr>
+  <tr>
+    <td></td><td>समय</td><td></td>
+  </tr>
+</table></div>
+
+  </body>
+</html>

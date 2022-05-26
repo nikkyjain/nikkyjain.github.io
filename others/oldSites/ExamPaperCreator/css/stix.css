@@ -1,0 +1,64 @@
+.stix *:focus {
+	outline: none;
+}
+.stix .wrap {
+	height: 1%; overflow: hidden;
+	background: white;
+	border: 1px dotted #ccc;
+	padding: 10px;
+	width: 100%;
+}
+.stix .operationmenu {
+	float: right;
+}
+.stix .editormenu {
+	float: left;
+}
+.stix .menu {
+	min-height: 30px;
+	background: #eee;
+}
+.stix .editormenu button {
+	font-size: 14px;
+	background: 0;
+	cursor: pointer;
+	border: 2px solid rgba(0,0,0,0.00000001);
+	color:#444;
+}
+.stix .editormenu button:hover {
+	background: #F2F2F2;
+	border: 2px solid #D8D8D8;
+}
+.stix .target {
+	float:left;
+	clear: both;
+}
+.stix .wrap {
+	background: #fff;
+}
+.stix .fixfloat {
+	height: 1%; 
+	overflow: hidden;
+}
+.stix .operationbtn {
+	background: none;
+	border:0;
+	font-size: 9pt;
+	text-decoration: underline;
+	cursor: pointer;
+}
+.stix .operationbtn:hover{
+	opacity: 0.6;
+}
+.stix .hidden {
+	display: none;
+}
+.stix [contenteditable="true"]{
+	width: 100%;
+	border: 0;
+}
+.stix .htmleditor {
+	width: 99%;
+	margin: auto;
+	min-height: 100px;
+}

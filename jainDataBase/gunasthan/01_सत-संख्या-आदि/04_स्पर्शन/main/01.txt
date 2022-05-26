@@ -1,0 +1,715 @@
+﻿<h1> स्पर्श प्ररूपणा</h1>
+<h2>
+	<span style="color:#696969;"><strong>सामान्य</strong></span></h2>
+<table border=1 cellpadding=0 cellspacing=0 style="width: 700px;">
+	<tbody>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>गुणस्थान</strong></span></td>
+			<td> <span style="color:#b22222;"><strong>स्पर्श</strong></span></td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>मिथ्यादृष्टी</strong></span></td>
+			<td> सब लोक</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>सासादन सम्यग्दृष्टी</strong></span></td>
+			<td> लोक के असंख्यातवें भाग और त्रसनाली के कुछ कम 8/14 भाग और कुछ कम 12/14 भाग</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>3-4</strong></span></td>
+			<td> लोकके असंख्यातवें भागका और त्रसनाली के कुछ कम 8/14 भाग</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>5</strong></span></td>
+			<td> संयतासंयतों ने लोकके असंख्यातवें भागका और त्रसनाली के कुछ कम 6/14 भाग</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>6-14</strong></span></td>
+			<td> क्षेत्र के समान</td>
+		</tr>
+	</tbody>
+</table>
+<h2>
+	<span style="color:#696969;">विशेष</span></h2>
+<table border=1 cellpadding=0 cellspacing=0 style="width: 700px;">
+	<tbody>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>गति</strong></span></td>
+			<td> <span style="color:#b22222;"><strong>स्पर्श</strong></span></td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>नरक</strong></span></td>
+			<td>
+				<table border=1 cellpadding=0 cellspacing=0 style="width: 650px;">
+					<tbody>
+						<tr>
+							<td> <span style="color:#b22222;"><strong>पृथिवी</strong></span></td>
+							<td> <span style="color:#b22222;"><b>गुणस्थान</b></span></td>
+							<td> <span style="color:#b22222;"><strong>स्पर्श</strong></span></td>
+						</tr>
+						<tr>
+							<td> पहली</td>
+							<td> 1-4</td>
+							<td> लोककेअसंख्यातवें भाग</td>
+						</tr>
+						<tr>
+							<td> 2-6</td>
+							<td> मिथ्यादृष्टि</td>
+							<td> लोककेअसंख्यातवें भाग</td>
+						</tr>
+						<tr>
+							<td> 2-6</td>
+							<td> सासादनसम्यग्दृष्टि</td>
+							<td> लोक नाड़ी के क्रम से 1-5/14</td>
+						</tr>
+						<tr>
+							<td> 2-6</td>
+							<td> 3-4</td>
+							<td> लोक के असंख्यातवें भाग</td>
+						</tr>
+						<tr>
+							<td> सातवीं</td>
+							<td> मिथ्यादृष्टि</td>
+							<td> लोक के असंख्यातवें भाग और त्रसनाली के कुछ कम 6/14 राजु</td>
+						</tr>
+						<tr>
+							<td> सातवीं</td>
+							<td> 2-4</td>
+							<td> लोक के असंख्यातवें भाग</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<span style="color:#b22222;"><strong>तिर्यंच</strong></span></td>
+			<td>
+				<table border=1 cellpadding=0 cellspacing=0 style="width: 650px;">
+					<tbody>
+						<tr>
+							<td> <span style="color:#b22222;"><b>गुणस्थान</b></span></td>
+							<td> <span style="color:#b22222;"><strong>स्पर्श</strong></span></td>
+						</tr>
+						<tr>
+							<td> मिथ्यादृष्टि</td>
+							<td> सब लोक</td>
+						</tr>
+						<tr>
+							<td> सासादनसम्यग्दृष्टि</td>
+							<td> लोक का असंख्यातवाँ भाग और लोकनाड़ी के 7/14 भाग</td>
+						</tr>
+						<tr>
+							<td> सम्यग्मिथ्यादृष्टि</td>
+							<td> लोकके असंख्यातवें भाग</td>
+						</tr>
+						<tr>
+							<td> 4-5</td>
+							<td> लोक के असंख्यातवें भाग और लोकनाडीके 6/14 भाग</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<span style="color:#b22222;"><strong>मनुष्य</strong></span></td>
+			<td>
+				<table border=1 cellpadding=0 cellspacing=0 style="width: 650px;">
+					<tbody>
+						<tr>
+							<td> <span style="color:#b22222;"><b>गुणस्थान</b></span></td>
+							<td> <span style="color:#b22222;"><strong>स्पर्श</strong></span></td>
+						</tr>
+						<tr>
+							<td> मिथ्यादृष्टि</td>
+							<td> लोक के असंख्यातवें भाग क्षेत्र का और सब लोक</td>
+						</tr>
+						<tr>
+							<td> सासादनसम्यग्दृष्टि</td>
+							<td> लोक के असंख्यातवें भाग और लोकनाडी के कुछ कम 7/14 भाग</td>
+						</tr>
+						<tr>
+							<td> 3-14</td>
+							<td> क्षेत्र के समान</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<span style="color:#b22222;"><strong>देव</strong></span></td>
+			<td>
+				<table border=1 cellpadding=0 cellspacing=0 style="width: 650px;">
+					<tbody>
+						<tr>
+							<td> <span style="color:#b22222;"><b>गुणस्थान</b></span></td>
+							<td> <span style="color:#b22222;"><strong>स्पर्श</strong></span></td>
+						</tr>
+						<tr>
+							<td> 1-2</td>
+							<td> लोक के असंख्यातवें भाग तथा लोकनाडी के कुछ कम 8/14 भाग और 9/14 भाग</td>
+						</tr>
+						<tr>
+							<td> 3-4</td>
+							<td> लोकके असंख्यातवें भाग और लोकनाडी के कुछ कम 8/14 भाग</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<table border=1 cellpadding=0 cellspacing=0 style="width: 700px;">
+	<tbody>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>इन्द्रिय मार्गणा</strong></span></td>
+			<td> <span style="color:#b22222;"><strong>स्पर्श</strong></span></td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>एकेंद्रिय</strong></span></td>
+			<td> सब लोक</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>2-4</strong></span></td>
+			<td> लोकके असंख्यात वें भाग और सब लोक</td>
+		</tr>
+		<tr>
+			<td> <strong style="color: rgb(178, 34, 34);">पंचेंद्रिय</strong></td>
+			<td>
+				<table border=1 cellpadding=0 cellspacing=0 style="width: 650px;">
+					<tbody>
+						<tr>
+							<td> <span style="color: rgb(178, 34, 34);"><b>गुणस्थान</b></span></td>
+							<td> <span style="color: rgb(178, 34, 34);"><strong>स्पर्श</strong></span></td>
+						</tr>
+						<tr>
+							<td> मिथ्यादृष्टि</td>
+							<td> लोक के असंख्यातवें भाग और लोकनाडी के कुछ कम 8/14 भागऔर सब लोक</td>
+						</tr>
+						<tr>
+							<td> 2-14</td>
+							<td> सामान्यमें देखिये</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<table border=1 cellpadding=0 cellspacing=0 style="width: 700px;">
+	<tbody>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>काय मार्गणा</strong></span></td>
+			<td> <span style="color:#b22222;"><strong>स्पर्श</strong></span></td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>स्थावर</strong></span></td>
+			<td> सब लोक</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>त्रसकायिक</strong></span></td>
+			<td> पंचेन्द्रियों के समान</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<table border=1 cellpadding=0 cellspacing=0 style="width: 700px;">
+	<tbody>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>योग मार्गणा</strong></span></td>
+			<td> <span style="color:#b22222;"><strong>स्पर्श</strong><strong></strong></span></td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>मन-वचन</strong></span></td>
+			<td>
+				<table border=1 cellpadding=0 cellspacing=0 style="width: 613px;">
+					<tbody>
+						<tr>
+							<td> <span style="color: rgb(178, 34, 34);"><b>गुणस्थान</b></span></td>
+							<td> <span style="color: rgb(178, 34, 34);"><strong>स्पर्श</strong></span></td>
+						</tr>
+						<tr>
+							<td> मिथ्यादृष्टि</td>
+							<td> लोक के असंख्यातवें भाग और लोकनाडी के कुछ कम 8/14 भागऔर सब लोक</td>
+						</tr>
+						<tr>
+							<td> 2-12</td>
+							<td> सामान्यमें देखिये</td>
+						</tr>
+						<tr>
+							<td> सयोगकेवली</td>
+							<td> लोकका असंख्यातवाँ भाग</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>काय</strong></span></td>
+			<td> सामान्यमें देखिये</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>योगरहित</strong></span></td>
+			<td> सामान्यमें देखिये</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<table border=1 cellpadding=0 cellspacing=0 style="width: 700px;">
+	<tbody>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>वेद मार्गणा</strong></span></td>
+			<td> <span style="color:#b22222;"><strong>स्पर्श</strong></span></td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>स्त्री-पुरुष</strong></span></td>
+			<td> <table border=1 cellpadding=0 cellspacing=0 style="width: 625px;">
+					<tbody>
+						<tr>
+							<td> <span style="color:#b22222;"><b>गुणस्थान</b></span></td>
+							<td> <span style="color:#b22222;"><strong>स्पर्श</strong></span></td>
+						</tr>
+						<tr>
+							<td> मिथ्यादृष्टि</td>
+							<td> लोक के असंख्यातवें भाग / लोकनाडी के कुछ कम 8/14 भाग / सब लोक</td>
+						</tr>
+						<tr>
+							<td> सासादनसम्यग्दृष्टि</td>
+							<td> लोक के असंख्यातवें भाग / लोकनाडी के कुछ कम 8/14 भाग और 9/14 भाग</td>
+						</tr>
+						<tr>
+							<td> 3-9</td>
+							<td> सामान्यमें देखिये</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>नपुंसक</strong></span></td>
+			<td> <table border=1 cellpadding=0 cellspacing=0 style="width: 625px;">
+					<tbody>
+						<tr>
+							<td> <span style="color:#b22222;"><b>गुणस्थान</b></span></td>
+							<td> <span style="color:#b22222;"><strong>स्पर्श</strong></span></td>
+						</tr>
+						<tr>
+							<td> 1-2</td>
+							<td> सामान्यमें देखिये</td>
+						</tr>
+						<tr>
+							<td> सम्यग्मिथ्यादृष्टि</td>
+							<td> लोकके असंख्यातवें भाग</td>
+						</tr>
+						<tr>
+							<td> 4-5</td>
+							<td> लोक के असंख्यातवें भाग और लोकनाडी के कुछ कम 6/14 भाग</td>
+						</tr>
+						<tr>
+							<td> 6-9</td>
+							<td> सामान्यमें देखिये</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<table border=1 cellpadding=0 cellspacing=0 style="width: 700px;">
+	<tbody>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>कषाय मार्गणा</strong></span></td>
+			<td> <span style="color:#b22222;"><strong>स्पर्श</strong></span></td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>क्रोध-मान-माया-लोभ</strong></span></td>
+			<td> सामान्यमें देखिये</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>अकषाय</strong></span></td>
+			<td> सामान्यमें देखिये</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<table border=1 cellpadding=0 cellspacing=0 style="width: 800px;">
+	<tbody>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>ज्ञान मार्गणा</strong></span></td>
+			<td> <span style="color:#b22222;"><strong>गुणस्थान</strong></span></td>
+			<td> <span style="color:#b22222;"><strong>स्पर्श</strong></span></td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>कुमति, कुश्रुत</strong></span></td>
+			<td> 1-2</td>
+			<td> सामान्यमें देखिये</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>कुअवधि</strong></span></td>
+			<td> मिथ्यादृष्टि</td>
+			<td> लोक का असंख्यातवाँ भाग, लोकनाडी के कुछ कम 8/14 भाग और सर्व लोक</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>कुमति, कुश्रुत,कुअवधि</strong></span></td>
+			<td> सासादनसम्यग्दृष्टि</td>
+			<td> सामान्यमें देखिये</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>मति, श्रुत,अवधि</strong></span></td>
+			<td> 4-12</td>
+			<td> सामान्यमें देखिये</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>मन:पर्यय</strong></span></td>
+			<td> 6-12</td>
+			<td> सामान्यमें देखिये</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>केवल</strong></span></td>
+			<td> 13-14</td>
+			<td> सामान्यमें देखिये</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<table border=1 cellpadding=0 cellspacing=0 style="width: 700px;">
+	<tbody>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>संयममार्गणा</strong></span></td>
+			<td> <span style="color:#b22222;"><strong>स्पर्श</strong></span></td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>सामायिक</strong></span></td>
+			<td> सामान्यमें देखिये</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>छेदोपस्थापस्थापना</strong></span></td>
+			<td> सामान्यमें देखिये</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>परिहारविशुद्धि</strong></span></td>
+			<td> सामान्यमें देखिये</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>सूक्ष्मसाम्पराय</strong></span></td>
+			<td> सामान्यमें देखिये</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>यथाख्यात</strong></span></td>
+			<td> सामान्यमें देखिये</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>संयतासंयत</strong></span></td>
+			<td> सामान्यमें देखिये</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>असंयत</strong></span></td>
+			<td> सामान्यमें देखिये</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<table border=1 cellpadding=0 cellspacing=0 style="width: 700px;">
+	<tbody>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>दर्शनमार्गणा</strong></span></td>
+			<td> <span style="color:#b22222;"><strong>गुणस्थान</strong></span></td>
+			<td> <span style="color:#b22222;"><strong>स्पर्श</strong></span></td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>चक्षुदर्शन</strong></span></td>
+			<td> 1-12</td>
+			<td> पंचेन्द्रियोंके समान</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>अचक्षुदर्शन</strong></span></td>
+			<td> 1-12</td>
+			<td> सामान्यमें देखिये</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>अवधिदर्शन</strong></span></td>
+			<td> 4-12</td>
+			<td> सामान्यमें देखिये</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>केवलदर्शन</strong></span></td>
+			<td> 13-14</td>
+			<td> सामान्यमें देखिये</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<table border=1 cellpadding=0 cellspacing=0 style="width: 900px;">
+	<tbody>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>लेश्या मार्गणा</strong></span></td>
+			<td> <span style="color:#b22222;"><strong>स्पर्श</strong></span></td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>कृष्ण, नील, कपोत</strong></span></td>
+			<td>
+				<table border=1 cellpadding=0 cellspacing=0 style="width: 775px;">
+					<tbody>
+						<tr>
+							<td> <span style="color:#b22222;"><b>गुणस्थान</b></span></td>
+							<td> <span style="color:#b22222;"><strong>स्पर्श</strong></span></td>
+						</tr>
+						<tr>
+							<td> मिथ्यादृष्टि</td>
+							<td> सब लोक</td>
+						</tr>
+						<tr>
+							<td> सासादन</td>
+							<td> लोक के असंख्यातवें भाग और लोकनाडी के क्रमश: कुछ कम 5/14, 4/14 और 2/14 भाग</td>
+						</tr>
+						<tr>
+							<td> 3-4</td>
+							<td> लोकके असंख्यातवें भाग</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>पीत</strong></span></td>
+			<td>
+				<table border=1 cellpadding=0 cellspacing=0 style="width: 775px;">
+					<tbody>
+						<tr>
+							<td> <span style="color:#b22222;"><b>गुणस्थान</b></span></td>
+							<td> <span style="color:#b22222;"><strong>स्पर्श</strong></span></td>
+						</tr>
+						<tr>
+							<td> 1-2</td>
+							<td> लोक के असंख्यातवें भाग तथा लोकनाडी के कुछ कम 8/14 भाग</td>
+						</tr>
+						<tr>
+							<td> 3-4</td>
+							<td> लोक के असंख्यातवें भाग और लोकनाडी के कुछ कम 5/14, 4/14 और 2/14 भाग</td>
+						</tr>
+						<tr>
+							<td> 5</td>
+							<td> लोक के असंख्यातवें भाग और लोकनाडी के कुछ कम डेढ़/14 भाग</td>
+						</tr>
+						<tr>
+							<td> 6-7</td>
+							<td> लोकके असंख्यातवें भाग</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>पद्म</strong></span></td>
+			<td>
+				<table border=1 cellpadding=0 cellspacing=0 style="width: 775px;">
+					<tbody>
+						<tr>
+							<td> <span style="color:#b22222;"><b>गुणस्थान</b></span></td>
+							<td> <span style="color:#b22222;"><strong>स्पर्श</strong></span></td>
+						</tr>
+						<tr>
+							<td> 1-4</td>
+							<td> लोक के असंख्यातवें भाग तथा लोकनाडी के कुछ कम 8/14 भाग</td>
+						</tr>
+						<tr>
+							<td> संयतासंयत</td>
+							<td> लोक के असंख्यातवें भाग और लोकनाडी के कुछ कम 5/14, 4/14 और 2/14 भाग</td>
+						</tr>
+						<tr>
+							<td> 5</td>
+							<td> लोक के असंख्यातवें भाग तथा लोकनाडी के कुछ कम 5/14 भाग</td>
+						</tr>
+						<tr>
+							<td> 6-7</td>
+							<td> लोकके असंख्यातवें भाग</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>शुक्ल</strong></span></td>
+			<td>
+				<table border=1 cellpadding=0 cellspacing=0 style="width: 775px;">
+					<tbody>
+						<tr>
+							<td> <span style="color:#b22222;"><b>गुणस्थान</b></span></td>
+							<td> <span style="color:#b22222;"><strong>स्पर्श</strong></span></td>
+						</tr>
+						<tr>
+							<td> 1-5</td>
+							<td> लोक के असंख्यातवें भाग तथा लोकनाडी के कुछ कम 6/14 भाग</td>
+						</tr>
+						<tr>
+							<td> 6-13</td>
+							<td> सामान्यमें देखिये</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>लेश्या रहित</strong></span></td>
+			<td> सामान्यमें देखिये</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<table border=1 cellpadding=0 cellspacing=0 style="width: 700px;">
+	<tbody>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>भव्यमार्गणा</strong></span></td>
+			<td> <span style="color:#b22222;"><strong>गुणस्थान</strong></span></td>
+			<td> <span style="color:#b22222;"><strong>स्पर्श</strong></span></td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>भव्य</strong></span></td>
+			<td> 1-14</td>
+			<td> सामान्यमें देखिये</td>
+		</tr>
+		<tr>
+			<td> <strong><span style="color:#b22222;">अभव्य</span></strong></td>
+			<td> 1</td>
+			<td> सब लोक</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<table border=1 cellpadding=0 cellspacing=0 style="width: 700px;">
+	<tbody>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>सम्यक्त्वमार्गणा</strong></span></td>
+			<td> <span style="color:#b22222;"><strong>स्पर्श</strong></span></td>
+		</tr>
+		<tr>
+			<td> <strong><span style="color:#b22222;">क्षायिक</span></strong></td>
+			<td>
+				<table border=1 cellpadding=0 cellspacing=0 style="width: 775px;">
+					<tbody>
+						<tr>
+							<td> <span style="color:#b22222;"><b>गुणस्थान</b></span></td>
+							<td> <span style="color:#b22222;"><strong>स्पर्श</strong></span></td>
+						</tr>
+						<tr>
+							<td> 4-14</td>
+							<td> सामान्यमें देखिये</td>
+						</tr>
+						<tr>
+							<td> 5</td>
+							<td> लोकका असंख्यातवाँ भाग</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td> <strong><span style="color:#b22222;">क्षायोपशमिक</span></strong></td>
+			<td> सामान्यमें देखिये</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>औपशमिक</strong></span></td>
+			<td>
+				<table border=1 cellpadding=0 cellspacing=0 style="width: 775px;">
+					<tbody>
+						<tr>
+							<td> <span style="color:#b22222;"><b>गुणस्थान</b></span></td>
+							<td> <span style="color:#b22222;"><strong>स्पर्श</strong></span></td>
+						</tr>
+						<tr>
+							<td> 4</td>
+							<td> सामान्यमें देखिये</td>
+						</tr>
+						<tr>
+							<td> 5-11</td>
+							<td> लोकका असंख्यातवाँ भाग</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td> <strong><span style="color:#b22222;">सासादन</span></strong></td>
+			<td> सामान्यमें देखिये</td>
+		</tr>
+		<tr>
+			<td> <strong><span style="color:#b22222;">सम्यग्मिथ्या</span></strong></td>
+			<td> सामान्यमें देखिये</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>मिथ्यादृष्टि</strong></span></td>
+			<td> सामान्यमें देखिये</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<table border=1 cellpadding=0 cellspacing=0 style="width: 700px;">
+	<tbody>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>संज्ञा मार्गणा</strong></span></td>
+			<td> <span style="color:#b22222;"><strong>स्पर्श</strong></span></td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>संज्ञी</strong></span></td>
+			<td> चक्षुदर्शनवाले जीवोंके समान</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>असंज्ञी</strong></span></td>
+			<td> सब लोक</td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>संज्ञा रहित</strong></span></td>
+			<td> सामान्यमें देखिये</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<table border=1 cellpadding=0 cellspacing=0 style="width: 700px;">
+	<tbody>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>आहारमार्गणा</strong></span></td>
+			<td> <span style="color:#b22222;"><strong>गुणस्थान</strong></span></td>
+			<td> <span style="color:#b22222;"><strong>स्पर्श</strong></span></td>
+		</tr>
+		<tr>
+			<td> <span style="color:#b22222;"><strong>आहारक</strong></span></td>
+			<td> 1-12</td>
+			<td> सामान्यमें देखिये</td>
+		</tr>
+		<tr>
+			<td> <strong><span style="color:#b22222;">आहारक</span></strong></td>
+			<td> 13</td>
+			<td> लोकका असंख्यातवाँभाग</td>
+		</tr>
+		<tr>
+			<td> <strong><span style="color:#b22222;">अनाहारक (विग्रहगति)</span></strong></td>
+			<td> मिथ्यादृष्टि</td>
+			<td> सब लोक</td>
+		</tr>
+		<tr>
+			<td> <strong><span style="color:#b22222;">अनाहारक (विग्रहगति)</span></strong></td>
+			<td> सासादनसम्यग्दृष्टि</td>
+			<td> लोक के असंख्यातवें भाग और लोकनाडी के कुछ कम 11/14 भाग</td>
+		</tr>
+		<tr>
+			<td> <strong><span style="color:#b22222;">अनाहारक (विग्रहगति)</span></strong></td>
+			<td> असंयतसम्यग्दृष्टि</td>
+			<td> लोक के असंख्यातवें भाग और लोकनाडी के कुछ कम 6/14 भाग</td>
+		</tr>
+		<tr>
+			<td> <strong><span style="color:#b22222;">अनाहारक (समुद्घात)</span></strong></td>
+			<td> 13</td>
+			<td> लोकका असंख्यात बहुभाग और सब लोक</td>
+		</tr>
+		<tr>
+			<td> <strong><span style="color:#b22222;">अनाहारक (समुद्घात)</span></strong></td>
+			<td> 14</td>
+			<td> लोकका असंख्यातवाँभाग</td>
+		</tr>
+	</tbody>
+</table>
