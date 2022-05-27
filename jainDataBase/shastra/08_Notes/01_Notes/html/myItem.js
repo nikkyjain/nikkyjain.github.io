@@ -112,7 +112,6 @@ $( document ).ready(function() {
        $optgrp.append("<option value='09-21.html'><b>09-21</b> - ﻿एक जीव की अपेक्षा नाम कर्म के उदय-स्थान</option>");
        $optgrp.append("<option value='09-22.html'><b>09-22</b> - ﻿नाम-कर्म उदय-स्थान जीव-समास प्ररूपणा</option>");
        $optgrp.append("<option value='09-23.html'><b>09-23</b> - ﻿नाम-कर्म के उदय-स्थानों का यंत्र</option>");
-       $optgrp.append("<option value='09-24.html'><b>09-24</b> - ﻿नाम-कर्म के उदय-स्थानों के भंग का यंत्र</option>");
        $optgrp.append("<option value='09-25.html'><b>09-25</b> - ﻿नाम कर्म के उदय-स्थान में जीव-पद अपेक्षा भंग</option>");
        $optgrp.append("<option value='09-26.html'><b>09-26</b> - ﻿आदेश से एक जीव के एक काल में नाम कर्म-उदय</option>");
   mySel.append($optgrp);
@@ -249,9 +248,6 @@ $( document ).ready(function() {
     $optgrp=$('<optgroup label="﻿अलौकिक गणित">')
        $optgrp.append("<option value='29-01.html'><b>29-01</b> - ﻿क्षेत्र प्रमाण</option>");
        $optgrp.append("<option value='29-02.html'><b>29-02</b> - ﻿संख्या प्रमाण</option>");
-  mySel.append($optgrp);
-    $optgrp=$('<optgroup label="﻿न्याय-वाक्य">')
-       $optgrp.append("<option value='30-01.html'><b>30-01</b> - ﻿न्याय-वाक्य</option>");
     mySel.append($optgrp);
   mySel.selectmenu();
   mySel.selectmenu('refresh', true);

@@ -51,8 +51,8 @@ for group in glob.glob(dbDir+"/others/collaborate/bhajans/*/"):
               audioFileName=myAlink.read().replace('\xef\xbb\xbf', '')
               audioFileName=audioFileName.replace('\n', '')
         else:
-          audioFileName="https://nikkyjain.github.io/jainDataBase/bhajans/"+myGroup+"/audio/"+aFile
-        karaokeFileName="https://nikkyjain.github.io/jainDataBase/bhajans/"+myGroup+"/karaoke/"+aFile
+          audioFileName="https://nikkyjain.github.io/bhajans/"+myGroup+"/audio/"+aFile
+        karaokeFileName="https://nikkyjain.github.io/bhajans/"+myGroup+"/karaoke/"+aFile
         #if exists("https://nikkyjain.github.io/jainDataBase/bhajans/"+myGroup+"/audio/"+myBhajanName+".mp3") :
         html.write("""
         <div align=center id=myAudio><audio controls>
