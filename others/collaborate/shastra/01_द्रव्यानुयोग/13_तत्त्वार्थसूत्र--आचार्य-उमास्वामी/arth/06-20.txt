@@ -1,0 +1,9 @@
+﻿सरागसंयम, संयमासंयम, अकामनिर्जरा और बालतप ये देवायु के आस्रव हैं ॥२०॥
+<!--JsMindTagBegin-->
+                {"id":"root", "isroot":true, "topic":"देवायु के आस्रव"},
+                {"id":"sub1", "parentid":"root", "topic":"सरागसंयम"},
+                {"id":"sub2", "parentid":"root", "topic":"संयमासंयम"},
+                {"id":"sub3", "parentid":"root", "topic":"अकामनिर्जरा"},
+                {"id":"sub4", "parentid":"root", "topic":"बालतप"},
+                {"id":"sub5", "parentid":"root", "topic":"सम्यक्त्व"}
+<!--JsMindTagEnd-->

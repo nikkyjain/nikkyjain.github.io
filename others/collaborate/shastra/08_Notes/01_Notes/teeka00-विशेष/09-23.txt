@@ -1,0 +1,54 @@
+﻿<table class=myAltTable>
+  <tr>
+    <td colspan=2 class=emptyTableCell></td>
+    <th colspan=2 class=tableTitle>नाम-कर्म उदय-स्थान जीव-समास प्ररूपणा</th>
+  </tr>
+  <tr>
+    <td class=emptyTableCell></td>
+    <th>स्थान</th>
+    <th>उदय-स्थान विशेष</th>
+    <th>स्वामी</th>
+  </tr>
+  <tr>
+    <th rowspan=3>लब्ध्यपर्याप्त</th>
+    <th>2</th>
+    <td>21, 24</td>
+    <td>सूक्ष्म बादर एकेन्द्रिय</td>
+  </tr>
+  <tr>
+    <th>2</th>
+    <td>21, 26</td>
+    <td>विकलेंद्रिय</td>
+  </tr>
+  <tr>
+    <th>2</th>
+    <td>21, 26</td>
+    <td>संज्ञी असंज्ञी पंचेंद्रिय</td>
+  </tr>
+  <tr>
+    <th rowspan=5>पर्याप्त</th>
+    <th>4</th>
+    <td>21, 24, 25, 26</td>
+    <td>सूक्ष्म एकेन्द्रिय</td>
+  </tr>
+  <tr>
+    <th>5</th>
+    <td>21, 24, 25, 26, 27</td>
+    <td>बादर एकेन्द्रिय</td>
+  </tr>
+  <tr>
+    <th>5</th>
+    <td>21, 26, 28, 29, 31</td>
+    <td>विकलेंद्रिय</td>
+  </tr>
+  <tr>
+    <th>5</th>
+    <td>21, 26, 28, 29, 31</td>
+    <td>असंज्ञी पंचेंद्रिय</td>
+  </tr>
+  <tr>
+    <th>8</th>
+    <td>21, 25, 26, 27, 28, 29, 30, 31</td>
+    <td>संज्ञी पंचेंद्रिय</td>
+  </tr>
+</table>

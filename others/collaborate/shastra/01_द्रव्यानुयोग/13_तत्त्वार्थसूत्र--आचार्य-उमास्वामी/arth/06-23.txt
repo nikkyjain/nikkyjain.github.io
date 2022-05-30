@@ -1,0 +1,7 @@
+﻿उससे विपरीत अर्थात् योग की सरलता और अविसंवाद ये शुभनामकर्म के आस्रव हैं ॥२३॥
+<!--JsMindTagBeginH2-->
+                {"id":"root", "isroot":true, "topic":"शुभनामकर्म के आस्रव"},
+
+                {"id":"sub1", "parentid":"root", "topic":"योग की सरलता"},
+                {"id":"sub11", "parentid":"root", "topic":"अविसंवाद "}
+<!--JsMindTagEnd-->

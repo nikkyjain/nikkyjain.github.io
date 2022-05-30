@@ -1,0 +1,10 @@
+﻿ज्‍योतिषी देव पाँच प्रकार के हैं - सूर्य, चन्‍द्रमा, ग्रह, नक्षत्र और प्रकीर्णक तारे ॥१२॥
+<!--JsMindTagBegin-->
+    {"id":"root", "isroot":true, "topic":"ज्योतिष देवों में जाति"},
+
+    {"id":"sub1", "parentid":"root", "topic":"सूर्य"},
+    {"id":"sub2", "parentid":"root", "topic":"चन्‍द्रमा"},
+    {"id":"sub3", "parentid":"root", "topic":"ग्रह"},
+    {"id":"sub5", "parentid":"root", "topic":"नक्षत्र"},
+    {"id":"sub6", "parentid":"root", "topic":"प्रकीर्णक तारे"}
+<!--JsMindTagEnd-->

@@ -1,0 +1,132 @@
+﻿<table class=myAltTable>
+<thead>
+  <tr>
+    <td colspan=2 class=emptyTableCell></td>
+    <th colspan=3 class=tableTitle>योग की अपेक्षा गुणस्थानों में मोहनीय के उदय संबंधी भंग</th>
+  </tr>
+  <tr>
+    <th colspan=2>गुणस्थान</th>
+    <th>योग</th>
+    <th>मोहनीय उदय-भंग</th>
+    <th>कुल भंग</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th colspan=2>सूक्ष्मसाम्पराय</th>
+    <td>9</td>
+    <td>1</td>
+    <td>9</td>
+  </tr>
+  <tr>
+    <th rowspan=2>अनिवृत्तिकरण</th>
+    <th>सवेद</th>
+    <td>9</td>
+    <td>12</td>
+    <td>108</td>
+  </tr>
+  <tr>
+    <th>अवेद</th>
+    <td>9</td>
+    <td>4</td>
+    <td>36</td>
+  </tr>
+  <tr>
+    <th colspan=2>अपूर्वकरण</th>
+    <td>9</td>
+    <td>4 * 24</td>
+    <td>36*24</td>
+  </tr>
+  <tr>
+    <th colspan=2>अप्रमत्त संयत</th>
+    <td>9</td>
+    <td>8 * 24</td>
+    <td>72*24</td>
+  </tr>
+  <tr>
+    <th colspan=2>प्रमत्त संयत</th>
+    <td>11</td>
+    <td>8 * 24</td>
+    <td>88*24</td>
+  </tr>
+  <tr>
+    <th colspan=2>देशविरत</th>
+    <td>9</td>
+    <td>8 * 24</td>
+    <td>72*24</td>
+  </tr>
+  <tr>
+    <th rowspan=6>असंयत सम्यक्त्व</th>
+    <th>पर्याप्त</th>
+    <td>10</td>
+    <td>8 * 24</td>
+    <td>80*24</td>
+  </tr>
+  <tr>
+    <th rowspan=2>अपर्याप्त</th>
+    <td>2</td>
+    <td>8 * 16</td>
+    <td>16*16</td>
+  </tr>
+  <tr>
+    <td>1 (औ.मि.)</td>
+    <td>8 * 8</td>
+    <td>64</td>
+  </tr>
+  <tr>
+    <td colspan=4 class=tableNotes>वैक्रियिक-मिश्र और कार्मण काय योग में स्त्री वेद का उदय नहीं</td>
+  </tr>
+  <tr>
+    <td colspan=4 class=tableNotes>औदारिक मिश्र योग मे एक पुरुष वेद ही संभव</td>
+  </tr>
+  <tr>
+    <td colspan=4 class=tableNotes>पर्याप्त अवस्था में मोहनीय के उदय भंग = 8 (सम्यक्त्व के उदय/अनुदय * भय/जुगुप्सा के भजनीय उदय से) * 24 (4 कषाय * 3 वेद * 2 हास्य-रति / शोक-अरति)</td>
+  </tr>
+  <tr>
+    <th colspan=2>मिश्र</th>
+    <td>10</td>
+    <td>4 * 24</td>
+    <td>40*24</td>
+  </tr>  <tr>
+    <th colspan=2 rowspan=3>सासादन</th>
+    <td>12</td>
+    <td>4 * 24</td>
+    <td>48*24</td>
+  </tr>
+  <tr>
+    <td rowspan=2>1 (वै.मि.)</td>
+    <td>4 * 16</td>
+    <td>64</td>
+  </tr>
+  <tr>
+    <td colspan=2 class=tableNotes>वेक्रियिक मिश्र योग के साथ नपुंसक वेद का उदय नहीं</td>
+  </tr>
+  <tr>
+    <th rowspan=4>मिथ्यादृष्टि</th>
+    <th>पर्याप्त</th>
+    <td>10</td>
+    <td>8 * 24</td>
+    <td>80*24</td>
+  </tr>
+  <tr>
+    <th>अपर्याप्त</th>
+    <td>3</td>
+    <td>4 * 24</td>
+    <td>12*24</td>
+  </tr>
+  <tr>
+    <td colspan=4 class=tableNotes>पर्याप्त अवस्था में मोहनीय के उदय भंग = 8 (2 अनंतानुबंधी के उदय/अनुदय * 4 भय/जुगुप्सा के भजनीय उदय / अनुदय से) * 24 (4 कषाय * 3 वेद * 2 हास्य-रति / शोक-अरति)</td>
+  </tr>
+  <tr>
+    <td colspan=4 class=tableNotes>अपर्याप्त अवस्था में अनंतानुबंधी का उदय अवश्य है</td>
+  </tr>
+  <tr>
+    <td colspan=3 rowspan=2 class=emptyTableCell></td>
+    <th>कुल भंग</th>
+    <th>13,209</th>
+  </tr>
+  <tr>
+    <td colspan=2 class=tableNotes>पंचसंग्रह -- सप्ततिका अधिकार गाथा 329 से 343</td>
+  </tr>
+</tbody>
+</table>

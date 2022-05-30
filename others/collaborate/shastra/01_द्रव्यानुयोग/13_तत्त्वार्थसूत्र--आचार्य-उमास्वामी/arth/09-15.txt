@@ -1,0 +1,11 @@
+﻿चारित्रमोह के सद्भाव में नाग्न्य, अरति, स्त्री, निषद्या, आक्रोश, याचना और सत्कारपुरस्कार परीषह होते हैं ॥१५॥
+<!--JsMindTagBeginH2-->
+	{"id":"root", "isroot":true, "topic":"चारित्रमोह के सद्भाव में परीषह"},
+	{"id":"sub1", "parentid":"root", "topic":"नाग्न्य", "direction":"left"},
+	{"id":"sub11", "parentid":"root", "topic":"अरति", "direction":"left"},
+	{"id":"sub12", "parentid":"root", "topic":"स्त्री", "direction":"left"},
+	{"id":"sub13", "parentid":"root", "topic":"निषद्या", "direction":"left"},
+	{"id":"sub14", "parentid":"root", "topic":"आक्रोश "},
+	{"id":"sub15", "parentid":"root", "topic":"याचना"},
+	{"id":"sub16", "parentid":"root", "topic":"सत्कारपुरस्कार"}
+<!--JsMindTagEnd-->

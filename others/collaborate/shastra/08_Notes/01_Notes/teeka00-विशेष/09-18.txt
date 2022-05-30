@@ -1,0 +1,129 @@
+﻿<!--PythonTagBegin-->
+<ul class=orgchart>
+  <li class=root>
+    <div class=nodecontent>जीव-पद<br/> 41</div>
+    <ul>
+      <li class=node>
+        <div class=nodecontent>एकेन्द्रीय <br/> 22</div>
+        <ul>
+          <li class=vertical>
+            <div class=nodecontent>पृथ्वी <br/> 4</div>
+            <ul>
+              <li class=leaf>
+                <div class=nodecontent>सूक्ष्म <br/> 2</div>
+              </li>
+              <li class=leaf>
+                <div class=nodecontent>बादर <br/> 2</div>
+              </li>
+            </ul>
+          </li>
+          <li class=vertical>
+            <div class=nodecontent>जल <br/> 4</div>
+            <ul>
+              <li class=leaf>
+                <div class=nodecontent>सूक्ष्म <br/> 2</div>
+              </li>
+              <li class=leaf>
+                <div class=nodecontent>बादर <br/> 2</div>
+              </li>
+            </ul>
+          </li>
+          <li class=vertical>
+            <div class=nodecontent>अग्नि <br/> 4</div>
+            <ul>
+              <li class=leaf>
+                <div class=nodecontent>सूक्ष्म <br/> 2</div>
+              </li>
+              <li class=leaf>
+                <div class=nodecontent>बादर <br/> 2</div>
+              </li>
+            </ul>
+          </li>
+          <li class=vertical>
+            <div class=nodecontent>वायु <br/> 4</div>
+            <ul>
+              <li class=leaf>
+                <div class=nodecontent>सूक्ष्म <br/> 2</div>
+              </li>
+              <li class=leaf>
+                <div class=nodecontent>बादर <br/> 2</div>
+              </li>
+            </ul>
+          </li>
+          <li class=node>
+            <div class=nodecontent>वनस्पति <br/> 6</div>
+            <ul>
+              <li class=leaf>
+                <div class=nodecontent>प्रत्येक <br/> 2</div>
+              </li>
+              <li class=node>
+                <div class=nodecontent>साधारण <br/> 4</div>
+                <ul>
+                  <li class=leaf>
+                    <div class=nodecontent>सूक्ष्म <br/> 2</div>
+                  </li>
+                  <li class=leaf>
+                    <div class=nodecontent>बादर <br/> 2</div>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>द्वीइंद्रिय <br/> 2</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>त्रीन्द्रिय <br/> 2</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>चतुरिन्द्रिय <br/> 2</div>
+      </li>
+      <li class=node>
+        <div class=nodecontent>पंचेंद्रिय तिर्यञ्च<br/> 4</div>
+        <ul>
+          <li class=leaf>
+            <div class=nodecontent>संज्ञी <br/> 2</div>
+          </li>
+          <li class=leaf>
+            <div class=nodecontent>असंज्ञी <br/> 2</div>
+          </li>
+        </ul>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>देव <br/> 1</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>नारकी <br/> 1</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>मनुष्य <br/> 2</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>आहारक शरीरी</div>
+      </li>
+      <li class=vertical>
+        <div class=nodecontent>केवली <br/> 4</div>
+        <ul>
+          <li class=leaf>
+            <div class=nodecontent>सामान्य</div>
+          </li>
+          <li class=leaf>
+            <div class=nodecontent>समुद्घात सामान्य</div>
+          </li>
+          <li class=leaf>
+            <div class=nodecontent>तीर्थंकर</div>
+          </li>
+          <li class=leaf>
+            <div class=nodecontent>समुद्घात तीर्थंकर</div>
+          </li>
+        </ul>
+      </li>
+	</ul>
+  </li>
+</ul>
+<!--PythonTagEnd-->
+<span class=shortFont>
+2 भेद = पर्याप्त और अपर्याप्त
+</span>

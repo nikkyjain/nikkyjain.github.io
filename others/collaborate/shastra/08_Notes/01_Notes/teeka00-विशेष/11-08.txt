@@ -1,0 +1,56 @@
+﻿<table class=myAltTable>
+  <tr>
+    <th colspan=3 class=tableTitle>मोहनीय कर्म के उदय अधिकरण, बंध-सत्त्व आधेय त्रिसंयोग भंग</th>
+  </tr>
+  <tr>
+    <th>उदयस्थान</th>
+    <th>बंधस्थान</th>
+    <th>सत्वस्थान</th>
+  </tr>
+  <tr>
+    <th>10</th>
+    <td>22</td>
+    <td>28,27,26</td>
+  </tr>
+  <tr>
+    <th>9</th>
+    <td>22,21,17</td>
+    <td>28,27,26,24,23,22</td>
+  </tr>
+  <tr>
+    <th>8</th>
+    <td>22,21,17,13</td>
+    <td>28,27,26,24,23,22,21</td>
+  </tr>
+  <tr>
+    <th>7</th>
+    <td>22,21,17,13,9</td>
+    <td rowspan=3>28,24,23,22,21</td>
+  </tr>
+  <tr>
+    <th>6</th>
+    <td>17,13,9</td>
+  </tr>
+  <tr>
+    <th>5</th>
+    <td>13,9</td>
+  </tr>
+  <tr>
+    <th>4</th>
+    <td>9</td>
+    <td>28,24,21</td>
+  </tr>
+  <tr>
+    <th>2</th>
+    <td>5,4</td>
+    <td>28,24,21,13,12,11</td>
+  </tr>
+  <tr>
+    <th>1</th>
+    <td>4,3,2,1</td>
+    <td>28,24,21,11,5,4,3,2,1</td>
+  </tr>
+  <tr>
+    <td colspan=3 class=tableNotes>गोम्मटसार कर्मकांड गाथा -- 665-668</td>
+  </tr>
+</table>

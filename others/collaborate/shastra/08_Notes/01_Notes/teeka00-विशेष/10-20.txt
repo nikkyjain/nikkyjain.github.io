@@ -1,0 +1,22 @@
+﻿<table class=myAltTable>
+<thead>
+  <tr>
+    <th colspan=2 class=tableTitle>अपूर्वकरण क्षपक के 4 सत्त्व स्थान / 4 भंग</th>
+  </tr>
+  <tr>
+    <th>तीर्थंकर, आहारक-४ सहित</th>
+    <td>138</td>
+  </tr>
+  <tr>
+    <th>तीर्थंकर रहित, आहारक-४ सहित</th>
+    <td>137</td>
+  </tr>
+  <tr>
+    <th>तीर्थंकर सहित, आहारक-४ रहित</th>
+    <td>134</td>
+  </tr>
+  <tr>
+    <th>तीर्थंकर, आहारक-४ रहित</th>
+    <td>133</td>
+  </tr>
+</table>

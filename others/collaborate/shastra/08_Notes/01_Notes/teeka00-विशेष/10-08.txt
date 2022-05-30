@@ -1,0 +1,70 @@
+﻿<table class=myAltTable>
+  <tr>
+    <th class=tableTitle colspan=5>वेद, कषाय और ज्ञान मार्गणा में सत्व</th>
+  </tr>
+  <tr>
+    <td class=emptyTableCell colspan=3></td>
+    <th>सत्व</th>
+    <th>असत्व</th>
+  </tr>
+  <tr>
+    <th rowspan=2>वेद</th>
+    <th>पुरुष</th>
+    <td class=tableNotes colspan=3><b>सत्व योग्य प्रकृतियाँ 148</b> गुणस्थान 1 से 9, सामान्यवत्</td>
+  </tr>
+  <tr>
+    <th>स्त्री, नपुंसक</th>
+    <td class=tableNotes colspan=3><b>सत्व योग्य प्रकृतियाँ 148</b> गुणस्थान 1 से 9, क्षपक-श्रेणी में तीर्थकर का सत्व नहीं </td>
+  </tr>
+  <tr>
+    <th rowspan=2>कषाय</th>
+    <th>क्रोध, मान, माया</th>
+    <td class=tableNotes colspan=3><b>सत्व योग्य प्रकृतियाँ 148</b>, गुणस्थान 1 से 9, सामान्यवत्</td>
+  </tr>
+  <tr>
+    <th>लोभ</th>
+    <td class=tableNotes colspan=3><b>सत्व योग्य प्रकृतियाँ 148</b>, गुणस्थान 1 से 10, सामान्यवत्</td>
+  </tr>
+  <tr>
+    <td class=emptyTableCell colspan=3></td>
+    <th>सत्व</th>
+    <th>असत्व</th>
+  </tr>
+  <tr>
+    <th rowspan=8>ज्ञान</th>
+    <th rowspan=3>कुमति, कुश्रुत, विभंगावधि</th>
+    <th>मिथ्यात्व</th>
+    <td><b>148</b></td>
+    <td><b>0</b></td>
+  </tr>
+  <tr>
+    <th>सासादन</th>
+    <td><b>145</b></td>
+    <td><b>3</b> (-आहारक-द्विक, तीर्थंकर)</td>
+  </tr>
+  <tr>
+    <td class=tableNotes colspan=3><b>सत्व योग्य प्रकृतियाँ 148</b></td>
+  </tr>
+  <tr>
+    <th>मति, श्रुत, अवधि </th>
+    <td class=tableNotes colspan=3><b>सत्व योग्य प्रकृतियाँ 148</b>, गुणस्थान 4 से 12, सामान्यवत्</td>
+  </tr>
+  <tr>
+    <th>मन:पर्यय</th>
+    <td class=tableNotes colspan=3><b>सत्व योग्य प्रकृतियाँ 146</b> = 148 - 2 (नरकायु, तिर्यञ्चायु), गुणस्थान 6 से 12, सामान्यवत्</td>
+  </tr>
+  <tr>
+    <th rowspan=3>केवल</th>
+    <th>सयोगकेवली</th>
+    <td><b>85</b></td>
+    <td><b>0</b></td>
+  </tr>
+  <tr>
+    <th>अयोगकेवली</th>
+    <td><b>85</b></td>
+    <td><b>0, 72</b> (चरम-समय)</td>
+  </tr>
+  <tr>
+    <td class=tableNotes colspan=3><b>सत्व योग्य प्रकृतियाँ 85</b>, सामान्यवत्</td>
+  </tr>
+</table>

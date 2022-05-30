@@ -1,0 +1,9 @@
+﻿हिंसादिक पाँच दोषों में ऐहिक और पारलौकिक अपाय और अवद्य का दर्शन भावने योग्य है ॥९॥
+<!--JsMindTagBegin-->
+	{"id":"root", "isroot":true, "topic":"हिंसादि पाँच पाप"},
+	{"id":"sub1", "parentid":"root", "topic":"अपाय"},
+	{"id":"sub1a", "parentid":"sub1", "topic":"अनर्थकारी, अभ्युदय (स्वर्गादि) और निश्रेयस (मोक्ष) के साधन के नाशक"},
+	{"id":"sub2", "parentid":"root", "topic":"अवद्य"},
+	{"id":"sub2a", "parentid":"sub2", "topic":"निंदनीय"},
+	{"id":"sub3", "parentid":"root", "topic":"दु:खरूप"}
+<!--JsMindTagEnd-->

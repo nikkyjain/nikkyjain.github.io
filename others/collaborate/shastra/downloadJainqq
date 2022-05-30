@@ -1,0 +1,30 @@
+#!/bin/sh
+
+curPage=$1
+endNo=$2
+
+outDir=/tmp/$USER/jainqq
+\rm -rf $outDir
+mkdir -p $outDir/book
+
+basePage=$(echo $curPage | sed -e 's/\(.*\)\/\(.*\)/\1/g')
+curNum=$(echo $curPage | sed -e 's/\(.*\)\/\(.*\)/\2/g')
+echo $basePage
+echo $curNum
+
+cd $outDir/book
+while :; do 
+    fileName=$(printf "%03d" $curNum)
+    echo -ne "Creating $fileName"\\r
+     wget --no-check-certificate -q $curPage
+     [ "$fileName" != "$curNum" ] && mv $curNum $fileName
+     [ $endNo -eq $curNum ] && echo "Got $curNum pages" && echo && break
+     curNum=$(($curNum + 1))
+     curPage=$basePage/$curNum
+done
+
+for curFile in $(ls)
+do
+    awk '/k meta mt-1/' $curFile | sed -e 's/.*k meta mt-1">//' -e 's/<\/p>.*//' >> $outDir/full.txt
+done
+

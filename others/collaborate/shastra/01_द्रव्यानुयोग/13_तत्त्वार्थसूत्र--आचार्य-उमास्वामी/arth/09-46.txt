@@ -1,0 +1,9 @@
+﻿पुलाक, बकुश, कुशील, निर्ग्रन्‍थ और स्‍नातक ये पाँच निर्ग्रन्‍थ हैं ॥४६॥
+<!--JsMindTagBegin-->
+	{"id":"root", "isroot":true, "topic":"निर्ग्रन्‍थ के पाँच भेद"},
+	{"id":"sub1", "parentid":"root", "topic":"पुलाक"},
+	{"id":"sub2", "parentid":"root", "topic":"बकुश"},
+	{"id":"sub3", "parentid":"root", "topic":"कुशील"},
+	{"id":"sub4", "parentid":"root", "topic":"निर्ग्रन्‍थ"},
+	{"id":"sub5", "parentid":"root", "topic":"स्‍नातक"}
+<!--JsMindTagEnd-->

@@ -1,0 +1,8 @@
+﻿साता वेदनीय, शुभ आयु, शुभ नाम और शुभ गोत्र ये प्रकृतियाँ पुण्‍यरूप हैं ॥२५॥
+<!--JsMindTagBeginH2-->
+	{"id":"root", "isroot":true, "topic":" पुण्‍यरूप प्रकृतियाँ"},
+	{"id":"sub1", "parentid":"root", "topic":"वेदनीय - साता"},
+	{"id":"sub2", "parentid":"root", "topic":"शुभ आयु -- तिर्यञ्च, मनुष्य, देव"},
+	{"id":"sub3", "parentid":"root", "topic":"शुभ नाम -- 37 भेद"},
+	{"id":"sub4", "parentid":"root", "topic":"उच्च गोत्र "}
+<!--JsMindTagEnd-->

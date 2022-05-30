@@ -1,0 +1,23 @@
+﻿धर्म, अधर्म और एक जीवद्रव्य के असंख्यात-असंख्यात प्रदेश होते हैं ।
+<!--JsMindTagBeginH6-->
+	{"id":"root", "isroot":true, "topic":"द्रव्यों मे प्रदेश"},
+	{"id":"sub1", "parentid":"root", "topic":"जीव"},
+	{"id":"sub1a", "parentid":"sub1", "topic":"असंख्यात प्रदेशी"},
+	{"id":"sub2", "parentid":"root", "topic":"पुद्गल"},
+	{"id":"sub2d", "parentid":"sub2", "topic":"एक प्रदेशी / परमाणु"},
+	{"id":"sub2a", "parentid":"sub2", "topic":"संख्यात प्रदेशी"},
+	{"id":"sub2b", "parentid":"sub2", "topic":"असंख्यात प्रदेशी"},
+	{"id":"sub2c", "parentid":"sub2", "topic":"अनंत प्रदेशी"},
+	{"id":"sub3", "parentid":"root", "topic":"धर्म"},
+	{"id":"sub3a", "parentid":"sub3", "topic":"असंख्यात प्रदेशी"},
+	{"id":"sub3a1", "parentid":"sub3a", "topic":"निष्क्रिय"},
+	{"id":"sub4", "parentid":"root", "topic":"अधर्म"},
+	{"id":"sub4a", "parentid":"sub4", "topic":"असंख्यात प्रदेशी"},
+	{"id":"sub4a1", "parentid":"sub4a", "topic":"निष्क्रिय "},
+	{"id":"sub5", "parentid":"root", "topic":"आकाश"},
+	{"id":"sub5a", "parentid":"sub5", "topic":"अनंत प्रदेशी"},
+	{"id":"sub5a1", "parentid":"sub5a", "topic":"निष्क्रिय"},
+	{"id":"sub6", "parentid":"root", "topic":"काल"},
+	{"id":"sub6a", "parentid":"sub6", "topic":"एक प्रदेशी"},
+	{"id":"sub6a1", "parentid":"sub6a", "topic":"निष्क्रिय"}
+<!--JsMindTagEnd-->

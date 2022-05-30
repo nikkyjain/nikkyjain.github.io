@@ -1,0 +1,323 @@
+﻿<table class=myAltTable>
+  <thead>
+  <tr>
+    <th colspan=14 class=tableTitle>प्राण</th>
+  </tr>
+  <tr>
+    <th colspan=3 rowspan=2>जीव</th>
+    <th colspan=5>इंद्रिय</th>
+    <th colspan=3>बल</th>
+    <th rowspan=2>आयु</th>
+    <th rowspan=2>उच्छ्वास</th>
+    <th rowspan=2>कुल</th>
+  </tr>
+  <tr>
+    <th>स्पर्शन</th>
+    <th>रसना</th>
+    <th>घ्राण</th>
+    <th>चक्षु</th>
+    <th>कर्ण</th>
+    <th>मन</th>
+    <th>वचन</th>
+    <th>काय</th>
+  </tr>
+  </thead>
+  <tr>
+    <th colspan=2 rowspan=6>पर्याप्त</th>
+    <th>स्थावर</th>
+    <td class=cellY>✓</td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <th>दो-इंद्रिय</th>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <th>तीन-इंद्रिय</th>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td>7</td>
+  </tr>
+  <tr>
+    <th>चार-इंद्रिय</th>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <th>पंचेंद्रिय-असैनी</th>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellN></td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td>9</td>
+  </tr>
+  <tr>
+    <th>पंचेंद्रिय-सैनी</th>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <th colspan=2 rowspan=5>अपर्याप्त</th>
+    <th>स्थावर</th>
+    <td class=cellY>✓</td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellN></td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <th>दो-इंद्रिय</th>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellN></td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <th>तीन-इंद्रिय</th>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellN></td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <th>चार-इंद्रिय</th>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellN></td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <th>पंचेंद्रिय</th>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellN></td>
+    <td>7</td>
+  </tr>
+  <tr>
+    <th rowspan=9>सयोग-केवली</th>
+    <th colspan=2>सामान्य</th>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <th rowspan=8>समुद्घात</th>
+    <th>प्रथम समय दण्ड</th>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <th>द्वीतीय समय कपाट</th>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellN></td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <th>तृतीय समय प्रतर</th>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellY>✓</td>
+    <td class=cellN></td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <th>चतुर्थ समय लोकपूरण</th>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellY>✓</td>
+    <td class=cellN></td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <th>पंचम समय प्रतर</th>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellY>✓</td>
+    <td class=cellN></td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <th>षष्टम समय कपाट</th>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellN></td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <th>सप्तम समय दण्ड</th>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <th>अष्टम समय शरीर प्रवेश</th>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <th colspan=3>अयोग-केवली</th>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellN></td>
+    <td class=cellY>✓</td>
+    <td class=cellN></td>
+    <td>1</td>
+  </tr>
+</table>

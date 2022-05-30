@@ -1,0 +1,9 @@
+﻿दान, लाभ, भोग, उपभोग और वीर्य इनके पाँच अन्‍तराय हैं ॥१३॥
+<!--JsMindTagBegin-->
+	{"id":"root", "isroot":true, "topic":"अन्‍तराय कर्म के भेद "},
+	{"id":"sub1", "parentid":"root", "topic":"दान"},
+	{"id":"sub11", "parentid":"root", "topic":"लाभ"},
+	{"id":"sub12", "parentid":"root", "topic":"भोग"},
+	{"id":"sub13", "parentid":"root", "topic":"उपभोग"},
+	{"id":"sub14", "parentid":"root", "topic":"वीर्य "}
+<!--JsMindTagEnd-->

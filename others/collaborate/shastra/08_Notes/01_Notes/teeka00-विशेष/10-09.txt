@@ -1,0 +1,70 @@
+﻿<table class=myAltTable>
+  <tr>
+    <th class=tableTitle colspan=5>संयम और दर्शन मार्गणा में सत्व</th>
+  </tr>
+  <tr>
+    <td class=emptyTableCell colspan=3></td>
+    <th>सत्व</th>
+    <th>असत्व</th>
+  </tr>
+  <tr>
+    <th rowspan=9>संयम</th>
+    <th>असंयम</th>
+    <td class=tableNotes colspan=3><b>सत्व योग्य प्रकृतियाँ 148,</b> गुणस्थान 1 से 4, सामान्यवत्</td>
+  </tr>
+  <tr>
+    <th>संयमासंयम</th>
+    <td class=tableNotes colspan=3><b>सत्व योग्य प्रकृतियाँ 147</b>, नरकायु का सत्व नहीं, सामान्यवत्</td>
+  </tr>
+  <tr>
+    <th>सामायिक / छेदोपस्थापना</th>
+    <td class=tableNotes colspan=3><b>सत्व योग्य प्रकृतियाँ 146</b>, नरकायु और तिर्यञ्चायु का सत्व नहीं, गुणस्थान 6 से 9, सामान्यवत्</td>
+  </tr>
+  <tr>
+    <th>परिहारविशुद्धि</th>
+    <td class=tableNotes colspan=3><b>सत्व योग्य प्रकृतियाँ 146</b>, नरकायु और तिर्यञ्चायु का सत्व नहीं, गुणस्थान 6 से 7, सामान्यवत्</td>
+  </tr>
+  <tr>
+    <th>सूक्ष्मसाम्पराय</th>
+    <td class=tableNotes colspan=3><b>सत्व योग्य प्रकृतियाँ 146</b> (उपशम-श्रेणी -- नरकायु और तिर्यञ्चायु का सत्व नहीं) / <b>102</b> (क्षपक-श्रेणी)</td>
+  </tr>
+  <tr>
+    <th rowspan=4>यथाख्यात</th>
+    <th>उपशांत-मोह</th>
+    <td><b>146</b> (द्वितियोपशम) / <b>139/138</b> (क्षायिक)</td>
+    <td><b>2</b> / <b>9</b></td>
+  </tr>
+  <tr>
+    <th>क्षीण-मोह</th>
+    <td><b>101</b></td>
+    <td><b>47</b></td>
+  </tr>
+  <tr>
+    <th>सयोगकेवली</th>
+    <td><b>85</b></td>
+    <td><b>0</b></td>
+  </tr>
+  <tr>
+    <th>अयोगकेवली</th>
+    <td><b>85</b></td>
+    <td><b>0, 72</b> (चरम-समय)</td>
+  </tr>
+  <tr>
+    <td class=emptyTableCell colspan=3></td>
+    <th>सत्व</th>
+    <th>असत्व</th>
+  </tr>
+  <tr>
+    <th rowspan=3>दर्शन</th>
+    <th>चक्षु / अचक्षु</th>
+    <td class=tableNotes colspan=3><b>सत्व योग्य प्रकृतियाँ 148,</b> गुणस्थान 1 से 12, सामान्यवत्</td>
+  </tr>
+  <tr>
+    <th>अवधि</th>
+    <td class=tableNotes colspan=3><b>सत्व योग्य प्रकृतियाँ 148</b>, गुणस्थान 4 से 12, सामान्यवत्</td>
+  </tr>
+  <tr>
+    <th>केवल</th>
+    <td class=tableNotes colspan=3><b>सत्व योग्य प्रकृतियाँ 85</b>, केवलज्ञानवत्</td>
+  </tr>
+</table>

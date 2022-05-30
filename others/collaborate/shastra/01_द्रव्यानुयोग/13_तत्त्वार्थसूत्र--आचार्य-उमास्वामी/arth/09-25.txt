@@ -1,0 +1,9 @@
+﻿वाचना, पृच्छना, अनुप्रेक्षा, आम्नाय और धर्मोपदेश यह पाँच प्रकार का स्वाध्याय है ॥२५॥
+<!--JsMindTagBegin-->
+	{"id":"root", "isroot":true, "topic":"पाँच प्रकार का स्वाध्याय"},
+	{"id":"sub1", "parentid":"root", "topic":"वाचना"},
+	{"id":"sub2", "parentid":"root", "topic":"पृच्छना"},
+	{"id":"sub3", "parentid":"root", "topic":"अनुप्रेक्षा"},
+	{"id":"sub4", "parentid":"root", "topic":"आम्नाय"},
+	{"id":"sub5", "parentid":"root", "topic":"धर्मोपदेश"}
+<!--JsMindTagEnd-->

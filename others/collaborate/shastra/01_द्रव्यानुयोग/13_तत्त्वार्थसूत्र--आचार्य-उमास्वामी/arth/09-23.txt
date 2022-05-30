@@ -1,0 +1,8 @@
+﻿ज्ञान विनय, दर्शन विनय, चारित्र विनय और उपचार विनय यह चार प्रकार का विनय है ॥२३॥
+<!--JsMindTagBeginH2-->
+	{"id":"root", "isroot":true, "topic":"चार प्रकार का विनय"},
+	{"id":"sub1", "parentid":"root", "topic":"ज्ञान विनय"},
+	{"id":"sub11", "parentid":"root", "topic":"दर्शन विनय"},
+	{"id":"sub12", "parentid":"root", "topic":"चारित्र विनय"},
+	{"id":"sub13", "parentid":"root", "topic":"उपचार विनय "}
+<!--JsMindTagEnd-->

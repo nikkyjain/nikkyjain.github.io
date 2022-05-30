@@ -1,0 +1,22 @@
+﻿अवग्रह, ईहा, अवाय और धारणा ये मतिज्ञान के चार भेद हैं ॥१५॥
+<!--PythonTagBegin-->
+<ul class=orgchart>
+  <li class=root>
+    <div class=nodecontent>मतिज्ञान</div>
+    <ul>
+      <li class=leaf>
+        <div class=nodecontent>अवग्रह</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>ईहा</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>अवाय</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>धारणा</div>
+      </li>
+    </ul>
+  </li>
+</ul>
+<!--PythonTagEnd-->

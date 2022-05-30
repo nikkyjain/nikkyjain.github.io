@@ -1,0 +1,45 @@
+﻿<table class=myAltTable>
+<thead>
+  <tr>
+    <td rowspan=3 class=emptyTableCell></td>
+    <th colspan=3 class=tableTitle>सूक्ष्म-सांपरायिक और क्षीण मोह क्षपक के सत्त्व स्थान और भंग</th>
+  </tr>
+  <tr>
+    <th rowspan=2>सूक्ष्म-सांपरायिक</th>
+    <th colspan=2>क्षीण मोह</th>
+  </tr>
+  <tr>
+    <th>उपांत्य</th>
+    <th>अंत-समय</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th>तीर्थंकर, आहारक-४ सहित</th>
+    <td>102</td>
+    <td>101</td>
+    <td>99</td>
+  </tr>
+  <tr>
+    <th>तीर्थंकर रहित, आहारक-४ सहित</th>
+    <td>101</td>
+    <td>100</td>
+    <td>98</td>
+  </tr>
+  <tr>
+    <th>तीर्थकर सहित, आहारक-४ रहित</th>
+    <td>98</td>
+    <td>97</td>
+    <td>95</td>
+  </tr>
+  <tr>
+    <th>तीर्थंकर, आहारक-४ रहित</th>
+    <td>97</td>
+    <td>96</td>
+    <td>94</td>
+  </tr>
+  <tr>
+    <td class=tableNotes colspan=4>क्षीण-मोह उपांत्य समय में व्युच्छिन्न 2 प्रकृतियाँ = निद्रा, प्रचला</td>
+  </tr>
+</tbody>
+</table>

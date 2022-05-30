@@ -1,0 +1,42 @@
+﻿<table class=myAltTable>
+  <tr>
+    <th class=tableTitle colspan=8>सासादन गुणस्थान के सत्व में 4 स्थान और उनके 12 भंग</th>
+  </tr>
+  <tr>
+    <th colspan=4>बद्धायुष्क</th>
+    <th colspan=4>अबद्धायुष्क</th>
+  </tr>
+  <tr>
+    <th>स्थान</th>
+    <th>भंग</th>
+    <th>असत्व</th>
+    <th>विशेष</th>
+    <th>स्थान</th>
+    <th>भंग</th>
+    <th>असत्व</th>
+    <th>विशेष</th>
+  </tr>
+  <tr>
+    <td><b>141</b></td>
+    <td><b>5</b></td>
+    <td><b>7</b> (तीर्थंकर, आहारक-चतुष्क, आयु २)</td>
+    <td class=tableNotes>चारों गति के बद्धायुष्क (तिर्यञ्चायु+३ [नरकायु,मनुष्यायु,देवायु], मनुष्य+२[नरकायु,देवायु])</td>
+    <td><b>140</b></td>
+    <td><b>4</b></td>
+    <td><b>8</b> (तीर्थंकर, आहारक-चतुष्क, आयु ३)</td>
+    <td class=tableNotes>चारों गति के अबद्धायुष्क</td>
+  </tr>
+  <tr>
+    <td rowspan=2><b>145</b></td>
+    <td rowspan=2><b>1</b></t>
+    <td rowspan=2><b>3</b> (तीर्थंकर, २ आयु)</td>
+    <td class=tableNotes rowspan=2>देवायु की सत्व वाला मनुष्य</td>
+    <td rowspan=2><b>144</b></td>
+    <td rowspan=2><b>2</b></td>
+    <td rowspan=2><b>4</b> (तीर्थंकर, ३ आयु)</td>
+    <td class=tableNotes>अबद्धायुष्क मनुष्य</td>
+  </tr>
+  <tr>
+    <td class=tableNotes>अबद्धायुष्क देव</td>
+  </tr>
+</table>

@@ -1,0 +1,15 @@
+﻿स्‍पर्श, रस, गन्‍ध, वर्ण और शब्‍द ये क्रम से उन इन्द्रियों के विषय हैं ॥२०॥
+<!--JsMindTagBegin-->
+                {"id":"root", "isroot":true, "topic":"इंद्रियों के विषय"},
+
+                {"id":"sub1", "parentid":"root", "topic":"स्पर्शन"},
+                {"id":"sub2", "parentid":"root", "topic":"रसना"},
+                {"id":"sub3", "parentid":"root", "topic":"घ्राण"},
+                {"id":"sub4", "parentid":"root", "topic":"चक्षु"},
+                {"id":"sub5", "parentid":"root", "topic":"कर्ण"},
+                {"id":"sub11", "parentid":"sub1", "topic":"स्पर्श"},
+                {"id":"sub21", "parentid":"sub2", "topic":"रस"},
+                {"id":"sub31", "parentid":"sub3", "topic":"गंध"},
+                {"id":"sub41", "parentid":"sub4", "topic":"वर्ण"},
+                {"id":"sub51", "parentid":"sub5", "topic":"शब्द"}
+<!--JsMindTagEnd-->

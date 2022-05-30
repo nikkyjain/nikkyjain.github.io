@@ -1,0 +1,7 @@
+﻿भेद से, संघात से तथा भेद और संघात दोनों से स्कन्ध उत्पन्न होते हैं ॥२६॥
+<!--JsMindTagBeginH2-->
+  {"id":"root", "isroot":true, "topic":"स्कंध की उत्पत्ति"},
+  {"id":"sub1", "parentid":"root", "topic":"भेद "},
+  {"id":"sub2", "parentid":"root", "topic":"संघात"},
+  {"id":"sub3", "parentid":"root", "topic":"भेद और संघात"}
+<!--JsMindTagEnd-->

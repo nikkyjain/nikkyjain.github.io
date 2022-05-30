@@ -1,0 +1,69 @@
+﻿<table class=myAltTable>
+  <tr>
+    <td colspan=2 rowspan=3 class=emptyTableCell></td>
+    <th colspan=5 class=tableTitle>नाना जीवों में पाए जाने वाले मूलभाव</th>
+  </tr>
+  <tr>
+    <th colspan=4>गुणस्थान</th>
+    <th rowspan=2>सिद्ध</th>
+  </tr>
+  <tr>
+    <th>1 से 3</th>
+    <th>4 से 11</th>
+    <th>12</th>
+    <th>13 - 14</th>
+  </tr>
+  <tr>
+    <th rowspan=6>भाव</th>
+    <th>औदयिक</th>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellN>-</td>
+  </tr>
+  <tr>
+    <th>क्षायोपशमिक</th>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+  </tr>
+  <tr>
+    <th>औपशमिक</th>
+    <td class=cellN>-</td>
+    <td class=cellY>✔</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+  </tr>
+  <tr>
+    <th>क्षायिक</th>
+    <td class=cellN>-</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+  </tr>
+  <tr>
+    <th>पारिणामिक</th>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+  </tr>
+  <tr>
+    <td class=head2>कुल</td>
+    <td class=tableNotes><b>3</b></td>
+    <td class=tableNotes><b>5</b></td>
+    <td class=tableNotes><b>4</b></td>
+    <td class=tableNotes><b>3</b></td>
+    <td class=tableNotes><b>2</b></td>
+  </tr>
+  <tr>
+    <td colspan=2 class=emptyTableCell></td>
+    <td colspan=5 class=tableNotes>गोम्मटसार कर्मकाण्ड -- गाथा 820</td>
+  </tr>
+</table>

@@ -1,0 +1,6 @@
+﻿बहुत आरम्भ और बहुत परिग्रहपने का भाव नारकायु का आस्रव है ॥१५॥
+<!--JsMindTagBeginH2-->
+    {"id":"root", "isroot":true, "topic":"नारकायु का आस्रव "},
+    {"id":"sub1", "parentid":"root", "topic":"बहुत आरम्भ का भाव "},
+    {"id":"sub11", "parentid":"root", "topic":"बहुत परिग्रहपने का भाव "}             
+<!--JsMindTagEnd-->

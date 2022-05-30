@@ -1,0 +1,11 @@
+﻿भरतवर्ष, हैमवतवर्ष, हरिवर्ष, विदेहवर्ष, रम्‍यकवर्ष, हैरण्‍यवतवर्ष और ऐरावतवर्ष ये सात क्षेत्र हैं ॥१०॥
+<!--JsMindTagBegin-->
+    {"id":"root", "isroot":true, "topic":"जम्बू-द्वीप के क्षेत्र"},
+    {"id":"sub7", "parentid":"root", "topic":"ऐरावत"},
+    {"id":"sub6", "parentid":"root", "topic":"हैरण्‍यवत"},
+    {"id":"sub5", "parentid":"root", "topic":"रम्‍यक"},
+    {"id":"sub4", "parentid":"root", "topic":"विदेह"},
+    {"id":"sub3", "parentid":"root", "topic":"हरि"},
+    {"id":"sub2", "parentid":"root", "topic":"हैमवत"},
+    {"id":"sub1", "parentid":"root", "topic":"भरत"}
+<!--JsMindTagEnd-->

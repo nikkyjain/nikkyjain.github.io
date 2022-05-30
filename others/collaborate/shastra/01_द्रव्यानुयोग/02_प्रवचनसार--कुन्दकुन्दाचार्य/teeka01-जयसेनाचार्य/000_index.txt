@@ -1,1 +1,245 @@
-﻿<table align='center' border='1' cellpadding='1' cellspacing='1' style='text-align:center;' class=arthTable width='100%'> <colgroup> <col /> <col /> <col /> <col /> <col /> </colgroup> <tbody> <tr style='background-color: gainsboro;'> <td> <strong>अधिकार</strong></td> <td> <strong>अन्तराधिकार</strong></td> <td> <strong>स्थल</strong></td> <td> <strong>कुल गाथा</strong></td> </tr> <tr> <td rowspan='22'> शुद्धोपयोग - ७२ (१ - ७२)</td> <td rowspan='5'> <span style='color:#800000;'>पीठिका - १४ (१ - १४)</span></td> <td> <span style='color:#800000;'>नमस्कार मुख्यता</span></td> <td> <span style='color:#800000;'>५ (१ - ५)</span></td> </tr> <tr> <td> <span style='color:#800000;'>चरित्र कथन</span></td> <td> <span style='color:#800000;'>३&nbsp;(६ - ८)</span></td> </tr> <tr> <td> <span style='color:#800000;'>तीन उपयोग कथन</span></td> <td> <span style='color:#800000;'>२&nbsp;(९ - १0)</span></td> </tr> <tr> <td> <span style='color:#800000;'>उपयोग फल कथन</span></td> <td> <span style='color:#800000;'>२&nbsp;(११ - १२)</span></td> </tr> <tr> <td> <span style='color:#800000;'>शुद्धोपयोग फल तथा लक्षण</span></td> <td> <span style='color:#800000;'>२&nbsp;(१३ - १४)</span></td> </tr> <tr> <td rowspan='4'> <span style='color:#4b0082;'>सामान्य सर्वज्ञ सिद्धि - ७ (१५ - २१)</span></td> <td> <span style='color:#4b0082;'>सर्वज्ञ स्वभाव कथन</span></td> <td> <span style='color:#4b0082;'>२&nbsp;(१५ - १६)</span></td> </tr> <tr> <td> <span style='color:#4b0082;'>सर्वज्ञ की उत्पाद व्यय ध्रौव्य स्थापना</span></td> <td> <span style='color:#4b0082;'>२&nbsp;(१७ - १८)</span></td> </tr> <tr> <td> <span style='color:#4b0082;'>सर्वज्ञ श्रद्धा से अनन्त सुख</span></td> <td> <span style='color:#4b0082;'>१&nbsp;( १९)</span></td> </tr> <tr> <td> <span style='color:#4b0082;'>अतीन्द्रिय ज्ञान तथा केवली कवलाहार निषेध</span></td> <td> <span style='color:#4b0082;'>२&nbsp;(२० - २१)</span></td> </tr> <tr> <td rowspan='8'> <span style='color:#800000;'>ज्ञानप्रपंच - ३३ (२२ - ५४)</span></td> <td> <span style='color:#800000;'>केवलज्ञान मे सब प्रत्यक्ष हैं</span></td> <td> <span style='color:#800000;'>२&nbsp;(२२ - २३)</span></td> </tr> <tr> <td> <span style='color:#800000;'>आत्मा व्यव्हार से सर्वगत है</span></td> <td> <span style='color:#800000;'>५&nbsp;(२४ - २८)</span></td> </tr> <tr> <td> <span style='color:#800000;'>ज्ञान ज्ञेय का परस्पर गमन निराकरण</span></td> <td> <span style='color:#800000;'>५&nbsp;(२९ - ३३)</span></td> </tr> <tr> <td> <span style='color:#800000;'>निश्चय व्यव्हार केवली प्रतिपादन</span></td> <td> <span style='color:#800000;'>४&nbsp;(३४ - ३७)</span></td> </tr> <tr> <td> <span style='color:#800000;'>वर्त्तमान ज्ञान त्रिकालज्ञ</span></td> <td> <span style='color:#800000;'>५&nbsp;(३८ - ४२)</span></td> </tr> <tr> <td> <span style='color:#800000;'>बंधकारक ज्ञान नहीं, राग है</span></td> <td> <span style='color:#800000;'>५&nbsp;(४३ - ४७)</span></td> </tr> <tr> <td> <span style='color:#800000;'>केवलज्ञान - सर्वज्ञता</span></td> <td> <span style='color:#800000;'>५&nbsp;(४८ - ५२)</span></td> </tr> <tr> <td> <span style='color:#800000;'>ज्ञानप्रपंच उपसंहार</span></td> <td> <span style='color:#800000;'>२&nbsp;(५३ - ५४)</span></td> </tr> <tr> <td rowspan='5'> <span style='color:#4b0082;'>सुखप्रपंच - १८ (५५ -७२)</span></td> <td> <span style='color:#4b0082;'>अधिकार गाथा</span></td> <td> <span style='color:#4b0082;'>१&nbsp;(५५)</span></td> </tr> <tr> <td> <span style='color:#4b0082;'>अतीन्द्रिय ज्ञान की प्रधानता परक</span></td> <td> <span style='color:#4b0082;'>१&nbsp;(५६)</span></td> </tr> <tr> <td> <span style='color:#4b0082;'>इन्द्रिय ज्ञान की प्रधानता परक</span></td> <td> <span style='color:#4b0082;'>४&nbsp;(५७ - ६०)</span></td> </tr> <tr> <td> <span style='color:#4b0082;'>अतीन्द्रिय सुख की प्रधानता परक</span></td> <td> <span style='color:#4b0082;'>४&nbsp;(६१ - ६४)</span></td> </tr> <tr> <td> <span style='color:#4b0082;'>इन्द्रिय सुख प्रतिपादन परक</span></td> <td> <span style='color:#4b0082;'>८&nbsp;(६५ - ७२)</span></td> </tr> <tr> <td rowspan='17'> ज्ञानकण्डिका चतुष्टय प्रतिपादक - २५ (७३ -९७)</td> <td rowspan='3'> <span style='color:#800000;'>शुभाशुभ मूढता निराकरण - १० (७३ - ८२)</span></td> <td> <span style='color:#800000;'>स्वतंत्र व्याख्यान</span></td> <td> <span style='color:#800000;'>४&nbsp;(७३ - ७६)</span></td> </tr> <tr> <td> <span style='color:#800000;'>तृष्णोत्पादक पुण्य</span></td> <td> <span style='color:#800000;'>४&nbsp;(७७ - ८०)</span></td> </tr> <tr> <td> <span style='color:#800000;'>उपसंहार</span></td> <td> <span style='color:#800000;'>२&nbsp;(८१ - ८२)</span></td> </tr> <tr> <td rowspan='7'> <span style='color:#4b0082;'>आप्त-आत्मा के स्वरूप परिज्ञान विषयक मूढता निराकरण - ७ (८३ - ८१)</span></td> <td> <span style='color:#4b0082;'>शुद्धात्मा प्राप्ति का उपाय एकमात्र शुद्धोपयोग</span></td> <td> <span style='color:#4b0082;'>१(८३)</span></td> </tr> <tr> <td> <span style='color:#4b0082;'>सिद्ध दशा प्राप्ति का उपाय एकमात्र शुद्धोपयोग</span></td> <td> <span style='color:#4b0082;'>१(८४)</span></td> </tr> <tr> <td> <span style='color:#4b0082;'>निर्दोषी परमात्मा की श्रद्धा का फल अक्षय सुख</span></td> <td> <span style='color:#4b0082;'>१(८५)</span></td> </tr> <tr> <td> <span style='color:#4b0082;'>मोह क्षय का उपाय</span></td> <td> <span style='color:#4b0082;'>१(८६)</span></td> </tr> <tr> <td> <span style='color:#4b0082;'>शुद्धात्मारूप चिंतामणि की रक्षा का उपाय</span></td> <td> <span style='color:#4b0082;'>१(८७)</span></td> </tr> <tr> <td> <span style='color:#4b0082;'>मोक्ष प्राप्ति का अनाद्यानंत एक उपाय</span></td> <td> <span style='color:#4b0082;'>१(८८)</span></td> </tr> <tr> <td> <span style='color:#4b0082;'>रत्नत्रय आराधक पुरुष ही पुजादी के योग्य</span></td> <td> <span style='color:#4b0082;'>१(८९)</span></td> </tr> <tr> <td rowspan='5'> <span style='color:#800000;'>द्रव्य गुण पर्याय परिज्ञान विषयक मूढ़ता का निराकरण - ६ (१० - १५)</span></td> <td> <span style='color:#800000;'>मोह के स्वरुप और भेद का प्रतिपादन</span></td> <td> <span style='color:#800000;'>१(९०)</span></td> </tr> <tr> <td> <span style='color:#800000;'>दुःख और बंध के कारक रागादी निर्मूल नष्ट करने योग्य</span></td> <td> <span style='color:#800000;'>२(९१ - ९२)</span></td> </tr> <tr> <td> <span style='color:#800000;'>आत्मा की जानकारी आगमाभ्यास की अपेक्षा रखता है</span></td> <td> <span style='color:#800000;'>१(९३)</span></td> </tr> <tr> <td> <span style='color:#800000;'>द्रव्य गुण पर्यायों की अर्थ संज्ञा है</span></td> <td> <span style='color:#800000;'>१(९४)</span></td> </tr> <tr> <td> <span style='color:#800000;'>संपूर्ण दुखों का क्षय, मोहादी का नष्ट करना है</span></td> <td> <span style='color:#800000;'>१(९५)</span></td> </tr> <tr> <td rowspan='2'> <span style='color:#4b0082;'>स्व पर तत्व परिज्ञान विषयक मूढता निराकरण - २ (१६,१७)</span></td> <td> <span style='color:#4b0082;'>मोह क्षय का उपाय स्वपर भेद विज्ञान</span></td> <td> <span style='color:#4b0082;'>१(९६)</span></td> </tr> <tr> <td> <span style='color:#4b0082;'>स्वपर भेद विज्ञान का उपाय आगम</span></td> <td> <span style='color:#4b0082;'>१(९७)</span></td> </tr> <tr> <td rowspan='4'> स्वतंत्र गाथा चतुष्टय - ४ (९८ - १०१)</td> <td colspan='2'> <span style='color:#800000;'>तत्वश्रद्धान रहित श्रमण के शुद्धोपयोग लक्षण धर्म नहीं होता है</span></td> <td> <span style='color:#800000;'>१(९८)</span></td> </tr> <tr> <td colspan='2'> <span style='color:#800000;'>शुद्धोपयोगी आत्मा ही धर्म है</span></td> <td> <span style='color:#800000;'>१(९९)</span></td> </tr> <tr> <td colspan='2'> <span style='color:#800000;'>शुद्धोपयोगी मुनि के प्रति भक्ति का फल</span></td> <td> <span style='color:#800000;'>१(१००)</span></td> </tr> <tr> <td colspan='2'> <span style='color:#800000;'>उस पुण्य से दुसरे भव मे फल</span></td> <td> <span style='color:#800000;'>१(१०१)</span></td> </tr> </tbody> </table>
+﻿<table class=myAltTable>
+<tr class=tableTile colspan=8>ग्रंथ की गाथा-सारणी</tr>
+<tr>
+  <th>क्रम</th>
+  <th>अधिकार संख्या</th>
+  <th>आ. जयसेन कृत अधिकार का नाम</th>
+  <th>गाथा</th>
+  <th>कुल गाथाऐं</th>
+  <th>आ. अमृतचंद्र कृत अधिकार का नाम</th>
+  <th>गाथा</th>
+  <th>कुल गाथाऐं</th>
+</tr>
+<tr>
+  <td>1</td>
+  <td>प्रथम महाधिकार</td>
+  <td>सम्यग्ज्ञान</td>
+  <td>1 से 101</td>
+  <td>101</td>
+  <td>ज्ञानतत्त्व प्रज्ञापन</td>
+  <td>1 से 92</td>
+  <td>92</td>
+</tr>
+<tr>
+  <td>2</td>
+  <td>द्वितीय महाधिकार</td>
+  <td>सम्यग्दर्शन</td>
+  <td>102 से 214</td>
+  <td>113</td>
+  <td>ज्ञेयतत्त्व प्रज्ञापन</td>
+  <td>93 से 200</td>
+  <td>108</td>
+</tr>
+<tr>
+  <td>3</td>
+  <td>तृतिय महाधिकार</td>
+  <td>सम्यक्चारित्र</td>
+  <td>215 से 311</td>
+  <td>97</td>
+  <td>चरणानुयोग सूचक चूलिका</td>
+  <td>201 से 275</td>
+  <td>75</td>
+</tr>
+<tr>
+  <th></th>
+  <th>3 अधिकार</th>
+  <th></th>
+  <th></th>
+  <th>311</th>
+  <th></th>
+  <th></th>
+  <th>275</th>
+</tr>
+</table>
+
+<table  class=myAltTable>
+<tr>
+  <th>अधिकार</th>
+  <th>अन्तराधिकार</th>
+  <th>स्थल</th>
+  <th>कुल गाथा</th>
+</tr>
+<tr>
+  <td rowspan='22'>शुद्धोपयोग - ७२ (१ - ७२)</td>
+  <td rowspan='5'>पीठिका - १४ (१ - १४)</td>
+ <td>नमस्कार मुख्यता</td>
+ <td>५ (१ - ५)</td>
+</tr>
+<tr>
+  <td>चरित्र कथन</td>
+  <td>३ (६ - ८)</td>
+</tr>
+<tr>
+  <td>तीन उपयोग कथन</td>
+  <td>२ (९ - १०)</td>
+</tr>
+<tr>
+  <td>उपयोग फल कथन</td>
+  <td>२ (११ - १२)</td>
+</tr>
+<tr>
+  <td>शुद्धोपयोग फल तथा लक्षण</td>
+  <td>२ (१३ - १४)</td>
+</tr>
+<tr>
+  <td rowspan='4'>सामान्य सर्वज्ञ सिद्धि - ७ (१५ - २१)</td>
+ <td>सर्वज्ञ स्वभाव कथन</td>
+ <td>२ (१५ - १६)</td>
+</tr>
+<tr>
+  <td>सर्वज्ञ की उत्पाद व्यय ध्रौव्य स्थापना</td>
+  <td>२ (१७ - १८)</td>
+</tr>
+<tr>
+  <td>सर्वज्ञ श्रद्धा से अनन्त सुख</td>
+  <td>१ ( १९)<td>
+</tr>
+<tr>
+  <td>अतीन्द्रिय ज्ञान तथा केवली कवलाहार निषेध</td>
+  <td>२ (२० - २१)</td>
+</tr>
+<tr>
+  <td rowspan='8'>ज्ञानप्रपंच - ३३ (२२ - ५४)</td>
+  <td>केवलज्ञान मे सब प्रत्यक्ष हैं</td>
+  <td>२ (२२ - २३)</td>
+</tr>
+<tr>
+  <td>आत्मा व्यवहार से सर्वगत है</td>
+  <td>५ (२४ - २८)</td>
+</tr>
+<tr>
+  <td>ज्ञान ज्ञेय का परस्पर गमन निराकरण</td>
+  <td>५ (२९ - ३३)</td>
+</tr>
+<tr>
+  <td>निश्चय व्यवहार केवली प्रतिपादन</td>
+  <td>४ (३४ - ३७)</td>
+</tr>
+<tr>
+  <td>वर्त्तमान ज्ञान त्रिकालज्ञ</td>
+  <td>५ (३८ - ४२)</td>
+</tr>
+<tr>
+  <td>बंधकारक ज्ञान नहीं, राग है</td>
+  <td>५ (४३ - ४७)</td>
+</tr>
+<tr>
+  <td>केवलज्ञान - सर्वज्ञता</td>
+  <td>५ (४८ - ५२)</td>
+</tr>
+<tr>
+  <td>ज्ञानप्रपंच उपसंहार</td>
+  <td>२ (५३ - ५४)</td>
+</tr>
+<tr>
+  <td rowspan='5'>सुखप्रपंच - १८ (५५ -७२)</td>
+  <td>अधिकार गाथा</td>
+  <td>१ (५५)</td>
+</tr>
+<tr>
+  <td>अतीन्द्रिय ज्ञान की प्रधानता परक</td>
+  <td>१ (५६)</td>
+</tr>
+<tr>
+  <td>इन्द्रिय ज्ञान की प्रधानता परक</td>
+  <td>४ (५७ - ६०)</td>
+</tr>
+<tr>
+  <td>अतीन्द्रिय सुख की प्रधानता परक</td>
+  <td>४ (६१ - ६४)</td>
+</tr>
+<tr>
+  <td>इन्द्रिय सुख प्रतिपादन परक</td>
+  <td>८ (६५ - ७२)</td>
+</tr>
+<tr>
+  <td rowspan='17'>ज्ञानकण्डिका चतुष्टय प्रतिपादक - २५ (७३ -९७)</td>
+  <td rowspan='3'> शुभाशुभ मूढता निराकरण - १० (७३ - ८२)</td>
+  <td>स्वतंत्र व्याख्यान</td>
+  <td>४ (७३ - ७६)</td>
+</tr>
+<tr>
+  <td>तृष्णोत्पादक पुण्य</td>
+  <td>४ (७७ - ८०)</td>
+</tr>
+<tr>
+  <td>उपसंहार</td>
+  <td>२ (८१ - ८२)</td>
+</tr>
+<tr>
+  <td rowspan='7'> आप्त-आत्मा के स्वरूप परिज्ञान विषयक मूढता निराकरण - ७ (८३ -८१)</td>
+  <td>शुद्धात्मा प्राप्ति का उपाय एकमात्र शुद्धोपयोग</td>
+  <td>१(८३)</td>
+</tr>
+<tr>
+  <td>सिद्ध दशा प्राप्ति का उपाय एकमात्र शुद्धोपयोग</td>
+  <td>१(८४)</td>
+</tr>
+<tr>
+  <td>निर्दोषी परमात्मा की श्रद्धा का फल अक्षय सुख</td>
+  <td>१(८५)</td>
+</tr>
+<tr>
+  <td>मोह क्षय का उपाय</td>
+  <td>१(८६)</td>
+</tr>
+<tr>
+  <td>शुद्धात्मारूप चिंतामणि की रक्षा का उपाय</td>
+  <td>१(८७)</td>
+</tr>
+<tr>
+  <td>मोक्ष प्राप्ति का अनाद्यानंत एक उपाय</td>
+  <td>१(८८)</td>
+</tr>
+<tr>
+  <td>रत्नत्रय आराधक पुरुष ही पुजादी के योग्य</td>
+  <td>१(८९)</td>
+</tr>
+<tr>
+  <td rowspan='5'>द्रव्य गुण पर्याय परिज्ञान विषयक मूढ़ता का निराकरण - ६ (१० - १५)</td>
+  <td>मोह के स्वरुप और भेद का प्रतिपादन</td>
+  <td>१(९०)</td>
+</tr>
+<tr>
+  <td>दुःख और बंध के कारक रागादी निर्मूल नष्ट करने योग्य</td>
+  <td>२(९१ - ९२)</td>
+</tr>
+<tr>
+  <td>आत्मा की जानकारी आगमाभ्यास की अपेक्षा रखता है</td>
+  <td>१(९३)</td>
+</tr>
+<tr>
+  <td>द्रव्य गुण पर्यायों की अर्थ संज्ञा है</td>
+  <td>१(९४)</td>
+</tr>
+<tr>
+  <td>संपूर्ण दुखों का क्षय, मोहादी का नष्ट करना है</td>
+  <td>१(९५)</td>
+</tr>
+<tr>
+  <td rowspan='2'> स्व पर तत्व परिज्ञान विषयक मूढता निराकरण - २ (१६,१७)</td>
+  <td>मोह क्षय का उपाय स्वपर भेद विज्ञान</td>
+  <td>१(९६)</td>
+</tr>
+<tr>
+  <td>स्वपर भेद विज्ञान का उपाय आगम</td>
+  <td>१(९७)</td>
+</tr>
+<tr>
+  <td rowspan='4'>स्वतंत्र गाथा चतुष्टय - ४ (९८ - १०१)</td>
+  <td colspan='2'>तत्वश्रद्धान रहित श्रमण के शुद्धोपयोग लक्षण धर्म नहीं होता है</td>
+  <td>१(९८)</td>
+</tr>
+<tr>
+  <td colspan='2'>शुद्धोपयोगी आत्मा ही धर्म है</td>
+  <td>१(९९)</td>
+</tr>
+<tr>
+  <td colspan='2'> शुद्धोपयोगी मुनि के प्रति भक्ति का फल</td>
+  <td>१(१००)</td>
+</tr>
+<tr>
+  <td colspan='2'> उस पुण्य से दुसरे भव मे फल</td>
+  <td>१(१०१)</td>
+</tr>
+</table>

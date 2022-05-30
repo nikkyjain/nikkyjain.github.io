@@ -1,0 +1,14 @@
+﻿आचार्य, उपाध्याय, तपस्वी, शैक्ष, ग्लान, गण, कुल, संघ, साधु और मनोज्ञ इनकी वैयावृत्य के भेद से वैयावृत्य दश प्रकार का है ॥२४॥
+<!--JsMindTagBegin-->
+	{"id":"root", "isroot":true, "topic":"वैयावृत्य के दश प्रकार"},
+	{"id":"sub1", "parentid":"root", "topic":"आचार्य", "direction":"left"},
+	{"id":"sub11", "parentid":"root", "topic":"उपाध्याय", "direction":"left"},
+	{"id":"sub12", "parentid":"root", "topic":"तपस्वी", "direction":"left"},
+	{"id":"sub13", "parentid":"root", "topic":"शैक्ष", "direction":"left"},
+	{"id":"sub14", "parentid":"root", "topic":"ग्लान ", "direction":"left"},
+	{"id":"sub15", "parentid":"root", "topic":"गण"},
+	{"id":"sub16", "parentid":"root", "topic":"कुल"},
+	{"id":"sub17", "parentid":"root", "topic":"संघ"},
+	{"id":"sub18", "parentid":"root", "topic":"साधु"},
+	{"id":"sub19", "parentid":"root", "topic":"मनोज्ञ"}
+<!--JsMindTagEnd-->

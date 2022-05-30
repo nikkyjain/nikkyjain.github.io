@@ -1,0 +1,16 @@
+﻿आकाशपर्यन्त सभी द्रव्य (धर्म, अधर्म और आकाश) १-१ हैं ।
+<!--JsMindTagBegin-->
+	{"id":"root", "isroot":true, "topic":"द्रव्यों की संख्या"},
+	{"id":"sub1", "parentid":"root", "topic":"जीव"},
+	{"id":"sub1a", "parentid":"sub1", "topic":"अनन्त"},
+	{"id":"sub2", "parentid":"root", "topic":"पुद्गल"},
+	{"id":"sub2a", "parentid":"sub2", "topic":"अनंतानंत"},
+	{"id":"sub3", "parentid":"root", "topic":"धर्म"},
+	{"id":"sub3a", "parentid":"sub3", "topic":"एक"},
+	{"id":"sub4", "parentid":"root", "topic":"अधर्म"},
+	{"id":"sub4a", "parentid":"sub4", "topic":"एक"},
+	{"id":"sub5", "parentid":"root", "topic":"आकाश"},
+	{"id":"sub5a", "parentid":"sub5", "topic":"एक"},
+	{"id":"sub6", "parentid":"root", "topic":"काल"},
+	{"id":"sub6a", "parentid":"sub6", "topic":"असंख्यात"}
+<!--JsMindTagEnd-->

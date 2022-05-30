@@ -1,0 +1,11 @@
+﻿(ऊपर कहे हुए सभी द्रव्य) नित्य (अविनाशी) है, अवस्थित (संख्या निश्चित है), अन्यरूपाणि (चक्षु इन्द्रिय से देखे नहीं जा सकते / अरूपी) हैं ।
+<!--JsMindTagBeginH2-->
+{"id":"root", "isroot":true, "topic":"द्रव्य"},
+{"id":"sub1", "parentid":"root", "topic":"नित्य"},
+{"id":"sub2", "parentid":"root", "topic":"अवस्थित"},
+{"id":"sub3", "parentid":"root", "topic":"अरूपी"}, 
+{"id":"sub11", "parentid":"sub1", "topic":"अविनाशी"},
+{"id":"sub21", "parentid":"sub2", "topic":"संख्या निश्चित है"},
+{"id":"sub31", "parentid":"sub3", "topic":"चक्षु इन्द्रिय का विषय नहीं"},
+{"id":"sub32", "parentid":"sub3", "topic":"पुद्गल रूपी है"}
+<!--JsMindTagEnd-->

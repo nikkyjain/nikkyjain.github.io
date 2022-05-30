@@ -1,0 +1,13 @@
+﻿इनके सिवा शेष सब प्रकृतियाँ पापरूप हैं ॥२६॥
+<!--JsMindTagBeginH6-->
+	{"id":"root", "isroot":true, "topic":"पापरूप प्रकृतियाँ"},
+	{"id":"sub1", "parentid":"root", "topic":"82 प्रकार"},
+	{"id":"sub2", "parentid":"sub1", "topic":"ज्ञानावरण - 5"},
+	{"id":"sub3", "parentid":"sub1", "topic":"दर्शनावरण - 9"},
+	{"id":"sub4", "parentid":"sub1", "topic":"मोहनीय - 26"},
+	{"id":"sub5", "parentid":"sub1", "topic":"अन्तराय - 5"},
+	{"id":"sub6", "parentid":"sub1", "topic":"नाम - 34"},
+	{"id":"sub7", "parentid":"sub1", "topic":"वेदनीय - असाता"},
+	{"id":"sub8", "parentid":"sub1", "topic":"आयु -- नरक"},
+	{"id":"sub9", "parentid":"sub1", "topic":"गोत्र -- नीच"}
+<!--JsMindTagEnd-->

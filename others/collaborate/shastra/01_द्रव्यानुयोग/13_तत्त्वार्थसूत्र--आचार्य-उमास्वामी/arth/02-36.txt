@@ -1,0 +1,25 @@
+﻿औदारिक, वैक्रियिक, आहारक, तैजस और कार्मण ये पाँच शरीर हैं ॥३६॥
+<!--PythonTagBegin-->
+<ul class=orgchart>
+  <li class=root>
+    <div class=nodecontent>शरीर</div>
+    <ul>
+      <li class=leaf>
+        <div class=nodecontent>औदारिक</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>वैक्रियिक</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>आहारक</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>तैजस</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>कार्मण</div>
+      </li>
+    </ul>
+  </li>
+</ul>
+<!--PythonTagEnd-->

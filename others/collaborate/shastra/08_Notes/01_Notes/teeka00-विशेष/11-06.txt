@@ -1,0 +1,140 @@
+﻿<table class=myAltTable>
+  <tr>
+    <th colspan=8 class=tableTitle>एक जीव की अपेक्षा मोहनीय कर्म के त्रिसंयोग भंग</th>
+  </tr>
+  <tr>
+    <td colspan=2 rowspan=2 class=emptyTableCell></td>
+    <th colspan=2>बंध</th>
+    <th colspan=2>उदय</th>
+    <th colspan=2>सत्त्व</th>
+  </tr>
+  <tr>
+    <th>संख्या</th>
+    <th>स्थान</th>
+    <th>संख्या</th>
+    <th>स्थान</th>
+    <th>संख्या</th>
+    <th>स्थान</th>
+  </tr>
+  <tr>
+    <th colspan=2>मिथ्यात्व</th>
+    <td><b>1</b></td>
+    <td>22</td>
+    <td><b>4</b></td>
+    <td>10,9,8,7</td>
+    <td><b>3</b></td>
+    <td>28,27,26</td>
+  </tr>
+  <tr>
+    <th colspan=2>सासादन</th>
+    <td><b>1</b></td>
+    <td>21</td>
+    <td><b>3</b></td>
+    <td>9,8,7</td>
+    <td><b>1</b></td>
+    <td>28</td>
+  </tr>
+  <tr>
+    <th colspan=2>मिश्र</th>
+    <td><b>1</b></td>
+    <td>17</td>
+    <td><b>3</b></td>
+    <td>9,8,7</td>
+    <td><b>2</b></td>
+    <td>28,24</td>
+  </tr>
+  <tr>
+    <th colspan=2>असंयत स.</th>
+    <td><b>1</b></td>
+    <td>17</td>
+    <td><b>4</b></td>
+    <td>9,8,7,6</td>
+    <td><b>5</b></td>
+    <td>28,24,23,22,21</td>
+  </tr>
+  <tr>
+    <th colspan=2>देशविरत</th>
+    <td><b>1</b></td>
+    <td>13</td>
+    <td><b>4</b></td>
+    <td>8,7,6,5</td>
+    <td><b>5</b></td>
+    <td>28,24,23,22,21</td>
+  </tr>
+  <tr>
+    <th colspan=2>प्रमत्तसंयत</th>
+    <td rowspan=2><b>1</b></td>
+    <td rowspan=2>9</td>
+    <td rowspan=2><b>4</b></td>
+    <td rowspan=2>7,6,5,4</td>
+    <td rowspan=2><b>5</b></td>
+    <td rowspan=2>28,24,23,22,21</td>
+  </tr>
+  <tr>
+    <th colspan=2>अप्रमत्तसंयत</th>
+  </tr>
+  <tr>
+    <th rowspan=2>अपूर्वकरण</th>
+    <th>उ.श्रे.</th>
+    <td><b>1</b></td>
+    <td>9</td>
+    <td><b>3</b></td>
+    <td>6,5,4</td>
+    <td><b>3</b></td>
+    <td>28,24,21</td>
+  </tr>
+  <tr>
+    <th>क्ष.श्रे.</th>
+    <td><b>1</b></td>
+    <td>9</td>
+    <td><b>3</b></td>
+    <td>6,5,4</td>
+    <td><b>1</b></td>
+    <td>21</td>
+  </tr>
+  <tr>
+    <th rowspan=2>अनिवृत्तिकरण</th>
+    <th>उ.श्रे.</th>
+    <td><b>5</b></td>
+    <td>5,4,3,2,1</td>
+    <td><b>2</b></td>
+    <td>2,1</td>
+    <td><b>3</b></td>
+    <td>28,24,21</td>
+  </tr>
+  <tr>
+    <th>क्ष.श्रे.</th>
+    <td><b>5</b></td>
+    <td>5,4,3,2,1</td>
+    <td><b>2</b></td>
+    <td>2,1</td>
+    <td><b>8</b></td>
+    <td>13,12,11,5,4,3,2,1</td>
+  </tr>
+  <tr>
+    <th rowspan=2>सूक्ष्मसाम्पराय</th>
+    <th>उ.श्रे.</th>
+    <td colspan=2 class=tableNotes>-na-</td>
+    <td><b>1</b></td>
+    <td>1</td>
+    <td><b>3</b></td>
+    <td>28,24,21</td>
+  </tr>
+  <tr>
+    <th>क्ष.श्रे.</th>
+    <td colspan=2 class=tableNotes>-na-</td>
+    <td><b>1</b></td>
+    <td>1</td>
+    <td><b>1</b></td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <th colspan=2>उपशान्तमोह</th>
+    <td colspan=4 class=tableNotes>-na-</td>
+    <td><b>3</b></td>
+    <td>28,24,21</td>
+  </tr>
+  <tr>
+    <td colspan=8 class=tableNotes>गोम्मटसार कर्मकांड गाथा -- 653-659</td>
+  </tr>
+</table>

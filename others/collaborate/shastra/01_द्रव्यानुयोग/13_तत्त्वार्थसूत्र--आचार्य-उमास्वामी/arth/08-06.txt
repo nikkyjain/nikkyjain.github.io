@@ -1,0 +1,9 @@
+﻿मतिज्ञान, श्रुतज्ञान, अवधिज्ञान, मन:पर्ययज्ञान और केवलज्ञान इनको आवरण करने वाले कर्म पाँच ज्ञानावरण हैं ॥६॥
+<!--JsMindTagBegin-->
+	{"id":"root", "isroot":true, "topic":"ज्ञानावरण कर्म के भेद "},
+	{"id":"sub1", "parentid":"root", "topic":"मतिज्ञानावरण"},
+	{"id":"sub11", "parentid":"root", "topic":"श्रुतज्ञानावरण"},
+	{"id":"sub12", "parentid":"root", "topic":"अवधिज्ञानावरण"},
+	{"id":"sub13", "parentid":"root", "topic":"मन:पर्ययज्ञानावरण "},
+	{"id":"sub14", "parentid":"root", "topic":"केवलज्ञानावरण "}
+<!--JsMindTagEnd-->

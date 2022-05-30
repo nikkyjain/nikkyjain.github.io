@@ -1,0 +1,31 @@
+﻿जीव, अजीव, आस्रव, बंध, संवर, निर्जरा और मोक्ष ये तत्त्व हैं ॥४॥
+<!--PythonTagBegin-->
+<ul class=orgchart>
+  <li class=root>
+    <div class=nodecontent>तत्त्व</div>
+    <ul>
+      <li class=leaf>
+        <div class=nodecontent>जीव</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>अजीव</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>आस्रव</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>बंध</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>संवर</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>निर्जरा</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>मोक्ष</div>
+      </li>
+    </ul>
+  </li>
+</ul>
+<!--PythonTagEnd-->

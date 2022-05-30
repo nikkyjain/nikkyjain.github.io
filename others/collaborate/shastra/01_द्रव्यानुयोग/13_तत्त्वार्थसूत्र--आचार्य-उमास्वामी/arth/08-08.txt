@@ -1,0 +1,6 @@
+﻿सद्वेद्य और असद्वेद्य ये दो वेदनीय हैं ॥८॥
+<!--JsMindTagBeginH2-->
+	{"id":"root", "isroot":true, "topic":"वेदनीय कर्म के भेद"},
+	{"id":"sub1", "parentid":"root", "topic":"सद्वेद्य"},
+	{"id":"sub11", "parentid":"root", "topic":"असद्वेद्य"}         
+<!--JsMindTagEnd-->

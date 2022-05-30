@@ -1,0 +1,1 @@
+﻿Movement without a bend (takes) one instant.

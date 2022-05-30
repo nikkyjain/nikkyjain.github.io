@@ -1,0 +1,322 @@
+﻿<table class=myAltTable>
+  <thead>
+  <tr>
+    <th>मार्गणा</th>
+    <th colspan=2>विशेष</th>
+    <th>गुणस्थान</th>
+    <th>भाव</th>
+  </tr>
+  </thead>
+  <tr>
+    <th rowspan=16>गति</th>
+    <td class=head2 rowspan=8>नरक</td>
+    <td class=head2 rowspan=4>सामान्य</td>
+    <td class=head2>मिथ्यादृष्टि</td>
+    <td>औदयिक</td>
+  </tr>
+  <tr>
+    <td class=head2>सासादन</td>
+    <td>पारिणामिक</td>
+  </tr>
+  <tr>
+    <td class=head2>सम्यग्मिथ्यादृष्टि</td>
+    <td>क्षायोपशामिक</td>
+  </tr>
+  <tr>
+    <td class=head2>असंयत सम्यग्दृष्टि</td>
+    <td>औपशमिक, क्षायिक, क्षायोपशमिक</td>
+  </tr>
+  <tr>
+    <td class=head2 colspan=2>असंयतत्व</td>
+    <td>औदयिक</td>
+  </tr>
+  <tr>
+    <td class=head2 colspan=2>१</td>
+    <td>सामान्य के समान</td>
+  </tr>
+  <tr>
+    <td class=head2 rowspan=2>२ से ७</td>
+    <td class=head2>मिथ्यादृष्टि, सासादन, सम्यग्मिथ्यादृष्टि</td>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head2>असंयत सम्यग्दृष्टि</td>
+    <td>औपशमिक, क्षायोपशमिक</td>
+  </tr>
+  <tr>
+    <td class=head2 rowspan=3>तिर्यंच</td>
+    <td class=head2>पंचेन्द्रिय, पंचेन्द्रिय पर्याप्त, पंचेन्द्रिय योनिनी</td>
+    <td class=head2>मिथ्यादृष्टि से संयतासंयत</td>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head2>पंचेन्द्रिय योनिनी</td>
+    <td class=head2>असंयत सम्यग्दृष्टि</td>
+    <td>औपशमिक, क्षायोपशमिक</td>
+  </tr>
+  <tr>
+    <td class=head2 colspan=2>असंयतत्व</td>
+    <td>औदयिक</td>
+  </tr>
+  <tr>
+    <td class=head2>मनुष्य</td>
+    <td class=head2>मनुष्य, मनुष्य पर्याप्त, मनुष्यिनी</td>
+    <td class=head2>मिथ्यादृष्टि से अयोग-केवली</td>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head2>देव</td>
+    <td class=head2>सामान्य</td>
+    <td class=head2>मिथ्यादृष्टि से असंयत सम्यग्दृष्टि</td>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head2></td>
+    <td class=head2>भवनवासी, व्यन्तर, ज्योतिष देव देवियाँ<span style=font-style:italic> </span>सौधर्म,<span style=font-style:italic> </span>ईशान देवियाँ</td>
+    <td class=head2>असंयत सम्यग्दृष्टि</td>
+    <td>औपशमिक, क्षायोपशमिक</td>
+  </tr>
+  <tr>
+    <td class=head2></td>
+    <td class=head2>सौधर्म से नव ग्रेवैयिक देव</td>
+    <td class=head2>मिथ्यादृष्टि से असंयत सम्यग्दृष्टि</td>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head2></td>
+    <td class=head2>अनुदिश से सर्वार्थसिद्धि</td>
+    <td class=head2>असंयत सम्यग्दृष्टि</td>
+    <td>औपशमिक, क्षायिक, क्षायोपशमिक</td>
+  </tr>
+  <tr>
+    <th>इन्द्रिय</th>
+    <td class=head3>पंचेन्द्रिय</td>
+    <td class=head3>पर्याप्तक</td>
+    <td class=head3>मिथ्यादृष्टि से अयोग-केवली</td>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th>काय</th>
+    <td class=head4>त्रस</td>
+    <td class=head4>त्रस और पर्याप्त</td>
+    <td class=head4>मिथ्यादृष्टि से अयोग-केवली</td>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th rowspan=3>योग</th>
+    <td class=head2 rowspan=3>काय</td>
+    <td class=head2 rowspan=2>औदारिक-मिश्र</td>
+    <td class=head2>असंयत सम्यग्दृष्टि</td>
+    <td>क्षायिक, क्षायोपशमिक</td>
+  </tr>
+  <tr>
+    <td class=head2>सयोग-केवली</td>
+    <td>क्षायिक</td>
+  </tr>
+  <tr>
+    <td class=head2>आहारक, आहारक-मिश्र</td>
+    <td class=head2>प्रमत्त-संयत</td>
+    <td>क्षायोपशमिक</td>
+  </tr>
+  <tr>
+    <th rowspan=2>वेद</th>
+    <td class=head3 colspan=2>स्त्री, पुरुष, नपुंसक</td>
+    <td class=head3>मिथ्यादृष्टि से अनिवृत्तिकरण</td>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head3 colspan=2>अपगत</td>
+    <td class=head3>अनिवृत्तिकरण के अवेद भाव से अयोग-केवली</td>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th rowspan=2>कषाय</th>
+    <td class=head4 colspan=2>क्रोध, मान, माया, लोभ</td>
+    <td class=head4>मिथ्यादृष्टि से सूक्ष्म-साम्पराय, उपशमक / क्षपक</td>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head4 colspan=2>अकषायी</td>
+    <td class=head4>अंतिम चार गुणस्थान</td>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th rowspan=4>ज्ञान</th>
+    <td class=head2 colspan=2>मत्यज्ञानी-श्रुताज्ञानी, विभंग</td>
+    <td class=head2>मिथ्यादृष्टि, सासादन</td>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head2 colspan=2>मति-श्रुत-अवधि</td>
+    <td class=head2>असंयत सम्यग्दृष्टि से क्षीणकषाय</td>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head2 colspan=2>मन:पर्यय</td>
+    <td class=head2>प्रमत्त-संयत से क्षीणकषाय</td>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head2 colspan=2>केवल</td>
+    <td class=head2>सयोग-केवली, अयोग-केवली</td>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th rowspan=7>संयम</th>
+    <td class=head3 colspan=2>संयत</td>
+    <td class=head3>प्रमत्त-संयत से अयोग-केवली</td>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head3 colspan=2>सामायिक, छेदोपस्थापना</td>
+    <td class=head3>प्रमत्त-संयत से अनिवृत्तिकरण</td>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head3 colspan=2>परिहारिविशुद्धि</td>
+    <td class=head3>प्रमत्त-संयत, अप्रमत्त-संयत</td>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head3 colspan=2>सूक्ष्म-साम्परायिक सुद्धि संयत</td>
+    <td class=head3>सूक्ष्म-साम्पराय उपशामक / क्षपक</td>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head3 colspan=2>यथाख्यात</td>
+    <td class=head3>अंतिम चार गुणस्थान</td>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head3 colspan=3>संयतासंयत</td>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head3 colspan=2>असंयत</td>
+    <td class=head3>मिथ्यादृष्टि से असंयत सम्यग्दृष्टि</td>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th rowspan=4>दर्शन</th>
+    <td class=head4 colspan=2>चक्षु-दर्शन</td>
+    <td class=head4>मिथ्यादृष्टि से क्षीणकषाय</td>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head4 colspan=2>अचक्षु-दर्शन</td>
+    <td class=head4>मिथ्यादृष्टि से क्षीणकषाय</td>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head4 colspan=3>अवधि</td>
+    <td>अवधि-ज्ञानियों के समान</td>
+  </tr>
+  <tr>
+    <td class=head4 colspan=3>केवल</td>
+    <td>केवलज्ञानियों के समान</td>
+  </tr>
+  <tr>
+    <th rowspan=3>लेश्या</th>
+    <td class=head2 colspan=2>कृष्ण, नील, कापोत</td>
+    <td class=head2>मिथ्यादृष्टि से असंयत सम्यग्दृष्टि</td>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head2 colspan=2>तेज, पद्म</td>
+    <td class=head2>मिथ्यादृष्टि, से अप्रमत्त-संयत</td>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head2 colspan=2>शुक्ल</td>
+    <td class=head2>मिथ्यादृष्टि से सयोग-केवली</td>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th rowspan=2>भव्य</th>
+    <td class=head3 colspan=2>भव्यसिद्धिक</td>
+    <td class=head3>मिथ्यादृष्टि से अयोग-केवली</td>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head3 colspan=3>अभव्यसिद्धिक</td>
+    <td>पारिणामिक</td>
+  </tr>
+  <tr>
+    <th rowspan=12>सम्यक्त्व</th>
+    <td class=head4 rowspan=9>सम्यग्दृष्टि</td>
+    <td class=head4 rowspan=4>क्षायिकसम्यग्दृष्टि</td>
+    <td class=head4>असंयत सम्यग्दृष्टि</td>
+    <td>क्षायिक</td>
+  </tr>
+  <tr>
+    <td class=head4>संयतासंयत से अप्रमत्त-संयत</td>
+    <td>क्षायोपशमिक</td>
+  </tr>
+  <tr>
+    <td class=head4>उपशामक</td>
+    <td>औपशमिक</td>
+  </tr>
+  <tr>
+    <td class=head4>क्षपक, सयोग-केवली, अयोग-केवली</td>
+    <td>क्षायिक</td>
+  </tr>
+  <tr>
+    <td class=head4 rowspan=2>वेदक</td>
+    <td class=head4>असंयत सम्यग्दृष्टि</td>
+    <td>क्षायोपशमिक</td>
+  </tr>
+  <tr>
+    <td class=head4>संयतासंयत से अप्रमत्त-संयत</td>
+    <td>क्षायोपशमिक</td>
+  </tr>
+  <tr>
+    <td class=head4 rowspan=3>उपशम</td>
+    <td class=head4>असंयत सम्यग्दृष्टि</td>
+    <td>औपशमिक</td>
+  </tr>
+  <tr>
+    <td class=head4>संयतासंयत से अप्रमत्त-संयत</td>
+    <td>औपशमिक</td>
+  </tr>
+  <tr>
+    <td class=head4>उपशामक</td>
+    <td>औपशमिक</td>
+  </tr>
+  <tr>
+    <td class=head4 colspan=3>सासादन</td>
+    <td>पारिणामिक</td>
+  </tr>
+  <tr>
+    <td class=head4 colspan=3>सम्यग्मिथ्यादृष्टि</td>
+    <td>क्षायोपशमिक</td>
+  </tr>
+  <tr>
+    <td class=head4 colspan=3>मिथ्यादृष्टि</td>
+    <td>औदयिक</td>
+  </tr>
+  <tr>
+    <th rowspan=2>संज्ञी</th>
+    <td class=head2 colspan=2>संज्ञी</td>
+    <td class=head2>मिथ्यादृष्टि से क्षीणकषाय</td>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head2 colspan=3>असंज्ञी</td>
+    <td>औदयिक</td>
+  </tr>
+  <tr>
+    <th rowspan=3>आहार</th>
+    <td class=head3 colspan=2>आहारक</td>
+    <td class=head3>मिथ्यादृष्टि से सयोग-केवली</td>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head3 colspan=2 rowspan=2>अनाहारक</td>
+    <td class=head3>मिथ्यादृष्टि, सासादन, असंयत सम्यग्दृष्टि, सयोग-केवली</td>
+    <td>कार्मण-काययोगी के समान</td>
+  </tr>
+  <tr>
+    <td class=head3>अयोग-केवली</td>
+    <td>क्षायिक</td>
+  </tr>
+</table>

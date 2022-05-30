@@ -1,0 +1,15 @@
+﻿प्रायश्चित्त, विनय, वैयावृत्य, स्वाध्याय, व्यु‍त्सर्ग और ध्यान यह छह प्रकार का आभ्यन्तर तप है ॥२०॥ 
+<!--JsMindTagBegin-->
+	{"id":"root", "isroot":true, "topic":"आभ्यन्तर तप के प्रकार "},
+	{"id":"sub1", "parentid":"root", "topic":"प्रायश्चित्त"},
+	{"id":"sub1a", "parentid":"sub1", "topic":"9 भेद"},
+	{"id":"sub2", "parentid":"root", "topic":"विनय"},
+	{"id":"sub2a", "parentid":"sub2", "topic":"4 भेद"},
+	{"id":"sub3", "parentid":"root", "topic":"वैयावृत्य"},
+	{"id":"sub3a", "parentid":"sub3", "topic":"10 भेद"},
+	{"id":"sub4", "parentid":"root", "topic":"स्वाध्याय"},
+	{"id":"sub4a", "parentid":"sub4", "topic":"5 भेद"},
+	{"id":"sub5", "parentid":"root", "topic":"व्यु‍त्सर्ग"},
+	{"id":"sub5a", "parentid":"sub5", "topic":"2 भेद"},
+	{"id":"sub6", "parentid":"root", "topic":"ध्यान"}
+<!--JsMindTagEnd-->

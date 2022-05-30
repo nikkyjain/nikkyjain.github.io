@@ -1,0 +1,16 @@
+﻿प्रमाण और नयों से पदार्थों का ज्ञान होता है ॥६॥
+<!--PythonTagBegin-->
+<ul class=orgchart>
+  <li class=root>
+    <div class=nodecontent>ज्ञान के उपाय</div>
+    <ul>
+      <li class=leaf>
+        <div class=nodecontent>प्रमाण</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>नय</div>
+      </li>
+    </ul>
+  </li>
+</ul>
+<!--PythonTagEnd-->

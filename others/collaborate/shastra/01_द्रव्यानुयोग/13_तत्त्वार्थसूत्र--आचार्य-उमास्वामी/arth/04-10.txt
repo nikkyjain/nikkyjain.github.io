@@ -1,0 +1,15 @@
+﻿भवनवासी देव दस प्रकार के हैं - असुरकुमार, नागकुमार, विद्युत्‍कुमार, सुपर्णकुमार, अग्निकुमार, वातकुमार, स्‍तनितकुमार, उदधिकुमार, द्वीपकुमार और दिक्‍कुमार ॥१०॥
+<!--JsMindTagBeginH6-->
+    {"id":"root", "isroot":true, "topic":"भवनवासी देवों में जाति"},
+
+    {"id":"sub1", "parentid":"root", "topic":"असुरकुमार"},
+    {"id":"sub2", "parentid":"root", "topic":"नागकुमार"},
+    {"id":"sub3", "parentid":"root", "topic":"विद्युत्‍कुमार"},
+    {"id":"sub4", "parentid":"root", "topic":"सुपर्णकुमार"},
+    {"id":"sub5", "parentid":"root", "topic":"अग्निकुमार"},
+    {"id":"sub6", "parentid":"root", "topic":"वातकुमार"},
+    {"id":"sub7", "parentid":"root", "topic":"स्‍तनितकुमार"},
+    {"id":"sub8", "parentid":"root", "topic":"उदधिकुमार"},
+    {"id":"sub9", "parentid":"root", "topic":"द्वीपकुमार"},
+    {"id":"sub0", "parentid":"root", "topic":"दिक्‍कुमार"}
+<!--JsMindTagEnd-->

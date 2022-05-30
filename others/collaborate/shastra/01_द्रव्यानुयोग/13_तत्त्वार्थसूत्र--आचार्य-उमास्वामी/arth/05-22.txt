@@ -1,0 +1,10 @@
+﻿वर्तना, परिणाम, क्रिया, परत्व और अपरत्व ये काल के उपकार हैं ॥२२॥
+<!--JsMindTagBegin-->
+	{"id":"root", "isroot":true, "topic":"काल द्रव्य का उपकार"},
+
+	{"id":"sub1", "parentid":"root", "topic":"वर्तना"},
+	{"id":"sub2", "parentid":"root", "topic":"परिणाम"},
+	{"id":"sub3", "parentid":"root", "topic":"क्रिया"},
+	{"id":"sub4", "parentid":"root", "topic":"परत्व"},
+	{"id":"sub5", "parentid":"root", "topic":"अपरत्व"}
+<!--JsMindTagEnd-->

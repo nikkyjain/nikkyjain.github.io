@@ -1,0 +1,10 @@
+मिथ्यात्व के उदय से जो तत्वों का अश्रद्धान है वह मिथ्यात्व कहलाता है उसके ५ भेद हैं- एकांत, विपरीत, विनय, संशय और अज्ञान ॥३॥
+<!--JsMindTagBegin-->
+    {"id":"root", "isroot":true, "topic":"मिथ्यात्व"},
+	
+    {"id":"sub1a", "parentid":"root", "topic":"विपरीत"},
+    {"id":"sub1b", "parentid":"root", "topic":"एकान्त"},
+    {"id":"sub1c", "parentid":"root", "topic":"विनय"},
+    {"id":"sub1d", "parentid":"root", "topic":"संशय"},
+    {"id":"sub1e", "parentid":"root", "topic":"अज्ञान"}
+<!--JsMindTagEnd-->

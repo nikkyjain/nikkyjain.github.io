@@ -1,0 +1,9 @@
+﻿हिंसा, असत्य, चोरी, अब्रह्म और परिग्रह से विरत होना व्रत है  ॥१॥
+<!--JsMindTagBegin-->
+{"id":"root", "isroot":true, "topic":"व्रत "},
+	{"id":"sub1", "parentid":"root", "topic":"हिंसा से विरत"},
+	{"id":"sub2", "parentid":"root", "topic":"असत्य से विरत"},
+	{"id":"sub3", "parentid":"root", "topic":"चोरी से विरत"},
+	{"id":"sub4", "parentid":"root", "topic":"अब्रह्म  से विरत"},
+	{"id":"sub5", "parentid":"root", "topic":"परिग्रह से विरत"}
+<!--JsMindTagEnd-->

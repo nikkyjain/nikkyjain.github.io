@@ -1,0 +1,14 @@
+﻿ईर्या, भाषा, एषणा, आदाननिक्षेप और उत्सर्ग ये पाँच समितियाँ हैं ॥५॥ 
+<!--JsMindTagBegin-->
+	{"id":"root", "isroot":true, "topic":"समितियाँ"},
+	{"id":"sub1", "parentid":"root", "topic":"सम्यक् ईर्या"},
+	{"id":"sub1a", "parentid":"sub1", "topic":"चार हाथ आगे की भूमि को देखकर चलना"},
+	{"id":"sub2", "parentid":"root", "topic":"सम्यक् भाषा"},
+	{"id":"sub2a", "parentid":"sub2", "topic":"हित-मित-प्रिय वचन"},
+	{"id":"sub3", "parentid":"root", "topic":"सम्यक् एषणा"},
+	{"id":"sub3a", "parentid":"sub3", "topic":"32 अंतराय, 46 दोष रहित आहार का आसक्ति-रहित ग्रहण"},
+	{"id":"sub4", "parentid":"root", "topic":"सम्यक् आदाननिक्षेप"},
+	{"id":"sub4a", "parentid":"sub4", "topic":"यत्नाचार पूर्वक धर्मोंपकरणों का रखना / उठाना"},
+	{"id":"sub5", "parentid":"root", "topic":"सम्यक् उत्सर्ग"},
+	{"id":"sub5a", "parentid":"sub5", "topic":"निर्जन्तु-स्थान में मल-मूत्र आदि का विसर्जन"}
+<!--JsMindTagEnd-->	

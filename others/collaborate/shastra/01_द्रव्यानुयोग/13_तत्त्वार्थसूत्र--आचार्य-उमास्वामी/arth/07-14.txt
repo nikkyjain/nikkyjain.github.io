@@ -1,0 +1,26 @@
+﻿अप्रशस्त बोलना अनृत है ॥१४॥
+<!--JsMindTagBeginH12-->
+	{"id":"root", "isroot":true, "topic":"असत्य"},
+	{"id":"sub1", "parentid":"root", "topic":"विद्यमान वस्तु का निषेध करना"},
+	{"id":"sub2", "parentid":"root", "topic":"अविद्यमान वस्तु का सद्भाव प्रकट करना"},
+	{"id":"sub3", "parentid":"root", "topic":"विद्यमान वस्तु को अन्य स्वरूप कहना"},
+	{"id":"sub4", "parentid":"root", "topic":"गर्हित (निंद्य)"},
+	{"id":"sub4b", "parentid":"sub4", "topic":"कठोर"},
+	{"id":"sub4c", "parentid":"sub4", "topic":"मिथ्याश्रद्धान"},
+	{"id":"sub4d", "parentid":"sub4", "topic":"प्रलापरूप"},
+	{"id":"sub4e", "parentid":"sub4", "topic":"शास्त्र विरुद्ध आदि"},
+	{"id":"sub5", "parentid":"root", "topic":"अवद्य(पाप संयुक्त)"},
+	{"id":"sub5a", "parentid":"sub5", "topic":"छेदन"},
+	{"id":"sub5b", "parentid":"sub5", "topic":"भेदन"},
+	{"id":"sub5c", "parentid":"sub5", "topic":"मारण"},
+	{"id":"sub5d", "parentid":"sub5", "topic":"शोषण"},
+	{"id":"sub5e", "parentid":"sub5", "topic":"व्यापार"},
+	{"id":"sub5f", "parentid":"sub5", "topic":"चोरी आदि के वचन"},
+	{"id":"sub6", "parentid":"root", "topic":"अप्रिय"},
+	{"id":"sub6a", "parentid":"sub6", "topic":"अप्रियकारक"},
+	{"id":"sub6b", "parentid":"sub6", "topic":"भयकारक"},
+	{"id":"sub6c", "parentid":"sub6", "topic":"खेदकारक"},
+	{"id":"sub6d", "parentid":"sub6", "topic":"बैर"},
+	{"id":"sub6e", "parentid":"sub6", "topic":"शोक"},
+	{"id":"sub6f", "parentid":"sub6", "topic":"कलहकारक"}
+<!--JsMindTagEnd-->

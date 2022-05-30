@@ -1,0 +1,9 @@
+﻿धर्म, अधर्म, आकाश, और पुद्गल अजीव (चेतना रहित) और कायावान (बहु प्रदेशी) है ।
+<!--JsMindTagBeginH2-->
+	{"id":"root", "isroot":true, "topic":"अजीव और बहु प्रदेशी द्रव्य"},
+
+	{"id":"sub1", "parentid":"root", "topic":"धर्म"},
+	{"id":"sub2", "parentid":"root", "topic":"अधर्म"},
+	{"id":"sub3", "parentid":"root", "topic":"आकाश"},
+	{"id":"sub4", "parentid":"root", "topic":"पुद्गल "}
+<!--JsMindTagEnd-->

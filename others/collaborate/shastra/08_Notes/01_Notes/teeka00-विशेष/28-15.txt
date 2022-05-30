@@ -1,0 +1,133 @@
+﻿<table class=myAltTable>
+	<tbody>
+		<tr>
+			<th colspan=6 class=tableTitle>शुक्र से प्राणत युगल सम्बन्धी आयु</th>
+		</tr>
+		<tr>
+			<td rowspan=2 class=emptyTableCell></td>
+			<th rowspan=2>नाम</th>
+			<th colspan=2>आयु सामान्य</th>
+			<th rowspan=2>बद्धायुष्क की अपेक्षा उत्कृष्ट</th>
+			<th rowspan=2>घातायुष्क की अपेक्षा उत्कृष्ट</th>
+		</tr>
+		<tr>
+			<th>जघन्य</th>
+			<th>उत्कृष्ट</th>
+		</tr>
+		<tr>
+			<th>सामान्य</th>
+			<th>स्वर्ग सामान्य</th>
+			<td>साधिक 14 सागर</td>
+			<td>साधिक 1 सागर</td>
+			<td></td>
+			<td rowspan=4>उत्कृष्ट आयुवत</td>
+		</tr>
+		<tr>
+			<th rowspan=2>घातायुष्क</th>
+			<th>सम्यग्दृष्टि</th>
+			<td>15/2 सागर</td>
+			<td>33/2 सागर</td>
+			<td></td>
+		</tr>
+		<tr>
+			<th>मिथ्या दृष्टि</th>
+			<td>14 सागर - पल्य /अ सं</td>
+			<td>16 सागर + पल्य /अ सं</td>
+			<td></td>
+		</tr>
+		<tr>
+			<th>प्रत्येक पटल</th>
+			<th>महा शुक्र</th>
+			<td>15/2 सागर</td>
+			<td>33/2 सागर</td>
+			<td>साधिक 16 सागर</td>
+		</tr>
+		<tr>
+			<td rowspan=3 class=emptyTableCell></td>
+			<th colspan=5 class=tableTitle>शतार सहस्त्रार युगल सम्बन्धी</th>
+		</tr>
+		<tr>
+			<th rowspan=2>नाम</th>
+			<th colspan=2>आयु सामान्य</th>
+			<th rowspan=2>बद्धायुष्क की अपेक्षा उत्कृष्ट</th>
+			<th rowspan=2>घातायुष्क की अपेक्षा उत्कृष्ट</th>
+		</tr>
+		<tr>
+			<th>जघन्य</th>
+			<th>उत्कृष्ट</th>
+		</tr>
+		<tr>
+			<th>सामान्य</th>
+			<th>स्वर्ग सामान्य</th>
+			<td>साधिक 16 सागर</td>
+			<td>साधिक 18 सागर</td>
+			<td></td>
+			<td rowspan=4>उत्कृष्ट आयुवत</td>
+		</tr>
+		<tr>
+			<th rowspan=2>घातायुष्क</th>
+			<th>सम्यग्दृष्टि</th>
+			<td>33/2 सागर</td>
+			<td>37/2 सागर</td>
+			<td></td>
+		</tr>
+		<tr>
+			<th>मिथ्या दृष्टि</th>
+			<td>16 सागर + पल्य /अ सं</td>
+			<td>18 सागर + पल्य /अ सं</td>
+			<td></td>
+		</tr>
+		<tr>
+			<th>प्रत्येक पटल</th>
+			<th>सहस्त्रार</th>
+			<td>33/2 सागर</td>
+			<td>37/2 सागर</td>
+			<td>साधिक 18 सागर</td>
+		</tr>
+		<tr>
+			<td rowspan=3 class=emptyTableCell></td>
+			<th colspan=5 class=tableTitle>आनत प्राणत युगल सम्बन्धी</th>
+		</tr>
+		<tr>
+			<th rowspan=2>नाम</th>
+			<th colspan=2>आयु सामान्य</th>
+			<th rowspan=2>बद्धायुष्क की अपेक्षा उत्कृष्ट</th>
+			<th rowspan=2>घातायुष्क की अपेक्षा उत्कृष्ट</th>
+		</tr>
+		<tr>
+			<th>जघन्य</th>
+			<th>उत्कृष्ट</th>
+		</tr>
+		<tr>
+			<th>सामान्य</th>
+			<th>स्वर्ग सामान्य</th>
+			<td>18 सागर</td>
+			<td>20 सागर</td>
+			<td></td>
+			<td rowspan=5>उत्कृष्ट आयुवत</td>
+		</tr>
+		<tr>
+			<th rowpsan=2>घातायुष्क</th>
+			<td colspan=4>उत्पत्ति का अभाव (त्रि .सा 533)</td>
+		</tr>
+		<tr>
+			<th>प्रत्येक पटल</th>
+			<th>आनत</th>
+			<td>37/2 सागर</td>
+			<td>19 सागर</td>
+			<td>112/6 सागर</td>
+		</tr>
+		<tr>
+			<th colspan=2>प्राणत</th>
+			<td>19 सागर</td>
+			<td>39/2 सागर</td>
+			<td>59/3 सागर</td>
+		</tr>
+		<tr>
+			<th colspan=2>पुष्पक</th>
+			<td>39/2 सागर</td>
+			<td>20 सागर</td>
+			<td>20 सागर</td>
+		</tr>
+	</tbody>
+</table>

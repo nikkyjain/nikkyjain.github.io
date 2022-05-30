@@ -1,0 +1,9 @@
+﻿देव चार निकाय वाले हैं ॥१॥
+<!--JsMindTagBeginH2-->
+    {"id":"root", "isroot":true, "topic":"देव"},
+
+    {"id":"sub1", "parentid":"root", "topic":"भवनवासी"},
+    {"id":"sub2", "parentid":"root", "topic":"व्यंतर"},
+    {"id":"sub3", "parentid":"root", "topic":"ज्योतिष"},
+    {"id":"sub4", "parentid":"root", "topic":"वैमानिक"}
+<!--JsMindTagEnd-->

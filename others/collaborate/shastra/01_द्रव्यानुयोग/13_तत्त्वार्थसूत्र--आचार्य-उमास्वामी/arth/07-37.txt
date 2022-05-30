@@ -1,0 +1,9 @@
+﻿जीविताशंसा, मरणाशंसा, मित्रानुराग, सुखानुबन्‍ध और निदान ये सल्‍लेखना के पाँच अतिचार हैं ॥३७॥
+<!--JsMindTagBegin-->
+	{"id":"root", "isroot":true, "topic":" सल्‍लेखना के अतिचार "},
+  {"id":"sub1", "parentid":"root", "topic":"जीविताशंसा"},
+  {"id":"sub2", "parentid":"root", "topic":"मरणाशंसा"},
+  {"id":"sub3", "parentid":"root", "topic":"मित्रानुराग"},
+  {"id":"sub4", "parentid":"root", "topic":"सुखानुबन्‍ध"},
+  {"id":"sub5", "parentid":"root", "topic":"निदान"}
+<!--JsMindTagEnd-->

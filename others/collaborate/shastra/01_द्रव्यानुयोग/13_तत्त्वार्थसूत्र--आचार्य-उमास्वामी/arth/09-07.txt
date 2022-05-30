@@ -1,0 +1,16 @@
+﻿अनित्य, अशरण, संसार, एकत्व, अन्यत्व, अशुचि, आस्रव, संवर, निर्जरा, लोक, बोधिदुर्लभ और धर्मस्वाख्यातत्व का बार-बार चिन्तन करना अनुप्रेक्षाएँ हैं ॥७॥
+<!--JsMindTagBegin-->
+	{"id":"root", "isroot":true, "topic":"अनुप्रेक्षाएँ"},
+	{"id":"sub10", "parentid":"root", "topic":"अनित्य", "direction":"left"},
+	{"id":"sub11", "parentid":"root", "topic":"अशरण", "direction":"left"},
+	{"id":"sub12", "parentid":"root", "topic":"संसार", "direction":"left"},
+	{"id":"sub13", "parentid":"root", "topic":"एकत्व", "direction":"left"},
+	{"id":"sub14", "parentid":"root", "topic":"अन्यत्व", "direction":"left"},
+	{"id":"sub15", "parentid":"root", "topic":"अशुचि", "direction":"left"},
+	{"id":"sub16", "parentid":"root", "topic":"आस्रव"},
+	{"id":"sub17", "parentid":"root", "topic":"संवर"},
+	{"id":"sub18", "parentid":"root", "topic":"निर्जरा"},
+	{"id":"sub19", "parentid":"root", "topic":"लोक"},
+	{"id":"sub20", "parentid":"root", "topic":"बोधिदुर्लभ"},
+	{"id":"sub21", "parentid":"root", "topic":"धर्म"}
+<!--JsMindTagEnd-->

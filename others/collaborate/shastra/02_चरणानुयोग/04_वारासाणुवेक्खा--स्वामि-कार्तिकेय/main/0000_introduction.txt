@@ -5,6 +5,6 @@
 श्री
 <font style="font-size:120px"> वारासाणुवेक्खा </font>
 
-<span class=bottomContainer align=justify><font color=black>मूल प्राकृत गाथा एवं पं जयचंदजी छाबडा द्वारा हिंदी टीका</font></span>
+<span class=bottomContainer align=justify><font color=black>मूल प्राकृत गाथा</font></span>
 
 <font size=3 color=blue>आभार : </font>

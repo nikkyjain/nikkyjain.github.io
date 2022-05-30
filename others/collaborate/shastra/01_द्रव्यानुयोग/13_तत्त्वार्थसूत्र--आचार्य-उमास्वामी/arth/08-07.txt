@@ -1,0 +1,13 @@
+﻿चक्षुदर्शन, अचक्षुदर्शन, अवधिदर्शन और केवलदर्शन इन चारों के चार आवरण तथा निद्रा, निद्रानिद्रा, प्रचला, प्रचला-प्रचला और स्‍त्‍यानगृद्धि ये पाँच निद्राद्रिक ऐसे नौ दर्शनावरण है ॥७॥
+<!--JsMindTagBeginH6-->
+	{"id":"root", "isroot":true, "topic":"दर्शनावरण कर्म के भेद "},
+	{"id":"sub1", "parentid":"root", "topic":"चक्षुदर्शन"},
+	{"id":"sub11", "parentid":"root", "topic":"अचक्षुदर्शन"},
+	{"id":"sub12", "parentid":"root", "topic":"अवधिदर्शन"},
+	{"id":"sub13", "parentid":"root", "topic":"केवलदर्शन "},
+	{"id":"sub14", "parentid":"root", "topic":"निद्रा "},
+	{"id":"sub15", "parentid":"root", "topic":"निद्रानिद्रा"},
+	{"id":"sub16", "parentid":"root", "topic":"प्रचला"},
+	{"id":"sub17", "parentid":"root", "topic":"प्रचला-प्रचला "},
+	{"id":"sub18", "parentid":"root", "topic":"स्‍त्‍यानगृद्धि"}
+<!--JsMindTagEnd-->

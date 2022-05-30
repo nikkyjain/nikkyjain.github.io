@@ -1,0 +1,9 @@
+﻿कन्‍दर्प, कौत्‍कुच्‍य, मौखर्य, असमीक्ष्‍याधिकरण और उपभोगपरिभोगानर्थक्‍य ये अनर्थदण्‍डवि‍रति व्रत के पाँच अतिचार हैं ॥३२॥
+<!--JsMindTagBegin-->
+	{"id":"root", "isroot":true, "topic":"अनर्थदण्‍डवि‍रति व्रत के अतिचार "},
+	{"id":"sub1", "parentid":"root", "topic":"कन्‍दर्प"},
+	{"id":"sub2", "parentid":"root", "topic":"कौत्‍कुच्‍य"},
+	{"id":"sub3", "parentid":"root", "topic":"मौखर्य"},
+	{"id":"sub4", "parentid":"root", "topic":"असमीक्ष्‍याधिकरण"},
+	{"id":"sub5", "parentid":"root", "topic":"उपभोगपरिभोगानर्थक्‍य"}
+<!--JsMindTagEnd-->

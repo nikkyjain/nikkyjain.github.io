@@ -1,0 +1,201 @@
+﻿<table class=myAltTable>
+  <thead>
+  <tr>
+    <th colspan=3 class=tableTitle>एक जीव की अपेक्षा स्वामित्व</th>
+  </tr>
+  <tr>
+    <th colspan=2>मार्गणा</th>
+    <th>कारण</th>
+  </tr>
+  </thead>
+  <tr>
+    <th rowspan=5>गति</th>
+    <th class=head2>नरक</th>
+    <td>नरक-गति नाम-कर्म का उदय</td>
+  </tr>
+  <tr>
+    <th class=head2>तिर्यंच</th>
+    <td>तिर्यंच-गति नाम-कर्म का उदय</td>
+  </tr>
+  <tr>
+    <th class=head2>मनुष्य</th>
+    <td>तिर्यंच-गति नाम-कर्म का उदय</td>
+  </tr>
+  <tr>
+    <th class=head2>देव</th>
+    <td>देव-गति नाम-कर्म का उदय</td>
+  </tr>
+  <tr>
+    <th class=head2>सिद्ध</th>
+    <td>क्षायिक लब्धि</td>
+  </tr>
+  <tr>
+    <th rowspan=2>इन्द्रिय</th>
+    <th class=head3>एक, दो, तीन, चार, पंच इन्द्रिय</th>
+    <td>क्षयोपशम लब्धि</td>
+  </tr>
+  <tr>
+    <th class=head3>अनिन्द्रिय</th>
+    <td>क्षायिक लब्धि</td>
+  </tr>
+  <tr>
+    <th rowspan=7>काय</th>
+    <th class=head4>पृथ्वीकायिक</th>
+    <td>पृथ्वीकायिक (एकेंद्रिय जाति) नाम-कर्म का उदय</td>
+  </tr>
+  <tr>
+    <th class=head4>जलकायिक</th>
+    <td>जलकायिक (एकेंद्रिय जाति) नाम-कर्म का उदय</td>
+  </tr>
+  <tr>
+    <th class=head4>अग्निकायिक</th>
+    <td>अग्निकायिक (एकेंद्रिय जाति) नाम-कर्म का उदय</td>
+  </tr>
+  <tr>
+    <th class=head4>वायुकायिक</th>
+    <td>वायुकायिक (एकेंद्रिय जाति) नाम-कर्म का उदय</td>
+  </tr>
+  <tr>
+    <th class=head4>वनस्पतिकायिक</th>
+    <td>वनस्पतिकायिक (एकेंद्रिय जाति) नाम-कर्म का उदय</td>
+  </tr>
+  <tr>
+    <th class=head4>त्रसकायिक</th>
+    <td>त्रसकायिक नाम-कर्म का उदय</td>
+  </tr>
+  <tr>
+    <th class=head4>अकायिक</th>
+    <td>क्षायिक लब्धि</td>
+  </tr>
+  <tr>
+    <th rowspan=2>योग</th>
+    <th class=head2>मन, वचन, काय योगी</th>
+    <td>क्षयोपशम लब्धि</td>
+  </tr>
+  <tr>
+    <th class=head2>अयोगी</th>
+    <td>क्षायिक लब्धि</td>
+  </tr>
+  <tr>
+    <th rowspan=2>वेद</th>
+    <th class=head3>स्त्री, पुरुष, नपुंसक वेदी</th>
+    <td>चारित्र-मोहनीय कर्म का उदय</td>
+  </tr>
+  <tr>
+    <th class=head3>अपगत वेदी</th>
+    <td>औपशमिक व क्षायिक लब्धि</td>
+  </tr>
+  <tr>
+    <th rowspan=2>कषाय</th>
+    <th class=head4>क्रोध, मान, माया, लोभ</th>
+    <td>चारित्र-मोहनीय कर्म का उदय</td>
+  </tr>
+  <tr>
+    <th class=head4>अकषायी</th>
+    <td>औपशमिक व क्षायिक लब्धि</td>
+  </tr>
+  <tr>
+    <th rowspan=2>ज्ञान</th>
+    <th class=head2>मत्यज्ञानी, श्रुताज्ञानी, विभंगावधि, मतिज्ञानी, श्रुतज्ञानी, अवधिज्ञानी, मन:पर्यय</th>
+    <td>क्षायोपशमिक लब्धि</td>
+  </tr>
+  <tr>
+    <th class=head2>केवलज्ञानी</th>
+    <td>क्षायिक लब्धि</td>
+  </tr>
+  <tr>
+    <th rowspan=4>संयम</th>
+    <th class=head3>संयत, सामायिक, छेदोपस्थापना</th>
+    <td>औपशमिक, क्षायिक, क्षायोपशमिक लब्धि</td>
+  </tr>
+  <tr>
+    <th class=head3>परिहार-विशुद्धि, संयता-संयत</th>
+    <td>क्षायोपशमिक लब्धि</td>
+  </tr>
+  <tr>
+    <th class=head3>सूक्ष्म-साम्परायिक, यथाख्यात</th>
+    <td>औपशमिक व क्षायिक लब्धि</td>
+  </tr>
+  <tr>
+    <th class=head3>असंयत</th>
+    <td>संयम-घाति कर्म का उदय</td>
+  </tr>
+  <tr>
+    <th rowspan=2>दर्शन</th>
+    <th class=head4>चक्षु, अचक्षु, अवधि</th>
+    <td>क्षायोपशमिक लब्धि</td>
+  </tr>
+  <tr>
+    <th class=head4>केवल</th>
+    <td>क्षायिक लब्धि</td>
+  </tr>
+  <tr>
+    <th rowspan=2>लेश्या</th>
+    <th class=head2>कृष्ण, नील, कापोत, पीत, पद्म, शुक्ल</th>
+    <td>औदयिक भाव</td>
+  </tr>
+  <tr>
+    <th class=head2>अलेश्यिक</th>
+    <td>क्षायिक लब्धि</td>
+  </tr>
+  <tr>
+    <th rowspan=2>भव्य</th>
+    <th class=head3>भव्य-सिद्धिक, अभव्य-सिद्धिक</th>
+    <td>पारिणामिक भाव</td>
+  </tr>
+  <tr>
+    <th class=head3>न भव्य-सिद्धिक, न अभव्य-सिद्धिक</th>
+    <td>क्षायिक लब्धि</td>
+  </tr>
+  <tr>
+    <th rowspan=7>सम्यक्त्व</th>
+    <th class=head4>सम्यग्दृष्टि</th>
+    <td>औपशमिक, क्षायिक, क्षायोपशमिक लब्धि</td>
+  </tr>
+  <tr>
+    <th class=head4>क्षायिक सम्यग्दृष्टि</th>
+    <td>क्षायिक लब्धि</td>
+  </tr>
+  <tr>
+    <th class=head4>वेदक सम्यग्दृष्टि</th>
+    <td>क्षायोपशमिक लब्धि</td>
+  </tr>
+  <tr>
+    <th class=head4>औपशमिक सम्यग्दृष्टि</th>
+    <td>औपशमिक लब्धि</td>
+  </tr>
+  <tr>
+    <th class=head4>सासादन सम्यग्दृष्टि</th>
+    <td>पारिणामिक भाव</td>
+  </tr>
+  <tr>
+    <th class=head4>सम्यग्मिथ्यादृष्टि</th>
+    <td>क्षायोपशमिक लब्धि</td>
+  </tr>
+  <tr>
+    <th class=head4>मिथ्यादृष्टि</th>
+    <td>मिथ्यात्व कर्म का उदय</td>
+  </tr>
+  <tr>
+    <th rowspan=3>संज्ञी</th>
+    <th class=head2>संज्ञी</th>
+    <td>क्षायोपशमिक लब्धि</td>
+  </tr>
+  <tr>
+    <th class=head2>असंज्ञी</th>
+    <td>औदयिक भाव</td>
+  </tr>
+  <tr>
+    <th class=head2>न संज्ञी नअसंज्ञी</th>
+    <td>क्षायिक लब्धि</td>
+  </tr>
+  <tr>
+    <th rowspan=2>आहार</th>
+    <th class=head3>आहारक</th>
+    <td>औदयिक भाव</td>
+  </tr>
+  <tr>
+    <th class=head3>अनाहारक</th>
+    <td>औदयिक भाव तथा क्षायिक लब्धि</td>
+  </tr>
+</table>

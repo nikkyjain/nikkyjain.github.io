@@ -1,0 +1,20 @@
+﻿आठ मूल प्रकृतियों के अनुक्रम से पाँच, नौ, दो, अट्ठाईस, चार, ब्‍यालीस, दो और पॉंच भेद हैं ॥५॥
+<!--JsMindTagBeginH6-->
+	{"id":"root", "isroot":true, "topic":"मूल कर्म-प्रकृतियों के भेद"},
+	{"id":"sub1", "parentid":"root", "topic":"ज्ञानावरणी"},
+	{"id":"sub1a", "parentid":"sub1", "topic":"5"},
+	{"id":"sub2", "parentid":"root", "topic":"दर्शनावरणी"},
+	{"id":"sub2a", "parentid":"sub2", "topic":"9"},
+	{"id":"sub3", "parentid":"root", "topic":"वेदनीय"},
+	{"id":"sub3a", "parentid":"sub3", "topic":"2"},
+	{"id":"sub4", "parentid":"root", "topic":"मोहनीय"},
+	{"id":"sub4a", "parentid":"sub4", "topic":"28"},
+	{"id":"sub5", "parentid":"root", "topic":"आयु"},
+	{"id":"sub5a", "parentid":"sub5", "topic":"4"},
+	{"id":"sub6", "parentid":"root", "topic":"नाम"},
+	{"id":"sub6a", "parentid":"sub6", "topic":"42"},
+	{"id":"sub7", "parentid":"root", "topic":"गोत्र"},
+	{"id":"sub7a", "parentid":"sub7", "topic":"2"},
+	{"id":"sub8", "parentid":"root", "topic":"अंतराय"},
+	{"id":"sub8a", "parentid":"sub8", "topic":"5"}
+<!--JsMindTagEnd-->

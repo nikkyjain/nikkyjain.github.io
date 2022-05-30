@@ -1,0 +1,219 @@
+﻿<table class=myAltTable>
+<thead>
+  <tr>
+    <th colspan=7 class=tableTitle>मनुष्य-गति मार्गणा में आयु</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th>अपेक्षा</th>
+    <th colspan=2>विशेष</th>
+    <th>(ति.प. गा)</th>
+    <th>जघन्य आयु</th>
+    <th>(ति.प. गा)</th>
+    <th>उत्कृष्ट आयु</th>
+  </tr>
+  <tr>
+    <th rowspan=11>क्षेत्र</th>
+    <th rowspan=6> भरत-एरावत क्षेत्र</th>
+    <th>सुषमा सुषमा काल</th>
+    <td></td>
+    <td>2 पल्य</td>
+    <td></td>
+    <td>3 पल्य</td>
+  </tr>
+  <tr>
+    <th>सुषमा काल</th>
+    <td></td>
+    <td>1 पल्य</td>
+    <td></td>
+    <td>2 पल्य</td>
+  </tr>
+  <tr>
+    <th>सुषमा दुषमा काल</th>
+    <td></td>
+    <td>1 कोटि पूर्व</td>
+    <td></td>
+    <td>1 पल्य</td>
+  </tr>
+  <tr>
+    <th>दुषमा सुषमा काल</th>
+    <td></td>
+    <td>120 वर्ष</td>
+    <td></td>
+    <td>1 कोटि पूर्व</td>
+  </tr>
+  <tr>
+    <th>दुषमा काल</th>
+    <td></td>
+    <td>20 वर्ष</td>
+    <td></td>
+    <td>120 वर्ष</td>
+  </tr>
+  <tr>
+    <th>दुषमा दुषमा काल</th>
+    <td></td>
+    <td>12 वर्ष</td>
+    <td></td>
+    <td>20 वर्ष</td>
+  </tr>
+  <tr>
+    <th colspan=2>विदेह क्षेत्र</th>
+    <td>2255</td>
+    <td>अंतमहूर्त</td>
+    <td>2255</td>
+    <td>1 कोटि पूर्व</td>
+  </tr>
+  <tr>
+    <th colspan=2>हेमवत-हैरण्यवत</th>
+    <td></td>
+    <td>1 कोटि पूर्व</td>
+    <td></td>
+    <td>1 पल्य</td>
+  </tr>
+  <tr>
+    <th colspan=2>हरि रम्यक</th>
+    <td>404</td>
+    <td>1 पल्य</td>
+    <td>396</td>
+    <td>2 पल्य</td>
+  </tr>
+  <tr>
+    <th colspan=2>देव-उत्तर कुरु</th>
+    <td></td>
+    <td>2 पल्य</td>
+    <td>335</td>
+    <td>3 पल्य</td>
+  </tr>
+  <tr>
+    <th colspan=2>अंतर्द्वीपज म्लेच्छ</th>
+    <td></td>
+    <td>1 कोटि पूर्व</td>
+    <td>2513</td>
+    <td>1 पल्य</td>
+  </tr>
+  <tr>
+    <td colspan=3 class=emptyTableCell></td>
+    <th>(ति.प. गा)</th>
+    <th>जघन्य आयु</th>
+    <th>(ति.प. गा)</th>
+    <th>उत्कृष्ट आयु</th>
+  </tr>
+  <tr>
+    <th rowspan=12>काल</th>
+    <th rowspan=6> अवसर्पिणी</th>
+    <th>सुषमा सुषमा काल</th>
+    <td></td>
+    <td>2 पल्य</td>
+    <td>335</td>
+    <td>3 पल्य</td>
+  </tr>
+  <tr>
+    <th>सुषमा काल</th>
+    <td></td>
+    <td>1 पल्य</td>
+    <td>396</td>
+    <td>2 पल्य</td>
+  </tr>
+  <tr>
+    <th>सुषमा दुषमा काल</th>
+    <td></td>
+    <td>1 कोटि पूर्व</td>
+    <td>404</td>
+    <td>1 पल्य</td>
+  </tr>
+  <tr>
+    <th>दुषमा सुषमा काल</th>
+    <td></td>
+    <td>120 वर्ष</td>
+    <td>1277</td>
+    <td>1 कोटि पूर्व</td>
+  </tr>
+  <tr>
+    <th>दुषमा काल</th>
+    <td></td>
+    <td>20 वर्ष</td>
+    <td>1475</td>
+    <td>120 वर्ष</td>
+  </tr>
+  <tr>
+    <th>दुषमा दुषमा काल</th>
+    <td>1554</td>
+    <td>15 या 16 वर्ष</td>
+    <td>1536</td>
+    <td>20 वर्ष</td>
+  </tr>
+  <tr>
+    <th rowspan=6> उत्सर्पिणी</th>
+    <th>सुषमा सुषमा काल</th>
+    <td>1564</td>
+    <td>15 या 16 वर्ष</td>
+    <td></td>
+    <td>20 वर्ष</td>
+  </tr>
+  <tr>
+    <th>सुषमा काल</th>
+    <td>1568</td>
+    <td>20 वर्ष</td>
+    <td></td>
+    <td>120 वर्ष</td>
+  </tr>
+  <tr>
+    <th>सुषमा दुषमा काल</th>
+    <td>1576</td>
+    <td>120 वर्ष</td>
+    <td>1595</td>
+    <td>1 कोटि पूर्व</td>
+  </tr>
+  <tr>
+    <th>दुषमा सुषमा काल</th>
+    <td>1596</td>
+    <td>1 कोटि पूर्व</td>
+    <td>1598</td>
+    <td>1 पल्य</td>
+  </tr>
+  <tr>
+    <th>दुषमा काल</th>
+    <td>1600</td>
+    <td>1 पल्य</td>
+    <td></td>
+    <td>2 पल्य</td>
+  </tr>
+  <tr>
+    <th>दुषमा दुषमा काल</th>
+    <td>1602</td>
+    <td>2 पल्य</td>
+    <td>1604</td>
+    <td>3 पल्य</td>
+  </tr>
+  <tr>
+    <td colspan=3 class=emptyTableCell></td>
+    <th>(ति.प. गा)</th>
+    <th>जघन्य आयु</th>
+    <th>(ति.प. गा)</th>
+    <th>उत्कृष्ट आयु</th>
+  </tr>
+  <tr>
+    <th rowspan=3>भोग-भूमि</th>
+    <th colspan=2>उत्तम भोग भूमि</th>
+    <td>290</td>
+    <td>2 पल्य</td>
+    <td>290</td>
+    <td>3 पल्य</td>
+  </tr>
+  <tr>
+    <th colspan=2>मध्यम भोग भूमि</th>
+    <td>289</td>
+    <td>1 पल्य</td>
+    <td>289</td>
+    <td>2 पल्य</td>
+  </tr>
+  <tr>
+    <th colspan=2>जघन्य भोग भूमि</th>
+    <td>288</td>
+    <td>1 कोटि पूर्व</td>
+    <td>288</td>
+    <td>1 पल्य</td>
+  </tr>
+</tbody>
+</table>

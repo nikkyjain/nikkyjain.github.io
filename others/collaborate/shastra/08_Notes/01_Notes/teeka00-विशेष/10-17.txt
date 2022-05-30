@@ -1,0 +1,164 @@
+﻿<table class=myAltTable>
+  <thead>
+  <tr>
+    <td class=emptyTableCell colspan=3 rowspan=2></td>
+    <th class=tableTitle colspan=5>देशविरत गुणस्थान के सत्व में 40 स्थान और उनके 48 भंग</th>
+    <th class=tableTitle rowspan=2>कुल</th>
+  </tr>
+  <tr>
+    <th>अनंतानुबंधी के सत्व सहित</th>
+    <th>अनंतानुबंधी विसंयोजक</th>
+    <th>क्षायिक-सम्यक्त्व प्रस्थापक</th>
+    <th>कृतकृत्य वेदक</th>
+    <th>क्षायिक सम्यक्त्वी</th>
+  </tr>
+  </thead>
+  <tr>
+    <th rowspan=4>तीर्थंकर, आहारक-४ सहित</th>
+    <th rowspan=2>बद्धायुष्क</th>
+    <th>स्थान</th>
+    <td class=head1><b>146</b> (-2 आयु [तिर्यञ्च, नरक])</td>
+    <td class=head1><b>142</b> (-अनंतानुबंधी ४)</td>
+    <td class=head1><b>141</b> (-मिथ्यात्व)</td>
+    <td class=head1><b>140</b> (-मिश्रमोहनीय)</td>
+    <td class=head1><b>139</b> (-सम्यक्त्व)</td>
+  </tr>
+  <tr>
+    <th>भंग</th>
+    <td class=head1><b>1</b> (भु. मनुष्यायु ब. देवायु)</td>
+    <td class=head1><b>1</b> (भु. मनुष्यायु ब. देवायु)</td>
+    <td class=head1><b>1</b> (भु. मनुष्यायु ब. देवायु)</td>
+    <td class=head1><b>1</b> (भु. मनुष्यायु ब. देवायु)</td>
+    <td class=head1><b>1</b> (भु. मनुष्यायु ब. देवायु)</td>
+    <td class=tableNotes>5</td>
+  </tr>
+  <tr>
+    <th rowspan=2>अबद्धायुष्क</th>
+    <th>स्थान</th>
+    <td class=head2><b>145</b></td>
+    <td class=head2><b>141</b></td>
+    <td class=head2><b>140</b></td>
+    <td class=head2><b>139</b></td>
+    <td class=head2><b>138</b></td>
+  </tr>
+  <tr>
+    <th>भंग</th>
+    <td class=head2><b>1</b> (भु. मनुष्यायु)</td>
+    <td class=head2><b>1</b> (भु. मनुष्यायु)</td>
+    <td class=head2><b>1</b> (भु. मनुष्यायु)</td>
+    <td class=head2><b>1</b> (भु. मनुष्यायु)</td>
+    <td class=head2><b>1</b> (भु. मनुष्यायु)</td>
+    <td class=tableNotes>5</td>
+  </tr>
+  <tr>
+    <th rowspan=4>तीर्थंकर रहित</th>
+    <th rowspan=2>बद्धायुष्क</th>
+    <th>स्थान</th>
+    <td class=head3><b>145</b> (148-2 आयु [नरक, तिर्यञ्च | मनुष्य]-तीर्थंकर)</td>
+    <td class=head3><b>141</b> (145-4 अनंतानुबंधी)</td>
+    <td class=head3><b>140</b> (141-मिथ्यात्व)</td>
+    <td class=head3><b>139</b> (140-मिश्रमोहनीय)</td>
+    <td class=head3><b>138</b> (139-सम्यक्त्व)</td>
+  </tr>
+  <tr>
+    <th>भंग</th>
+    <td class=head3><b>2</b> (भु. मनुष्यायु / तिर्यञ्चायु ब. देवायु)</td>
+    <td class=head3><b>2</b> (भु. मनुष्यायु / तिर्यञ्चायु ब. देवायु)</td>
+    <td class=head3><b>1</b> (भु. मनुष्यायु ब. देवायु)</td>
+    <td class=head3><b>1</b> (भु. मनुष्यायु ब. देवायु)</td>
+    <td class=head3><b>1</b> (भु. मनुष्यायु ब. देवायु)</td>
+    <td class=tableNotes>7</td>
+  </tr>
+  <tr>
+    <th rowspan=2>अबद्धायुष्क</th>
+    <th>स्थान</th>
+    <td class=head4><b>144</b></td>
+    <td class=head4><b>140</b></td>
+    <td class=head4><b>139</b></td>
+    <td class=head4><b>138</b></td>
+    <td class=head4><b>137</b></td>
+  </tr>
+  <tr>
+    <th>भंग</th>
+    <td class=head4><b>2</b> (भु. मनुष्यायु / तिर्यञ्चायु)</td>
+    <td class=head4><b>2</b> (भु. मनुष्यायु / तिर्यञ्चायु)</td>
+    <td class=head4><b>1</b> (भु. मनुष्यायु)</td>
+    <td class=head4><b>1</b> (भु. मनुष्यायु)</td>
+    <td class=head4><b>1</b> (भु. मनुष्यायु)</td>
+    <td class=tableNotes>7</td>
+  </tr>
+  <tr>
+    <th class=hed1 rowspan=4>आहारक चतुष्क रहित</th>
+    <th rowspan=2>बद्धायुष्क</th>
+    <th>स्थान</th>
+    <td class=head1><b>142</b></td>
+    <td class=head1><b>138</b></td>
+    <td class=head1><b>137</b></td>
+    <td class=head1><b>136</b></td>
+    <td class=head1><b>135</b></td>
+  </tr>
+  <tr>
+    <th>भंग</th>
+    <td class=head1><b>1</b> (भु. मनुष्यायु ब. देवायु)</td>
+    <td class=head1><b>1</b> (भु. मनुष्यायु ब. देवायु)</td>
+    <td class=head1><b>1</b> (भु. मनुष्यायु ब. देवायु)</td>
+    <td class=head1><b>1</b> (भु. मनुष्यायु ब. देवायु)</td>
+    <td class=head1><b>1</b> (भु. मनुष्यायु ब. देवायु)</td>
+    <td class=tableNotes>5</td>
+  </tr>
+  <tr>
+    <th rowspan=2>अबद्धायुष्क</th>
+    <th>स्थान</th>
+    <td class=head2><b>141</b></td>
+    <td class=head2><b>137</b></td>
+    <td class=head2><b>136</b></td>
+    <td class=head2><b>135</b></td>
+    <td class=head2><b>134</b></td>
+  </tr>
+  <tr>
+    <th>भंग</th>
+    <td class=head2><b>1</b> (भु. मनुष्यायु)</td>
+    <td class=head2><b>1</b> (भु. मनुष्यायु)</td>
+    <td class=head2><b>1</b> (भु. मनुष्यायु)</td>
+    <td class=head2><b>1</b> (भु. मनुष्यायु)</td>
+    <td class=head2><b>1</b> (भु. मनुष्यायु)</td>
+    <td class=tableNotes>5</td>
+  </tr>
+  <tr>
+    <th rowspan=4>तीर्थंकर, आहारक-४ रहित</th>
+    <th rowspan=2>बद्धायुष्क</th>
+    <th>स्थान</th>
+    <td class=head3><b>141</b></td>
+    <td class=head3><b>137</b></td>
+    <td class=head3><b>136</b></td>
+    <td class=head3><b>135</b></td>
+    <td class=head3><b>134</b></td>
+  </tr>
+  <tr>
+    <th>भंग</th>
+    <td class=head3><b>2</b> (भु. मनुष्यायु / तिर्यञ्चायु ब. देवायु)</td>
+    <td class=head3><b>2</b> (भु. मनुष्यायु / तिर्यञ्चायु ब. देवायु)</td>
+    <td class=head3><b>1</b> (भु. मनुष्यायु ब. देवायु)</td>
+    <td class=head3><b>1</b> (भु. मनुष्यायु ब. देवायु)</td>
+    <td class=head3><b>1</b> (भु. मनुष्यायु ब. देवायु)</td>
+    <td class=tableNotes>7</td>
+  </tr>
+  <tr>
+    <th rowspan=2>अबद्धायुष्क</th>
+    <th>स्थान</th>
+    <td class=head4><b>140</b></td>
+    <td class=head4><b>136</b></td>
+    <td class=head4><b>135</b></td>
+    <td class=head4><b>134</b></td>
+    <td class=head4><b>133</b></td>
+  </tr>
+  <tr>
+    <th>भंग</th>
+    <td class=head4><b>2</b> (भु. मनुष्यायु / तिर्यञ्चायु)</td>
+    <td class=head4><b>2</b> (भु. मनुष्यायु / तिर्यञ्चायु)</td>
+    <td class=head4><b>1</b> (भु. मनुष्यायु)</td>
+    <td class=head4><b>1</b> (भु. मनुष्यायु)</td>
+    <td class=head4><b>1</b> (भु. मनुष्यायु)</td>
+    <td class=tableNotes>7</td>
+  </tr>
+</table>

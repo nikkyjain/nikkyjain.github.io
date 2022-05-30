@@ -1,0 +1,25 @@
+﻿पृ‍थिवीकायिक, जलकायिक, अग्निकायिक, वायुकायिक और वनस्‍पतिकायिक ये पाँच स्‍थावर हैं ॥१३॥
+<!--PythonTagBegin-->
+<ul class=orgchart>
+  <li class=root>
+    <div class=nodecontent>स्थावर</div>
+    <ul>
+      <li class=leaf>
+        <div class=nodecontent>पृथ्वीकायिक</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>जलकायिक</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>अग्निकायिक</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>वायुकायिक</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>वनस्पतिकायिक</div>
+      </li>
+    </ul>
+  </li>
+</ul>
+<!--PythonTagEnd-->

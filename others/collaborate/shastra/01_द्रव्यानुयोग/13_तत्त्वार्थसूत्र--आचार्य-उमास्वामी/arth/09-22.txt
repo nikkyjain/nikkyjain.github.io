@@ -1,0 +1,22 @@
+﻿आलोचना, प्रतिक्रमण, तदुभय, विवेक, व्युत्सर्ग, तप, छेद, परिहार और उपस्था‍पना यह नव प्रकार का प्रायश्चित्त है ॥२२॥
+<!--JsMindTagBeginH6-->
+	{"id":"root", "isroot":true, "topic":"प्रायश्चित्त"},
+	{"id":"sub10", "parentid":"root", "topic":"आलोचना"},
+	{"id":"sub10a", "parentid":"sub10", "topic":"गुरु के समक्ष दोषों का निवेदन"},
+	{"id":"sub11", "parentid":"root", "topic":"प्रतिक्रमण"},
+	{"id":"sub11a", "parentid":"sub11", "topic":"'मेरे दोष मिथ्या हों' इस प्रकार कर्मों का प्रतीकार करने वाले वचन उच्चारण "},
+	{"id":"sub12", "parentid":"root", "topic":"तदुभय"},
+	{"id":"sub12a", "parentid":"sub12", "topic":"आलोचना और प्रतिक्रमण दोनों"},
+	{"id":"sub13", "parentid":"root", "topic":"विवेक"},
+	{"id":"sub13a", "parentid":"sub13", "topic":"सदोष अन्न, पात्र, उपकरणादि मिलने पर उनका त्याग"},
+	{"id":"sub14", "parentid":"root", "topic":"व्युत्सर्ग"},
+	{"id":"sub14a", "parentid":"sub14", "topic":"नियमित काल के लिए कायोत्सर्ग"},
+	{"id":"sub15", "parentid":"root", "topic":"तप"},
+	{"id":"sub15a", "parentid":"sub15", "topic":"अनशनादि"},
+	{"id":"sub16", "parentid":"root", "topic":"छेद"},
+	{"id":"sub16a", "parentid":"sub16", "topic":"कुछ काल की दीक्षा का छेद"},
+	{"id":"sub17", "parentid":"root", "topic":"परिहार"},
+	{"id":"sub17a", "parentid":"sub17", "topic":"कुछ काल के लिए संघ से दूर करना"},
+	{"id":"sub18", "parentid":"root", "topic":"उपस्था‍पना"},
+	{"id":"sub18a", "parentid":"sub18", "topic":"पूर्ण दीक्षा छेद कर पुन: दीक्षित करना"}
+<!--JsMindTagEnd-->

@@ -1,0 +1,9 @@
+﻿मिथ्यादर्शन, अविरति, प्रमाद, कषाय और योग ये बंध के हेतु हैं ॥१॥
+<!--JsMindTagBegin-->
+	{"id":"root", "isroot":true, "topic":"बंध के हेतु"},
+	{"id":"sub1", "parentid":"root", "topic":"मिथ्यादर्शन"},
+	{"id":"sub11", "parentid":"root", "topic":"अविरति"},
+	{"id":"sub12", "parentid":"root", "topic":"प्रमाद"},
+	{"id":"sub13", "parentid":"root", "topic":"कषाय"},
+	{"id":"sub14", "parentid":"root", "topic":"योग "}
+<!--JsMindTagEnd-->

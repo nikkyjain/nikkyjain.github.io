@@ -1,0 +1,13 @@
+﻿वे कल्‍पोपपन्‍न देव तक के चार निकाय के देव क्रम से दस, आठ, पांच और बारह भेद वाले हैं ॥३॥
+<!--JsMindTagBeginH2-->
+    {"id":"root", "isroot":true, "topic":"देवों के उत्तर भेद"},
+
+    {"id":"sub1", "parentid":"root", "topic":"भवनवासी"},
+    {"id":"sub2", "parentid":"root", "topic":"व्यंतर"},
+    {"id":"sub3", "parentid":"root", "topic":"ज्योतिष"},
+    {"id":"sub4", "parentid":"root", "topic":"कल्पवासी"},
+
+    {"id":"sub11", "parentid":"sub1", "topic":"10"},
+    {"id":"sub22", "parentid":"sub2", "topic":"8"},        {"id":"sub33", "parentid":"sub3", "topic":"5"},
+    {"id":"sub44", "parentid":"sub4", "topic":"12"}
+<!--JsMindTagEnd-->

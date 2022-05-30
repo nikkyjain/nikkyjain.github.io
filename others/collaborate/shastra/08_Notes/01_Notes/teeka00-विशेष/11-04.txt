@@ -1,0 +1,45 @@
+﻿<table class=myAltTable>
+  <tr>
+    <td colspan=8 class=tableTitle>गोत्र कर्म के त्रिसंयोग भंग</td>
+  </tr>
+  <tr>
+    <th>बंध</th>
+    <td>नीच</td>
+    <td>नीच</td>
+    <td>उच्च</td>
+    <td>उच्च</td>
+    <td>नीच</td>
+    <td>0</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <th>उदय</th>
+    <td>नीच</td>
+    <td>उच्च</td>
+    <td>उच्च</td>
+    <td>नीच</td>
+    <td>नीच</td>
+    <td>उच्च</td>
+    <td>उच्च</td>
+  </tr>
+  <tr>
+    <th>सत्त्व</th>
+    <td>2 (नीच / उच्च)</td>
+    <td>2 (नीच / उच्च)</td>
+    <td>2 (नीच / उच्च)</td>
+    <td>2 (नीच / उच्च)</td>
+    <td>1 (नीच)</td>
+    <td>2 (नीच / उच्च)</td>
+    <td>1 (उच्च)</td>
+  </tr>
+  <tr>
+    <td class=head2><b>भंग</b></td>
+    <td class=head2>1</td>
+    <td class=head2>2</td>
+    <td class=head2>3</td>
+    <td class=head2>4</td>
+    <td class=head2>5</td>
+    <td class=head2>6</td>
+    <td class=head2>7</td>
+  </tr>
+</table>

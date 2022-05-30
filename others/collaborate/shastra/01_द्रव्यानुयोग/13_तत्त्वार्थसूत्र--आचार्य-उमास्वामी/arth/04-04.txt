@@ -1,0 +1,15 @@
+﻿उक्‍त दस आदि भेदों में-से प्रत्‍येक इन्‍द्र, सामानिक, त्रायस्त्रिंश, पारिषद, आत्‍मरक्ष, लोकपाल, अनीक, प्रकीर्णक, आभियोग्‍य ओर किल्विषिक रूप हैं ॥४॥
+<!--JsMindTagBeginH6-->
+    {"id":"root", "isroot":true, "topic":"देवों के प्रत्येक निकाय में जाति"},
+
+    {"id":"sub1", "parentid":"root", "topic":"इन्द्र"},
+    {"id":"sub2", "parentid":"root", "topic":"सामानिक"},
+    {"id":"sub3", "parentid":"root", "topic":"त्रायस्त्रिंश"},
+    {"id":"sub4", "parentid":"root", "topic":"पारिषद"},
+    {"id":"sub5", "parentid":"root", "topic":"आत्‍मरक्ष"},
+    {"id":"sub6", "parentid":"root", "topic":"लोकपाल"},
+    {"id":"sub7", "parentid":"root", "topic":"अनीक"},
+    {"id":"sub8", "parentid":"root", "topic":"प्रकीर्णक"},
+    {"id":"sub9", "parentid":"root", "topic":"आभियोग्‍य"},
+    {"id":"sub0", "parentid":"root", "topic":"किल्विषिक"}
+<!--JsMindTagEnd-->

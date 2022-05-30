@@ -1,0 +1,98 @@
+﻿<table class=myAltTable>
+  <tr>
+    <td class=emptyTableCell colspan=3 rowspan=2></td>
+    <th class=tableTitle colspan=4>उत्तर प्रकृति में सादि / अनादि बंध के भेद</th>
+  </tr>
+  <tr>
+    <th>सादि</th>
+    <th>अनादि</th>
+    <th>ध्रुव</th>
+    <th>अध्रुव</th>
+  </tr>
+  <tr>
+    <th class=head1 colspan=3>ज्ञानावरणी (5)</th>
+    <td>✔</td>
+    <td>✔</td>
+    <td>✔</td>
+    <td>✔</td>
+  </tr>
+  <tr>
+    <th class=head1 colspan=3>दर्शनावरणी (9)</th>
+    <td>✔</td>
+    <td>✔</td>
+    <td>✔</td>
+    <td>✔</td>
+  </tr>
+  <tr>
+    <th class=head2 colspan=3>वेदनीय (2)</th>
+    <td>✔</td>
+    <td>X</td>
+    <td>✔</td>
+    <td>✔</td>
+  </tr>
+  <tr>
+    <th colspan=2 rowspan=2>मोहनीय</th>
+    <th class=head1>मिथ्यात्व, 16 कषाय, भय, जुगुप्सा</th>
+    <td>✔</td>
+    <td>✔</td>
+    <td>✔</td>
+    <td>✔</td>
+  </tr>
+  <tr>
+    <th class=head2>हास्य, शोक, रति, अरति, वेद 3</th>
+    <td>✔</td>
+    <td>X</td>
+    <td>X</td>
+    <td>✔</td>
+  </tr>
+  <tr>
+    <th class=head2 colspan=3>आयु (4)</th>
+    <td>✔</td>
+    <td>X</td>
+    <td>X</td>
+    <td>✔</td>
+  </tr>
+  <tr>
+    <th colspan=2 rowspan=2>नाम (67)</th>
+    <th class=head1>तैजस, कार्मण, अगुरुलघु, उपघात, निर्माण, वर्ण-चतुष्क</th>
+    <td>✔</td>
+    <td>✔</td>
+    <td>✔</td>
+    <td>✔</td>
+  </tr>
+  <tr>
+    <th class=head2>शेष 58 प्रकृतियाँ</th>
+    <td>✔</td>
+    <td>X</td>
+    <td>X</td>
+    <td>✔</td>
+  </tr>
+  <tr>
+    <th class=head2 colspan=3>गोत्र (2)</th>
+    <td>✔</td>
+    <td>X</td>
+    <td>X</td>
+    <td>✔</td>
+  </tr>
+  <tr>
+    <th class=head1 colspan=3>अंतराय (5)</th>
+    <td>✔</td>
+    <td>✔</td>
+    <td>✔</td>
+    <td>✔</td>
+  </tr>
+  <tr>
+    <td class=emptyTableCell rowspan=3></td>
+    <td class=head1></td>
+    <td class=tableNotes>ध्रुव बंधी प्रकृतियाँ</td>
+    <td class=tableNotes colspan=4>कुल 47</td>
+  </tr>
+  <tr>
+    <td class=head2 rowspan=2></td>
+    <td class=tableNotes rowspan=2>अध्रुव बंधी प्रकृतियाँ कुल 73</td>
+    <td class=tableNotes colspan=4>अप्रतिपक्षी 11 (तीर्थंकर, आहारक-द्विक, परघात, आतप, उद्योत, ४ आयु)</td>
+  </tr>
+  <tr>
+    <td class=tableNotes colspan=4>शेष 62 (७३-११)</td>
+  </tr>
+</table>

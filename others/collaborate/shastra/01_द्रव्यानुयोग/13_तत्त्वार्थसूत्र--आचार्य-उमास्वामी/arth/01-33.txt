@@ -1,0 +1,31 @@
+﻿नैगम, संग्रह, व्‍यवहार, ऋजुसूत्र, शब्‍द, समभिरूढ और एवंभू‍त ये सात नय हैं ॥३३॥
+<!--PythonTagBegin-->
+<ul class=orgchart>
+  <li class=root>
+    <div class=nodecontent>नय</div>
+    <ul>
+      <li class=leaf>
+        <div class=nodecontent>नैगम</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>संग्रह</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>व्यवहार</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>ऋजुसूत्र</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>शब्‍द</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>समभिरूढ</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>एवंभू‍त</div>
+      </li>
+    </ul>
+  </li>
+</ul>
+<!--PythonTagEnd-->

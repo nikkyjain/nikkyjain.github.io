@@ -1,0 +1,79 @@
+﻿<table class=myAltTable>
+  <tr>
+    <th colspan=3 class=tableTitle>चार गति में पाए जाने वाले नाम-कर्म के सत्त्व-स्थान</th>
+  </tr>
+  <tr>
+    <th colspan=2>जीव-पद</th>
+    <th>नाम-कर्म के स्थान</th>
+  </tr>
+  <tr>
+    <td rowspan=2 class=head1>नारकी</td>
+    <td class=head1>सामान्य</td>
+    <td>92, 91, 90</td>
+  </tr>
+  <tr>
+    <td class=head1>4-7 नरक</td>
+    <td>92, 90</td>
+  </tr>
+  <tr>
+    <td rowspan=2 class=head2>तिर्यञ्च</td>
+    <td class=head2>सामान्य</td>
+    <td>92, 90, 88, 84, 82</td>
+  </tr>
+  <tr>
+    <td class=head2>भोग-भूमि</td>
+    <td>92, 90</td>
+  </tr>
+  <tr>
+    <td rowspan=6 class=head3>मनुष्य</td>
+    <td class=head3>सामान्य</td>
+    <td>93, 92, 91, 90, 88, 84, 80, 79, 78, 77, 10, 9</td>
+  </tr>
+  <tr>
+    <td class=head3>सयोग-केवली</td>
+    <td>80, 79, 78 77</td>
+  </tr>
+  <tr>
+    <td class=head3>*अयोग-केवली</td>
+    <td>80, 79, 78 77, 10, 9</td>
+  </tr>
+  <tr>
+    <td class=head3>आहारक-शरीरी</td>
+    <td>93, 92</td>
+  </tr>
+  <tr>
+    <td class=head3>भोग-भूमि</td>
+    <td>92, 90</td>
+  </tr>
+  <tr>
+    <td class=head3>*9-14 गुणस्थान</td>
+    <td>80, 79, 78 77</td>
+  </tr>
+  <tr>
+    <td rowspan=2 class=head4>देव</td>
+    <td class=head4>वैमानिक</td>
+    <td>93, 92, 91, 90</td>
+  </tr>
+  <tr>
+    <td class=head4>भवनत्रिक</td>
+    <td>92, 90</td>
+  </tr>
+  <tr>
+    <td colspan=3 class=tableNotes>*10 और 9 का स्थान अयोग-केवली के चरम समय में है</td>
+  </tr>
+  <tr>
+    <td colspan=3 class=tableNotes>80, 79, 78, 77 का स्थान क्षपक श्रेणी के अनिवृत्तिकरण से अयोग-केवली के द्विचरम-समय तक है</td>
+  </tr>
+  <tr>
+    <td colspan=3 class=tableNotes>88, 84 का स्थान मनुष्य / तिर्यञ्च मिथ्यादृष्टी के ही पाया जाता है</td>
+  </tr>
+  <tr>
+    <td colspan=3 class=tableNotes>82 का स्थान मिथ्यादृष्टी तिर्यञ्च में ही पाया जाता है</td>
+  </tr>
+  <tr>
+    <td colspan=3 class=tableNotes>93 का स्थान असंयत सम्यग्दृष्टी देव और सम्यग्दृष्टि मनुष्य के ही पाया जाता है</td>
+  </tr>
+  <tr>
+    <td colspan=3 class=tableNotes>92 का स्थान सासादन रहित चारों गति के जीवों में पाया जाता है</td>
+  </tr>
+</table>

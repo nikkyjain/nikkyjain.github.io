@@ -1,0 +1,10 @@
+﻿अनशन, अवमौदर्य, वृत्तिपरिसंख्यान, रसपरित्याग, विविक्तशय्यासन और कायक्लेश यह छह प्रकार का बाह्य तप है ॥१९॥
+<!--JsMindTagBegin-->
+	{"id":"root", "isroot":true, "topic":"बाह्य तप के प्रकार "},
+	{"id":"sub10", "parentid":"root", "topic":"अनशन"},
+	{"id":"sub11", "parentid":"root", "topic":"अवमौदर्य"},
+	{"id":"sub12", "parentid":"root", "topic":"वृत्तिपरिसंख्यान"},
+	{"id":"sub13", "parentid":"root", "topic":"रसपरित्याग"},
+	{"id":"sub14", "parentid":"root", "topic":"विविक्तशय्यासन"},
+	{"id":"sub15", "parentid":"root", "topic":" कायक्लेश"}
+<!--JsMindTagEnd-->

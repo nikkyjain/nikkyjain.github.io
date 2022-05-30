@@ -1,0 +1,8 @@
+﻿नरकायु, तिर्यंचायु, मनुष्‍यायु और देवायु ये चार आयु हैं ॥१०॥
+<!--JsMindTagBeginH2-->
+	{"id":"root", "isroot":true, "topic":"आयु कर्म के भेद "},
+	{"id":"sub1", "parentid":"root", "topic":"नरकायु"},
+	{"id":"sub11", "parentid":"root", "topic":"तिर्यंचायु"},
+	{"id":"sub12", "parentid":"root", "topic":"मनुष्‍यायु"},
+	{"id":"sub13", "parentid":"root", "topic":"देवायु "}
+<!--JsMindTagEnd-->

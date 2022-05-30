@@ -1,0 +1,12 @@
+﻿वह पाँचों प्रकार का ज्ञान दो प्रमाणरूप है ॥१०॥
+<!--JsMindTagBegin-->
+                {"id":"root", "isroot":true, "topic":"ज्ञान"},
+
+                {"id":"sub1", "parentid":"root", "topic":"परोक्ष"},
+                {"id":"sub11", "parentid":"sub1", "topic":"मति"},
+                {"id":"sub12", "parentid":"sub1", "topic":"श्रुत"},
+                {"id":"sub2", "parentid":"root", "topic":"प्रत्यक्ष", "direction":"right"},
+                {"id":"sub21", "parentid":"sub2", "topic":"अवधि"},
+                {"id":"sub22", "parentid":"sub2", "topic":"मन:पर्यय"},
+                {"id":"sub23", "parentid":"sub2", "topic":"केवल"}
+<!--JsMindTagEnd-->

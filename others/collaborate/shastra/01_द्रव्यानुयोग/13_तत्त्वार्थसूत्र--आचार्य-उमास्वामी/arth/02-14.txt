@@ -1,0 +1,22 @@
+﻿दो इन्द्रिय आदि त्रस हैं ॥१४॥
+<!--PythonTagBegin-->
+<ul class=orgchart>
+  <li class=root>
+    <div class=nodecontent>त्रस</div>
+    <ul>
+      <li class=leaf>
+        <div class=nodecontent>दो-इंद्रिय</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>तीन-इंद्रिय</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>चार-इंद्रिय</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>पंचेंद्रिय</div>
+      </li>
+    </ul>
+  </li>
+</ul>
+<!--PythonTagEnd-->

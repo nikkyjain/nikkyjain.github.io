@@ -1,0 +1,66 @@
+﻿<table class=myAltTable>
+  <tr>
+    <th class=tableTitle colspan=5>संज्ञी, और आहार मार्गणा में सत्व</th>
+  </tr>
+  <tr>
+    <td class=emptyTableCell colspan=3></td>
+    <th>सत्व</th>
+    <th>असत्व</th>
+  </tr>
+  <tr>
+    <th rowspan=4>संज्ञी</th>
+    <th rowspan=3>असंज्ञी</th>
+    <th>मिथ्यात्व</th>
+    <td><b>147</b></td>
+    <td><b>0</b></td>
+  </tr>
+  <tr>
+    <th>सासादन</th>
+    <td><b>145</b></td>
+    <td><b>2</b> (आहारक-द्विक)</td>
+  </tr>
+  <tr>
+    <td class=tableNotes colspan=3><b>सत्व योग्य प्रकृतियाँ 147,</b> तीर्थंकर बिना</td>
+  </tr>
+  <tr>
+    <th>संज्ञी</th>
+    <td class=tableNotes colspan=3><b>सत्व योग्य प्रकृतियाँ 148</b>, गुणस्थान 1 से 12, सामान्यवत्</td>
+  </tr>
+  <tr>
+    <th rowspan=8>आहार</th>
+    <th>आहारक</th>
+    <td class=tableNotes colspan=3><b>सत्व योग्य प्रकृतियाँ 148</b>, गुणस्थान 1 से 13, सामान्यवत्</td>
+  </tr>
+  <tr>
+    <th rowspan=7>अनाहारक</th>
+    <th>मिथ्यात्व</th>
+    <td><b>148</b></td>
+    <td><b>0</b></td>
+  </tr>
+  <tr>
+    <th>सासादन</th>
+    <td><b>144</b></td>
+    <td><b>4</b> (-आहारक-द्विक, तीर्थंकर, नरकायु)</td>
+  </tr>
+  <tr>
+    <th>अविरत</th>
+    <td><b>148</b></td>
+    <td><b>0</b></td>
+  </tr>
+  <tr>
+    <th>सयोग-केवली</th>
+    <td><b>85</b></td>
+    <td><b>63</b></td>
+  </tr>
+  <tr>
+    <th>अयोग-केवली</th>
+    <td><b>85*,85,13</b></td>
+    <td><b>63,63,135</b></td>
+  </tr>
+  <tr>
+    <td class=tableNotes colspan=3><b>सत्व योग्य प्रकृतियाँ 148</b></td>
+  </tr>
+  <tr>
+    <td class=tableNotes colspan=3>*आयोगकेवली गुणस्थान में द्विचरम समय में सत्व 72, चरम समय में सत्व 13</td>
+  </tr>
+</table>

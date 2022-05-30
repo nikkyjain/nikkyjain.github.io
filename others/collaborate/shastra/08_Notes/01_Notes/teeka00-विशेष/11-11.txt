@@ -1,0 +1,47 @@
+﻿<table class=myAltTable>
+  <tr>
+    <td colspan=2 rowspan=2 class=emptyTableCell></td>
+    <th colspan=3 class=tableTitle>14 जीव-समास में नाम कर्म के बंध, उदय, सत्त्व त्रिसंयोग भंग</th>
+  </tr>
+  <tr>
+    <th>बंधस्थान</th>
+    <th>उदयस्थान</th>
+    <th>सत्वस्थान</th>
+  </tr>
+  <tr>
+    <th rowspan=2>अपर्याप्त</th>
+    <th>स्थावर</th>
+    <td rowspan=5><b>5</b>  (23,25,26,29,30)</td>
+    <td><b>2</b> (21,24)</td>
+    <td rowspan=6><b>5</b> (92,90,88,84,82)</td>
+  </tr>
+  <tr>
+    <th>त्रस</th>
+    <td><b>2</b> (21,26)</td>
+  </tr>
+  <tr>
+    <th colspan=2>सूक्ष्म</th>
+    <td><b>4</b> (21,24,25,26)</td>
+  </tr>
+  <tr>
+    <th colspan=2>बादर</th>
+    <td><b>5</b> (21,24,25,26,27)</td>
+  </tr>
+  <tr>
+    <th colspan=2>विकलत्रय</th>
+    <td rowspan=2><b>6</b> (21,26,28,29,30,31)</td>
+  </tr>
+  <tr>
+    <th colspan=2>असंज्ञी</th>
+    <td><b>6</b> (23,25,26,28,29,30)</td>
+  </tr>
+  <tr>
+    <th colspan=2>संज्ञी</th>
+    <td><b>8</b> (23,25,26,28,29,30,31,1)</td>
+    <td><b>8</b> (21,25,26,27,28,29,30,31)</td>
+    <td><b>11</b> (93,92,91,90,88,84,82,80,79,78,77)</td>
+  </tr>
+  <tr>
+    <td colspan=5 class=tableNotes>गोम्मटसार कर्मकांड गाथा -- 704-709</td>
+  </tr>
+</table>

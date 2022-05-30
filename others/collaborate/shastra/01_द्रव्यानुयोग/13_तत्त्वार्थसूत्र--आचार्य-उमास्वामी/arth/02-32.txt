@@ -1,0 +1,37 @@
+﻿सचित्त, शीत और संवृत तथा इनकी प्रतिपक्षभूत अचित्त, उष्‍ण और विवृत तथा मिश्र अर्थात् सचित्ताचित्त, शीतोष्‍ण और संवृतविवृत ये उसकी अर्थात् जन्‍म की योनियाँ हैं ॥३२॥
+<!--PythonTagBegin-->
+<ul class=orgchart>
+  <li class=root>
+    <div class=nodecontent>जन्म-योनि</div>
+    <ul>
+      <li class=leaf>
+        <div class=nodecontent>सचित्त</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>अचित्त</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>सचित्ताचित्त</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>शीत</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>उष्ण</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>शीतोष्ण</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>संवृत</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>विवृत</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>संवृतविवृत</div>
+      </li>
+    </ul>
+  </li>
+</ul>
+<!--PythonTagEnd-->

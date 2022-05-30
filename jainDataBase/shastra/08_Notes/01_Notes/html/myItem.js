@@ -70,7 +70,7 @@ $( document ).ready(function() {
        $optgrp.append("<option value='05-16.html'><b>05-16</b> - ﻿उत्तर प्रकृति में सादि आदि बंध के भेद</option>");
        $optgrp.append("<option value='05-20.html'><b>05-20</b> - ﻿एक जीव के एक काल में होने वाला प्रकृति-बंध</option>");
        $optgrp.append("<option value='05-21.html'><b>05-21</b> - ﻿गति के साथ बंधने वाले नाम-कर्म के स्थान</option>");
-       $optgrp.append("<option value='05-22.html'><b>05-22</b> - ﻿नाम-कर्म बंध के आठ स्थान</option>");
+       $optgrp.append("<option value='05-22.html'><b>05-22</b> - ﻿गति-संयुक्त नाम-कर्म बंध के आठ स्थान</option>");
        $optgrp.append("<option value='05-23.html'><b>05-23</b> - ﻿नाम-कर्म बंध के आठ स्थान</option>");
        $optgrp.append("<option value='05-24.html'><b>05-24</b> - ﻿नाम-कर्म बन्ध-स्थान आदेश प्ररूपणा</option>");
   mySel.append($optgrp);

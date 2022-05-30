@@ -1,0 +1,19 @@
+﻿जरायुज, अण्‍डज और पोत जीवों का गर्भजन्‍म होता है ॥३३॥
+<!--PythonTagBegin-->
+<ul class=orgchart>
+  <li class=root>
+    <div class=nodecontent>गर्भजन्म</div>
+    <ul>
+      <li class=leaf>
+        <div class=nodecontent>जरायुज</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>अण्‍डज</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>पोत</div>
+      </li>
+    </ul>
+  </li>
+</ul>
+<!--PythonTagEnd-->

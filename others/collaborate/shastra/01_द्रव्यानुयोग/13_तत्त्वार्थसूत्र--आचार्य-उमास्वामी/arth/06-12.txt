@@ -1,0 +1,16 @@
+﻿भूत-अनुकम्पा, व्रती-अनुकम्पा, दान और सरागसंयम आदि का योग तथा क्षान्ति और शौच ये सातावेदनीय कर्म के आस्रव हैं ॥१२॥
+<!--JsMindTagBegin-->
+    {"id":"root", "isroot":true, "topic":"सातावेदनीय कर्म के आस्रव"},
+    {"id":"sub1", "parentid":"root", "topic":"भूत-अनुकम्पा"},
+    {"id":"sub1a", "parentid":"sub1", "topic":"प्राणिमात्र को पीडित देखकर अनुकंपा के परिणाम"},
+    {"id":"sub2", "parentid":"root", "topic":"व्रती-अनुकम्पा"},
+    {"id":"sub2a", "parentid":"sub2", "topic":"व्रती-जीवों को पीडित देखकर अनुकंपा के परिणाम"},
+    {"id":"sub3", "parentid":"root", "topic":"दान"},
+    {"id":"sub3a", "parentid":"sub3", "topic":"निज व पर के उपकार के लिए अपनी वस्तु का अर्पण"},
+    {"id":"sub4", "parentid":"root", "topic":"सरागसंयम आदि का योग"},
+    {"id":"sub4a", "parentid":"sub4", "topic":"राग-सहित संयम, संयमासंयम, बाल-तप, अकाम-निर्जरा"},
+    {"id":"sub5", "parentid":"root", "topic":"क्षान्ति"},
+    {"id":"sub5a", "parentid":"sub5", "topic":"शुभ-परिणामों की भावना-पूर्वक क्रोधादि-दोषों का निराकरण "},
+    {"id":"sub6", "parentid":"root", "topic":"शौच"},
+    {"id":"sub6a", "parentid":"sub6", "topic":"शुभ-परिणाम पूर्वक लोभ का त्याग"}
+<!--JsMindTagEnd-->

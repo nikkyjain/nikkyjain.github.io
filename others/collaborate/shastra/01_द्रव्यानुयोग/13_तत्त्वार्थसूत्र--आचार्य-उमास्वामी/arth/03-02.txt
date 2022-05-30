@@ -1,0 +1,18 @@
+﻿उन भूमियों में क्रम से तीस लाख, पच्चीस लाख, पन्‍द्रह लाख, दस लाख, तीन लाख, पाँच कम एक लाख और पाँच नरक हैं ॥२॥
+<!--JsMindTagBegin-->
+    {"id":"root", "isroot":true, "topic":"नरक के 84 लाख बिल"},
+    {"id":"sub1", "parentid":"root", "topic":"रत्‍नप्रभा"},
+    {"id":"sub11", "parentid":"sub1", "topic":"30 लाख"},
+    {"id":"sub2", "parentid":"root", "topic":"शर्कराप्रभा"},
+    {"id":"sub21", "parentid":"sub2", "topic":"25 लाख"},
+    {"id":"sub3", "parentid":"root", "topic":"बालुकाप्रभा"},
+    {"id":"sub31", "parentid":"sub3", "topic":"15 लाख"},
+    {"id":"sub4", "parentid":"root", "topic":"पंकप्रभा"},
+    {"id":"sub41", "parentid":"sub4", "topic":"10 लाख"},
+    {"id":"sub5", "parentid":"root", "topic":"धूमप्रभा"},
+    {"id":"su51", "parentid":"sub5", "topic":"3 लाख"},
+    {"id":"sub6", "parentid":"root", "topic":"तमःप्रभा"},
+    {"id":"sub61", "parentid":"sub6", "topic":"1 लाख - 5"},
+    {"id":"sub7", "parentid":"root", "topic":"महातमःप्रभा"},
+    {"id":"sub71", "parentid":"sub7", "topic":"5"}
+<!--JsMindTagEnd-->

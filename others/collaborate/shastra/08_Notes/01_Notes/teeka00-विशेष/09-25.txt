@@ -1,0 +1,851 @@
+﻿<table class=myAltTable>
+  <tr>
+    <td class=emptyTableCell></td>
+    <th class=tableTitle colspan=24>नाम कर्म के उदय-स्थान में जीव-पद अपेक्षा भंग</th>
+  </tr>
+  <tr>
+    <th rowspan=2>उदय-स्थान</th>
+    <th rowspan=2>काल</th>
+    <th rowspan=2>स्वामी</th>
+    <th colspan=2>सामान्य</th>
+    <th colspan=2>मिथ्यात्व</th>
+    <th colspan=2>सासादन</th>
+    <th colspan=2>मिश्र</th>
+    <th colspan=2>अविरत स.</th>
+    <th colspan=2>देशविरत</th>
+    <th colspan=2>प्रमत्तविरत</th>
+    <th colspan=2>अप्रमत्तविरत</th>
+    <th colspan=2>उपशम-श्रेणी</th>
+    <th colspan=2>क्षपक-श्रेणी</th>
+    <th colspan=2>सयोग-केवली</th>
+  </tr>
+  <tr>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+  </tr>
+  <tr>
+    <th>20</th>
+    <td>कार्मण</td>
+    <td>*समुद्घात सामान्य केवली</td>
+    <td>1</td>
+    <td>1</td>
+    <td class=tableNotes>-na-</td>
+    <td class=tableNotes>-na-</td>
+    <td class=tableNotes>-na-</td>
+    <td class=tableNotes>-na-</td>
+    <td class=tableNotes>-na-</td>
+    <td class=tableNotes>-na-</td>
+    <td class=tableNotes>-na-</td>
+    <td class=tableNotes>-na-</td>
+    <td class=tableNotes>-na-</td>
+    <td class=tableNotes>-na-</td>
+    <td class=tableNotes>-na-</td>
+    <td class=tableNotes>-na-</td>
+    <td class=tableNotes>-na-</td>
+    <td class=tableNotes>-na-</td>
+    <td class=tableNotes>-na-</td>
+    <td class=tableNotes>-na-</td>
+    <td class=tableNotes>-na-</td>
+    <td class=tableNotes>-na-</td>
+    <td>1</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <th rowspan=9>21</th>
+    <td rowspan=9>कार्मण</td>
+    <td>देव-गति</td>
+    <td>1</td>
+    <td rowspan=9>60</td>
+    <td>1</td>
+    <td rowspan=9>59</td>
+    <td>1</td>
+    <td rowspan=9>31</td>
+    <td class=tableNotes rowspan=9>-na-</td>
+    <td class=tableNotes rowspan=9>-na-</td>
+    <td>1</td>
+    <td rowspan=9>4</td>
+    <td class=tableNotes rowspan=9>-na-</td>
+    <td class=tableNotes rowspan=9>-na-</td>
+    <td class=tableNotes rowspan=9>-na-</td>
+    <td class=tableNotes rowspan=9>-na-</td>
+    <td class=tableNotes rowspan=9>-na-</td>
+    <td class=tableNotes rowspan=9>-na-</td>
+    <td class=tableNotes rowspan=9>-na-</td>
+    <td class=tableNotes rowspan=9>-na-</td>
+    <td class=tableNotes rowspan=9>-na-</td>
+    <td class=tableNotes rowspan=9>-na-</td>
+    <td class=tableNotes rowspan=8>-na-</td>
+    <td rowspan=9>1</td>
+  </tr>
+  <tr>
+    <td>नरक-गति</td>
+    <td>1</td>
+    <td>1</td>
+    <td class=tableNotes>-na-</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>मनुष्य-गति</td>
+    <td>8</td>
+    <td>8</td>
+    <td>8</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>संज्ञी तिर्यञ्च</td>
+    <td>8</td>
+    <td>8</td>
+    <td>8</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>विकलत्रय और असंज्ञी</td>
+    <td>8</td>
+    <td>8</td>
+    <td>8</td>
+    <td class=tableNotes rowspan=5>-na-</td>
+  </tr>
+  <tr>
+    <td>बादर -- पृथ्वी, अप तेज, वायु, प्र. वनस्पति</td>
+    <td>10</td>
+    <td>10</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td>सूक्ष्म 5*, बादर साधारण वनस्पति</td>
+    <td>6</td>
+    <td>6</td>
+    <td class=tableNotes rowspan=3>-na-</td>
+  </tr>
+  <tr>
+    <td>लब्ध्यपर्याप्त 17 (पृथ्वीकायादि)</td>
+    <td>17</td>
+    <td>17</td>
+  </tr>
+  <tr>
+    <td>*समुद्घात तीर्थंकर केवली</td>
+    <td>1</td>
+    <td class=tableNotes>-na-</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <th rowspan=2>उदय-स्थान</th>
+    <th rowspan=2>काल</th>
+    <th rowspan=2>स्वामी</th>
+    <th colspan=2>सामान्य</th>
+    <th colspan=2>मिथ्यात्व</th>
+    <th colspan=2>सासादन</th>
+    <th colspan=2>मिश्र</th>
+    <th colspan=2>अविरत स.</th>
+    <th colspan=2>देशविरत</th>
+    <th colspan=2>प्रमत्तविरत</th>
+    <th colspan=2>अप्रमत्तविरत</th>
+    <th colspan=2>उपशम-श्रेणी</th>
+    <th colspan=2>क्षपक-श्रेणी</th>
+    <th colspan=2>सयोग-केवली</th>
+  </tr>
+  <tr>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+  </tr>
+  <tr>
+    <th rowspan=3>24</th>
+    <td rowspan=3>मिश्र शरीर</td>
+    <td>बादर -- पृथ्वी, अप तेज, वायु, प्र. वनस्पति</td>
+    <td>10</td>
+    <td rowspan=3>27</td>
+    <td>10</td>
+    <td rowspan=3>27</td>
+    <td>6</td>
+    <td rowspan=3>6</td>
+    <td class=tableNotes rowspan=3>-na-</td>
+    <td class=tableNotes rowspan=3>-na-</td>
+    <td class=tableNotes rowspan=3>-na-</td>
+    <td class=tableNotes rowspan=3>-na-</td>
+    <td class=tableNotes rowspan=3>-na-</td>
+    <td class=tableNotes rowspan=3>-na-</td>
+    <td class=tableNotes rowspan=3>-na-</td>
+    <td class=tableNotes rowspan=3>-na-</td>
+    <td class=tableNotes rowspan=3>-na-</td>
+    <td class=tableNotes rowspan=3>-na-</td>
+    <td class=tableNotes rowspan=3>-na-</td>
+    <td class=tableNotes rowspan=3>-na-</td>
+    <td class=tableNotes rowspan=3>-na-</td>
+    <td class=tableNotes rowspan=3>-na-</td>
+    <td class=tableNotes rowspan=3>-na-</td>
+    <td class=tableNotes rowspan=3>-na-</td>
+  </tr>
+  <tr>
+    <td>सूक्ष्म 5*, बादर साधारण वनस्पति</td>
+    <td>6</td>
+    <td>6</td>
+    <td class=tableNotes rowspan=2>-na-</td>
+  </tr>
+  <tr>
+    <td>लब्ध्यपर्याप्त 11 (एकेन्द्रिय)</td>
+    <td>11</td>
+    <td>11</td>
+  </tr>
+  <tr>
+    <th rowspan=3>25</th>
+    <td>मिश्र-शरीर</td>
+    <td>देव, नारकी, आहारक-शरीरी</td>
+    <td>3</td>
+    <td rowspan=3>19</td>
+    <td>2</td>
+    <td rowspan=3>18</td>
+    <td>1</td>
+    <td rowspan=3>1</td>
+    <td class=tableNotes rowspan=3>-na-</td>
+    <td class=tableNotes rowspan=3>-na-</td>
+    <td>2</td>
+    <td rowspan=3>2</td>
+    <td class=tableNotes rowspan=3>-na-</td>
+    <td class=tableNotes rowspan=3>-na-</td>
+    <td>1</td>
+    <td rowspan=3>1</td>
+    <td  class=tableNotes rowspan=3>-na-</td>
+    <td  class=tableNotes rowspan=3>-na-</td>
+    <td  class=tableNotes rowspan=3>-na-</td>
+    <td  class=tableNotes rowspan=3>-na-</td>
+    <td  class=tableNotes rowspan=3>-na-</td>
+    <td  class=tableNotes rowspan=3>-na-</td>
+    <td  class=tableNotes rowspan=3>-na-</td>
+    <td  class=tableNotes rowspan=3>-na-</td>
+  </tr>
+  <tr>
+    <td rowspan=2>शरीर-पर्याप्ति</td>
+    <td>बादर -- पृथ्वी, अप तेज, वायु, प्र. वनस्पति</td>
+    <td>10</td>
+    <td>10</td>
+    <td class=tableNotes rowspan=2>-na-</td>
+    <td class=tableNotes rowspan=2>-na-</td>
+    <td class=tableNotes rowspan=2>-na-</td>
+  </tr>
+  <tr>
+    <td>सूक्ष्म 5, बादर साधारण वनस्पति</td>
+    <td>6</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <th rowspan=2>उदय-स्थान</th>
+    <th rowspan=2>काल</th>
+    <th rowspan=2>स्वामी</th>
+    <th colspan=2>सामान्य</th>
+    <th colspan=2>मिथ्यात्व</th>
+    <th colspan=2>सासादन</th>
+    <th colspan=2>मिश्र</th>
+    <th colspan=2>अविरत स.</th>
+    <th colspan=2>देशविरत</th>
+    <th colspan=2>प्रमत्तविरत</th>
+    <th colspan=2>अप्रमत्तविरत</th>
+    <th colspan=2>उपशम-श्रेणी</th>
+    <th colspan=2>क्षपक-श्रेणी</th>
+    <th colspan=2>सयोग-केवली</th>
+  </tr>
+  <tr>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+  </tr>
+  <tr>
+    <th rowspan=9>26</th>
+    <td rowspan=5>शरीर-मिश्र</td>
+    <td>विकलत्रय और असंज्ञी</td>
+    <td>8</td>
+    <td rowspan=9>620</td>
+    <td>8</td>
+    <td rowspan=9>614</td>
+    <td>8</td>
+    <td rowspan=9>584</td>
+    <td class=tableNotes rowspan=9>-na-</td>
+    <td class=tableNotes rowspan=9>-na-</td>
+    <td class=tableNotes>-na-</td>
+    <td rowspan=9>37</td>
+    <td class=tableNotes rowspan=9>-na-</td>
+    <td class=tableNotes rowspan=9>-na-</td>
+    <td class=tableNotes rowspan=9>-na-</td>
+    <td class=tableNotes rowspan=9>-na-</td>
+    <td class=tableNotes rowspan=9>-na-</td>
+    <td class=tableNotes rowspan=9>-na-</td>
+    <td class=tableNotes rowspan=9>-na-</td>
+    <td class=tableNotes rowspan=9>-na-</td>
+    <td class=tableNotes rowspan=9>-na-</td>
+    <td class=tableNotes rowspan=9>-na-</td>
+    <td class=tableNotes rowspan=3>-na-</td>
+    <td rowspan=9>6</td>
+  </tr>
+  <tr>
+    <td>संज्ञी तिर्यञ्च</td>
+    <td>288</td>
+    <td>288</td>
+    <td>288</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>मनुष्य</td>
+    <td>288</td>
+    <td>288</td>
+    <td>288</td>
+    <td>36</td>
+  </tr>
+  <tr>
+    <td>सामान्य समुद्घात केवली</td>
+    <td>6</td>
+    <td class=tableNotes>-na-</td>
+    <td class=tableNotes rowspan=6>-na-</td>
+    <td class=tableNotes rowspan=6>-na-</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td>लब्ध्यपर्याप्त 6 (त्रस)</td>
+    <td>6</td>
+    <td>6</td>
+    <td class=tableNotes rowspan=5>-na-</td>
+  </tr>
+  <tr>
+    <td rowspan=2>शरीर-पर्याप्ति</td>
+    <td>बादर पृथ्वीकायिक आतप</td>
+    <td>2</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>उद्योत 3 (पृथ्वी, अप, वनस्पति)</td>
+    <td>6</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td rowspan=2>उच्छ्वास-पर्याप्ति</td>
+    <td>बादर -- पृथ्वी, अप तेज, वायु, प्र. वनस्पति</td>
+    <td>10</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td>सूक्ष्म 5, बादर साधारण वनस्पति</td>
+    <td>6</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <th rowspan=2>उदय-स्थान</th>
+    <th rowspan=2>काल</th>
+    <th rowspan=2>स्वामी</th>
+    <th colspan=2>सामान्य</th>
+    <th colspan=2>मिथ्यात्व</th>
+    <th colspan=2>सासादन</th>
+    <th colspan=2>मिश्र</th>
+    <th colspan=2>अविरत स.</th>
+    <th colspan=2>देशविरत</th>
+    <th colspan=2>प्रमत्तविरत</th>
+    <th colspan=2>अप्रमत्तविरत</th>
+    <th colspan=2>उपशम-श्रेणी</th>
+    <th colspan=2>क्षपक-श्रेणी</th>
+    <th colspan=2>सयोग-केवली</th>
+  </tr>
+  <tr>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+  </tr>
+  <tr>
+    <th rowspan=4>27</th>
+    <td>शरीर-मिश्र</td>
+    <td>तीर्थंकर समुद्घात केवली</td>
+    <td>1</td>
+    <td rowspan=4>12</td>
+    <td class=tableNotes>-na-</td>
+    <td rowspan=4>10</td>
+    <td class=tableNotes rowspan=4>-na-</td>
+    <td class=tableNotes rowspan=4>-na-</td>
+    <td class=tableNotes rowspan=4>-na-</td>
+    <td class=tableNotes rowspan=4>-na-</td>
+    <td class=tableNotes>-na-</td>
+    <td rowspan=4>2</td>
+    <td class=tableNotes rowspan=4>-na-</td>
+    <td class=tableNotes rowspan=4>-na-</td>
+    <td class=tableNotes>-na-</td>
+    <td rowspan=4>1</td>
+    <td class=tableNotes rowspan=4>-na-</td>
+    <td class=tableNotes rowspan=4>-na-</td>
+    <td class=tableNotes rowspan=4>-na-</td>
+    <td class=tableNotes rowspan=4>-na-</td>
+    <td class=tableNotes rowspan=4>-na-</td>
+    <td class=tableNotes rowspan=4>-na-</td>
+    <td>1</td>
+    <td rowspan=4>1</td>
+  </tr>
+  <tr>
+    <td>शरीर-पर्याप्ति</td>
+    <td>देव, नारकी, आहारक-शरीरी</td>
+    <td>3</td>
+    <td>2</td>
+    <td>2</td>
+    <td>1</td>
+    <td class=tableNotes rowspan=3>-na-</td>
+  </tr>
+  <tr>
+    <td rowspan=2>उच्छ्वास-पर्याप्ति</td>
+    <td>बादर पृथ्वीकायिक आतप</td>
+    <td>2</td>
+    <td>2</td>
+    <td>0</td>
+    <td class=tableNotes rowspan=2>-na-</td>
+  </tr>
+  <tr>
+    <td>उद्योत 3 (पृथ्वी, अप, वनस्पति)</td>
+    <td>6</td>
+    <td>6</td>
+    <td class=tableNotes>-na-</td>
+  </tr>
+  <tr>
+    <th rowspan=5>28</th>
+    <td rowspan=4>शरीर-पर्याप्ति</td>
+    <td>सामान्य समुद्घात केवली</td>
+    <td>12</td>
+    <td rowspan=5>1175</td>
+    <td class=tableNotes>-na-</td>
+    <td rowspan=5>1162</td>
+    <td class=tableNotes rowspan=5>-na-</td>
+    <td class=tableNotes rowspan=5>-na-</td>
+    <td class=tableNotes rowspan=5>-na-</td>
+    <td class=tableNotes rowspan=5>-na-</td>
+    <td class=tableNotes>-na-</td>
+    <td rowspan=5>75</td>
+    <td class=tableNotes rowspan=5>-na-</td>
+    <td class=tableNotes rowspan=5>-na-</td>
+    <td class=tableNotes rowspan=4>-na-</td>
+    <td rowspan=5>1</td>
+    <td class=tableNotes rowspan=5>-na-</td>
+    <td class=tableNotes rowspan=5>-na-</td>
+    <td class=tableNotes rowspan=5>-na-</td>
+    <td class=tableNotes rowspan=5>-na-</td>
+    <td class=tableNotes rowspan=5>-na-</td>
+    <td class=tableNotes rowspan=5>-na-</td>
+    <td>12</td>
+    <td rowspan=5>12</td>
+  </tr>
+  <tr>
+    <td>मनुष्य</td>
+    <td>576</td>
+    <td>576</td>
+    <td>72</td>
+    <td class=tableNotes rowspan=4>-na-</td>
+  </tr>
+  <tr>
+    <td>संज्ञी तिर्यञ्च</td>
+    <td>576</td>
+    <td>576</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>विकलत्रय और असंज्ञी</td>
+    <td>8</td>
+    <td>8</td>
+    <td class=tableNotes>-na-</td>
+  </tr>
+  <tr>
+    <td>उच्छ्वास-पर्याप्ति</td>
+    <td>देव, नारकी, आहारक-शरीरी</td>
+    <td>3</td>
+    <td>2</td>
+    <td>2</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <th rowspan=2>उदय-स्थान</th>
+    <th rowspan=2>काल</th>
+    <th rowspan=2>स्वामी</th>
+    <th colspan=2>सामान्य</th>
+    <th colspan=2>मिथ्यात्व</th>
+    <th colspan=2>सासादन</th>
+    <th colspan=2>मिश्र</th>
+    <th colspan=2>अविरत स.</th>
+    <th colspan=2>देशविरत</th>
+    <th colspan=2>प्रमत्तविरत</th>
+    <th colspan=2>अप्रमत्तविरत</th>
+    <th colspan=2>उपशम-श्रेणी</th>
+    <th colspan=2>क्षपक-श्रेणी</th>
+    <th colspan=2>सयोग-केवली</th>
+  </tr>
+  <tr>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+  </tr>
+  <tr>
+    <th rowspan=8>29</th>
+    <td rowspan=3>शरीर-पर्याप्ति</td>
+    <td>तीर्थंकर समुद्घात केवली</td>
+    <td>1</td>
+    <td rowspan=8>1760</td>
+    <td class=tableNotes>-na-</td>
+    <td rowspan=8>1746</td>
+    <td class=tableNotes rowspan=7>-na-</td>
+    <td rowspan=8>2</td>
+    <td class=tableNotes rowspan=7>-na-</td>
+    <td rowspan=8>2</td>
+    <td class=tableNotes>-na-</td>
+    <td rowspan=8>76</td>
+    <td class=tableNotes rowspan=8>-na-</td>
+    <td class=tableNotes rowspan=8>-na-</td>
+    <td class=tableNotes rowspan=7>-na-</td>
+    <td rowspan=8>1</td>
+    <td class=tableNotes rowspan=8>-na-</td>
+    <td class=tableNotes rowspan=8>-na-</td>
+    <td class=tableNotes rowspan=8>-na-</td>
+    <td class=tableNotes rowspan=8>-na-</td>
+    <td class=tableNotes rowspan=8>-na-</td>
+    <td class=tableNotes rowspan=8>-na-</td>
+    <td>1</td>
+    <td rowspan=8>13</td>
+  </tr>
+  <tr>
+    <td>संज्ञी तिर्यञ्च उद्योत</td>
+    <td>576</td>
+    <td>576</td>
+    <td>1</td>
+    <td class=tableNotes rowspan=2>-na-</td>
+  </tr>
+  <tr>
+    <td>उद्योत-युक्त विकलत्रय और असंज्ञी</td>
+    <td>8</td>
+    <td>8</td>
+    <td class=tableNotes rowspan=2>-na-</td>
+  </tr>
+  <tr>
+    <td rowspan=4>उच्छ्वास-पर्याप्ति</td>
+    <td>सामान्य समुद्घात केवली</td>
+    <td>12</td>
+    <td class=tableNotes>-na-</td>
+    <td>12</td>
+  </tr>
+  <tr>
+    <td>मनुष्य</td>
+    <td>576</td>
+    <td>576</td>
+    <td>72</td>
+    <td class=tableNotes rowspan=4>-na-</td>
+  </tr>
+  <tr>
+    <td>संज्ञी तिर्यञ्च</td>
+    <td>576</td>
+    <td>576</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>विकलत्रय और असंज्ञी</td>
+    <td>8</td>
+    <td>8</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>भाषा-पर्याप्ति</td>
+    <td>देव, नारकी, आहारक-शरीरी</td>
+    <td>3</td>
+    <td>2</td>
+    <td>2</td>
+    <td>2</td>
+    <td>2</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <th rowspan=2>उदय-स्थान</th>
+    <th rowspan=2>काल</th>
+    <th rowspan=2>स्वामी</th>
+    <th colspan=2>सामान्य</th>
+    <th colspan=2>मिथ्यात्व</th>
+    <th colspan=2>सासादन</th>
+    <th colspan=2>मिश्र</th>
+    <th colspan=2>अविरत स.</th>
+    <th colspan=2>देशविरत</th>
+    <th colspan=2>प्रमत्तविरत</th>
+    <th colspan=2>अप्रमत्तविरत</th>
+    <th colspan=2>उपशम-श्रेणी</th>
+    <th colspan=2>क्षपक-श्रेणी</th>
+    <th colspan=2>सयोग-केवली</th>
+  </tr>
+  <tr>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>कुल-भंग</th>
+  </tr>
+  <tr>
+    <th rowspan=7>30</th>
+    <td rowspan=3>उच्छ्वास-पर्याप्ति</td>
+    <td>तीर्थंकर समुद्घात केवली</td>
+    <td>1</td>
+    <td rowspan=7>2921</td>
+    <td class=tableNotes>-na-</td>
+    <td rowspan=7>2896</td>
+    <td class=tableNotes rowspan=4>-na-</td>
+    <td rowspan=7>2304</td>
+    <td class=tableNotes rowspan=4>-na-</td>
+    <td rowspan=7>2304</td>
+    <td class=tableNotes>-na-</td>
+    <td rowspan=7>2305</td>
+    <td class=tableNotes rowspan=4>-na-</td>
+    <td rowspan=7>288</td>
+    <td class=tableNotes rowspan=4>-na-</td>
+    <td rowspan=7>144</td>
+    <td class=tableNotes rowspan=4>-na-</td>
+    <td rowspan=7>144</td>
+    <td class=tableNotes rowspan=4>-na-</td>
+    <td rowspan=7>72</td>
+    <td class=tableNotes rowspan=4>-na-</td>
+    <td rowspan=7>24</td>
+    <td>1</td>
+    <td rowspan=7>25</td>
+  </tr>
+  <tr>
+    <td>संज्ञी तिर्यञ्च उद्योत</td>
+    <td>576</td>
+    <td>576</td>
+    <td>1</td>
+    <td class=tableNotes rowspan=2>-na-</td>
+  </tr>
+  <tr>
+    <td>उद्योत-युक्त विकलत्रय और असंज्ञी</td>
+    <td>8</td>
+    <td>8</td>
+    <td class=tableNotes rowspan=2>-na-</td>
+  </tr>
+  <tr>
+    <td rowspan=4>भाषा-पर्याप्ति</td>
+    <td>सामान्य केवली</td>
+    <td>24</td>
+    <td class=tableNotes>-na-</td>
+    <td>24</td>
+  </tr>
+  <tr>
+    <td>मनुष्य</td>
+    <td>1152</td>
+    <td>1152</td>
+    <td>1152</td>
+    <td>1152</td>
+    <td>1152</td>
+    <td>144</td>
+    <td>144</td>
+    <td>144</td>
+    <td>72</td>
+    <td>24</td>
+    <td class=tableNotes rowspan=3>-na-</td>
+  </tr>
+  <tr>
+    <td>संज्ञी तिर्यञ्च</td>
+    <td>1152</td>
+    <td>1152</td>
+    <td>1152</td>
+    <td>1152</td>
+    <td>1152</td>
+    <td>144</td>
+    <td class=tableNotes rowspan=2>-na-</td>
+    <td class=tableNotes rowspan=2>-na-</td>
+    <td class=tableNotes rowspan=2>-na-</td>
+    <td class=tableNotes rowspan=2>-na-</td>
+  </tr>
+  <tr>
+    <td>विकलत्रय और असंज्ञी</td>
+    <td>8</td>
+    <td>8</td>
+    <td class=tableNotes>-na-</td>
+    <td class=tableNotes>-na-</td>
+    <td class=tableNotes>-na-</td>
+    <td class=tableNotes>-na-</td>
+  </tr>
+  <tr>
+    <th rowspan=3>31</th>
+    <td rowspan=3>भाषा-पर्याप्ति</td>
+    <td>तीर्थंकर केवली</td>
+    <td>1</td>
+    <td rowspan=3>1161</td>
+    <td class=tableNotes>-na-</td>
+    <td rowspan=3>1160</td>
+    <td class=tableNotes>-na-</td>
+    <td rowspan=3>1152</td>
+    <td class=tableNotes>-na-</td>
+    <td rowspan=3>1152</td>
+    <td class=tableNotes>-na-</td>
+    <td rowspan=3>1152</td>
+    <td class=tableNotes>-na-</td>
+    <td rowspan=3>144</td>
+    <td class=tableNotes rowspan=3>-na-</td>
+    <td class=tableNotes rowspan=3>-na-</td>
+    <td class=tableNotes rowspan=3>-na-</td>
+    <td class=tableNotes rowspan=3>-na-</td>
+    <td class=tableNotes rowspan=3>-na-</td>
+    <td class=tableNotes rowspan=3>-na-</td>
+    <td class=tableNotes rowspan=3>-na-</td>
+    <td class=tableNotes rowspan=3>-na-</td>
+    <td>1</td>
+    <td rowspan=3>1</td>
+  </tr>
+  <tr>
+    <td>संज्ञी तिर्यञ्च उद्योत</td>
+    <td>1152</td>
+    <td>1152</td>
+    <td>1152</td>
+    <td>1152</td>
+    <td>1152</td>
+    <td>144</td>
+    <td class=tableNotes rowspan=2>-na-</td>
+  </tr>
+  <tr>
+    <td>उद्योत-युक्त विकलत्रय और असंज्ञी</td>
+    <td>8</td>
+    <td>8</td>
+    <td class=tableNotes>-na-</td>
+    <td class=tableNotes>-na-</td>
+    <td class=tableNotes>-na-</td>
+    <td class=tableNotes>-na-</td>
+  </tr>
+  <tr>
+    <td class=emptyTableCell colspan=2></td>
+    <th>कुल भंग</th>
+    <td class=emptyTableCell></td>
+    <th>7758</th>
+    <td class=emptyTableCell></td>
+    <th>7692</th>
+    <td class=emptyTableCell></td>
+    <th>4080</th>
+    <td class=emptyTableCell></td>
+    <th>3458</th>
+    <td class=emptyTableCell></td>
+    <th>3653</th>
+    <td class=emptyTableCell></td>
+    <th>432</th>
+    <td class=emptyTableCell></td>
+    <th>148</th>
+    <td class=emptyTableCell></td>
+    <th>144</th>
+    <td class=emptyTableCell></td>
+    <th>72</th>
+    <td class=emptyTableCell></td>
+    <th>24</th>
+    <td class=emptyTableCell></td>
+    <th>60</th>
+  </tr>
+  <tr>
+    <td class=tableNotes colspan=25>*सूक्ष्म 5 = पृथ्वी, अप तेज, वायु, वनस्पति</td>
+  </tr>
+  <tr>
+    <td class=tableNotes colspan=25>केवली में कार्मण-काल प्रतर और लोकपूरण समुद्घात के 3 समय का काल है ।</td>
+  </tr>
+  <tr>
+    <td class=tableNotes colspan=25>केवली समुद्घात में उदयस्थान -- दंड (30/31) -&#62; कपाट/मिश्र (26/27) -&#62; प्रतर+लोकपूरण (20/21) -&#62; कपाट/मिश्र (26/27) -&#62; शरीर-पर्याप्ति (28/29) -&#62; उच्छ्वास पर्याप्ति (29/30) -&#62; भाषा-पर्याप्ति (30/31)</td>
+  </tr>
+</table>

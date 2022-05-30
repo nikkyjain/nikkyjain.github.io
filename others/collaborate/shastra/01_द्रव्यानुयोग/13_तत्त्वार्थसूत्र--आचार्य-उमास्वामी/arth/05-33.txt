@@ -1,0 +1,6 @@
+﻿स्निग्‍धत्‍व और रूक्षत्‍व से बन्‍ध होता है ॥३३॥
+<!--JsMindTagBeginH2-->
+  {"id":"root", "isroot":true, "topic":"पुद्गल मे बंध"},
+  {"id":"sub1", "parentid":"root", "topic":"स्निग्‍धत्‍व"},
+  {"id":"sub11", "parentid":"root", "topic":"रूक्षत्‍व"}
+<!--JsMindTagEnd-->

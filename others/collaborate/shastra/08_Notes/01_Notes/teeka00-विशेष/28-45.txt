@@ -1,0 +1,131 @@
+﻿<table class=myAltTable>
+<thead>
+<tr>
+<th>तीर्थंकर</th>
+<th>तीर्थ-काल</th>
+<th>विच्छेद</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th>आदिनाथ</th>
+<td>50 लाख कोटी सागर</td>
+<td class=cellN>नहीं</td>
+</tr>
+<tr>
+<th>अजितनाथ</th>
+<td>30 लाख कोटी सागर</td>
+<td class=cellN>नहीं</td>
+</tr>
+<tr>
+<th>संभवनाथनाथ</th>
+<td>10 लाख कोटी सागर</td>
+<td class=cellN>नहीं</td>
+</tr>
+<tr>
+<th>अभिनंदननाथ</th>
+<td>9 लाख कोटी सागर</td>
+<td class=cellN>नहीं</td>
+</tr>
+<tr>
+<th>सुमतिनाथ</th>
+<td>90 हजार कोटी सागर</td>
+<td class=cellN>नहीं</td>
+</tr>
+<tr>
+<th>पद्मनाथ</th>
+<td>नौ हजार कोटि सागर</td>
+<td class=cellN>नहीं</td>
+</tr>
+<tr>
+<th>सुपार्श्वनाथ</th>
+<td>नौ सौ कोटि सागर</td>
+<td class=cellN>नहीं</td>
+</tr>
+<tr>
+<th>चंद्रप्रभनाथ</th>
+<td>नब्बे कोटि सागर</td>
+<td class=cellN>नहीं</td>
+</tr>
+<tr>
+<th>पुष्पदंतनाथ</th>
+<td>नौ करोड़ सागर</td>
+<td>1/4 पल्य</td>
+</tr>
+<tr>
+<th>शीतलनाथ</th>
+<td>3,373,900 सागर</td>
+<td>1/2 पल्य</td>
+</tr>
+<tr>
+<th>श्रेयांसनाथ</th>
+<td>54 सागर</td>
+<td>3/4 पल्य</td>
+</tr>
+<tr>
+<th>वासुपूज्यनाथ</th>
+<td>30 सागर</td>
+<td>1 पल्य</td>
+</tr>
+<tr>
+<th>विमलनाथ</th>
+<td>9 सागर</td>
+<td>1 पल्य</td>
+</tr>
+<tr>
+<th>अनंतनाथ</th>
+<td>4 सागर</td>
+<td>3/4 पल्य</td>
+</tr>
+<tr>
+<th>धर्मनाथ</th>
+<td>3 सागर</td>
+<td>1/2 पल्य</td>
+</tr>
+<tr>
+<th>शांतिनाथ</th>
+<td>1/2 पल्य</td>
+<td class=cellN>नहीं</td>
+</tr>
+<tr>
+<th>कुन्थुनाथ</th>
+<td>1/4 पल्य - 1000 कोटी</td>
+<td class=cellN>नहीं</td>
+</tr>
+<tr>
+<th>अरहनाथ</th>
+<td>1000 कोटी</td>
+<td class=cellN>नहीं</td>
+</tr>
+<tr>
+<th>मल्लिनाथ</th>
+<td>54 लाख</td>
+<td class=cellN>नहीं</td>
+</tr>
+<tr>
+<th>मुनिसुव्रतनाथ</th>
+<td>6 लाख</td>
+<td class=cellN>नहीं</td>
+</tr>
+<tr>
+<th>नमिनाथ</th>
+<td>5 लाख</td>
+<td class=cellN>नहीं</td>
+</tr>
+<tr>
+<th>नेमीनाथ</th>
+<td>83750</td>
+<td class=cellN>नहीं</td>
+</tr>
+<tr>
+<th>पार्श्वनाथ</th>
+<td>250 वर्ष</td>
+<td class=cellN>नहीं</td>
+</tr>
+<tr>
+<th>महावीर</th>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>

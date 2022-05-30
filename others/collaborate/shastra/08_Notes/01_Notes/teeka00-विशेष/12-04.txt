@@ -1,0 +1,294 @@
+﻿<table class=myAltTable>
+  <thead>
+  <tr>
+    <th colspan=11 class=tableTitle>गुणस्थानों में आस्रव के स्थान संख्या और उनके प्रकार</th>
+  </tr>
+  <tr>
+    <th>गुणस्थान</th>
+    <th>स्थान-संख्या</th>
+    <th colspan=9>स्थान (ऊपर) और उनके प्रकार (स्थान के नीचे)</th>
+  </tr>
+  </thead>
+  <tr>
+    <th rowspan=2>मिथ्यादृष्टि</th>
+    <td rowspan=2>9</td>
+    <td>10</td>
+    <td>11</td>
+    <td>12</td>
+    <td>13</td>
+    <td>14</td>
+    <td>15</td>
+    <td>16</td>
+    <td>17</td>
+    <td>18</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>3</td>
+    <td>5</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>5</td>
+    <td>3</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <th rowspan=2>सासादन</th>
+    <td rowspan=2>8</td>
+    <td>10</td>
+    <td>11</td>
+    <td>12</td>
+    <td>13</td>
+    <td>14</td>
+    <td>15</td>
+    <td>16</td>
+    <td>17</td>
+    <td class=emptyTableCell></td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>2</td>
+    <td>3</td>
+    <td>3</td>
+    <td>3</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+    <td class=emptyTableCell></td>
+  </tr>
+  <tr>
+    <th rowspan=2>मिश्र</th>
+    <td rowspan=2>8</td>
+    <td>9</td>
+    <td>10</td>
+    <td>11</td>
+    <td>12</td>
+    <td>13</td>
+    <td>14</td>
+    <td>15</td>
+    <td>16</td>
+    <td class=emptyTableCell></td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>2</td>
+    <td>3</td>
+    <td>3</td>
+    <td>3</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+    <td class=emptyTableCell></td>
+  </tr>
+  <tr>
+    <th rowspan=2>असंयत सम्यग्दृष्टि</th>
+    <td rowspan=2>8</td>
+    <td>9</td>
+    <td>10</td>
+    <td>11</td>
+    <td>12</td>
+    <td>13</td>
+    <td>14</td>
+    <td>15</td>
+    <td>16</td>
+    <td class=emptyTableCell></td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>2</td>
+    <td>3</td>
+    <td>3</td>
+    <td>3</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+    <td class=emptyTableCell></td>
+  </tr>
+  <tr>
+    <th rowspan=2>संयतासंयत</th>
+    <td rowspan=2>7</td>
+    <td>8</td>
+    <td>9</td>
+    <td>10</td>
+    <td>11</td>
+    <td>12</td>
+    <td>13</td>
+    <td>14</td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>2</td>
+    <td>3</td>
+    <td>3</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+  </tr>
+  <tr>
+    <th rowspan=2>प्रमत्तसंयत</th>
+    <td rowspan=2>3</td>
+    <td>5</td>
+    <td>6</td>
+    <td>7</td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>1</td>
+    <td>1</td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+  </tr>
+  <tr>
+    <th rowspan=2>अप्रमत्तसंयत</th>
+    <td rowspan=2>3</td>
+    <td>5</td>
+    <td>6</td>
+    <td>7</td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>1</td>
+    <td>1</td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+  </tr>
+  <tr>
+    <th rowspan=2>अपूर्वकरण</th>
+    <td rowspan=2>3</td>
+    <td>5</td>
+    <td>6</td>
+    <td>7</td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>1</td>
+    <td>1</td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+  </tr>
+  <tr>
+    <th rowspan=2>अनिवृत्तिकरण</th>
+    <td rowspan=2>2</td>
+    <td>2</td>
+    <td>3</td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>1</td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+  </tr>
+  <tr>
+    <th rowspan=2>सूक्ष्मसाम्पराय</th>
+    <td rowspan=2>1</td>
+    <td>2</td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+  </tr>
+  <tr>
+    <th>उपशान्त कषाय</th>
+    <td>1</td>
+    <td>1</td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+  </tr>
+  <tr>
+    <th>क्षीण कषाय</th>
+    <td>1</td>
+    <td>1</td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+  </tr>
+  <tr>
+    <th>सयोग केवली</th>
+    <td>1</td>
+    <td>1</td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+  </tr>
+  <tr>
+    <td colspan=11 class=tableNotes>गोम्मटसार कर्मकाण्ड -- गाथा 793</td>
+  </tr>
+</table>

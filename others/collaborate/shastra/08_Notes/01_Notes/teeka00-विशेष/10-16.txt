@@ -1,0 +1,169 @@
+﻿<table class=myAltTable>
+  <thead>
+  <tr>
+    <td class=emptyTableCell colspan=3 rowspan=2></td>
+    <th class=tableTitle colspan=5>अविरत-सम्यक्त्वी गुणस्थान के सत्व में 40 स्थान और उनके 120 भंग</th>
+    <th class=tableTitle rowspan=2>कुल</th>
+  </tr>
+  <tr>
+    <th>अनंतानुबंधी के सत्व सहित</th>
+    <th>अनंतानुबंधी विसंयोजक</th>
+    <th>क्षायिक-सम्यक्त्व प्रस्थापक</th>
+    <th>कृतकृत्य वेदक</th>
+    <th>क्षायिक सम्यक्त्वी</th>
+  </tr>
+  </thead>
+  <tr>
+    <th rowspan=4>तीर्थंकर, आहारक-४ सहित</th>
+    <th rowspan=2>बद्धायुष्क</th>
+    <th>स्थान</th>
+    <td class=head1><b>146</b> (-तिर्यञ्च-1 आयु)</td>
+    <td class=head1><b>142</b> (-अनंतानुबंधी ४)</td>
+    <td class=head1><b>141</b> (-मिथ्यात्व)</td>
+    <td class=head1><b>140</b> (-मिश्रमोहनीय)</td>
+    <td class=head1><b>139</b> (-सम्यक्त्व)</td>
+  </tr>
+  <tr>
+    <th>भंग</th>
+    <td class=head1><b>2</b> (मनु.&lt;-&gt;देव, मनु.&lt;-&gt;नरक)</td>
+    <td class=head1><b>2</b> (भु. मनु. ब. देव/नरक)</td>
+    <td class=head1><b>2</b> (भु. मनु. ब. देव/नरक)</td>
+    <td class=head1><b>2</b> (भु. मनु. ब. देव/नरक)</td>
+    <td class=head1><b>2</b> (मनु.&lt;-&gt;देव, मनु.&lt;-&gt;नरक)</td>
+    <td class=tableNotes><b>10</b></td>
+  </tr>
+  <tr>
+    <th rowspan=2>अबद्धायुष्क</th>
+    <th>स्थान</th>
+    <td class=head2><b>145</b></td>
+    <td class=head2><b>141</b></td>
+    <td class=head2><b>140</b></td>
+    <td class=head2><b>139</b></td>
+    <td class=head2><b>138</b></td>
+  </tr>
+  <tr>
+    <th>भंग</th>
+    <td class=head2><b>3</b> (भु. मनु./देव/नरक)</td>
+    <td class=head2><b>3</b> (भु. मनु./देव/नरक)</td>
+    <td class=head2><b>1</b> (भु. मनु.)</td>
+    <td class=head2><b>3</b> (भु. मनु./देव/नरक)</td>
+    <td class=head2><b>3</b> (मनु.&lt;-&gt;देव, मनु.&lt;-&gt;नरक)</td>
+    <td class=tableNotes><b>13</b></td>
+  </tr>
+  <tr>
+    <th rowspan=4>तीर्थंकर रहित</th>
+    <th rowspan=2>बद्धायुष्क</th>
+    <th>स्थान</th>
+    <td class=head3><b>145</b> (चारों गति के बद्धायुष्क)</td>
+    <td class=head3><b>141</b> (चारों गति के बद्धायुष्क)</td>
+    <td class=head3><b>140</b></td>
+    <td class=head3><b>139</b> (-मिश्रमोहनीय)</td>
+    <td class=head3><b>138</b> (क्षायिक सम्यक्त्वी)</td>
+  </tr>
+  <tr>
+    <th>भंग</th>
+    <td class=head3><b>5</b>  (तिर्यञ्च+३[नरक,मनु.,देव], मनुष्य+२[नरक,देव])</td>
+    <td class=head3><b>5</b> (तिर्यञ्च+३[नरक,मनु.,देव], मनुष्य+२[नरक,देव])</td>
+    <td class=head3><b>3</b> (भु. मनु., ब. तीनों)</td>
+    <td class=head3><b>3</b> (भु. मनु., ब. तीनों)</td>
+    <td class=head3><b>4</b> (नरक&lt;-&gt;मनुष्य, देव&lt;-&gt;मनुष्य, तिर्यञ्च-&gt;देव, मनुष्य-&gt;तिर्यञ्च)</td>
+    <td class=tableNotes><b>20</b></td>
+  </tr>
+  <tr>
+    <th rowspan=2>अबद्धायुष्क</th>
+    <th>स्थान</th>
+    <td class=head4><b>144</b></td>
+    <td class=head4><b>140</b></td>
+    <td class=head4><b>139</b></td>
+    <td class=head4><b>138</b></td>
+    <td class=head4><b>137</b></td>
+  </tr>
+  <tr>
+    <th>भंग</th>
+    <td class=head4><b>4</b> (चारों गति के अबद्धायुष्क)</td>
+    <td class=head4><b>4</b> (चारों गति के अबद्धायुष्क)</td>
+    <td class=head4><b>1</b> (भु. मनु.)</td>
+    <td class=head4><b>4</b> (चारों गति के प्रतिष्ठापक)</td>
+    <td class=head4><b>4</b> (चारों गति के क्षायिक सम्यक्त्वी)</td>
+    <td class=tableNotes><b>17</b></td>
+  </tr>
+  <tr>
+    <th rowspan=4>आहारक चतुष्क रहित</th>
+    <th rowspan=2>बद्धायुष्क</th>
+    <th>स्थान</th>
+    <td class=head1><b>142</b></td>
+    <td class=head1><b>138</b></td>
+    <td class=head1><b>137</b></td>
+    <td class=head1><b>136</b></td>
+    <td class=head1><b>135</b></td>
+  </tr>
+  <tr>
+    <th>भंग</th>
+    <td class=head1><b>2</b> (मनु.&lt;-&gt;देव, मनु.&lt;-&gt;नरक)</td>
+    <td class=head1><b>2</b> (भु. मनु. ब. देव/नरक)</td>
+    <td class=head1><b>2</b> (भु. मनु. ब. देव/नरक)</td>
+    <td class=head1><b>2</b> (भु. मनु. ब. देव/नरक)</td>
+    <td class=head1><b>2</b> (मनु.&lt;-&gt;देव, मनु.&lt;-&gt;नरक)</td>
+    <td class=tableNotes><b>10</b></td>
+  </tr>
+  <tr>
+    <th rowspan=2>अबद्धायुष्क</th>
+    <th>स्थान</th>
+    <td class=head2><b>141</b></td>
+    <td class=head2><b>137</b></td>
+    <td class=head2><b>136</b></td>
+    <td class=head2><b>135</b></td>
+    <td class=head2><b>134</b></td>
+  </tr>
+  <tr>
+    <th>भंग</th>
+    <td class=head2><b>3</b> (भु. मनु./देव/नरक)</td>
+    <td class=head2><b>3</b> (भु. मनु./देव/नरक)</td>
+    <td class=head2><b>1</b> (भु. मनु.)</td>
+    <td class=head2><b>3</b> (भु. मनु./देव/नरक)</td>
+    <td class=head2><b>3</b> (भु. मनु./देव/नरक)</td>
+    <td class=tableNotes><b>13</b></td>
+  </tr>
+  <tr>
+    <th rowspan=4>तीर्थंकर, आहारक-४ रहित</th>
+    <th rowspan=2>बद्धायुष्क</th>
+    <th>स्थान</th>
+    <td class=head3><b>141</b></td>
+    <td class=head3><b>137</b></td>
+    <td class=head3><b>136</b></td>
+    <td class=head3><b>135</b></td>
+    <td class=head3><b>134</b></td>
+  </tr>
+  <tr>
+    <th>भंग</th>
+    <td class=head3><b>5</b>  (तिर्यञ्च+३[नरक,मनु.,देव], मनुष्य+२[नरक,देव])</td>
+    <td class=head3>5  (तिर्यञ्च+३[नरक,मनु.,देव], मनुष्य+२[नरक,देव])</td>
+    <td class=head3><b>3</b> (भु. मनु., ब. तीनों)</td>
+    <td class=head3><b>3</b> (भु. मनु., ब. तीनों)</td>
+    <td class=head3><b>4</b> (नरक&lt;-&gt;मनुष्य, देव&lt;-&gt;मनुष्य, तिर्यञ्च-&gt;देव, मनुष्य-&gt;तिर्यञ्च)</td>
+    <td class=tableNotes><b>20</b></td>
+  </tr>
+  <tr>
+    <th rowspan=2>अबद्धायुष्क</th>
+    <th>स्थान</th>
+    <td class=head4><b>140</b></td>
+    <td class=head4><b>136</b></td>
+    <td class=head4>135</td>
+    <td class=head4>134</td>
+    <td class=head4>133</td>
+  </tr>
+  <tr>
+    <th>भंग</th>
+    <td class=head4><b>4</b> (चारों गति के अबद्धायुष्क)</td>
+    <td class=head4><b>4</b> (चारों गति के अबद्धायुष्क)</td>
+    <td class=head4><b>1</b> (भु. मनु.)</td>
+    <td class=head4><b>4</b> (चारों गति के प्रतिष्ठापक)</td>
+    <td class=head4><b>4</b> (चारों गति के क्षायिक सम्यक्त्वी)</td>
+    <td class=tableNotes><b>17</b></td>
+  </tr>
+  <tr>
+    <td class=emptyTableCell colspan=3></td>
+    <td class=tableNotes colspan=5>भु.=भुज्यमान, ब.=बध्यमान, मनु.=मनुष्यायु</td>
+    <td class=emptyTableCell></td>
+  </tr>
+</table>

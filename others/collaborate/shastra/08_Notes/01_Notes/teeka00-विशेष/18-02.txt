@@ -1,0 +1,602 @@
+﻿<table class=myAltTable>
+  <thead>
+  <tr>
+    <th colspan=5 class=tableTitle>स्पर्शानुगम</th>
+  </tr>
+  <tr>
+    <th colspan=3>मार्गणा</th>
+    <th>गुणस्थान</th>
+    <th>स्पर्श</th>
+  </tr>
+  </thead>
+  <tr>
+    <th rowspan=26>गति</th>
+    <th class=head2 rowspan=7>नरक</th>
+    <th class=head2 rowspan=2>सामान्य</th>
+    <th class=head2>मिथ्यादृष्टि</th>
+    <td>लोक का असंख्यातवां भाग, कुछ कम ६/१४ भाग</td>
+  </tr>
+  <tr>
+    <th class=head2>सासादन</th>
+    <td>लोक का असंख्यातवां भाग, कुछ कम ५/१४ भाग</td>
+  </tr>
+  <tr>
+    <th class=head2>१</th>
+    <th class=head2>मिथ्यादृष्टि से असंयत</th>
+    <td>लोक का असंख्यातवां भाग</td>
+  </tr>
+  <tr>
+    <th class=head2 rowspan=2>२-६</th>
+    <th class=head2>मिथ्यादृष्टि, सासादन</th>
+    <td>लोक का असंख्यातवां भाग, कुछ कम १,२,३,४,५ भाग</td>
+  </tr>
+  <tr>
+    <th class=head2>मिश्र, असंयत</th>
+    <td>लोक का असंख्यातवां भाग</td>
+  </tr>
+  <tr>
+    <th class=head2 rowspan=2>७</th>
+    <th class=head2>मिथ्यादृष्टि</th>
+    <td>लोक का असंख्यातवां भाग, कुछ कम ६/१४ भाग</td>
+  </tr>
+  <tr>
+    <th class=head2>सासादन, मिश्र, असंयत</th>
+    <td>लोक का असंख्यातवां भाग</td>
+  </tr>
+  <tr>
+    <th class=head2 colspan=2 rowspan=5>तिर्यंच</th>
+    <th class=head2>मिथ्यादृष्टि</th>
+    <td>सर्व-लोक</td>
+  </tr>
+  <tr>
+    <th class=head2>सासादन</th>
+    <td>लोक का असंख्यातवां भाग, कुछ कम ७/१४ भाग</td>
+  </tr>
+  <tr>
+    <th class=head2>सम्यग्मिथ्यादृष्टि</th>
+    <td>लोक का असंख्यातवां भाग</td>
+  </tr>
+  <tr>
+    <th class=head2>असंयत, संयतासंयत</th>
+    <td>लोक का असंख्यातवां भाग, कुछ कम ६/१४ भाग</td>
+  </tr>
+  <tr>
+    <th class=head2>लब्ध्यपर्याप्त</th>
+    <td>लोक का असंख्यातवां भाग, सर्व-लोक</td>
+  </tr>
+  <tr>
+    <th class=head2 rowspan=5>मनुष्य</th>
+    <th class=head2>मनुष्य, मनुष्य-पर्याप्त, मनुष्यिनी</th>
+    <th class=head2>मिथ्यादृष्टि </th>
+    <td>लोक का असंख्यातवां भाग, सर्व-लोक</td>
+  </tr>
+  <tr>
+    <th class=head2>मनुष्य, मनुष्य-पर्याप्त, मनुष्यिनी</th>
+    <th class=head2>सासादन </th>
+    <td>लोक का असंख्यातवां भाग, कुछ कम ७/१४ भाग</td>
+  </tr>
+  <tr>
+    <th class=head2 rowspan=3></th>
+    <th class=head2>सम्यग्मिथ्यादृष्टि से अयोग-केवली</th>
+    <td>लोक का असंख्यातवां भाग</td>
+  </tr>
+  <tr>
+    <th class=head2>सयोग-केवली</th>
+    <td>लोक का असंख्यातवां भाग / लोक का असंख्यात बहुभाग / सर्वलोक</td>
+  </tr>
+  <tr>
+    <th class=head2>लब्ध्यपर्याप्त</th>
+    <td>लोक का असंख्यातवां भाग, सर्व-लोक</td>
+  </tr>
+  <tr>
+    <th class=head2 rowspan=9>देव</th>
+    <th class=head2 rowspan=2>सामान्य</th>
+    <th class=head2>मिथ्यादृष्टि, सासादन</th>
+    <td>लोक का असंख्यातवां भाग, कुछ कम ८/१४ भाग, कुछ कम ९/१४ भाग</td>
+  </tr>
+  <tr>
+    <th class=head2>सम्यग्मिथ्यादृष्टि, असंयत</th>
+    <td>लोक का असंख्यातवां भाग, कुछ कम ८/१४ भाग</td>
+  </tr>
+  <tr>
+    <th class=head2 rowspan=2>भवनवासी, व्यंतर, ज्योतिष</th>
+    <th class=head2>मिथ्यादृष्टि, सासादन</th>
+    <td>लोक का असंख्यातवां भाग, लोकनाली के साढ़े तीन, आठ, नौ भाग</td>
+  </tr>
+  <tr>
+    <th class=head2>सम्यग्मिथ्यादृष्टि, असंयत</th>
+    <td>लोक का असंख्यातवां भाग, कुछ कम साढ़े तीन, कुछ कम ८/१४ भाग</td>
+  </tr>
+  <tr>
+    <th class=head2>सौधर्म, ईशान</th>
+    <th class=head2>मिथ्यादृष्टि से असंयत</th>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th class=head2>सनत्कुमार से सहस्रार</th>
+    <th class=head2>मिथ्यादृष्टि से असंयत</th>
+    <td>लोक का असंख्यातवां भाग, कुछ कम ८/१४ भाग</td>
+  </tr>
+  <tr>
+    <th class=head2>आनत से अच्युत</th>
+    <th class=head2>मिथ्यादृष्टि से असंयत</th>
+    <td>लोक का असंख्यातवां भाग, कुछ कम ६/१४ भाग</td>
+  </tr>
+  <tr>
+    <th class=head2>नौ-ग्रैवेयक</th>
+    <th class=head2>मिथ्यादृष्टि से असंयत</th>
+    <td>लोक का असंख्यातवां भाग</td>
+  </tr>
+  <tr>
+    <th class=head2>नौ-अनुदिश, पांच अनुत्तर</th>
+    <th class=head2>असंयत</th>
+    <td>लोक का असंख्यातवां भाग</td>
+  </tr>
+  <tr>
+    <th rowspan=5>इन्द्रिय</th>
+    <th class=head3>एकेंद्रिय</th>
+    <th class=head3 colspan=2>पर्याप्त / अपर्याप्त, बादर / सूक्ष्म </th>
+    <td>सर्व-लोक</td>
+  </tr>
+  <tr>
+    <th class=head3>२-४ इन्द्रिय</th>
+    <th class=head3 colspan=2>पर्याप्त / अपर्याप्त</th>
+    <td>सर्व-लोक</td>
+  </tr>
+  <tr>
+    <th class=head3 rowspan=3>पंचेन्द्रिय</th>
+    <th class=head3 rowspan=2>पर्याप्त</th>
+    <th class=head3>मिथ्यादृष्टि</th>
+    <td>लोक का असंख्यातवां भाग, कुछ कम ८/१४ भाग</td>
+  </tr>
+  <tr>
+    <th class=head3>सासादन से अयोग-केवली</th>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th class=head3 colspan=2>लब्ध्यपर्याप्त</th>
+    <td>लोक का असंख्यातवां भाग, सर्व-लोक</td>
+  </tr>
+  <tr>
+    <th rowspan=6>काय</th>
+    <th class=head4 rowspan=4>स्थावर</th>
+    <th class=head4 colspan=2>पर्याप्त / अपर्याप्त (बादर / सूक्ष्म, (पृथ्वी, जल, अग्नि, वायु), बादर प्रत्येक वनस्पति)</th>
+    <td>सर्व-लोक</td>
+  </tr>
+  <tr>
+    <th class=head4 colspan=2>बादर पर्याप्त (पृथ्वी, जल, अग्नि, प्रत्येक वनस्पति)</th>
+    <td>लोक का असंख्यातवां भाग, सर्व-लोक</td>
+  </tr>
+  <tr>
+    <th class=head4 colspan=2>बादर पर्याप्त वायुकायिक</th>
+    <td>लोक का असंख्यातवां भाग, सर्व-लोक</td>
+  </tr>
+  <tr>
+    <th class=head4 colspan=2>(बादर / सूक्ष्म / पर्याप्त / अपर्याप्त) वनस्पतिकायिक / निगोद</th>
+    <td>सर्व-लोक</td>
+  </tr>
+  <tr>
+    <th class=head4 rowspan=2>त्रस</th>
+    <th class=head4>पर्याप्त</th>
+    <th class=head4>मिथ्यादृष्टि से अयोग-केवली</th>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th class=head4 colspan=2>लब्ध्यपर्याप्त</th>
+    <td>पंचेन्द्रिय लब्ध्यपर्याप्त के समान</td>
+  </tr>
+  <tr>
+    <th rowspan=22>योग</th>
+    <th class=head2 colspan=2 rowspan=3>पांच मन, पांच वचन</th>
+    <th class=head2>मिथ्यादृष्टि</th>
+    <td>लोक का असंख्यातवां भाग, कुछ कम ८/१४ भाग, सर्व-लोक</td>
+  </tr>
+  <tr>
+    <th class=head2>सासादन से संयता-संयत</th>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th class=head2>प्रमत्त-संयत से सयोग-केवली</th>
+    <td>लोक का असंख्यातवां भाग</td>
+  </tr>
+  <tr>
+    <th class=head2 rowspan=19>काय</th>
+    <th class=head2 rowspan=3>सामान्य</th>
+    <th class=head2>मिथ्यादृष्टि</th>
+    <td>ओघ के समान (सर्व-लोक)</td>
+  </tr>
+  <tr>
+    <th class=head2>सासादन से क्षीण-कषाय</th>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th class=head2>सयोग-केवली</th>
+    <td>लोक का असंख्यातवां भाग / लोक का असंख्यात बहुभाग / सर्वलोक</td>
+  </tr>
+  <tr>
+    <th class=head2 rowspan=5>औदारिक</th>
+    <th class=head2>मिथ्यादृष्टि</th>
+    <td>ओघ के समान (सर्व-लोक)</td>
+  </tr>
+  <tr>
+    <th class=head2>सासादन</th>
+    <td>लोक का असंख्यातवां भाग, कुछ कम ७/१४ भाग</td>
+  </tr>
+  <tr>
+    <th class=head2>सम्यग्मिथ्यादृष्टि</th>
+    <td>लोक का असंख्यातवां भाग</td>
+  </tr>
+  <tr>
+    <th class=head2>असंयत, संयतासंयत</th>
+    <td>लोक का असंख्यातवां भाग, कुछ कम ६/१४ भाग</td>
+  </tr>
+  <tr>
+    <th class=head2>प्रमत्त-संयत से सयोग-केवली</th>
+    <td>लोक का असंख्यातवां भाग</td>
+  </tr>
+  <tr>
+    <th class=head2 rowspan=2>औदारिक-मिश्र </th>
+    <th class=head2>मिथ्यादृष्टि</th>
+    <td>ओघ के समान (सर्व-लोक)</td>
+  </tr>
+  <tr>
+    <th class=head2>सासादन, असंयत, सयोग-केवली</th>
+    <td>लोक का असंख्यातवां भाग</td>
+  </tr>
+  <tr>
+    <th class=head2 rowspan=3>वैक्रियिक</th>
+    <th class=head2>मिथ्यादृष्टि</th>
+    <td>लोक का असंख्यातवां भाग, कुछ कम ८/१४ भाग, कुछ कम १३/१४ भाग,</td>
+  </tr>
+  <tr>
+    <th class=head2>सासादन</th>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th class=head2>सम्यग्मिथ्यादृष्टि, असंयत</th>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th class=head2>वैक्रियिक-मिश्र</th>
+    <th class=head2>मिथ्यादृष्टि, सासादन, असंयत</th>
+    <td>लोक का असंख्यातवां भाग</td>
+  </tr>
+  <tr>
+    <th class=head2>आहारक, आहारक-मिश्र</th>
+    <th class=head2>प्रमत्त-संयत</th>
+    <td>लोक का असंख्यातवां भाग</td>
+  </tr>
+  <tr>
+    <th class=head2 rowspan=4>कार्मण</th>
+    <th class=head2>मिथ्यादृष्टि</th>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th class=head2>सासादन</th>
+    <td>लोक का असंख्यातवां भाग, कुछ कम ११/१४ भाग</td>
+  </tr>
+  <tr>
+    <th class=head2>असंयत</th>
+    <td>लोक का असंख्यातवां भाग, कुछ कम ६/१४ भाग</td>
+  </tr>
+  <tr>
+    <th class=head2>सयोग-केवली</th>
+    <td>लोक का असंख्यात बहुभाग / सर्वलोक</td>
+  </tr>
+  <tr>
+    <th rowspan=12>वेद</th>
+    <th class=head3 colspan=2 rowspan=5>स्त्री-पुरुष</th>
+    <th class=head3>मिथ्यादृष्टि</th>
+    <td>लोक का असंख्यातवां भाग, कुछ कम ८/१४ भाग</td>
+  </tr>
+  <tr>
+    <th class=head3>सासादन</th>
+    <td>लोक का असंख्यातवां भाग, कुछ कम ८/१४ भाग, कुछ कम ९/१४ भाग</td>
+  </tr>
+  <tr>
+    <th class=head3>सम्यग्मिथ्यादृष्टि, असंयत</th>
+    <td>लोक का असंख्यातवां भाग, कुछ कम ८/१४ भाग</td>
+  </tr>
+  <tr>
+    <th class=head3>संयतासंयत</th>
+    <td>लोक का असंख्यातवां भाग, कुछ कम ६/१४ भाग</td>
+  </tr>
+  <tr>
+    <th class=head3>प्रमत्त-संयत से अनिवृत्तिकरण</th>
+    <td>लोक का असंख्यातवां भाग</td>
+  </tr>
+  <tr>
+    <th class=head3 colspan=2 rowspan=5>नपुंसक</th>
+    <th class=head3>मिथ्यादृष्टि</th>
+    <td>ओघ के समान (सर्व-लोक)</td>
+  </tr>
+  <tr>
+    <th class=head3>सासादन<br></th>
+    <td>लोक का असंख्यातवां भाग, कुछ कम १२/१४ भाग</td>
+  </tr>
+  <tr>
+    <th class=head3>सम्यग्मिथ्यादृष्टि</th>
+    <td>लोक का असंख्यातवां भाग</td>
+  </tr>
+  <tr>
+    <th class=head3>असंयत, संयतासंयत</th>
+    <td>लोक का असंख्यातवां भाग, कुछ कम ६/१४ भाग</td>
+  </tr>
+  <tr>
+    <th class=head3>प्रमत्त-संयत से अनिवृत्तिकरण</th>
+    <td>लोक का असंख्यातवां भाग</td>
+  </tr>
+  <tr>
+    <th class=head3 colspan=2 rowspan=2>अपगत</th>
+    <th class=head3>अनिवृत्तिकरण से अयोग-केवली</th>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th class=head3>सयोग-केवली</th>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th rowspan=3>कषाय</th>
+    <th class=head4 colspan=2>क्रोध, मान, माया, लोभ</th>
+    <th class=head4>मिथ्यादृष्टि से अनिवृत्तिकरण</th>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th class=head4 colspan=2>लोभ</th>
+    <th class=head4>सूक्ष्म-साम्पराय</th>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th class=head4 colspan=2>अकषायी</th>
+    <th class=head4>उपशान्त-कषाय आदि ४</th>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th rowspan=8>ज्ञान</th>
+    <th class=head2 colspan=2 rowspan=2>मत्यज्ञानी, श्रुताज्ञानी</th>
+    <th class=head2>मिथ्यादृष्टि</th>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th class=head2>सासादन</th>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th class=head2 colspan=2 rowspan=2>विभंगज्ञानी</th>
+    <th class=head2>मिथ्यादृष्टि</th>
+    <td>लोक का असंख्यातवां भाग, कुछ कम ८/१४ भाग, सर्वलोक</td>
+  </tr>
+  <tr>
+    <th class=head2>सासादन</th>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th class=head2 colspan=2>आभिनिबोधिक, श्रुतज्ञानी, अवधिज्ञानी</th>
+    <th class=head2>असंयत से क्षीण-कषाय</th>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th class=head2 colspan=2>मन:पर्यय</th>
+    <th class=head2>प्रमत्त-संयत से क्षीण-कषाय</th>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th class=head2 colspan=2 rowspan=2>केवलज्ञानी</th>
+    <th class=head2>सयोग-केवली</th>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th class=head2>अयोग-केवली</th>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th rowspan=8>संयम</th>
+    <th class=head3 colspan=2 rowspan=2>सामान्य</th>
+    <th class=head3>प्रमत्त-संयत से अयोग-केवली</th>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th class=head3>सयोग-केवली</th>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th class=head3 colspan=2>सामायिक, छेदोपस्थापना</th>
+    <th class=head3>प्रमत्त-संयत से अनिवृत्तिकरण</th>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th class=head3 colspan=2>परिहार-विशुद्धि</th>
+    <th class=head3>प्रमत्त, अप्रमत्त-संयत</th>
+    <td>लोक का असंख्यातवां भाग</td>
+  </tr>
+  <tr>
+    <th class=head3>सूक्ष्म-साम्पराय</th>
+    <th class=head3>क्षपक / उपशम</th>
+    <th class=head3>सूक्ष्म-साम्पराय</th>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th class=head3 colspan=2>यथाख्यात</th>
+    <th class=head3>उपशान्त-कषाय आदि ४</th>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th class=head3 colspan=3>संयता-संयत</th>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th class=head3 colspan=2>असंयत</th>
+    <th class=head3>मिथ्यादृष्टि से असंयत सम्यग्दृष्टि</th>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th rowspan=5>दर्शन</th>
+    <th class=head4 colspan=2 rowspan=2>चक्षु</th>
+    <th class=head4>मिथ्यादृष्टि</th>
+    <td>लोक का असंख्यातवां भाग, कुछ कम ८/१४ भाग, सर्वलोक</td>
+  </tr>
+  <tr>
+    <th class=head4>सासादन से क्षीण-कषाय</th>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th class=head4 colspan=2>अचक्षु</th>
+    <th class=head4>मिथ्यादृष्टि से क्षीण-कषाय</th>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th class=head4 colspan=2>अवधि</th>
+    <th class=head4></th>
+    <td>अवधि-ज्ञानियों के समान</td>
+  </tr>
+  <tr>
+    <th class=head4 colspan=2>केवल</th>
+    <th class=head4>अयोग, सयोग-केवली</th>
+    <td>केवल-ज्ञानियों के समान</td>
+  </tr>
+  <tr>
+    <th rowspan=12>लेश्या</th>
+    <th class=head2 colspan=2 rowspan=3>कृष्ण, नील, कापोत</th>
+    <th class=head2>मिथ्यादृष्टि</th>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th class=head2>सासादन</th>
+    <td>लोक का असंख्यातवां भाग, कुछ कम ५/१४,४/१४,२/१४ भाग</td>
+  </tr>
+  <tr>
+    <th class=head2>सम्यग्मिथ्यादृष्टि, असंयत</th>
+    <td>लोक का असंख्यातवां भाग</td>
+  </tr>
+  <tr>
+    <th class=head2 colspan=2 rowspan=4>पीत</th>
+    <th class=head2>मिथ्यादृष्टि, सासादन</th>
+    <td>लोक का असंख्यातवां भाग, कुछ कम ८/१४,९/१४ भाग</td>
+  </tr>
+  <tr>
+    <th class=head2>सम्यग्मिथ्यादृष्टि,असंयत</th>
+    <td>लोक का असंख्यातवां भाग, कुछ कम ८/१४ भाग</td>
+  </tr>
+  <tr>
+    <th class=head2>संयतासंयत</th>
+    <td>लोक का असंख्यातवां भाग, कुछ कम डेढ़/१४ भाग</td>
+  </tr>
+  <tr>
+    <th class=head2>प्रमत्त, अप्रमत्त-संयत</th>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th class=head2 colspan=2 rowspan=3>पद्म</th>
+    <th class=head2>मिथ्यादृष्टि से असंयत</th>
+    <td>लोक का असंख्यातवां भाग, कुछ कम ८/१४ भाग</td>
+  </tr>
+  <tr>
+    <th class=head2>संयतासंयत</th>
+    <td>लोक का असंख्यातवां भाग, कुछ कम ५/१४ भाग</td>
+  </tr>
+  <tr>
+    <th class=head2>प्रमत्त, अप्रमत्त-संयत</th>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th class=head2 colspan=2 rowspan=2>शुक्ल</th>
+    <th class=head2>मिथ्यादृष्टि से संयतासंयत</th>
+    <td>लोक का असंख्यातवां भाग, कुछ कम ६/१४ भाग</td>
+  </tr>
+  <tr>
+    <th class=head2>प्रमत्त-संयत से सयोग केवली</th>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th rowspan=2>भव्य</th>
+    <th class=head3 colspan=2>भव्य</th>
+    <th class=head3>मिथ्यादृष्टि से अयोग केवली</th>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th class=head3 colspan=3>अभव्य</th>
+    <td>सर्व-लोक</td>
+  </tr>
+  <tr>
+    <th rowspan=10>सम्यक्त्व</th>
+    <th class=head4 colspan=2>सामान्य</th>
+    <th class=head4>असंयत से अयोग केवली</th>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th class=head4 colspan=2 rowspan=3>क्षायिक</th>
+    <th class=head4>असंयत</th>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th class=head4>संयतासंयत से अयोग केवली</th>
+    <td>लोक का असंख्यातवां भाग</td>
+  </tr>
+  <tr>
+    <th class=head4>सयोग केवली</th>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th class=head4 colspan=2>वेदक</th>
+    <th class=head4>असंयत से अप्रमत्त-संयत</th>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th class=head4 colspan=2 rowspan=2>औपशमिक</th>
+    <th class=head4>असंयत</th>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th class=head4>संयतासंयत से उपशान्त-कषाय</th>
+    <td>लोक का असंख्यातवां भाग</td>
+  </tr>
+  <tr>
+    <th class=head4 colspan=3>सासादन</th>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th class=head4 colspan=3>सम्यग्मिथ्यादृष्टि</th>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th class=head4 colspan=3>मिथ्यादृष्टि</th>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th rowspan=3>संज्ञी</th>
+    <th class=head2 colspan=2 rowspan=2>संज्ञी</th>
+    <th class=head2>मिथ्यादृष्टि</th>
+    <td>लोक का असंख्यातवां भाग, कुछ कम ८/१४ भाग, सर्वलोक</td>
+  </tr>
+  <tr>
+    <th class=head2>सासादन से क्षीण-कषाय</th>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th class=head2 colspan=3>असंज्ञी</th>
+    <td>सर्व-लोक</td>
+  </tr>
+  <tr>
+    <th rowspan=5>आहार</th>
+    <th class=head3 colspan=2 rowspan=3>आहारक</th>
+    <th class=head3>मिथ्यादृष्टि</th>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th class=head3>सासादन से संयतासंयत</th>
+    <td>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th class=head3>प्रमत्त-संयत से सयोग-केवली</th>
+    <td>लोक का असंख्यातवां भाग</td>
+  </tr>
+  <tr>
+    <th class=head3 colspan=2 rowspan=2>अनाहारक</th>
+    <th class=head3>मिथ्यादृष्टि, सासादन, असंयत, सयोग-केवली</th>
+    <td>कार्मण-काययोगी जीवों के समान</td>
+  </tr>
+  <tr>
+    <th class=head3>अयोग-केवली</th>
+    <td>लोक का असंख्यातवां भाग</td>
+  </tr>
+</table>

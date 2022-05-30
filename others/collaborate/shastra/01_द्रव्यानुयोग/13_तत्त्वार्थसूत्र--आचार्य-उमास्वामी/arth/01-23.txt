@@ -1,0 +1,16 @@
+﻿ऋजुमति और विपुलमति मन:पर्ययज्ञान है ॥२३॥
+<!--PythonTagBegin-->
+<ul class=orgchart>
+  <li class=root>
+    <div class=nodecontent>मन:पर्ययज्ञान</div>
+    <ul>
+      <li class=leaf>
+        <div class=nodecontent>ऋजुमति</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>विपुलमति</div>
+      </li>
+    </ul>
+  </li>
+</ul>
+<!--PythonTagEnd-->

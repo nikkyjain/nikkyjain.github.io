@@ -1,0 +1,374 @@
+﻿<table class=myAltTable>
+  <thead>
+  <tr>
+    <th colspan=5 class=tableTitle>क्षेत्रानुगम</th>
+  </tr>
+  <tr>
+    <th colspan=4>मार्गणा</th>
+    <th>क्षेत्र</th>
+  </tr>
+  </thead>
+  <tr>
+    <th rowspan=7>गति</th>
+    <th class=head2>नारकी</th>
+    <th class=head2>सामान्य</th>
+    <th class=head2>२ स्वस्थान, ४ समुद्घात, उपपाद</th>
+    <td>लोक का असंख्यातवां भाग</td>
+  </tr>
+  <tr>
+    <th class=head2 rowspan=2>तिर्यंच</th>
+    <th class=head2>सामान्य</th>
+    <th class=head2 rowspan=2>२ स्वस्थान, ४ समुद्घात, उपपाद</th>
+    <td>सर्वलोक</td>
+  </tr>
+  <tr>
+    <th class=head2>पंचेन्द्रिय</th>
+    <td>लोक का असंख्यातवां भाग</td>
+  </tr>
+  <tr>
+    <th class=head2 rowspan=3>मनुष्य</th>
+    <th class=head2>पर्याप्त</th>
+    <th class=head2>स्वस्थान, उपपाद</th>
+    <td>लोक का असंख्यातवां भाग</td>
+  </tr>
+  <tr>
+    <th class=head2>पर्याप्त</th>
+    <th class=head2>समुद्घात</th>
+    <td>लोक का असंख्यातवां भाग / लोक का असंख्यात बहुभाग / सर्वलोक</td>
+  </tr>
+  <tr>
+    <th class=head2>अपर्याप्त</th>
+    <th class=head2>स्वस्थान, उपपाद</th>
+    <td>लोक का असंख्यातवां भाग</td>
+  </tr>
+  <tr>
+    <th class=head2>देव</th>
+    <th class=head2>सामान्य</th>
+    <th class=head2>स्वस्थान, समुद्घात, उपपाद</th>
+    <td>लोक का असंख्यातवां भाग</td>
+  </tr>
+  <tr>
+    <th rowspan=7>इन्द्रिय</th>
+    <th class=head3>एकेन्द्रिय </th>
+    <th class=head3>पर्याप्त / अपर्याप्त / सूक्ष्म</th>
+    <th class=head3>स्वस्थान, समुद्घात, उपपाद</th>
+    <td>सर्वलोक</td>
+  </tr>
+  <tr>
+    <th class=head3 rowspan=2>एकेन्द्रिय </th>
+    <th class=head3 rowspan=2>पर्याप्त / अपर्याप्त / बादर</th>
+    <th class=head3>स्वस्थान</th>
+    <td>लोक का असंख्यातवां भाग</td>
+  </tr>
+  <tr>
+    <th class=head3>समुद्घात, उपपाद</th>
+    <td>सर्वलोक</td>
+  </tr>
+  <tr>
+    <th class=head3 colspan=2>दो, तीन, चार</th>
+    <th class=head3>स्वस्थान, समुद्घात, उपपाद</th>
+    <td>लोक का असंख्यातवां भाग</td>
+  </tr>
+  <tr>
+    <th class=head3 rowspan=3>पंचेन्द्रिय</th>
+    <th class=head3 rowspan=2>पर्याप्त</th>
+    <th class=head3>स्वस्थान, उपपाद</th>
+    <td>लोक का असंख्यातवां भाग</td>
+  </tr>
+  <tr>
+    <th class=head3>समुद्घात</th>
+    <td>लोक का असंख्यातवां भाग / लोक का असंख्यात बहुभाग / सर्वलोक</td>
+  </tr>
+  <tr>
+    <th class=head3>अपर्याप्त</th>
+    <th class=head3>स्वस्थान, समुद्घात, उपपाद</th>
+    <td>लोक का असंख्यातवां भाग</td>
+  </tr>
+  <tr>
+    <th rowspan=13>काय</th>
+    <th class=head4>पृथ्वी, जल, अग्नि, वायु</th>
+    <th class=head4>सूक्ष्म / पर्याप्त / अपर्याप्त</th>
+    <th class=head4>स्वस्थान, समुद्घात, उपपाद</th>
+    <td>सर्वलोक</td>
+  </tr>
+  <tr>
+    <th class=head4 rowspan=3>पृथ्वी, जल, अग्नि, प्रत्येक वनस्पति</th>
+    <th class=head4 rowspan=2>बादर, अपर्याप्त</th>
+    <th class=head4>स्वस्थान</th>
+    <td>लोक का असंख्यातवां भाग</td>
+  </tr>
+  <tr>
+    <th class=head4>समुद्घात, उपपाद</th>
+    <td>सर्वलोक</td>
+  </tr>
+  <tr>
+    <th class=head4>बादर, पर्याप्त</th>
+    <th class=head4>स्वस्थान, समुद्घात, उपपाद</th>
+    <td>लोक का असंख्यातवां भाग</td>
+  </tr>
+  <tr>
+    <th class=head4 rowspan=3>वायु</th>
+    <th class=head4 rowspan=2>बादर, अपर्याप्त</th>
+    <th class=head4>स्वस्थान</th>
+    <td>लोक के संख्यातवें भाग</td>
+  </tr>
+  <tr>
+    <th class=head4>समुद्घात, उपपाद</th>
+    <td>सर्वलोक</td>
+  </tr>
+  <tr>
+    <th class=head4>बादर, पर्याप्त</th>
+    <th class=head4>स्वस्थान, समुद्घात, उपपाद</th>
+    <td>लोक के संख्यातवें भाग</td>
+  </tr>
+  <tr>
+    <th class=head4 rowspan=3>वनस्पति</th>
+    <th class=head4>निगोद / पर्याप्त / अपर्याप्त / सूक्ष्म</th>
+    <th class=head4>स्वस्थान, समुद्घात, उपपाद</th>
+    <td>सर्वलोक</td>
+  </tr>
+  <tr>
+    <th class=head4 rowspan=2>बादर (निगोद / पर्याप्त / अपर्याप्त)</th>
+    <th class=head4>स्वस्थान</th>
+    <td>लोक के संख्यातवें भाग</td>
+  </tr>
+  <tr>
+    <th class=head4>समुद्घात, उपपाद</th>
+    <td>सर्वलोक</td>
+  </tr>
+  <tr>
+    <th class=head4 rowspan=3>त्रस</th>
+    <th class=head4 rowspan=2>पर्याप्त</th>
+    <th class=head4>स्वस्थान, उपपाद</th>
+    <td>लोक का असंख्यातवां भाग</td>
+  </tr>
+  <tr>
+    <th class=head4>समुद्घात</th>
+    <td>लोक का असंख्यातवां भाग / लोक का असंख्यात बहुभाग / सर्वलोक</td>
+  </tr>
+  <tr>
+    <th class=head4>अपर्याप्त</th>
+    <th class=head4>स्वस्थान, समुद्घात, उपपाद</th>
+    <td>लोक का असंख्यातवां भाग</td>
+  </tr>
+  <tr>
+    <th rowspan=8>योग</th>
+    <th class=head2 colspan=2>पाँचों मनोयोगी, पाँचों वचनयोगी</th>
+    <th class=head2>स्वस्थान, समुद्घात</th>
+    <td>लोक का असंख्यातवां भाग</td>
+  </tr>
+  <tr>
+    <th class=head2 colspan=2>काययोगी, औदारिक-मिश्र काययोगी</th>
+    <th class=head2>स्वस्थान, समुद्घात, उपपाद</th>
+    <td>सर्वलोक</td>
+  </tr>
+  <tr>
+    <th class=head2 colspan=2>औदारिक काययोगी</th>
+    <th class=head2>स्वस्थान, समुद्घात</th>
+    <td>सर्वलोक</td>
+  </tr>
+  <tr>
+    <th class=head2 colspan=2>वैक्रियिक</th>
+    <th class=head2>स्वस्थान, समुद्घात</th>
+    <td>लोक का असंख्यातवां भाग</td>
+  </tr>
+  <tr>
+    <th class=head2 colspan=2>वैक्रियिक-मिश्र</th>
+    <th class=head2>स्वस्थान</th>
+    <td>लोक का असंख्यातवां भाग</td>
+  </tr>
+  <tr>
+    <th class=head2 colspan=2>आहारक</th>
+    <th class=head2>स्वस्थान, समुद्घात</th>
+    <td>लोक का असंख्यातवां भाग</td>
+  </tr>
+  <tr>
+    <th class=head2 colspan=2>आहारक-मिश्र</th>
+    <th class=head2>स्वस्थान</th>
+    <td>लोक का असंख्यातवां भाग</td>
+  </tr>
+  <tr>
+    <th class=head2 colspan=3>कार्मण काययोग</th>
+    <td>सर्वलोक</td>
+  </tr>
+  <tr>
+    <th rowspan=4>वेद</th>
+    <th class=head3 colspan=2>पुरुष, स्त्री</th>
+    <th class=head3>स्वस्थान, समुद्घात, उपपाद</th>
+    <td>लोक का असंख्यातवां भाग</td>
+  </tr>
+  <tr>
+    <th class=head3 colspan=2>नपुंसक</th>
+    <th class=head3>स्वस्थान, समुद्घात, उपपाद</th>
+    <td>सर्वलोक</td>
+  </tr>
+  <tr>
+    <th class=head3 colspan=2 rowspan=2>अपगत-वेद</th>
+    <th class=head3>स्वस्थान</th>
+    <td>लोक का असंख्यातवां भाग</td>
+  </tr>
+  <tr>
+    <th class=head3>समुद्घात</th>
+    <td>लोक का असंख्यातवां भाग / लोक का असंख्यात बहुभाग / सर्वलोक</td>
+  </tr>
+  <tr>
+    <th rowspan=3>कषाय</th>
+    <th class=head4 colspan=2>क्रोध, मान, माया, लोभ</th>
+    <th class=head4>स्वस्थान, समुद्घात, उपपाद</th>
+    <td>सर्वलोक</td>
+  </tr>
+  <tr>
+    <th class=head4 colspan=2 rowspan=2>अकषाय</th>
+    <th class=head4>स्वस्थान</th>
+    <td>लोक का असंख्यातवां भाग</td>
+  </tr>
+  <tr>
+    <th class=head4>समुद्घात</th>
+    <td>लोक का असंख्यातवां भाग / लोक का असंख्यात बहुभाग / सर्वलोक</td>
+  </tr>
+  <tr>
+    <th rowspan=5>ज्ञान</th>
+    <th class=head2 colspan=2>मत्यज्ञानी, श्रुताज्ञानी</th>
+    <th class=head2>स्वस्थान, समुद्घात, उपपाद</th>
+    <td>नपुंसक वेदी जीवों के समान, अनन्त</td>
+  </tr>
+  <tr>
+    <th class=head2 colspan=2>विभंगावधि, मन:पर्यय</th>
+    <th class=head2>स्वस्थान, समुद्घात</th>
+    <td>लोक का असंख्यातवां भाग</td>
+  </tr>
+  <tr>
+    <th class=head2 colspan=2>मति, श्रुत, अवधि</th>
+    <th class=head2>स्वस्थान, समुद्घात, उपपाद</th>
+    <td>लोक का असंख्यातवां भाग</td>
+  </tr>
+  <tr>
+    <th class=head2 colspan=2 rowspan=2>केवल</th>
+    <th class=head2>स्वस्थान</td>
+    <td>लोक का असंख्यातवां भाग</td>
+  </tr>
+  <tr>
+    <th class=head2>समुद्घात</th>
+    <td>लोक का असंख्यातवां भाग / लोक का असंख्यात बहुभाग / सर्वलोक</td>
+  </tr>
+  <tr>
+    <th rowspan=4>संयम</th>
+    <th class=head3 colspan=2 rowspan=2>संयत, यथाख्यात-विहार-शुद्धि</th>
+    <th class=head3>स्वस्थान</th>
+    <td>लोक का असंख्यातवां भाग</td>
+  </tr>
+  <tr>
+    <th class=head3>समुद्घात</th>
+    <td>लोक का असंख्यातवां भाग / लोक का असंख्यात बहुभाग / सर्वलोक</td>
+  </tr>
+  <tr>
+    <th class=head3 colspan=2>सामायिक, छेदोपस्थापना, परिहार-विशुद्धि, सूक्ष्म-साम्परायिक, संयातासंयत</th>
+    <th class=head3>स्वस्थान, समुद्घात</th>
+    <td>लोक का असंख्यातवां भाग</td>
+  </tr>
+  <tr>
+    <th class=head3 colspan=2>असंयत</th>
+    <th class=head3>स्वस्थान, समुद्घात, उपपाद</th>
+    <td>सर्वलोक</td>
+  </tr>
+  <tr>
+    <th rowspan=6>दर्शन</th>
+    <th class=head4 colspan=2 rowspan=2>चक्षु-दर्शन</th>
+    <th class=head4>स्वस्थान, समुद्घात</th>
+    <td>लोक का असंख्यातवां भाग</td>
+  </tr>
+  <tr>
+    <th class=head4>कथंचित उपपाद</th>
+    <td>लोक का असंख्यातवां भाग</td>
+  </tr>
+  <tr>
+    <th class=head4 colspan=2>अचक्षु-दर्शन</th>
+    <th class=head4>स्वस्थान, समुद्घात, उपपाद</th>
+    <td>सर्वलोक</td>
+  </tr>
+  <tr>
+    <th class=head4 colspan=2>अवधि</th>
+    <th class=head4>स्वस्थान, समुद्घात</th>
+    <td>लोक का असंख्यातवां भाग</td>
+  </tr>
+  <tr>
+    <th class=head4 colspan=2 rowspan=2>केवल-दर्शन</th>
+    <th class=head4>स्वस्थान</th>
+    <td>लोक का असंख्यातवां भाग</td>
+  </tr>
+  <tr>
+    <th class=head4>समुद्घात</th>
+    <td>लोक का असंख्यातवां भाग / लोक का असंख्यात बहुभाग / सर्वलोक</td>
+  </tr>
+  <tr>
+    <th rowspan=4>लेश्या</th>
+    <th class=head2 colspan=2>कृष्ण, नील, कापोत</th>
+    <th class=head2>स्वस्थान, समुद्घात, उपपाद</th>
+    <td>सर्वलोक</td>
+  </tr>
+  <tr>
+    <th class=head2 colspan=2>पीत (तेजो), पद्म</th>
+    <th class=head2>स्वस्थान, समुद्घात, उपपाद</th>
+    <td>लोक का असंख्यातवां भाग</td>
+  </tr>
+  <tr>
+    <th class=head2 colspan=2 rowspan=2>शुक्ल</th>
+    <th class=head2>स्वस्थान, उपपाद</th>
+    <td>लोक का असंख्यातवां भाग</td>
+  </tr>
+  <tr>
+    <th class=head2>समुद्घात</th>
+    <td>लोक का असंख्यातवां भाग / लोक का असंख्यात बहुभाग / सर्वलोक</td>
+  </tr>
+  <tr>
+    <th>भव्य</th>
+    <th class=head3 colspan=2>भव्यसिद्धिक, अभव्यसिद्धिक</th>
+    <th class=head3>स्वस्थान, समुद्घात, उपपाद</th>
+    <td>सर्वलोक</td>
+  </tr>
+  <tr>
+    <th rowspan=5>सम्यक्त्व</th>
+    <th class=head4 colspan=2 rowspan=2>सम्यक्त्वी, क्षायिक</th>
+    <th class=head4>स्वस्थान, उपपाद</th>
+    <td>लोक का असंख्यातवां भाग</td>
+  </tr>
+  <tr>
+    <th class=head4>समुद्घात</th>
+    <td>लोक का असंख्यातवां भाग / लोक का असंख्यात बहुभाग / सर्वलोक</td>
+  </tr>
+  <tr>
+    <th class=head4 colspan=2>उपशम, वेदक, सासादन-सम्यक्त्वी</th>
+    <th class=head4>स्वस्थान, समुद्घात, उपपाद</th>
+    <td>लोक का असंख्यातवां भाग / लोक का असंख्यात बहुभाग / सर्वलोक</td>
+  </tr>
+  <tr>
+    <th class=head4 colspan=2>सम्यग्मिथ्यादृष्टि</th>
+    <th class=head4>स्वस्थान</th>
+    <td>लोक का असंख्यातवां भाग</td>
+  </tr>
+  <tr>
+    <th class=head4 colspan=2>मिथ्यादृष्टि</th>
+    <th class=head4>स्वस्थान, समुद्घात, उपपाद</th>
+    <td>सर्वलोक</td>
+  </tr>
+  <tr>
+    <th rowspan=2>संज्ञी</th>
+    <th class=head2 colspan=2>संज्ञी</th>
+    <th class=head2 rowspan=2>स्वस्थान, समुद्घात, उपपाद</th>
+    <td>लोक का असंख्यातवां भाग</td>
+  </tr>
+  <tr>
+    <th class=head2 colspan=2>असंज्ञी</th>
+    <td>सर्वलोक</td>
+  </tr>
+  <tr>
+    <th rowspan=2>आहार</th>
+    <th class=head3 colspan=2>आहारक</th>
+    <th class=head3 rowspan=2>स्वस्थान, समुद्घात, उपपाद</th>
+    <td>सर्वलोक</td>
+  </tr>
+  <tr>
+    <th class=head3 colspan=2>अनाहारक</th>
+    <td>सर्वलोक</td>
+  </tr>
+</table>

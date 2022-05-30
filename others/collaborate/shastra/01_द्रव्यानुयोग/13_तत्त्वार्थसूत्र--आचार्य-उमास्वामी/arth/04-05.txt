@@ -1,0 +1,72 @@
+﻿किन्‍तु व्‍यन्‍तर और ज्योतिष्‍क देव त्रायस्त्रिंश और लोकपाल इन दो भेदों से रहित है ॥५॥
+<table class=myAltTable>
+  <tr>
+    <td class=emptyTableCell></td>
+    <th colspan=10 class=tableTitle>देवों में भेद</th>
+  </tr>
+  <tr>
+    <td class=emptyTableCell></td>
+    <th>इन्द्र</th>
+    <th>सामानिक</th>
+    <th>त्रायस्त्रिंश</th>
+    <th>पारिषद</th>
+    <th>आत्‍मरक्ष</td>
+    <th>लोकपाल</th>
+    <th>अनीक</th>
+    <th>प्रकीर्णक</th>
+    <th>अभियोग्‍य</th>
+    <th>किल्विषिक</th>
+  </tr>
+  <tr>
+    <th>भवनवासी</th>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+  </tr>
+  <tr>
+    <th>व्यंतर</th>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellN>X</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellN>X</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+  </tr>
+  <tr>
+    <th>ज्योतिष्क</th>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellN>X</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellN>X</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+  </tr>
+  <tr>
+    <th>वैमानिक</th>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+  </tr>
+</table>

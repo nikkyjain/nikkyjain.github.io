@@ -1,0 +1,56 @@
+﻿वह उपयोग दो प्रकार का है - ज्ञानोपयोग और दर्शनोपयोग। ज्ञानोपयोग आठ प्रकार का है ओर दर्शनोपयोग चार प्रकार का है ॥९॥
+<!--PythonTagBegin-->
+<ul class=orgchart>
+  <li class=root>
+    <div class=nodecontent>उपयोग</div>
+    <ul>
+      <li class=node>
+        <div class=nodecontent>ज्ञानोपयोग</div>
+        <ul>
+          <li class=leaf>
+            <div class=nodecontent>मति</div>
+          </li>
+          <li class=leaf>
+            <div class=nodecontent>श्रुत</div>
+          </li>
+          <li class=leaf>
+            <div class=nodecontent>अवधि</div>
+          </li>
+          <li class=leaf>
+            <div class=nodecontent>मन:पर्यय</div>
+          </li>
+          <li class=leaf>
+            <div class=nodecontent>केवल</div>
+          </li>
+          <li class=leaf>
+            <div class=nodecontent>कुमति</div>
+          </li>
+          <li class=leaf>
+            <div class=nodecontent>कुश्रुत</div>
+          </li>
+          <li class=leaf>
+            <div class=nodecontent>विभंगावधि</div>
+          </li>
+        </ul>
+      </li>
+      <li class=node>
+        <div class=nodecontent>दर्शनोपयोग</div>
+        <ul>
+          <li class=leaf>
+            <div class=nodecontent>चक्षु</div>
+          </li>
+          <li class=leaf>
+            <div class=nodecontent>अचक्षु</div>
+          </li>
+          <li class=leaf>
+            <div class=nodecontent>अवधि</div>
+          </li>
+          <li class=leaf>
+            <div class=nodecontent>केवल</div>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+<!--PythonTagEnd-->

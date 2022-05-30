@@ -1,0 +1,34 @@
+﻿सत्, संख्या, क्षेत्र, स्पर्शन, काल, अन्तर, भाव और अल्पबहुत्व से भी सम्यग्दर्शन आदि विषयों का ज्ञान होता है ॥८॥
+<!--PythonTagBegin-->
+<ul class=orgchart>
+  <li class=root>
+    <div class=nodecontent>ज्ञान के उपाय</div>
+    <ul>
+      <li class=leaf>
+        <div class=nodecontent>सत्</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>संख्या</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>क्षेत्र</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>स्पर्शन</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>काल</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>अन्तर</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>भाव</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>अल्प-बहुत्व</div>
+      </li>
+    </ul>
+  </li>
+</ul>
+<!--PythonTagEnd-->

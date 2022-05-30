@@ -1,0 +1,98 @@
+﻿<table class=myAltTable>
+  <tr>
+    <th colspan=4 class=tableTitle>ओघ से मूल-प्रकृतियों में त्रिसंयोग में स्थान</th>
+  </tr>
+  <tr>
+    <th>गुणस्थान</th>
+    <th>बंध</th>
+    <th>उदय</th>
+    <th>सत्त्व</th>
+  </tr>
+  <tr>
+    <th>14 अयोगकेवली</th>
+    <td>0</td>
+    <td>4</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <th>13 सयोगकेवली</th>
+    <td>1</td>
+    <td>4</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <th>12 क्षीणमोह</th>
+    <td>1</td>
+    <td>7</td>
+    <td>7</td>
+  </tr>
+  <tr>
+    <th>11 उपशान्तमोह</th>
+    <td>1</td>
+    <td>7</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <th>10 सूक्ष्मसाम्पराय</th>
+    <td>6</td>
+    <td>8</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <th>9 अनिवृतिकरण</th>
+    <td>7</td>
+    <td>8</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <th>8 अपूर्वकरण</th>
+    <td>7</td>
+    <td>8</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <th>7 अप्रमत्तसंयत</th>
+    <td>8 / 7</td>
+    <td>8</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <th>6 प्रमत्तसंयत</th>
+    <td>8 / 7</td>
+    <td>8</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <th>5 देशविरत</th>
+    <td>8 / 7</td>
+    <td>8</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <th>4 अविरत</th>
+    <td>8 / 7</td>
+    <td>8</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <th>3 मिश्र</th>
+    <td>7</td>
+    <td>8</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <th>2 सासादन</th>
+    <td>8 / 7</td>
+    <td>8</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <th>1 मिथ्यात्व</th>
+    <td>8 / 7</td>
+    <td>8</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td class=tableNotes colspan=4>गोम्मटसार कर्मकांड गाथा 629</td>
+  </tr>
+</table>

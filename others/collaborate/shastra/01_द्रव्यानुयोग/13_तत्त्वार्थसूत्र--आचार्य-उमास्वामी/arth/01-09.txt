@@ -1,0 +1,25 @@
+﻿मतिज्ञान, श्रुतज्ञान, अवधिज्ञान, मन:पर्ययज्ञान और केवलज्ञान ये पाँच ज्ञान हैं ॥९॥
+<!--PythonTagBegin-->
+<ul class=orgchart>
+  <li class=root>
+    <div class=nodecontent>ज्ञान</div>
+    <ul>
+      <li class=leaf>
+        <div class=nodecontent>मतिज्ञान</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>श्रुतज्ञान</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>अवधिज्ञान</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>मन:पर्ययज्ञान</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>केवलज्ञान</div>
+      </li>
+    </ul>
+  </li>
+</ul>
+<!--PythonTagEnd-->

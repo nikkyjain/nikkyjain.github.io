@@ -1,0 +1,786 @@
+﻿<table class=myAltTable>
+  <thead>
+  <tr>
+    <td class=emptyTableCell colspan=4 rowspan=3></td>
+    <th class=tableTitle colspan=21>गति मार्गणा के अनुवाद से नरकों में गुणस्थानों में आलाप</th>
+  </tr>
+  <tr>
+    <th rowspan=2>गुणस्थान</th>
+    <th rowspan=2>जीवसमास</th>
+    <th rowspan=2>पर्याप्ति</th>
+    <th rowspan=2>प्राण</th>
+    <th rowspan=2>संज्ञा</th>
+    <th rowspan=2>गति</th>
+    <th rowspan=2>इन्द्रिय</th>
+    <th rowspan=2>काय</th>
+    <th rowspan=2>योग</th>
+    <th rowspan=2>वेद</th>
+    <th rowspan=2>कषाय</th>
+    <th rowspan=2>ज्ञान</th>
+    <th rowspan=2>संयम</th>
+    <th rowspan=2>दर्शन</th>
+    <th colspan=2>लेश्या</th>
+    <th rowspan=2>भव्य</th>
+    <th rowspan=2>सम्यक्त्व</th>
+    <th rowspan=2>संज्ञी</th>
+    <th rowspan=2>आहारक</th>
+    <th rowspan=2>उपयोग</th>
+  </tr>
+  <tr>
+    <th>द्रव्य</th>
+    <th>भाव</th>
+  </tr>
+  <thead>
+  <tr>
+    <th rowspan=33>नारक </th>
+    <th colspan=3>सामान्य</th>
+    <td>४</td>
+    <td>२</td>
+    <td>६|६</td>
+    <td>१०|७</td>
+    <td>४</td>
+    <td>१</td>
+    <td>१</td>
+    <td>१</td>
+    <td>११ (-२ औ.,२ आ.)</td>
+    <td>१</td>
+    <td>४</td>
+    <td>६</td>
+    <td>१</td>
+    <td>३</td>
+    <td>३</td>
+    <td>३</td>
+    <td>२</td>
+    <td>६</td>
+    <td>१</td>
+    <td>२</td>
+    <td>२</td>
+  </tr>
+  <tr>
+    <th colspan=3>पर्याप्त</th>
+    <td>४</td>
+    <td>१ (सं.प.)</td>
+    <td>६ (प.)</td>
+    <td>१०</td>
+    <td>४</td>
+    <td>१</td>
+    <td>१</td>
+    <td>१</td>
+    <td>९ (४ म.,४ व.,वै.)</td>
+    <td>१</td>
+    <td>४</td>
+    <td>६</td>
+    <td>१</td>
+    <td>३</td>
+    <td>१</td>
+    <td>३</td>
+    <td>२</td>
+    <td>६</td>
+    <td>१</td>
+    <td>१</td>
+    <td>२</td>
+  </tr>
+  <tr>
+    <th colspan=3>अपर्याप्त</th>
+    <td>२</td>
+    <td>१ (सं.अ.)</td>
+    <td>६ (अ.)</td>
+    <td>७</td>
+    <td>४</td>
+    <td>१</td>
+    <td>१</td>
+    <td>१</td>
+    <td>२ (वै.मि.,का.)</td>
+    <td>१</td>
+    <td>४</td>
+    <td>५</td>
+    <td>१</td>
+    <td>३</td>
+    <td>२</td>
+    <td>३</td>
+    <td>२</td>
+    <td>३</td>
+    <td>१</td>
+    <td>२</td>
+    <td>२</td>
+  </tr>
+  <tr>
+    <th colspan=2 rowspan=3>मिथ्यादृष्टि</th>
+    <th>सामान्य</th>
+    <td>१</td>
+    <td>२</td>
+    <td>६|६</td>
+    <td>१०|७</td>
+    <td>४</td>
+    <td>१</td>
+    <td>१</td>
+    <td>१</td>
+    <td>११ (-२ औ.,२ आ.)</td>
+    <td>१</td>
+    <td>४</td>
+    <td>३</td>
+    <td>१</td>
+    <td>२</td>
+    <td>३</td>
+    <td>३</td>
+    <td>२</td>
+    <td>१</td>
+    <td>१</td>
+    <td>२</td>
+    <td>२</td>
+  </tr>
+  <tr>
+    <th>पर्याप्त</th>
+    <td>१</td>
+    <td>१ (सं.प.)</td>
+    <td>६ (प.)</td>
+    <td>१०</td>
+    <td>४</td>
+    <td>१</td>
+    <td>१</td>
+    <td>१</td>
+    <td>९ (४ म.,४ व.,वै.)</td>
+    <td>१</td>
+    <td>४</td>
+    <td>३</td>
+    <td>१</td>
+    <td>२</td>
+    <td>१</td>
+    <td>३</td>
+    <td>२</td>
+    <td>१</td>
+    <td>१</td>
+    <td>१</td>
+    <td>२</td>
+  </tr>
+  <tr>
+    <th>अपर्याप्त</th>
+    <td>१</td>
+    <td>१ (सं.अ.)</td>
+    <td>६ (अ.)</td>
+    <td>७</td>
+    <td>४</td>
+    <td>१</td>
+    <td>१</td>
+    <td>१</td>
+    <td>२ (वै.मि.,का.)</td>
+    <td>१</td>
+    <td>४</td>
+    <td>२</td>
+    <td>१</td>
+    <td>२</td>
+    <td>२</td>
+    <td>३</td>
+    <td>२</td>
+    <td>१</td>
+    <td>१</td>
+    <td>२</td>
+    <td>२</td>
+  </tr>
+  <tr>
+    <th colspan=3>सासादन</th>
+    <td>१</td>
+    <td>१ (सं.प.)</td>
+    <td>६ (प.)</td>
+    <td>१०</td>
+    <td>४</td>
+    <td>१</td>
+    <td>१</td>
+    <td>१</td>
+    <td>९ (४ म.,४ व.,वै.)</td>
+    <td>१</td>
+    <td>४</td>
+    <td>३</td>
+    <td>१</td>
+    <td>२</td>
+    <td>१</td>
+    <td>३</td>
+    <td>१</td>
+    <td>१ (सा.)</td>
+    <td>१</td>
+    <td>१</td>
+    <td>२</td>
+  </tr>
+  <tr>
+    <th colspan=3>सम्यग्मिथ्यादृष्टि</th>
+    <td>१</td>
+    <td>१ (सं.प.)</td>
+    <td>६ (प.)</td>
+    <td>१०</td>
+    <td>४</td>
+    <td>१</td>
+    <td>१</td>
+    <td>१</td>
+    <td>९ (४ म.,४ व.,वै.)</td>
+    <td>१</td>
+    <td>४</td>
+    <td>३</td>
+    <td>१</td>
+    <td>२</td>
+    <td>१</td>
+    <td>३</td>
+    <td>१</td>
+    <td>१ (स.मि.)</td>
+    <td>१</td>
+    <td>१</td>
+    <td>२</td>
+  </tr>
+  <tr>
+    <th colspan=2 rowspan=3>असंयत सम्यग्दृष्टि</th>
+    <th>सामान्य</th>
+    <td>१</td>
+    <td>२</td>
+    <td>६|६</td>
+    <td>१०|७</td>
+    <td>४</td>
+    <td>१</td>
+    <td>१</td>
+    <td>१</td>
+    <td>११ (-२ औ.,२ आ.)</td>
+    <td>१</td>
+    <td>४</td>
+    <td>३</td>
+    <td>१</td>
+    <td>३</td>
+    <td>३</td>
+    <td>३</td>
+    <td>१</td>
+    <td>३</td>
+    <td>१</td>
+    <td>२</td>
+    <td>२</td>
+  </tr>
+  <tr>
+    <th>पर्याप्त</th>
+    <td>१</td>
+    <td>१ (सं.प.)</td>
+    <td>६ (प.)</td>
+    <td>१०</td>
+    <td>४</td>
+    <td>१</td>
+    <td>१</td>
+    <td>१</td>
+    <td>९ (४ म.,४ व.,वै.)</td>
+    <td>१</td>
+    <td>४</td>
+    <td>३</td>
+    <td>१</td>
+    <td>३</td>
+    <td>१</td>
+    <td>३</td>
+    <td>१</td>
+    <td>३</td>
+    <td>१</td>
+    <td>१</td>
+    <td>२</td>
+  </tr>
+  <tr>
+    <th>अपर्याप्त</th>
+    <td>१</td>
+    <td>१ (सं.अ.)</td>
+    <td>६ (अ.)<br></td>
+    <td>७</td>
+    <td>४</td>
+    <td>१</td>
+    <td>१</td>
+    <td>१</td>
+    <td>२ (वै.मि.,का.)</td>
+    <td>१</td>
+    <td>४</td>
+    <td>३</td>
+    <td>१</td>
+    <td>३</td>
+    <td>२</td>
+    <td>३</td>
+    <td>१</td>
+    <td>२</td>
+    <td>१</td>
+    <td>२</td>
+    <td>२</td>
+  </tr>
+  <tr>
+    <th rowspan=11>प्रथम</th>
+    <th colspan=2>सामान्य<br></th>
+    <td>४</td>
+    <td>२</td>
+    <td>६|६</td>
+    <td>१०|७</td>
+    <td>४</td>
+    <td>१</td>
+    <td>१</td>
+    <td>१</td>
+    <td>११ (-२ औ.,२ आ.)</td>
+    <td>१</td>
+    <td>४</td>
+    <td>६</td>
+    <td>१</td>
+    <td>३</td>
+    <td>३</td>
+    <td>१</td>
+    <td>२</td>
+    <td>६</td>
+    <td>१</td>
+    <td>२</td>
+    <td>२</td>
+  </tr>
+  <tr>
+    <th colspan=2>पर्याप्त</th>
+    <td>४</td>
+    <td>१ (सं.प.)</td>
+    <td>६ (प.)</td>
+    <td>१०</td>
+    <td>४</td>
+    <td>१</td>
+    <td>१</td>
+    <td>१</td>
+    <td>९ (४ म.,४ व.,वै.)</td>
+    <td>१</td>
+    <td>४</td>
+    <td>६</td>
+    <td>१</td>
+    <td>३</td>
+    <td>१</td>
+    <td>१</td>
+    <td>२</td>
+    <td>६</td>
+    <td>१</td>
+    <td>१</td>
+    <td>२</td>
+  </tr>
+  <tr>
+    <th colspan=2>अपर्याप्त</th>
+    <td>२</td>
+    <td>१ (सं.अ.)</td>
+    <td>६ (अ.)</td>
+    <td>७</td>
+    <td>४</td>
+    <td>१</td>
+    <td>१</td>
+    <td>१</td>
+    <td>२ (वै.मि.,का.)</td>
+    <td>१</td>
+    <td>४</td>
+    <td>५</td>
+    <td>१</td>
+    <td>३</td>
+    <td>२</td>
+    <td>१</td>
+    <td>२</td>
+    <td>३</td>
+    <td>१</td>
+    <td>२</td>
+    <td>२</td>
+  </tr>
+  <tr>
+    <th rowspan=3>मिथ्यादृष्टि</th>
+    <th>सामान्य</th>
+    <td>१</td>
+    <td>२</td>
+    <td>६|६</td>
+    <td>१०|७</td>
+    <td>४</td>
+    <td>१</td>
+    <td>१</td>
+    <td>१</td>
+    <td>११ (-२ औ.,२ आ.)</td>
+    <td>१</td>
+    <td>४</td>
+    <td>३</td>
+    <td>१</td>
+    <td>२</td>
+    <td>३</td>
+    <td>१</td>
+    <td>२</td>
+    <td>१</td>
+    <td>१</td>
+    <td>२</td>
+    <td>२</td>
+  </tr>
+  <tr>
+    <th>पर्याप्त</th>
+    <td>१</td>
+    <td>१ (सं.प.)</td>
+    <td>६ (प.)</td>
+    <td>१०</td>
+    <td>४</td>
+    <td>१</td>
+    <td>१</td>
+    <td>१</td>
+    <td>९ (४ म.,४ व.,वै.)</td>
+    <td>१</td>
+    <td>४</td>
+    <td>३</td>
+    <td>१</td>
+    <td>२</td>
+    <td>१</td>
+    <td>१</td>
+    <td>२</td>
+    <td>१</td>
+    <td>१</td>
+    <td>१</td>
+    <td>२</td>
+  </tr>
+  <tr>
+    <th>अपर्याप्त</th>
+    <td>१</td>
+    <td>१ (सं.अ.)</td>
+    <td>६ (अ.)</td>
+    <td>७</td>
+    <td>४</td>
+    <td>१</td>
+    <td>१</td>
+    <td>१</td>
+    <td>२ (वै.मि.,का.)</td>
+    <td>१</td>
+    <td>४</td>
+    <td>२</td>
+    <td>१</td>
+    <td>२</td>
+    <td>२</td>
+    <td>१</td>
+    <td>२</td>
+    <td>१</td>
+    <td>१</td>
+    <td>२</td>
+    <td>२</td>
+  </tr>
+  <tr>
+    <th colspan=2>सासादन</th>
+    <td>१</td>
+    <td>१ (सं.प.)</td>
+    <td>६ (प.)</td>
+    <td>१०</td>
+    <td>४</td>
+    <td>१</td>
+    <td>१</td>
+    <td>१</td>
+    <td>९ (४ म.,४ व.,वै.)</td>
+    <td>१</td>
+    <td>४</td>
+    <td>३</td>
+    <td>१</td>
+    <td>२</td>
+    <td>१</td>
+    <td>१</td>
+    <td>१</td>
+    <td>१ (सा.)</td>
+    <td>१</td>
+    <td>१</td>
+    <td>२</td>
+  </tr>
+  <tr>
+    <th colspan=2>सम्यग्मिथ्यादृष्टि</th>
+    <td>१</td>
+    <td>१ (सं.प.)</td>
+    <td>६ (प.)</td>
+    <td>१०</td>
+    <td>४</td>
+    <td>१</td>
+    <td>१</td>
+    <td>१</td>
+    <td>९ (४ म.,४ व.,वै.)</td>
+    <td>१</td>
+    <td>४</td>
+    <td>३</td>
+    <td>१</td>
+    <td>२</td>
+    <td>१</td>
+    <td>१</td>
+    <td>१</td>
+    <td>१ (स.मि.)</td>
+    <td>१</td>
+    <td>१</td>
+    <td>२</td>
+  </tr>
+  <tr>
+    <th rowspan=3>असंयत सम्यग्दृष्टि</th>
+    <th>सामान्य</th>
+    <td>१</td>
+    <td>२</td>
+    <td>६|६</td>
+    <td>१०|७</td>
+    <td>४</td>
+    <td>१</td>
+    <td>१</td>
+    <td>१</td>
+    <td>११ (-२ औ.,२ आ.)</td>
+    <td>१</td>
+    <td>४</td>
+    <td>३</td>
+    <td>१</td>
+    <td>३</td>
+    <td>३</td>
+    <td>१</td>
+    <td>१</td>
+    <td>३</td>
+    <td>१</td>
+    <td>२</td>
+    <td>२</td>
+  </tr>
+  <tr>
+    <th>पर्याप्त</th>
+    <td>१</td>
+    <td>१ (सं.प.)</td>
+    <td>६ (प.)</td>
+    <td>१०</td>
+    <td>४</td>
+    <td>१</td>
+    <td>१</td>
+    <td>१</td>
+    <td>९ (४ म.,४ व.,वै.)</td>
+    <td>१</td>
+    <td>४</td>
+    <td>३</td>
+    <td>१</td>
+    <td>३</td>
+    <td>१</td>
+    <td>१</td>
+    <td>१</td>
+    <td>३</td>
+    <td>१</td>
+    <td>१</td>
+    <td>२</td>
+  </tr>
+  <tr>
+    <th>अपर्याप्त</th>
+    <td>१</td>
+    <td>१ (सं.अ.)</td>
+    <td>६ (अ.)</td>
+    <td>७</td>
+    <td>४</td>
+    <td>१</td>
+    <td>१</td>
+    <td>१</td>
+    <td>२ (वै.मि.,का.)</td>
+    <td>१</td>
+    <td>४</td>
+    <td>३</td>
+    <td>१</td>
+    <td>३</td>
+    <td>२</td>
+    <td>१</td>
+    <td>१</td>
+    <td>२</td>
+    <td>१</td>
+    <td>२</td>
+    <td>२</td>
+  </tr>
+  <tr>
+    <th rowspan=9>द्वीतीय</th>
+    <th colspan=2>सामान्य</th>
+    <td>४</td>
+    <td>२</td>
+    <td>६|६</td>
+    <td>१०|७</td>
+    <td>४</td>
+    <td>१</td>
+    <td>१</td>
+    <td>१</td>
+    <td>११ (-२ औ.,२ आ.)</td>
+    <td>१</td>
+    <td>४</td>
+    <td>६</td>
+    <td>१</td>
+    <td>३</td>
+    <td>३</td>
+    <td>१</td>
+    <td>२</td>
+    <td>५</td>
+    <td>१</td>
+    <td>२</td>
+    <td>२</td>
+  </tr>
+  <tr>
+    <th colspan=2>पर्याप्त</th>
+    <td>४</td>
+    <td>१ (सं.प.)</td>
+    <td>६ (प.)</td>
+    <td>१०</td>
+    <td>४</td>
+    <td>१</td>
+    <td>१</td>
+    <td>१</td>
+    <td>९ (४ म.,४ व.,वै.)</td>
+    <td>१</td>
+    <td>४</td>
+    <td>६</td>
+    <td>१</td>
+    <td>३</td>
+    <td>१</td>
+    <td>१</td>
+    <td>२</td>
+    <td>५</td>
+    <td>१</td>
+    <td>१</td>
+    <td>२</td>
+  </tr>
+  <tr>
+    <th colspan=2>अपर्याप्त</th>
+    <td>१</td>
+    <td>१ (सं.अ.)</td>
+    <td>६ (अ.)</td>
+    <td>७</td>
+    <td>४</td>
+    <td>१</td>
+    <td>१</td>
+    <td>१</td>
+    <td>२ (वै.मि.,का.)</td>
+    <td>१</td>
+    <td>४</td>
+    <td>२</td>
+    <td>१</td>
+    <td>२</td>
+    <td>२</td>
+    <td>१</td>
+    <td>२</td>
+    <td>१</td>
+    <td>१</td>
+    <td>२</td>
+    <td>२</td>
+  </tr>
+  <tr>
+    <th rowspan=3>मिथ्यादृष्टि</th>
+    <th>सामान्य</th>
+    <td>१</td>
+    <td>२</td>
+    <td>६|६</td>
+    <td>१०|७</td>
+    <td>४</td>
+    <td>१</td>
+    <td>१</td>
+    <td>१</td>
+    <td>११ (-२ औ.,२ आ.)</td>
+    <td>१</td>
+    <td>४</td>
+    <td>३</td>
+    <td>१</td>
+    <td>२</td>
+    <td>३</td>
+    <td>१</td>
+    <td>२</td>
+    <td>१</td>
+    <td>१</td>
+    <td>२</td>
+    <td>२</td>
+  </tr>
+  <tr>
+    <th>पर्याप्त</th>
+    <td>१</td>
+    <td>१ (सं.प.)</td>
+    <td>६ (प.)</td>
+    <td>१०</td>
+    <td>४</td>
+    <td>१</td>
+    <td>१</td>
+    <td>१</td>
+    <td>९ (४ म.,४ व.,वै.)</td>
+    <td>१</td>
+    <td>४</td>
+    <td>३</td>
+    <td>१</td>
+    <td>२</td>
+    <td>१</td>
+    <td>१</td>
+    <td>२</td>
+    <td>१</td>
+    <td>१</td>
+    <td>१</td>
+    <td>२</td>
+  </tr>
+  <tr>
+    <th>अपर्याप्त</th>
+    <td>१</td>
+    <td>१ (सं.अ.)</td>
+    <td>६ (अ.)</td>
+    <td>७</td>
+    <td>४</td>
+    <td>१</td>
+    <td>१</td>
+    <td>१</td>
+    <td>२ (वै.मि.,का.)</td>
+    <td>१</td>
+    <td>४</td>
+    <td>२</td>
+    <td>१</td>
+    <td>२</td>
+    <td>२</td>
+    <td>१</td>
+    <td>२</td>
+    <td>१</td>
+    <td>१</td>
+    <td>२</td>
+    <td>२</td>
+  </tr>
+  <tr>
+    <th colspan=2>सासादन</th>
+    <td>१</td>
+    <td>१ (सं.प.)</td>
+    <td>६ (प.)</td>
+    <td>१०</td>
+    <td>४</td>
+    <td>१</td>
+    <td>१</td>
+    <td>१</td>
+    <td>९ (४ म.,४ व.,वै.)</td>
+    <td>१</td>
+    <td>४</td>
+    <td>३</td>
+    <td>१</td>
+    <td>२</td>
+    <td>१</td>
+    <td>१</td>
+    <td>१</td>
+    <td>१ (सा.)</td>
+    <td>१</td>
+    <td>१</td>
+    <td>२</td>
+  </tr>
+  <tr>
+    <th colspan=2>सम्यग्मिथ्यादृष्टि</th>
+    <td>१</td>
+    <td>१ (सं.प.)</td>
+    <td>६ (प.)</td>
+    <td>१०</td>
+    <td>४</td>
+    <td>१</td>
+    <td>१</td>
+    <td>१</td>
+    <td>९ (४ म.,४ व.,वै.)</td>
+    <td>१</td>
+    <td>४</td>
+    <td>३</td>
+    <td>१</td>
+    <td>२</td>
+    <td>१</td>
+    <td>१</td>
+    <td>१</td>
+    <td>१ (स.मि.)</td>
+    <td>१</td>
+    <td>१</td>
+    <td>२</td>
+  </tr>
+  <tr>
+    <th colspan=2>असंयत सम्यग्दृष्टि</th>
+    <td>१</td>
+    <td>१</td>
+    <td>६</td>
+    <td>१०</td>
+    <td>४</td>
+    <td>१</td>
+    <td>१</td>
+    <td>१</td>
+    <td>११ (-२ औ.,२ आ.)</td>
+    <td>१</td>
+    <td>४</td>
+    <td>३</td>
+    <td>१</td>
+    <td>१</td>
+    <td>१</td>
+    <td>१</td>
+    <td>१</td>
+    <td>२</td>
+    <td>१</td>
+    <td>१</td>
+    <td>२</td>
+  </tr>
+</table>

@@ -1,0 +1,25 @@
+﻿औपशमिक, क्षायिक, मिश्र, औदयिक और पारिणामिक ये जीव के स्‍वतत्त्‍व हैं ॥१॥
+<!--PythonTagBegin-->
+<ul class=orgchart>
+  <li class=root>
+    <div class=nodecontent>जीव के भाव</div>
+    <ul>
+      <li class=leaf>
+        <div class=nodecontent>औपशमिक</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>क्षायिक</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>क्षायोपशमिक</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>औदयिक</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>पारिणामिक</div>
+      </li>
+    </ul>
+  </li>
+</ul>
+<!--PythonTagEnd-->

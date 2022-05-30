@@ -1,0 +1,9 @@
+﻿सामायिक, छेदोपस्थापना, परिहारविशुद्धि, सूक्ष्मसाम्पराय और यथाख्यात यह पाँच प्रकार का चारित्र है ॥१८॥
+<!--JsMindTagBegin-->
+	{"id":"root", "isroot":true, "topic":"चारित्र के प्रकार "},
+	{"id":"sub10", "parentid":"root", "topic":"सामायिक"},
+	{"id":"sub11", "parentid":"root", "topic":"छेदोपस्थापना"},
+	{"id":"sub12", "parentid":"root", "topic":"परिहारविशुद्धि"},
+	{"id":"sub13", "parentid":"root", "topic":"सूक्ष्मसाम्पराय"},
+	{"id":"sub14", "parentid":"root", "topic":"यथाख्यात "}
+<!--JsMindTagEnd-->

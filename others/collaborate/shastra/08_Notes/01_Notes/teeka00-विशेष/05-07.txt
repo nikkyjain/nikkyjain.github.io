@@ -1,0 +1,67 @@
+﻿<table class=myAltTable>
+  <tr>
+    <td class=emptyTableCell colspan=2 rowspan=2></td>
+    <th class=tableTitle colspan=3>प्रकृति बंध (मार्गणा -- काय)</th>
+  </tr>
+  <tr>
+    <th>बंध</th>
+    <th>अबंध</th>
+    <th>व्युच्छिति</th>
+  </tr>
+  <tr>
+    <th rowspan=3>पृथ्वी, जल, वनस्पति</th>
+    <th>मिथ्यात्व</th>
+    <td><b>109</b></td>
+    <td><b>0</b></td>
+    <td><b>15</b> (13+मनुष्य-तिर्यञ्च आयु)</td>
+  </tr>
+  <tr>
+    <th>सासादन</th>
+    <td><b>94</b></td>
+    <td><b>15</b></td>
+    <td></td>
+  </tr>
+    <td class=tableNotes colspan=4><b>बंध योग्य प्रकृतियाँ 109</b> = 120 - 11 (तीर्थंकर, आहारकद्विक, वैक्रियकअष्टक)</td>
+  <tr>
+    <th>वायु, अग्नि</th>
+    <td class=tableNotes colspan=4><b>बंध योग्य प्रकृतियाँ 105</b> = 109 - 4 (मनुष्य-त्रिक, उच्च गोत्र), गुणस्थान मिथ्यात्व</td>
+  </tr>
+  <tr>
+    <th>त्रस</th>
+    <td class=tableNotes colspan=4><b>बंध योग्य प्रकृतियाँ 120</b>, गुणस्थान 1 से 14</td>
+  </tr>
+  <tr>
+    <th rowspan=6>त्रस-निवृत्त्यपर्याप्त</th>
+    <th>मिथ्यात्व</th>
+    <td><b>107</b></td>
+    <td><b>5</b></td>
+    <td><b>13</b></td>
+  </tr>
+  <tr>
+    <th>सासादन</th>
+    <td><b>94</b></td>
+    <td><b>18</b></td>
+    <td><b>24</b></td>
+  </tr>
+  <tr>
+    <th>अविरत-सम्यक्त्व</th>
+    <td><b>75</b></td>
+    <td><b>37</b></td>
+    <td><b>13</b></td>
+  </tr>
+  <tr>
+    <th>प्रमत्त-विरत</th>
+    <td><b>62</b></td>
+    <td><b>50</b></td>
+    <td><b>61</b></td>
+  </tr>
+  <tr>
+    <th>सयोग-केवली</th>
+    <td><b>1</b></td>
+    <td><b>111</b></td>
+    <td><b>1</b></td>
+  </tr>
+  <tr>
+    <td class=tableNotes colspan=4><b>बंध योग्य प्रकृतियाँ 112</b> = 120 - 8 (आहारकद्विक, नरक-द्विक, 4 आयु)</td>
+  </tr>
+</table>

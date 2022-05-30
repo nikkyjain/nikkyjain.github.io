@@ -1,0 +1,81 @@
+﻿<table class=myAltColTable>
+<thead>
+  <col><col><col><col><col>
+  <tr>
+    <td class=emptyTableCell></td>
+    <th colspan=4>गुणस्थान में मूल-प्रकृतियों में स्थान-समुत्कीर्तन</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th>गुणस्थान</th>
+    <th>बंध-स्थान</th>
+    <th>उदय-स्थान</th>
+    <th>*उदीरणा</th>
+    <th>सत्त्व</th>
+  </tr>
+  <tr>
+    <th>मिथ्यादृष्टि</th>
+    <td rowspan=2><b>7 / 8</b></td>
+    <td rowspan=10><b>8</b></td>
+    <td rowspan=6><b>8</b></td>
+    <td rowspan=11><b>8</b></td>
+  </tr>
+  <tr>
+    <th>सासादन</th>
+  </tr>
+  <tr>
+    <th>मिश्र</th>
+    <td><b>7</b></td>
+  </tr>
+  <tr>
+    <th>असंयत</th>
+    <td rowspan=4><b>7 / 8</b></td>
+  </tr>
+  <tr>
+    <th>संयतासंयत</th>
+  </tr>
+  <tr>
+    <th>प्रमत्त</th>
+  </tr>
+  <tr>
+    <th>अप्रमत्त</th>
+    <td rowspan=4><b>6</b> (8 - आयु,वेदनीय)</td>
+  </tr>
+  <tr>
+    <th>अपूर्वकरण</th>
+    <td rowspan=2><b>7</b> (8 - आयु)</td>
+  </tr>
+  <tr>
+    <th>अनिवृत्तिकरण</th>
+  </tr>
+  <tr>
+    <th>सूक्ष्म साम्पराय</th>
+    <td><b>6</b> (7 - मोहनीय)</td>
+  </tr>
+  <tr>
+    <th>उपशान्त मोह</th>
+    <td rowspan=3><b>1</b> (वेदनीय)</td>
+    <td rowspan=2><b>7</b> (8 - मोहनीय)</td>
+    <td rowspan=2><b>5</b> (6 - मोहनीय)</td>
+  </tr>
+  <tr>
+    <th>क्षीणकषाय</th>
+    <td><b>7</b> (8 - मोहनीय)</td>
+  </tr>
+  <tr>
+    <th>सयोग केवली</th>
+    <td rowspan=2><b>4</b> (अघातिया)</td>
+    <td><b>2</b> (नाम,गोत्र)</td>
+    <td rowspan=2><b>4</b> (अघातिया)</td>
+  </tr>
+  <tr>
+    <th>अयोग केवली</th>
+    <td><b>0</b></td>
+    <td><b>0</b></td>
+  </tr>
+  <tr>
+    <td colspan=5 class=tableNotes>*उदयावलि में उदीरणा का अभाव है</td>
+  </tr>
+</tbody>
+</table>

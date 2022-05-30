@@ -1,0 +1,40 @@
+﻿<table class=myAltTable>
+  <tr>
+    <td class=emptyTableCell rowspan=2></td>
+    <th class=tableTitle colspan=4>मूल प्रकृतियों के अनुभाग बंध में सादि आदि भेद</th>
+  </tr>
+  <tr>
+    <th>जघन्य</th>
+    <th>उत्कृष्ट</th>
+    <th>ध्रुव</th>
+    <th>अध्रुव</th>
+  </tr>
+  <tr>
+    <th>घातिया कर्म</th>
+    <td>सादि, अध्रुव</td>
+    <td>चारों</td>
+    <td>सादि, अध्रुव</td>
+    <td>सादि, अध्रुव</td>
+  </tr>
+  <tr>
+    <th>वेदनीय, नाम</th>
+    <td>सादि, अध्रुव</td>
+    <td>सादि, अध्रुव</td>
+    <td>सादि, अध्रुव</td>
+    <td>चारों</td>
+  </tr>
+  <tr>
+    <th>गोत्र</th>
+    <td>सादि, अध्रुव</td>
+    <td>चारों</td>
+    <td>सादि, अध्रुव</td>
+    <td>चारों</td>
+  </tr>
+  <tr>
+    <th>आयु</th>
+    <td>सादि, अध्रुव</td>
+    <td>सादि, अध्रुव</td>
+    <td>सादि, अध्रुव</td>
+    <td>सादि, अध्रुव</td>
+  </tr>
+</table>

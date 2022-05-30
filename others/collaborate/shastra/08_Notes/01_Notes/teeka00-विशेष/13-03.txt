@@ -1,0 +1,97 @@
+﻿<table class=myAltTable>
+  <tr>
+    <th colspan=9 colspan=13 class=tableTitle>गुणस्थानों में एक जीव के एक काल में संभव भाव</th>
+  </tr>
+  <tr>
+    <th rowspan=2>गुणस्थान</th>
+    <th rowspan=2>मूल भाव</th>
+    <th rowspan=2>स्थान-संख्या</th>
+    <th colspan=5>पर-संयोग</th>
+    <th rowspan=2>स्व-संयोग</th>
+  </tr>
+  <tr>
+    <th>प्रत्येक</th>
+    <th>द्विसंयोगी</th>
+    <th>त्रिसंयोगी</th>
+    <th>चतु:संयोगी</th>
+    <th>पंच-संयोगी</th>
+  </tr>
+  <tr>
+    <th>1 से 3</th>
+    <td>3 (औद./क्षायो./पा.)</td>
+    <td>10</td>
+    <td>3</td>
+    <td>3</td>
+    <td>1</td>
+    <td class=tableNotes></td>
+    <td class=tableNotes></td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <th rowspan=3>4 से 7</th>
+    <td>5 (औद./क्षायो./पा./औप./क्षायि.)</td>
+    <td>26</td>
+    <td>5</td>
+    <td><sup>*</sup>9</td>
+    <td><sup>*</sup>7</td>
+    <td><sup>*</sup>2</td>
+    <td class=tableNotes></td>
+    <td><sup>#</sup>3</td>
+  </tr>
+  <tr>
+    <td colspan=8 class=tableNotes><sup>*</sup>यहाँ औपशमिक-क्षायिक का संयोग भंग संभव नहीं है</td>
+  </tr>
+  <tr>
+    <td colspan=8 class=tableNotes><sup>#</sup>औपशमिक सम्यक्त्व और चारित्र का भंग संभव नहीं; इसी प्रकार क्षायिक में भी स्व-संयोगी भंग यहाँ संभव नहीं</td>
+  </tr>
+  <tr>
+    <th rowspan=2>उपशम-श्रेणी</th>
+    <td>5 (औद./क्षायो./पा./औप./क्षायि.)</td>
+    <td>35</td>
+    <td>5</td>
+    <td>10</td>
+    <td>10</td>
+    <td>5</td>
+    <td>1</td>
+    <td><sup>*</sup>4</td>
+  </tr>
+  <tr>
+    <td colspan=8 class=tableNotes><sup>*</sup>क्षायिक-सम्यक्त्व के साथ क्षायिक चारित्र का स्व-संयोगी भंग यहाँ संभव नहीं</td>
+  </tr>
+  <tr>
+    <th>क्षपक-श्रेणी</th>
+    <td>4 (औद./क्षायो./पा./क्षायि.)</td>
+    <td>19</td>
+    <td>4</td>
+    <td>6</td>
+    <td>4</td>
+    <td>1</td>
+    <td class=tableNotes></td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <th>13, 14</th>
+    <td>3 (औद./पा./क्षायि.)</td>
+    <td>10</td>
+    <td>3</td>
+    <td>3</td>
+    <td>1</td>
+    <td class=tableNotes></td>
+    <td class=tableNotes></td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <th>सिद्ध</th>
+    <td>2 (पा./क्षायि.)</td>
+    <td>5</td>
+    <td>2</td>
+    <td>1</td>
+    <td class=tableNotes></td>
+    <td class=tableNotes></td>
+    <td class=tableNotes></td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td colspan=9 class=tableNotes>गोम्मटसार कर्मकाण्ड -- गाथा 820-822</td>
+  </tr>
+</table>

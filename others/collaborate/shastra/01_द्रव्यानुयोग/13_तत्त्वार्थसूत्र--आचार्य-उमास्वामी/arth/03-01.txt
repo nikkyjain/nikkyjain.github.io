@@ -1,0 +1,12 @@
+﻿रत्‍नप्रभा, शर्कराप्रभा, बालुकाप्रभा, पंकप्रभा, धूमप्रभा, तमःप्रभा और महातमःप्रभा ये सात भूमियाँ घनाम्‍बु, वात और आकाश के सहारे स्थित हैं तथा क्रम से नीचे-नीचे हैं ॥१॥
+<!--JsMindTagBegin-->
+                {"id":"root", "isroot":true, "topic":"नरक"},
+
+                {"id":"sub1", "parentid":"root", "topic":"रत्‍नप्रभा"},
+                {"id":"sub2", "parentid":"root", "topic":"शर्कराप्रभा"},
+                {"id":"sub3", "parentid":"root", "topic":"बालुकाप्रभा"},
+                {"id":"sub4", "parentid":"root", "topic":"पंकप्रभा"},
+                {"id":"sub5", "parentid":"root", "topic":"धूमप्रभा"},
+                {"id":"sub6", "parentid":"root", "topic":"तमःप्रभा"},
+                {"id":"sub7", "parentid":"root", "topic":"महातमःप्रभा"}
+<!--JsMindTagEnd-->

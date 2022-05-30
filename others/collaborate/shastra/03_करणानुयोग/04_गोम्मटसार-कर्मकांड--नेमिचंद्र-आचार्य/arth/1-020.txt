@@ -1,0 +1,13 @@
+﻿[णाणस्स दंसणस्स य आवरणं] ज्ञानावरण, दर्शनावरण [वेयणीयमोहणियं] वेदनीय, मोहनीय, [आउगणामं] आयु, नाम, [गोदंतरायमिदि] गोत्र और अन्तराय - इस प्रकार जो - [पढिदमिदि सिद्धं] पाठ का क्रम है वह पहले पाठ की तरह ही सिद्ध हुआ ॥२०॥
+<!--JsMindTagBeginH2-->
+  {"id":"root", "isroot":true, "topic":"आठ कर्मों क्जे कथन में क्रम"},
+
+  {"id":"sub1", "parentid":"root", "topic":"ज्ञानावरण"},
+  {"id":"sub2", "parentid":"sub1", "topic":"दर्शनावरण"},
+  {"id":"sub3", "parentid":"sub2", "topic":"वेदनीय"},
+  {"id":"sub4", "parentid":"sub3", "topic":"मोहनीय"},
+  {"id":"sub5", "parentid":"sub4", "topic":"आयु"},
+  {"id":"sub6", "parentid":"sub5", "topic":"नाम"},
+  {"id":"sub7", "parentid":"sub6", "topic":"गोत्र"},
+  {"id":"sub8", "parentid":"sub7", "topic":"अन्तराय"}
+<!--JsMindTagEnd-->

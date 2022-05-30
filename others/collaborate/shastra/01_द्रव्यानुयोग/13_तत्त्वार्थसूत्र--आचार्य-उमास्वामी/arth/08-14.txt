@@ -1,0 +1,20 @@
+﻿आदि की तीन प्रकृतियाँ अर्थात्‌ ज्ञानावरण, दर्शनावरण और वेदनीय तथा अन्तराय इन चार की उत्कृष्ट स्थिति तीस कोटाकोटि सागरोपम है ॥१४॥
+<!--JsMindTagBeginH6-->
+	{"id":"root", "isroot":true, "topic":"मूल  प्रकृतियों की उत्कृष्ट स्थिति  "},
+	{"id":"sub1", "parentid":"root", "topic":"ज्ञानावरण"},
+	{"id":"sub1a", "parentid":"sub1", "topic":"30 कोटाकोटि सागरोपम "},
+	{"id":"sub11", "parentid":"root", "topic":"दर्शनावरण"},
+	{"id":"sub11a", "parentid":"sub11", "topic":"30 कोटाकोटि सागरोपम "},
+	{"id":"sub12", "parentid":"root", "topic":"वेदनीय"},
+	{"id":"sub12a", "parentid":"sub12", "topic":"30 कोटाकोटि सागरोपम "},
+	{"id":"sub13", "parentid":"root", "topic":"मोहनीय "},
+	{"id":"sub13a", "parentid":"sub13", "topic":"70  कोटाकोटि सागरोपम "},
+	{"id":"sub14", "parentid":"root", "topic":"आयु "},
+	{"id":"sub14a", "parentid":"sub14", "topic":"33 सागर"},
+	{"id":"sub15", "parentid":"root", "topic":"नाम  "},
+	{"id":"sub15a", "parentid":"sub15", "topic":"20  कोटाकोटि सागर"},
+	{"id":"sub16", "parentid":"root", "topic":"गोत्र "},
+	{"id":"sub16a", "parentid":"sub16", "topic":"20  कोटाकोटि सागरोपम "},
+	{"id":"sub17", "parentid":"root", "topic":"अन्तराय  "},
+	{"id":"sub17a", "parentid":"sub17", "topic":"30 कोटाकोटि सागरोपम "}
+<!--JsMindTagEnd-->

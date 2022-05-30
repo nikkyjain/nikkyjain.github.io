@@ -1,0 +1,32 @@
+﻿वे प्रत्‍येक दो-दो प्रकार की हैं ॥१६॥
+<!--PythonTagBegin-->
+<ul class=orgchart>
+  <li class=root>
+    <div class=nodecontent>इंद्रियाँ</div>
+    <ul>
+      <li class=leaf>
+        <div class=nodecontent>द्रव्य</div>
+        <ul>
+          <li class=leaf>
+            <div class=nodecontent>निर्वृत्ति</div>
+          </li>
+          <li class=leaf>
+            <div class=nodecontent>उपकरण</div>
+          </li>
+        </ul>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>भाव</div>
+        <ul>
+          <li class=leaf>
+            <div class=nodecontent>लब्धि</div>
+          </li>
+          <li class=leaf>
+            <div class=nodecontent>उपयोग</div>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+<!--PythonTagEnd-->

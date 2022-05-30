@@ -1,0 +1,123 @@
+﻿<table class=myAltTable>
+<tbody>
+<tr>
+  <td class=emptyTableCell></td>
+  <th class=tableTitle colspan=5>तिर्यञ्च-गति में जघन्य / उत्कृष्ट आयु</th>
+</tr>
+<tr>
+<td rowspan=2 class=emptyTableCell></td>
+<th rowspan=2>मार्गणा</th>
+<th rowspan=2>विशेष</th>
+<th colspan=2>आयु</th>
+</tr>
+<tr>
+<th>उत्कृष्ट</th>
+<th>जघन्य</th>
+</tr>
+<tr>
+<th rowspan=6>एकेन्द्रिय</th>
+<th>पृथ्वी-कायिक</th>
+<td>शुद्ध</td>
+<td>12,000 वर्ष</td>
+<td rowspan=20>अन्तर्महुर्त</td>
+</tr>
+<tr>
+<th>पृथ्वी-कायिक</th>
+<td>खर</td>
+<td>22,000 वर्ष</td>
+</tr>
+<tr>
+<th>अप-कायिक</th>
+<td></td>
+<td>7,000 वर्ष</td>
+</tr>
+<tr>
+<th>तेज-कायिक</th>
+<td></td>
+<td>3 दिन रात</td>
+</tr>
+<tr>
+<th>वायु-कायिक</th>
+<td></td>
+<td>3,000 वर्ष</td>
+</tr>
+<tr>
+<th>वनस्पति साधारण</th>
+<td></td>
+<td>10,000 वर्ष</td>
+</tr>
+<tr>
+<th rowspan=3>विकलेन्द्रिय</th>
+<th>द्वीन्द्रिय</th>
+<td></td>
+<td>12 वर्ष</td>
+</tr>
+<tr>
+<th>त्रीन्द्रिय</th>
+<td></td>
+<td>49 दिन रात</td>
+</tr>
+<tr>
+<th>चतुरिंद्रिय</th>
+<td></td>
+<td>6 महीने</td>
+</tr>
+<tr>
+<th  rowspan=6>पंचेन्द्रिय</th>
+<th>जलचर</th>
+<td>मत्स्यादि</td>
+<td>1 कोड पूर्व</td>
+</tr>
+<tr>
+<th>परिसर्ग</th>
+<td>गोह ,नेवला ,सरी-सृपादि</td>
+<td>9 पूर्वांग</td>
+</tr>
+<tr>
+<th>उरग</th>
+<td>सर्प</td>
+<td>42,000 वर्ष</td>
+</tr>
+<tr>
+<th>पक्षी</th>
+<td>कर्म भूमिज भैरुंड आदि</td>
+<td>72,000 वर्ष</td>
+</tr>
+<tr>
+<th>चौपाये</th>
+<td>कर्म भूमिज</td>
+<td>1 पल्य</td>
+</tr>
+<tr>
+<th>असंज्ञी पंचेन्द्रिय</th>
+<td>कर्म भूमिज</td>
+<td>1 कोड पूर्व</td>
+</tr>
+<tr>
+<th rowspan=5>भोग भूमिज</th>
+<th>उत्तम भोगभूमिज</th>
+<td>देव कुरु -उत्तर कुरु</td>
+<td>3 पल्य</td>
+</tr>
+<tr>
+<th>मध्यम भोगभूमिज</th>
+<td>हरि व् रम्यक क्षेत्र</td>
+<td>2 पल्य</td>
+</tr>
+<tr>
+<th>जघन्य भोगभूमिज</th>
+<td>हेमवत -हैरण्यवत</td>
+<td>1 पल्य</td>
+</tr>
+<tr>
+<th>कुभोगभूमिज</th>
+<td>(अंतर्द्वीप )</td>
+<td>1 पल्य</td>
+</tr>
+<tr>
+<th>कर्म भूमिज</th>
+<td></td>
+<td>1 पल्य</td>
+</tr>
+</tbody>
+</table>

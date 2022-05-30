@@ -1,0 +1,113 @@
+मिथ्यात्व गुणस्थान तक मिथ्यात्व रहता है, देशसंयत गुणस्थान तक अविरति रहती है, सूक्ष्मसांपराय गुणस्थान तक कषायें रहती हैं एवं सयोगकेवली पर्यंत योग रहते हैं ॥९॥
+<table class=myAltTable>
+  <tr>
+    <th class=tableTitle colspan=6>गुणस्थान में आस्रव के मूल-प्रत्यय</th>
+  </tr>
+  <tr>
+    <th>गुणस्थान</th>
+    <th>बंध-प्रत्यय</th>
+    <th>मिथ्यात्व (5)</th>
+    <th>अविरत (12)</th>
+    <th>कषाय (25)</th>
+    <th>योग (15)</th>
+  </tr>
+  <tr>
+    <th>मिथ्यादृष्टि</th>
+    <td><b>4</b></td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+  </tr>
+  <tr>
+    <th>सासादन</th>
+    <td><b>3</b></td>
+    <td class=cellN>X</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+  </tr>
+  <tr>
+    <th>सम्यग्मिथ्यादृष्टि</th>
+    <td><b>3</b></td>
+    <td class=cellN>X</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+  </tr>
+  <tr>
+    <th>असंयत सम्यग्दृष्टि</th>
+    <td><b>3</b></td>
+    <td class=cellN>X</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+  </tr>
+  <tr>
+    <th>संयतासंयत</th>
+    <td><b>3</b></td>
+    <td class=cellN>X</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+  </tr>
+  <tr>
+    <th>प्रमत्तसंयत</th>
+    <td><b>2</b></td>
+    <td class=cellN>X</td>
+    <td class=cellN>X</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+  </tr>
+  <tr>
+    <th>अप्रमत्तसंयत</th>
+    <td><b>2</b></td>
+    <td class=cellN>X</td>
+    <td class=cellN>X</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+  </tr>
+  <tr>
+    <th>अपूर्वकरण</th>
+    <td><b>2</b></td>
+    <td class=cellN>X</td>
+    <td class=cellN>X</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+  </tr>
+  <tr>
+    <th>अनिवृत्तिकरण</th>
+    <td><b>2</b></td>
+    <td class=cellN>X</td>
+    <td class=cellN>X</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+  </tr>
+  <tr>
+    <th>सूक्ष्मसाम्पराय</th>
+    <td><b>2</b></td>
+    <td class=cellN>X</td>
+    <td class=cellN>X</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+  </tr>
+  <tr>
+    <th>उपशान्त / क्षीण कषाय</th>
+    <td><b>1</b></td>
+    <td class=cellN>X</td>
+    <td class=cellN>X</td>
+    <td class=cellN>X</td>
+    <td class=cellY>✔</td>
+  </tr>
+  <tr>
+    <th>सयोग केवली</th>
+    <td><b>1</b></td>
+    <td class=cellN>X</td>
+    <td class=cellN>X</td>
+    <td class=cellN>X</td>
+    <td class=cellY>✔</td>
+  </tr>
+  <tr>
+    <td colspan=6 class=tableNotes>गोम्मटसार कर्मकांड गाथा -- गाथा -- 786 से 788</td>
+  </tr>
+</table>

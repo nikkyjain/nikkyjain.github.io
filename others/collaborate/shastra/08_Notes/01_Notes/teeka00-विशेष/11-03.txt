@@ -1,0 +1,130 @@
+﻿<table class=myAltTable>
+  <tr>
+    <td colspan=2 class=emptyTableCell></td>
+    <th colspan=18 class=tableTitle>ओघ (गुणस्थान) से उत्तर-प्रकृतियों में त्रिसंयोग में स्थान</th>
+  </tr>
+  <tr>
+	<th colspan=2 rowspan=2>गुणस्थान</th>
+    <th rowspan=2>1</th>
+    <th rowspan=2>2</th>
+    <th rowspan=2>3</th>
+    <th rowspan=2>4</th>
+    <th rowspan=2>5</th>
+    <th rowspan=2>6</th>
+    <th rowspan=2>7</th>
+    <th colspan=2>8</th>
+    <th colspan=2>9</th>
+    <th colspan=2>10</th>
+    <th rowspan=2>11</th>
+    <th colspan=2 rowspan=2>12</th>
+    <th rowspan=2>13</th>
+    <th rowspan=2>14</th>
+  </tr>
+  <tr>
+    <th>उ.श्रे.</th>
+    <th>क्ष.श्रे.</th>
+    <th>उ.श्रे.</th>
+    <th>क्ष.श्रे.</th>
+    <th>उ.श्रे.</th>
+    <th>क्ष.श्रे.</th>
+  </tr>
+  <tr>
+    <th rowspan=3>ज्ञानावरण, अंतराय</th>
+    <th>बंध</th>
+    <td colspan=13>5</td>
+    <td colspan=5 class=tableNotes>-na-</td>
+  </tr>
+  <tr>
+    <th>उदय</th>
+    <td colspan=16>5</td>
+    <td colspan=2 class=tableNotes>-na-</td>
+  </tr>
+  <tr>
+    <th>सत्त्व</th>
+    <td colspan=16>5</td>
+    <td colspan=2 class=tableNotes>-na-</td>
+  </tr>
+  <tr>
+    <th rowspan=3>दर्शनावरण</th>
+    <th>बंध</th>
+    <td colspan=2>9</td>
+    <td colspan=5>6</td>
+    <td colspan=2>6 / 4</td>
+    <td colspan=4>4</td>
+    <td colspan=5 class=tableNotes>0</td>
+  </tr>
+  <tr>
+    <th>उदय</th>
+    <td colspan=14>4 / 5</td>
+    <td>4 / 5</td>
+    <td>4</td>
+    <td colspan=2 class=tableNotes>-na-</td>
+  </tr>
+  <tr>
+    <th>सत्त्व</th>
+    <td colspan=9>9</td>
+    <td>9</td>
+    <td>9 / 6</td>
+    <td>9</td>
+    <td>6</td>
+    <td>9</td>
+    <td>6</td>
+    <td>4</td>
+    <td colspan=2 class=tableNotes>-na-</td>
+  </tr>
+  <tr>
+    <th rowspan=5>वेदनीय</th>
+    <th>बंध</th>
+    <td colspan=6>साता / असाता</td>
+    <td colspan=11>साता</td>
+    <td class=tableNotes>-na-</td>
+  </tr>
+  <tr>
+    <th>उदय</th>
+    <td colspan=17>साता / असाता</td>
+    <td>साता / असाता</td>
+  </tr>
+  <tr>
+    <th>सत्त्व</th>
+    <td colspan=18>2</td>
+  </tr>
+  <tr>
+    <td colspan=19 class=tableNotes>अयोग-केवली के चरम-समय में दोनों में से एक का ही उदय और उसी की सत्ता है</td>
+  </tr>
+  <tr>
+    <td colspan=19 class=tableNotes>प्रमत्त-संयत तक साता / असाता के उदय / बंध से 4 भंग हैं, उसके आगे सायोग-केवली तक साता / असाता के उदय से दो भंग हैं</td>
+  </tr>
+  <tr>
+    <th rowspan=5>गोत्र</th>
+    <th>बंध</th>
+    <td>नीच / उच्च</td>
+    <td>नीच / उच्च</td>
+    <td colspan=3>उच्च</td>
+    <td colspan=8>उच्च</td>
+    <td colspan=5 class=tableNotes>-na-</td>
+  </tr>
+  <tr>
+    <th>उदय</th>
+    <td>नीच / उच्च</td>
+    <td>नीच / उच्च</td>
+    <td colspan=3>नीच / उच्च</td>
+    <td colspan=8>उच्च</td>
+    <td colspan=4>उच्च</td>
+    <td>उच्च</td>
+  </tr>
+  <tr>
+    <th>सत्त्व</th>
+    <td>2 / *नीच</td>
+    <td>2</td>
+    <td colspan=3>2</td>
+    <td colspan=8>2</td>
+    <td colspan=4>2</td>
+    <td>2 / *उच्च</td>
+  </tr>
+  <tr>
+    <td colspan=19 class=tableNotes>मिथ्यात्व गुणस्थान में उच्च गोत्र की उद्वेलना करने वाले अग्नि / वायुकायिक के नीच-गोत्र का ही बंध-उदय-सत्त्व पाया जाता है, वहाँ से निकलकर तिर्यञ्च होकर पहले अंतर्मुहूर्त तक यही भंग पाया जाता है</td>
+  </tr>
+  <tr>
+    <td colspan=19 class=tableNotes>अयोग-केवली के दोनों की या उच्च-गोत्र की ही सत्ता है</td>
+  </tr>
+</table>

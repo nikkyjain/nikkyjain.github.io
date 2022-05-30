@@ -1,0 +1,8 @@
+﻿स्पर्श, रस, गन्ध और वर्णवाले पुद्गल होते हैं ॥२३॥
+<!--JsMindTagBeginH2-->
+	{"id":"root", "isroot":true, "topic":"पुद्गल के गुण"},
+	{"id":"sub1", "parentid":"root", "topic":"स्पर्श"},
+	{"id":"sub2", "parentid":"root", "topic":"रस"},
+	{"id":"sub3", "parentid":"root", "topic":"गन्ध"},
+	{"id":"sub4", "parentid":"root", "topic":"वर्ण"} 
+<!--JsMindTagEnd-->

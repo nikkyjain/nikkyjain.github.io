@@ -1,0 +1,93 @@
+﻿औदयिक भाव के इक्‍कीस भेद हैं - चार गति, चार कषाय, तीन लिंग, एक मिथ्‍यादर्शन, एक अज्ञान, एक असंयम, एक असिद्ध भाव और छह लेश्‍याएँ ॥६॥
+<!--PythonTagBegin-->
+<ul class=orgchart>
+  <li class=root>
+    <div class=nodecontent>औदयिक भाव</div>
+    <ul>
+      <li class=node>
+        <div class=nodecontent>4 गति</div>
+        <ul>
+          <li class=leaf>
+            <div class=nodecontent>नरक</div>
+          </li>
+          <li class=leaf>
+            <div class=nodecontent>तिर्यञ्च</div>
+          </li>
+          <li class=leaf>
+            <div class=nodecontent>मनुष्य</div>
+          </li>
+          <li class=leaf>
+            <div class=nodecontent>देव</div>
+          </li>
+        </ul>
+      </li>
+      <li class=node>
+        <div class=nodecontent>4 कषाय</div>
+        <ul>
+          <li class=leaf>
+            <div class=nodecontent>क्रोध</div>
+          </li>
+          <li class=leaf>
+            <div class=nodecontent>मान</div>
+          </li>
+          <li class=leaf>
+            <div class=nodecontent>माया</div>
+          </li>
+          <li class=leaf>
+            <div class=nodecontent>लोभ</div>
+          </li>
+        </ul>
+      </li>
+      <li class=node>
+        <div class=nodecontent>3 लिंग</div>
+        <ul>
+          <li class=leaf>
+            <div class=nodecontent>स्त्री</div>
+          </li>
+          <li class=leaf>
+            <div class=nodecontent>पुरुष</div>
+          </li>
+          <li class=leaf>
+            <div class=nodecontent>नपुंसक</div>
+          </li>
+        </ul>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>मिथ्यादर्शन</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>अज्ञान</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>असंयम</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>असिद्धत्व</div>
+      </li>
+      <li class=node>
+        <div class=nodecontent>6 लेश्या</div>
+        <ul>
+          <li class=leaf>
+            <div class=nodecontent>कृष्ण</div>
+          </li>
+          <li class=leaf>
+            <div class=nodecontent>नील</div>
+          </li>
+          <li class=leaf>
+            <div class=nodecontent>कापोत</div>
+          </li>
+          <li class=leaf>
+            <div class=nodecontent>पीत</div>
+          </li>
+          <li class=leaf>
+            <div class=nodecontent>पद्म</div>
+          </li>
+          <li class=leaf>
+            <div class=nodecontent>शुक्ल</div>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+<!--PythonTagEnd-->

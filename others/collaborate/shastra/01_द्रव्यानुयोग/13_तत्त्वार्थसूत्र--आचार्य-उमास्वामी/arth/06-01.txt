@@ -1,0 +1,8 @@
+﻿काय, वचन और मन की क्रिया योग है ॥१॥
+<!--JsMindTagBeginH2-->
+                {"id":"root", "isroot":true, "topic":"योग"},
+
+                {"id":"sub1", "parentid":"root", "topic":"काय"},
+                {"id":"sub11", "parentid":"root", "topic":"वचन"},
+                {"id":"sub12", "parentid":"root", "topic":"मन"}
+<!--JsMindTagEnd-->

@@ -1,0 +1,112 @@
+﻿<table class=myAltTable>
+  <tr>
+    <td class=emptyTableCell colspan=3 rowspan=2></td>
+    <th class=tableTitle colspan=3>प्रकृति बंध (मार्गणा-नरक)</th>
+  </tr>
+  <tr>
+    <th>बंध</th>
+    <th>अबंध</th>
+    <th>व्युच्छिति</th>
+  </tr>
+  <tr>
+    <th class=head3 rowspan=8>1-3 नरक</th>
+    <th class=head3 rowspan=2>मिथ्यादृष्टि</th>
+    <th class=head3>पर्याप्त</th>
+    <td><b>100</b></td>
+    <td><b>1</b> (तीर्थंकर)</td>
+    <td><b>4</b> (मिथ्यात्व, हुण्ड संस्थान, नपुंसकवेद, सृपाटिका संहनन)</td>
+  </tr>
+  <tr>
+    <th class=head3>अपर्याप्त</th>
+    <td><b>98</b></td>
+    <td><b>1</b></td>
+    <td></td>
+  </tr>
+  <tr>
+    <th class=head3 colspan=2>सासादन</th>
+    <td><b>96</b></td>
+    <td><b>5</b></td>
+    <td><b>25</b> (गुणस्थानोक्त)</td>
+  </tr>
+  <tr>
+    <th class=head3 colspan=2>मिश्र</th>
+    <td><b>70</b></td>
+    <td><b>31</b> (मनुष्य-आयु)</td>
+    <td><b>0</b></td>
+  </tr>
+  <tr>
+    <th class=head3 rowspan=2>असंयत</th>
+    <th class=head3>पर्याप्त</th>
+    <td><b>72</b> (मनुष्य-आयु, तीर्थंकर)</td>
+    <td><b>29</b></td>
+    <td></td>
+  </tr>
+  <tr>
+    <th class=head3>अपर्याप्त</th>
+    <td><b>71</b></td>
+    <td><b>28</b></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class=tableNotes colspan=5><b>पर्याप्त के बंध योग्य प्रकृतियाँ 101</b> = 120 -19 (जातिचतुष्क, स्थावरचतुष्क, आताप, वैक्रियकअष्टक, आहारक-द्विक)</td>
+  </tr>
+  <tr>
+    <td class=tableNotes colspan=5><b>अपर्याप्त के बंध योग्य प्रकृतियाँ 99</b> = 101 - मनुष्यायु,तिर्यञ्चायु</td>
+  </tr>
+  <tr>
+    <th class=head4 rowspan=5>4-6 नरक </th>
+    <th class=head4 colspan=2>मिथ्यादृष्टि</th>
+    <td><b>100</b></td>
+    <td><b>0</b></td>
+    <td><b>4</b> (मिथ्यात्व, हुण्ड संस्थान, नपुंसकवेद, सृपाटिका संहनन)</td>
+  </tr>
+  <tr>
+    <th class=head4 colspan=2>सासादन</th>
+    <td><b>96</b></td>
+    <td><b>4</b></td>
+    <td><b>25</b> (गुणस्थानोक्त)</td>
+  </tr>
+  <tr>
+    <th class=head4 colspan=2>मिश्र</th>
+    <td><b>70</b></td>
+    <td><b>30</b> (मनुष्य-आयु)</td>
+    <td><b>0</b></td>
+  </tr>
+  <tr>
+    <th class=head4 colspan=2>असंयत</th>
+    <td><b>71</b> (मनुष्य-आयु)</td>
+    <td><b>29</b></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class=tableNotes colspan=5><b>बंध योग्य प्रकृतियाँ 100</b> = 101 - तीर्थंकर</td>
+  </tr>
+  <tr>
+    <th class=head2 rowspan=5>7 नरक </th>
+    <th class=head2 colspan=2>मिथ्यादृष्टि</th>
+    <td><b>96</b></td>
+    <td><b>3</b> (उच्चगोत्र, मनुष्यद्विक)</td>
+    <td><b>5</b> (मिथ्यात्व, हुण्ड संस्थान, नपुंसकवेद, सृपाटिका संहनन, तिर्यञ्चायु)</td>
+  </tr>
+  <tr>
+    <th class=head2 colspan=2>सासादन</th>
+    <td><b>91</b></td>
+    <td><b>8</b></td>
+    <td><b>24</b> (गुणस्थानोक्त २५-१ तिर्यंचायु)</td>
+  </tr>
+  <tr>
+    <th class=head2 colspan=2>मिश्र</th>
+    <td><b>70</b></td>
+    <td><b>29</b> (24+5)</td>
+    <td><b>0</b></td>
+  </tr>
+  <tr>
+    <th class=head2 colspan=2>असंयत</th>
+    <td><b>70</b></td>
+    <td><b>29</b></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class=tableNOtes colspan=5><b>बंध योग्य प्रकृतियाँ 99</b> = 101 - तीर्थंकर+मनुष्यायु</td>
+  </tr>
+</table>

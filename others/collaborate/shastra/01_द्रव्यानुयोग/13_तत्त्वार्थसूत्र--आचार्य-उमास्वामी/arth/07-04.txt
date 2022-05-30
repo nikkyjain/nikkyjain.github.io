@@ -1,0 +1,14 @@
+﻿वचनगुप्ति, मनोगुप्ति, ईर्यासमिति, आदाननिक्षेपणसमिति और आलोकितपान-भोजन ये अहिंसाव्रत की पाँच भावनाएँ हैं ॥४॥
+<!--JsMindTagBegin-->
+  {"id":"root", "isroot":true, "topic":"अहिंसाव्रत की पाँच भावनाएँ"},
+  {"id":"sub1", "parentid":"root", "topic":"वचनगुप्ति"},
+  {"id":"sub1a", "parentid":"sub1", "topic":"वचन को वश में करना"},
+  {"id":"sub2", "parentid":"root", "topic":"मनोगुप्ति"},
+  {"id":"sub2a", "parentid":"sub2", "topic":"मन को वश में करना"},
+  {"id":"sub3", "parentid":"root", "topic":"ईर्यासमिति"},
+  {"id":"sub3a", "parentid":"sub3", "topic":"चार हाथ आगे की भूमि को देखकर चलना"},
+  {"id":"sub4", "parentid":"root", "topic":"आदाननिक्षेपणसमिति"},
+  {"id":"sub4a", "parentid":"sub4", "topic":"यत्न पूर्वक वस्तुओं (पुस्तक आदि) को उठाना / धरना"},
+  {"id":"sub5", "parentid":"root", "topic":"आलोकितपान-भोजन"},
+  {"id":"sub5a", "parentid":"sub5", "topic":"देख शोधकर सूर्य के प्रकाश में भोजन ग्रहण"}
+<!--JsMindTagEnd-->

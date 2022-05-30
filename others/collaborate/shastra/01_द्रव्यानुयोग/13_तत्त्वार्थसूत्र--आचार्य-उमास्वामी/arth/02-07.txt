@@ -1,0 +1,19 @@
+﻿पारिणामिक भाव के तीन भेद हैं - जीवत्‍व, भव्‍यत्‍व और अभव्‍यत्‍व ॥७॥
+<!--PythonTagBegin-->
+<ul class=orgchart>
+  <li class=root>
+    <div class=nodecontent>पारिणामिक भाव</div>
+    <ul>
+      <li class=leaf>
+        <div class=nodecontent>जीवत्व</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>भव्यत्व</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>अभव्यत्व</div>
+      </li>
+    </ul>
+  </li>
+</ul>
+<!--PythonTagEnd-->

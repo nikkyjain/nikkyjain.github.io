@@ -1,0 +1,554 @@
+﻿<table class=myAltColTable>
+  <colgroup>
+    <col><col><col><col><col><col><col><col>
+    <col><col><col><col><col><col><col><col>
+  </colgroup>
+  <tr>
+    <td colspan=3 rowspan=3 class=emptyTableCell></td>
+    <th colspan=13 class=tableTitle>नाना जीवों में पाए जाने वाले उत्तरभाव</th>
+  </tr>
+  <tr>
+    <th colspan=12>गुणस्थान</th>
+    <th rowspan=2>सिद्ध</th>
+  </tr>
+  <tr>
+    <th>1</th>
+    <th>2</th>
+    <th>3</th>
+    <th>4</th>
+    <th>5</th>
+    <th>6/7</th>
+    <th>8/9</th>
+    <th>10</th>
+    <th>11</th>
+    <th>12</th>
+    <th>13</th>
+    <th>14</th>
+  </tr>
+  <tr>
+    <td rowspan=13 class=head1>औदयिक (21)</td>
+    <th rowspan=3>गति (4)</th>
+    <th>मनुष्य</th>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellN>-</td>
+  </tr>
+  <tr>
+    <th>तिर्यञ्च</th>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+  </tr>
+  <tr>
+    <th>देव,नारकी</th>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+  </tr>
+  <tr>
+    <th colspan=2>वेद (3)</th>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+  </tr>
+  <tr>
+    <th rowspan=2>कषाय (4)</th>
+    <th>क्रोध,मान,माया</th>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+  </tr>
+  <tr>
+    <th>लोभ</th>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+  </tr>
+  <tr>
+    <th colspan=2>मिथ्यात्व</th>
+    <td class=cellY>✔</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+  </tr>
+  <tr>
+    <th rowspan=3>लेश्या (6)</th>
+    <th>कृष्ण,नील,कापोत</th>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+  </tr>
+  <tr>
+    <th>पीत,पद्म</th>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+  </tr>
+  <tr>
+    <th>शुक्ल</th>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+  </tr>
+  <tr>
+    <th colspan=2>असिद्धत्व</th>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellN>-</td>
+  </tr>
+  <tr>
+    <th colspan=2>असंयम</th>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+  </tr>
+  <tr>
+    <th colspan=2>अज्ञान</th>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+  </tr>
+  <tr>
+    <td rowspan=9 class=head2>क्षायोपशमिक (18)</td>
+    <th rowspan=2>ज्ञान (4)</th>
+    <th>मति,श्रुत,अवधि</th>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+  </tr>
+  <tr>
+    <th>मन:पर्यय</th>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+  </tr>
+  <tr>
+    <th rowspan=2>दर्शन (3)</th>
+    <th>चक्षु,अचक्षु</th>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+  </tr>
+  <tr>
+    <th>अवधि</th>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+  </tr>
+  <tr>
+    <th colspan=2>कुमति,कुश्रुत,विभंग</th>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+  </tr>
+  <tr>
+    <th colspan=2>दान,लाभ,भोग,उपभोग,वीर्य</th>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+  </tr>
+  <tr>
+    <th colspan=2>वेदक सम्यक्त्व</th>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+  </tr>
+  <tr>
+    <th colspan=2>सराग-चारित्र</th>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellY>✔</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+  </tr>
+  <tr>
+    <th colspan=2>संयमासंयम</th>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellY>✔</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+  </tr>
+  <tr>
+    <td rowspan=2 class=head3>औपशमिक (2)</td>
+    <th colspan=2>सम्यक्त्व</th>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+  </tr>
+  <tr>
+    <th colspan=2>चारित्र</th>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+  </tr>
+  <tr>
+    <td rowspan=4 class=head4>क्षायिक (9)</td>
+    <th colspan=2>ज्ञान, दर्शन</th>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+  </tr>
+  <tr>
+    <th colspan=2>सम्यक्त्व</th>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+  </tr>
+  <tr>
+    <th colspan=2>चारित्र</th>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellN>-</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+  </tr>
+  <tr>
+    <th colspan=2>दान,लाभ,भोग,उपभोग,वीर्य</th>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+  </tr>
+  <tr>
+    <td rowspan=3 class=head1>पारिणामिक (3)</td>
+    <th colspan=2>जीवत्व</th>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+  </tr>
+  <tr>
+    <th colspan=2>भव्यत्व</th>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellN>-</td>
+  </tr>
+  <tr>
+    <th colspan=2>अभव्यत्व</th>
+    <td class=cellY>✔</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+  </tr>
+  <tr>
+    <td colspan=2 rowspan=2 class=emptyTableCell></td>
+    <td class=tableNotes>कुल</td>
+    <td>34</td>
+    <td>32</td>
+    <td>32</td>
+    <td>36</td>
+    <td>31</td>
+    <td>31</td>
+    <td>29</td>
+    <td>23</td>
+    <td>21</td>
+    <td>20</td>
+    <td>14</td>
+    <td>13</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td colspan=14 class=tableNotes>गोम्मटसार कर्मकाण्ड -- गाथा 820</td>
+  </tr>
+</table>

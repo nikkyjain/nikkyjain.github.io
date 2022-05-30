@@ -1,0 +1,82 @@
+﻿<table class=myAltTable>
+<thead>
+  <tr>
+    <td rowspan=3 class=emptyTableCell></td>
+    <th colspan=5 class=tableTitle>सानतकुमार / महेंद्र युगल में आयु</th>
+  </tr>
+  <tr>
+    <th rowspan=2>नाम</th>
+    <th colspan=2>आयु सामान्य</th>
+    <th rowspan=2>बद्धायुष्क की अपेक्षा उत्कृष्ट</th>
+    <th rowspan=2>घातायुष्क की अपेक्षा उत्कृष्ट</th>
+  </tr>
+  <tr>
+    <th>जघन्य</th>
+    <th>उत्कृष्ट</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th class=head1>सामान्य</th>
+    <td class=head1>स्वर्ग सामान्य</td>
+    <td>साधिक 2 सागर</td>
+    <td>साधिक 7 सागर</td>
+    <td rowspan=3></td>
+    <td rowspan=10>स्व स्व उत्कृष्ट आयुवत</td>
+  </tr>
+  <tr>
+    <th rowspan=2 class=head2>घातायुष्क</th>
+    <td class=head2>सम्यग्दृष्टि</td>
+    <td>5/2 सागर</td>
+    <td>7/2 सागर</td>
+  </tr>
+  <tr>
+    <td class=head2>मिथ्यादृष्टि</td>
+    <td>2 सागर + पल्य /अ सं</td>
+    <td>7 सागर + पल्य /अ सं</td>
+  </tr>
+  <tr>
+    <th rowspan=7 class=head3>प्रत्येक पटल</th>
+    <td class=head3>अंजन</td>
+    <td>5/2 सागर</td>
+    <td>45/14 सागर</td>
+    <td>19/7 सागर</td>
+  </tr>
+  <tr>
+    <td class=head3>वनमाला</td>
+    <td>45/14 सागर</td>
+    <td>43/14 सागर</td>
+    <td>24/7 सागर</td>
+  </tr>
+  <tr>
+    <td class=head3>नाग</td>
+    <td>55/14 सागर</td>
+    <td>63/14 सागर</td>
+    <td>29/7 सागर</td>
+  </tr>
+  <tr>
+    <td class=head3>गरुण</td>
+    <td>65/14 सागर</td>
+    <td>75/14 सागर</td>
+    <td>34/7 सागर</td>
+  </tr>
+  <tr>
+    <td class=head3>लांगल</td>
+    <td>75/14 सागर</td>
+    <td>85/14 सागर</td>
+    <td>39/7 सागर</td>
+  </tr>
+  <tr>
+    <td class=head3>बलभद्र</td>
+    <td>85/14 सागर</td>
+    <td>95/14 सागर</td>
+    <td>45/7 सागर</td>
+  </tr>
+  <tr>
+    <td class=head3>चक्र</td>
+    <td>95/14 सागर</td>
+    <td>15/2 सागर</td>
+    <td>साधिक 7 सागर</td>
+  </tr>
+</tbody>
+</table>

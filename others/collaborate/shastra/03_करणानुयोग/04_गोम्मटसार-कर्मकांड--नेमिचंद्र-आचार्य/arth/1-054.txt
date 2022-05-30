@@ -1,0 +1,21 @@
+﻿द्रव्यनिक्षेपरूप कर्म दो प्रकार है -- एक आगमद्रव्यकर्म, दूसरा नोआगमद्रव्यकर्म । इन दोनों में जो कर्म का स्वरूप कहने वाले शास्‍त्र का जानने वाला परंतु वर्तमान काल में उस शास्‍त्र में उपयोग नहीं रखने वाला जीव है वह पहला आगमद्रव्यकर्म है ॥५४॥
+<!--JsMindTagBeginH7-->
+  {"id":"root", "isroot":true, "topic":"द्रव्य निक्षेप"},
+
+  {"id":"sub1", "parentid":"root", "topic":"आगम"},
+  {"id":"sub2", "parentid":"root", "topic":"नोआगम"},
+  {"id":"sub21", "parentid":"sub2", "topic":"ज्ञायक शरीर"},
+  {"id":"sub22", "parentid":"sub2", "topic":"भावी"},
+  {"id":"sub23", "parentid":"sub2", "topic":"तद्वयतिरिक्त"},
+  {"id":"sub211", "parentid":"sub21", "topic":"भूत"},
+  {"id":"sub212", "parentid":"sub21", "topic":"वर्तमान"},
+  {"id":"sub213", "parentid":"sub21", "topic":"भावी"},
+  {"id":"sub2111", "parentid":"sub211", "topic":"च्युत"},
+  {"id":"sub2112", "parentid":"sub211", "topic":"च्यावित"},
+  {"id":"sub2113", "parentid":"sub211", "topic":"त्यक्त"},
+  {"id":"sub21131", "parentid":"sub2113", "topic":"भक्त-प्रत्याख्यान"},
+  {"id":"sub21132", "parentid":"sub2113", "topic":"इंगिनी"},
+  {"id":"sub21133", "parentid":"sub2113", "topic":"प्रायोपगमन"},
+  {"id":"sub231", "parentid":"sub23", "topic":"कर्म"},
+  {"id":"sub232", "parentid":"sub23", "topic":"नोकर्म"}
+<!--JsMindTagEnd-->

@@ -1,0 +1,78 @@
+﻿<table class=myAltTable>
+<thead>
+  <tr>
+    <td rowspan=2 class=emptyTableCell></td>
+    <th colspan=9 class=tableTitle>अनिवृत्तिकरण क्षपक के 36 सत्त्व स्थान / 38 भंग</th>
+  </tr>
+  <tr>
+    <th>1</th>
+    <th>2</th>
+    <th>3</th>
+    <th>4</th>
+    <th>5</th>
+    <th>6</th>
+    <th>7</th>
+    <th>8</th>
+    <th>9</th>
+  </tr>
+  <tr>
+    <th>तीर्थंकर, आहारक-४ सहित</th>
+    <td>138</td>
+    <td>122</td>
+    <td>114</td>
+    <td>113</td>
+    <td>112</td>
+    <td>106</td>
+    <td>105</td>
+    <td>104</td>
+    <td>103</td>
+  </tr>
+  <tr>
+    <th>तीर्थंकर रहित, आहारक-४ सहित</th>
+    <td>137</td>
+    <td>121</td>
+    <td>113</td>
+    <td>*112</td>
+    <td>111</td>
+    <td>105</td>
+    <td>104</td>
+    <td>103</td>
+    <td>102</td>
+  </tr>
+  <tr>
+    <th>तीर्थंकर सहित, आहारक-४ रहित</th>
+    <td>134</td>
+    <td>118</td>
+    <td>110</td>
+    <td>109</td>
+    <td>108</td>
+    <td>102</td>
+    <td>101</td>
+    <td>100</td>
+    <td>99</td>
+  </tr>
+  <tr>
+    <th>तीर्थंकर, आहारक-४ रहित</th>
+    <td>133</td>
+    <td>117</td>
+    <td>109</td>
+    <td>*108</td>
+    <td>107</td>
+    <td>101</td>
+    <td>100</td>
+    <td>99</td>
+    <td>98</td>
+  </tr>
+  <tr>
+    <td class=emptyTableCell></td>
+    <td colspan=9 class=tableNotes>*यहाँ दो भंग हैं</td>
+  </tr>
+  <tr>
+    <td class=emptyTableCell></td>
+    <td colspan=9 class=tableNotes>दूसरे स्थान में क्षीण होने वाली प्रकृतियाँ = 16 (नरकद्विक, तिर्यंच-द्विक, जाति-चतुष्क, स्त्यानत्रिक, आतप, उद्योत, सूक्ष्म, साधारण, स्थावर)</td>
+  </tr>
+  <tr>
+    <td class=emptyTableCell></td>
+    <td colspan=9 class=tableNotes>तीसरे स्थान में क्षीण होने वाली प्रकृतियाँ = 8 (प्रत्याख्यान ४, अप्रत्याख्यान ४)</td>
+  </tr>
+</table>

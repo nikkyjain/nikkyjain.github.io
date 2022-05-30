@@ -1,0 +1,13 @@
+﻿सुख, दु:ख जीवित और मरण ये भी पुद्गलों के उपकार हैं ॥२०॥
+<!--JsMindTagBeginH6-->
+	{"id":"root", "isroot":true, "topic":"पुद्गल का जीव पर उपकार"},
+
+	{"id":"sub1", "parentid":"root", "topic":"शरीर"},
+	{"id":"sub2", "parentid":"root", "topic":"वचन"},
+	{"id":"sub3", "parentid":"root", "topic":"मन"},
+	{"id":"sub4", "parentid":"root", "topic":"प्राणापान"},
+	{"id":"sub5", "parentid":"root", "topic":"सुख"},
+	{"id":"sub6", "parentid":"root", "topic":"दु:ख"},
+	{"id":"sub7", "parentid":"root", "topic":"जीवित"},
+	{"id":"sub8", "parentid":"root", "topic":"मरण"}
+<!--JsMindTagEnd-->

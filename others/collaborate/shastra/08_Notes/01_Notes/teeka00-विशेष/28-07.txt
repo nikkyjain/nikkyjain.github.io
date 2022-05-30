@@ -1,0 +1,131 @@
+﻿<table class=myAltTable>
+<tbody>
+<tr>
+<td class=emptyTableCell></td>
+<th colspan=5 class=tableTitle>एक अंतर्महुर्त मे लब्ध्यपर्याप्तक के संभव निरंतर क्षुद्र भव</th>
+</tr>
+<tr>
+<td class=emptyTableCell></td>
+<th>क्रम</th>
+<th colspan=2>मार्गणा</th>
+<th colspan=2>एक अंतर्महुर्त के भव</th>
+</tr>
+<tr>
+<td class=emptyTableCell></td>
+<td class=emptyTableCell></td>
+<th>नाम</th>
+<th>सूक्ष्म / बादर</th>
+<th>प्रत्येक मे</th>
+<th>योग (जोड़)</th>
+</tr>
+<tr>
+<th rowspan=11>स्थावर</th>
+<th>1</th>
+<th rowspan=2>पृथ्वी कायिक</th>
+<th>सूक्ष्म</th>
+<td>6012</t>
+<td rowspan=11>66132</td>
+</tr>
+<tr>
+<th>2</th>
+<th>बादर</th>
+<td>6012</td>
+</tr>
+<tr>
+<th>3</th>
+<th rowspan=2>अप कायिक</th>
+<th>सूक्ष्म</th>
+<td>6012</td>
+</tr>
+<tr>
+<th>4</th>
+<th>बादर</th>
+<td>6012</td>
+</tr>
+<tr>
+<th>5</th>
+<th rowspan=2>तेज कायिक</th>
+<th>सूक्ष्म</th>
+<td>6012</td>
+</tr>
+<tr>
+<th>6</th>
+<th>बादर</th>
+<td>6012</td>
+</tr>
+<tr>
+<th>7</th>
+<th rowspan=2>वायु कायिक</th>
+<th>सूक्ष्म</th>
+<td>6012</td>
+</tr>
+<tr>
+<th>8</th>
+<th>बादर</th>
+<td>6012</td>
+</tr>
+<tr>
+<th>9</th>
+<th rowspan=2>वनस्पति साधारण</th>
+<th>सूक्ष्म</th>
+<td>6012</td>
+</tr>
+<tr>
+<th>10</th>
+<th>बादर</th>
+<td>6012</td>
+</tr>
+<tr>
+<th>11</th>
+<th>वनस्पति अप्रति प्रत्येक</th>
+<th>बादर</th>
+<td>6012</td>
+</tr>
+<tr>
+<th rowspan=3>विकलेंद्रिय</th>
+<th>12</th>
+<th>द्वीन्द्रिय</th>
+<th>बादर</th>
+<td>80</td>
+<td rowspan=3>180</td>
+</tr>
+<tr>
+<th>13</th>
+<th>त्रीन्द्रिय</th>
+<th>बादर</th>
+<td>60</td>
+</tr>
+<tr>
+<th>14</th>
+<th>चतुरिंद्रिय</th>
+<th>बादर</th>
+<td>40</td>
+</tr>
+<tr>
+<th rowspan=3>पंचेंद्रिय</th>
+<th>15</th>
+<th>असंज्ञी</th>
+<th>बादर</th>
+<td>8</td>
+<td rowspan=3>24</td>
+</tr>
+<tr>
+<th>16</th>
+<th>संज्ञी</th>
+<th>बादर</th>
+<td>8</td>
+</tr>
+<tr>
+<th>17</th>
+<th>मनुष्य</th>
+<th>बादर</th>
+<td>8</td>
+</tr>
+<tr>
+<td class=emptyTableCell colspan=2></td>
+<td class=tableNotes>कुल योग</td>
+<td class=emptyTableCell colspan=2></td>
+<td class=tableNotes>66336</td>
+</tr>
+</tbody>
+</table>

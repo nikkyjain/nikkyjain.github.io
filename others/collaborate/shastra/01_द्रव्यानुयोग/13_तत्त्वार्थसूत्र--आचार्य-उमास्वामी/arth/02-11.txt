@@ -1,0 +1,16 @@
+﻿मनवाले और मनरहित ऐसे संसारी जीव हैं ॥११॥
+<!--PythonTagBegin-->
+<ul class=orgchart>
+  <li class=root>
+    <div class=nodecontent>संसारी जीव</div>
+    <ul>
+      <li class=leaf>
+        <div class=nodecontent>मन-सहित</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>मन-रहित</div>
+      </li>
+    </ul>
+  </li>
+</ul>
+<!--PythonTagEnd-->

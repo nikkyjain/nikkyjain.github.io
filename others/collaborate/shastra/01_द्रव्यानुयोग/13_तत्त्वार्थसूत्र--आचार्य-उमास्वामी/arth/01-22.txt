@@ -1,0 +1,10 @@
+﻿क्षयोपशमनिमित्तक अवधिज्ञान छह प्रकार का है, जो शेष अर्थात् तिर्यंचों और मनुष्‍यों के होता है ॥२२॥
+<!--JsMindTagBegin-->
+    {"id":"root", "isroot":true, "topic":"गुण-प्रत्यय अवधिज्ञान"},
+    {"id":"sub1", "parentid":"root", "topic":"अनुगामी"},
+	{"id":"sub2", "parentid":"root", "topic":"अननुगामी"},
+	{"id":"sub3", "parentid":"root", "topic":"वर्धमान"},
+	{"id":"sub4", "parentid":"root", "topic":"हीयमान"},
+	{"id":"sub5", "parentid":"root", "topic":"अवस्थित"},
+	{"id":"sub6", "parentid":"root", "topic":"अनवस्थित"}
+<!--JsMindTagEnd-->

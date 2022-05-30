@@ -1,0 +1,9 @@
+﻿सचित्ताहार, सम्‍बन्‍धाहार, सम्मिश्राहार, अभिषवाहार और दु:पक्‍वाहार ये उपभोग-परिभोग-परिमाण व्रत के पाँच अतिचार हैं ॥३५॥
+<!--JsMindTagBegin-->
+	{"id":"root", "isroot":true, "topic":" उपभोग-परिभोग-परिमाण व्रत के पाँच अतिचार"},
+	{"id":"sub1", "parentid":"root", "topic":"सचित्ताहार"},
+	{"id":"sub11", "parentid":"root", "topic":"सम्‍बन्‍धाहार"},
+	{"id":"sub12", "parentid":"root", "topic":"सम्मिश्राहार"},
+	{"id":"sub13", "parentid":"root", "topic":"अभिषवाहार"},
+	{"id":"sub14", "parentid":"root", "topic":"दु:पक्‍वाहार"}
+<!--JsMindTagEnd-->

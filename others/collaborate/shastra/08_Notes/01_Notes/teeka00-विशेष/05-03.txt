@@ -1,0 +1,67 @@
+﻿<table class=myAltTable>
+  <tr>
+    <td class=emptyTableCell colspan=2 rowspan=2></td>
+    <th class=tableTitle colspan=3>प्रकृति बंध (मार्गणा -- तिर्यञ्च-गति)</th>
+  </tr>
+  <tr>
+    <th>बंध</th>
+    <th>अबंध</th>
+    <th>व्युच्छिति</th>
+  </tr>
+  <tr>
+    <th class=head2 rowspan=6>तिर्यञ्च पर्याप्त</th>
+    <th class=head2 >मिथ्यादृष्टि</th>
+    <td>117</td>
+    <td>0</td>
+    <td>16 (गुणस्थानोक्त)</td>
+  </tr>
+  <tr>
+    <th class=head2 >सासादन</th>
+    <td>101</td>
+    <td>16</td>
+    <td>31 (25 गुणस्थानोक्त + वज्रवृषभनाराचसंहनन औदारिकद्विक, मनुष्यद्विक, मनुष्यायु)</td>
+  </tr>
+  <tr>
+    <th class=head2 >मिश्र</th>
+    <td>69</td>
+    <td>48 (देवायु)</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <th class=head2 >असंयत</th>
+    <td>70 (देव-आयु)</td>
+    <td>47</td>
+    <td>4 (अप्रत्याख्यानावरण)</td>
+  </tr>
+  <tr>
+    <th class=head2>संयतासंयत</th>
+    <td>66</td>
+    <td>51</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class=tableNotes colspan=4><b>बंध योग्य प्रकृतियाँ 117</b> = 120 - 3 (तीर्थंकर, 2-आहारकद्विक)</td>
+  </tr>
+  <tr>
+    <th class=head3 rowspan=4>तिर्यञ्च निवृत्त्यपर्याप्त</th>
+    <th class=head3>मिथ्यादृष्टि</th>
+    <td>107</td>
+    <td>4 (सुर-चतुष्क)</td>
+    <td>13 (16-नरकद्विक, नरकायु)</td>
+  </tr>
+  <tr>
+    <th class=head3>सासादन</th>
+    <td>94 (107-13)</td>
+    <td>17</td>
+    <td>29 (31 - तिर्यंचायु, मनुष्यायु)</td>
+  </tr>
+  <tr>
+    <th class=head3>असंयत</th>
+    <td>69 (सुर-चतुष्क)</td>
+    <td>42</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td class=tableNotes colspan=4><b>बंध योग्य प्रकृतियाँ 111</b> = 120 - 9 (3 + 4 आयु, नरकद्विक)</td>
+  </tr>
+</table>

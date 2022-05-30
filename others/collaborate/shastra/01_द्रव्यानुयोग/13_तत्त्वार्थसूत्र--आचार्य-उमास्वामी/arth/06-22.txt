@@ -1,0 +1,12 @@
+﻿योगवक्रता और विसंवाद ये अशुभ नाम कर्म के आस्रव हैं ॥२२॥
+<!--JsMindTagBeginH2-->
+    {"id":"root", "isroot":true, "topic":"अशुभ नाम कर्म के आस्रव"},
+    {"id":"sub1", "parentid":"root", "topic":"योगवक्रता "},
+    {"id":"sub1a", "parentid":"sub1", "topic":"स्व की अपेक्षा "},
+    {"id":"sub1a1", "parentid":"sub1a", "topic":"मन-वचन-काय की कुटिलता"},
+    {"id":"sub1a1a", "parentid":"sub1a1", "topic":"कारण"},
+    {"id":"sub2", "parentid":"root", "topic":"विसंवाद "},
+    {"id":"sub2a", "parentid":"sub2", "topic":"पर की अपेक्षा"},
+    {"id":"sub2a1", "parentid":"sub2a", "topic":"दूसरों को मोक्षमार्ग के प्रतिकूल प्रवर्तन कराना"},
+    {"id":"sub2a1a", "parentid":"sub2a1", "topic":"कार्य"}
+<!--JsMindTagEnd-->

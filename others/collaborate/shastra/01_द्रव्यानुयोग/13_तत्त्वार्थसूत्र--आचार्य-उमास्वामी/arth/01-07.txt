@@ -1,0 +1,28 @@
+﻿निर्देश, स्‍वामित्‍व, साधन, अधिकरण, स्थिति और विधान से सम्‍यग्‍दर्शन आदि विषयों का ज्ञान होता है ॥७॥
+<!--PythonTagBegin-->
+<ul class=orgchart>
+  <li class=root>
+    <div class=nodecontent>ज्ञान के उपाय</div>
+    <ul>
+      <li class=leaf>
+        <div class=nodecontent>निर्देश</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>स्वामित्व</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>साधन</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>अधिकरण</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>स्थिति</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>विधान</div>
+      </li>
+    </ul>
+  </li>
+</ul>
+<!--PythonTagEnd-->

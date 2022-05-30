@@ -1,0 +1,15 @@
+﻿उक्त पाँच भावों के क्रम से दो, नौ, अठारह, इक्‍कीस और तीन भेद हैं ॥२॥
+<!--JsMindTagBegin-->
+                {"id":"root", "isroot":true, "topic":"पांचों भाव के भेद"},
+
+                {"id":"sub1", "parentid":"root", "topic":"औपशमिक"},
+                {"id":"sub2", "parentid":"root", "topic":"क्षायिक"},
+                {"id":"sub3", "parentid":"root", "topic":"क्षायोपशमिक"},
+                {"id":"sub4", "parentid":"root", "topic":"औदयिक"},
+                {"id":"sub5", "parentid":"root", "topic":"पारिणामिक"},
+                {"id":"sub11", "parentid":"sub1", "topic":"2"},
+                {"id":"sub21", "parentid":"sub2", "topic":"9"},
+                {"id":"sub31", "parentid":"sub3", "topic":"18"},
+                {"id":"sub41", "parentid":"sub4", "topic":"21"},
+                {"id":"sub51", "parentid":"sub5", "topic":"3"}
+<!--JsMindTagEnd-->

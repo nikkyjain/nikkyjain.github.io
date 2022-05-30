@@ -1,0 +1,16 @@
+﻿औपशमिक भाव के दो भेद हैं - औपशमिक सम्‍यक्‍त्‍व और औपशमिक चारित्र ॥३॥
+<!--PythonTagBegin-->
+<ul class=orgchart>
+  <li class=root>
+    <div class=nodecontent>औपशमिक भाव</div>
+    <ul>
+      <li class=leaf>
+        <div class=nodecontent>औपशमिक सम्‍यक्‍त्‍व</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>औपशमिक चारित्र</div>
+      </li>
+    </ul>
+  </li>
+</ul>
+<!--PythonTagEnd-->

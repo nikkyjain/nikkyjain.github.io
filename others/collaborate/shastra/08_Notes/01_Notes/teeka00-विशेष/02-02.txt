@@ -1,0 +1,93 @@
+﻿<table class=myAltTable class=myAltTable2th>
+  <thead>
+  <tr>
+    <th class=tableTitle colspan=3>गुणस्थानों में गमनागमन</th>
+  </tr>
+  <tr>
+    <th>कहाँ से</th>
+    <th>गुणस्थान</th>
+    <th>कहाँ तक</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+    <td>13→</td>
+    <th>14 अयोगकेवली</th>
+    <td>→सिद्ध भगवान</td>
+  </tr>
+  <tr>
+    <td>12→</td>
+    <th>13 सयोगकेवली</th>
+    <td>→14</td>
+  </tr>
+  <tr>
+    <td>10→</td>
+    <th>12 क्षीणमोह</th>
+    <td>→13</td>
+  </tr>
+  <tr>
+    <td>10→</td>
+    <th>11 उपशान्तमोह</th>
+    <td>→10, 4<sup>*</sup></td>
+  </tr>
+  <tr>
+    <td>9,11→</td>
+    <th>10 सूक्ष्मसाम्पराय</th>
+    <td>→9, 11, 12, 4<sup>*</sup></td>
+  </tr>
+  <tr>
+    <td>8, 10→</td>
+    <th> 9 अनिवृतिकरण</th>
+    <td>→10, 8, 4<sup>*</sup></td>
+  </tr>
+  <tr>
+    <td>9, 7→</td>
+    <th> 8 अपूर्वकरण</th>
+    <td>→9, 7, 4<sup>*</sup></td>
+  </tr>
+  <tr>
+    <td>8, 6, 5, 4, 1→</td>
+    <th> 7 अप्रमत्तसंयत</th>
+    <td>→8, 6, 4<sup>*</sup></td>
+  </tr>
+  <tr>
+    <td>7→</td>
+    <th> 6 प्रमत्तसंयत</th>
+    <td>→7, 5, 4, 3, 2<sup>+</sup>, 1</td>
+  </tr>
+  <tr>
+    <td>6, 4, 1→</td>
+    <th> 5 देशविरत</th>
+    <td>→7, 4, 3, 2<sup>+</sup>, 1</td>
+  </tr>
+  <tr>
+    <td>11<sup>*</sup>, 10<sup>*</sup>, 9<sup>*</sup>, 8<sup>*</sup>, 7<sup>*</sup>, 6, 5, 3, 1→</td>
+    <th> 4 अविरत</th>
+    <td>→7, 5, 3, 2<sup>+</sup>, 1</td>
+  </tr>
+  <tr>
+    <td>6, 5, 4, 1→</td>
+    <th> 3 मिश्र</th>
+    <td>→1, 4</td>
+  </tr>
+  <tr>
+    <td>6<sup>+</sup>, 5<sup>+</sup>, 4<sup>+</sup>→</td>
+    <th> 2 सासादन</th>
+    <td>→1</td>
+  </tr>
+  <tr>
+    <td>6, 5, 4, 3, 2→</td>
+    <th> 1 मिथ्यात्व</th>
+    <td>→3<sup>!</sup>, 4, 5, 7</td>
+  </tr>
+  <tr>
+    <td class="tableNotes" colspan="3"><sup>*</sup>मरण की अपेक्षा</td>
+  </tr>
+  <tr>
+    <td class="tableNotes" colspan="3"><sup>!</sup>सादि-मिथ्यादृष्टि</td>
+  </tr>
+  <tr>
+    <td class="tableNotes" colspan="3"><sup>+</sup>प्रथामोपशम / द्वितीयोपशम सम्यक्त्वी</td>
+  </tr>
+  </tbody>
+</table>

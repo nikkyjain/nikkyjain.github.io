@@ -1,0 +1,84 @@
+﻿क्षायोपशमिक भाव के अठारह भेद हैं - चार ज्ञान, तीन अज्ञान, तीन दर्शन, पाँच दानादि लब्धियाँ, सम्‍यक्‍त्‍व, चारित्र और संयमासंयम ॥५॥
+<!--PythonTagBegin-->
+<ul class=orgchart>
+  <li class=root>
+    <div class=nodecontent>क्षायोपशमिक भाव</div>
+    <ul>
+      <li class=node>
+        <div class=nodecontent>4 ज्ञान</div>
+        <ul>
+          <li class=leaf>
+            <div class=nodecontent>मतिज्ञान</div>
+          </li>
+          <li class=leaf>
+            <div class=nodecontent>श्रुतज्ञान</div>
+          </li>
+          <li class=leaf>
+            <div class=nodecontent>अवधिज्ञान</div>
+          </li>
+          <li class=leaf>
+            <div class=nodecontent>मन:पर्ययज्ञान</div>
+          </li>
+        </ul>
+      </li>
+      <li class=node>
+        <div class=nodecontent>3 अज्ञान</div>
+        <ul>
+          <li class=leaf>
+            <div class=nodecontent>कुमतिज्ञान</div>
+          </li>
+          <li class=leaf>
+            <div class=nodecontent>कुश्रुतज्ञान</div>
+          </li>
+          <li class=leaf>
+            <div class=nodecontent>विभंगावधिज्ञान</div>
+          </li>
+        </ul>
+      </li>
+      <li class=node>
+        <div class=nodecontent>3 दर्शन</div>
+        <ul>
+          <li class=leaf>
+            <div class=nodecontent>चक्षुदर्शन</div>
+          </li>
+          <li class=leaf>
+            <div class=nodecontent>अचक्षुदर्शन</div>
+          </li>
+          <li class=leaf>
+            <div class=nodecontent>अवधिदर्शन</div>
+          </li>
+        </ul>
+      </li>
+      <li class=node>
+        <div class=nodecontent>5 लब्धि</div>
+        <ul>
+          <li class=leaf>
+            <div class=nodecontent>दान</div>
+          </li>
+          <li class=leaf>
+            <div class=nodecontent>लाभ</div>
+          </li>
+          <li class=leaf>
+            <div class=nodecontent>भोग</div>
+          </li>
+          <li class=leaf>
+            <div class=nodecontent>उपभोग</div>
+          </li>
+          <li class=leaf>
+            <div class=nodecontent>वीर्य</div>
+          </li>
+        </ul>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>सम्यक्त्व</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>चारित्र</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>संयमासंयम</div>
+      </li>
+    </ul>
+  </li>
+</ul>
+<!--PythonTagEnd-->

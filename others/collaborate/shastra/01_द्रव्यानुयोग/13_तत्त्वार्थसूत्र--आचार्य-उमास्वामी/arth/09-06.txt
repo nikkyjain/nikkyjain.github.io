@@ -1,0 +1,14 @@
+﻿उत्तम क्षमा, उत्तम मार्दव, उत्तम आर्जव, उत्तम सत्य, उत्तम शौच, उत्तम संयम, उत्तम तप, उत्तम त्याग, उत्तम आकिंचन्य और उत्तम ब्रह्मचर्य यह दस प्रकार का धर्म है ॥६॥
+<!--JsMindTagBegin-->
+	{"id":"root", "isroot":true, "topic":"धर्म"},
+	{"id":"sub10", "parentid":"root", "topic":"उत्तम क्षमा", "direction":"left"},
+	{"id":"sub11", "parentid":"root", "topic":"उत्तम मार्दव", "direction":"left"},
+	{"id":"sub12", "parentid":"root", "topic":"उत्तम आर्जव", "direction":"left"},
+	{"id":"sub13", "parentid":"root", "topic":"उत्तम शौच", "direction":"left"},
+	{"id":"sub14", "parentid":"root", "topic":"उत्तम सत्य", "direction":"left"},
+	{"id":"sub15", "parentid":"root", "topic":"उत्तम संयम"},
+	{"id":"sub16", "parentid":"root", "topic":"उत्तम तप"},
+	{"id":"sub17", "parentid":"root", "topic":"उत्तम त्याग"},
+	{"id":"sub18", "parentid":"root", "topic":"उत्तम आकिंचन्य"},
+	{"id":"sub19", "parentid":"root", "topic":"उत्तम ब्रह्मचर्य "}
+<!--JsMindTagEnd-->

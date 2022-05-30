@@ -1,0 +1,37 @@
+﻿क्षायिक भाव के नौ भेद हैं - क्षायिक ज्ञान, क्षायिक दर्शन, क्षायिक दान, क्षायिक लाभ, क्षायिक भोग, क्षायिक उपभोग, क्षायिक वीर्य, क्षायिक सम्‍यक्‍त्‍व और क्षायिक चारित्र ॥४॥
+<!--PythonTagBegin-->
+<ul class=orgchart>
+  <li class=root>
+    <div class=nodecontent>क्षायिक भाव</div>
+    <ul>
+      <li class=leaf>
+        <div class=nodecontent>क्षायिक ज्ञान</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>क्षायिक दर्शन</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>क्षायिक दान</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>क्षायिक लाभ</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>क्षायिक भोग</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>क्षायिक उपभोग</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>क्षायिक वीर्य</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>क्षायिक सम्‍यक्‍त्‍व</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>क्षायिक चारित्र</div>
+      </li>
+    </ul>
+  </li>
+</ul>
+<!--PythonTagEnd-->

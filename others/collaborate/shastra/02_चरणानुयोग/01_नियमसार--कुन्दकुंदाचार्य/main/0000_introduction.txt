@@ -5,7 +5,6 @@
 श्री
 <font style="font-size:120px"> नियमसार </font>
 
-<span class=bottomContainer align=justify><font color=black>मूल प्राकृत गाथा,
-पं जयचंदजी छाबडा कृत हिंदी टीका सहित</font></span>
+<font size=4 color=black>मूल प्राकृत गाथा, पद्मप्रभमलधारिदेव कृत संस्कृत टीका के हिंदी अनुवाद सहित</font>
 
 <font size=3 color=blue>आभार : </font>

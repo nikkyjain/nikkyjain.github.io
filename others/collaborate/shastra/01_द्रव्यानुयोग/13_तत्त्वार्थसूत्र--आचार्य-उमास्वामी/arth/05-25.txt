@@ -1,0 +1,6 @@
+﻿पुद्गल के दो भेद हैं - अणु और स्कन्ध ॥२५॥
+<!--JsMindTagBeginH2-->
+  {"id":"root", "isroot":true, "topic":"पुद्गल"},
+  {"id":"sub1", "parentid":"root", "topic":"अणु"},
+  {"id":"sub2", "parentid":"root", "topic":"स्कन्ध "}
+<!--JsMindTagEnd-->

@@ -1,0 +1,16 @@
+﻿जीव दो प्रकार के हैं - संसारी और मुक्त ॥१०॥
+<!--PythonTagBegin-->
+<ul class=orgchart>
+  <li class=root>
+    <div class=nodecontent>जीव</div>
+    <ul>
+      <li class=leaf>
+        <div class=nodecontent>संसारी</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>मुक्त</div>
+      </li>
+    </ul>
+  </li>
+</ul>
+<!--PythonTagEnd-->

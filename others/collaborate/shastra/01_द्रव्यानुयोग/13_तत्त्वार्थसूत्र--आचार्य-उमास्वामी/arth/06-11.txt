@@ -1,0 +1,16 @@
+﻿अपने में, दूसरे में या दोनों में विद्यमान दुःख, शोक, ताप, आक्रन्दन, वध और परिदेवन ये असाता वेदनीय कर्म के आस्रव हैं ॥ ११ ॥
+<!--JsMindTagBegin-->
+    {"id":"root", "isroot":true, "topic":"असाता वेदनीय कर्म के आस्रव"},
+    {"id":"sub1", "parentid":"root", "topic":"दुःख"},
+    {"id":"sub1a", "parentid":"sub1", "topic":"पीड़ा-रूप आत्म-परिणाम"},
+    {"id":"sub2", "parentid":"root", "topic":"शोक"},
+    {"id":"sub11", "parentid":"sub2", "topic":"अनुग्राहक / इष्ट के विच्छेद में आकुलता"},
+    {"id":"sub3", "parentid":"root", "topic":"ताप"},
+    {"id":"sub3a", "parentid":"sub3", "topic":"निंदा होने पर पश्चाताप"},
+    {"id":"sub4", "parentid":"root", "topic":"आक्रन्दन"},
+    {"id":"sub4a", "parentid":"sub4", "topic":"संकलेशता के कारण रोना-चिल्लाना"},
+    {"id":"sub5", "parentid":"root", "topic":"वध"},
+    {"id":"sub5a", "parentid":"sub5", "topic":"आयु, इंद्रिय, बल, श्वासोच्छ्वास आदि का वियोग करना"},
+    {"id":"sub6", "parentid":"root", "topic":"परिदेवन"},
+    {"id":"sub6a", "parentid":"sub6", "topic":"अति-संकलेश पूर्वक ऐसा रोना की सुनने / देखने वाले को अनुकंपा उत्पन्न हो"}
+<!--JsMindTagEnd-->

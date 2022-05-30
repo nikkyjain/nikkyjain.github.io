@@ -6,6 +6,6 @@
 <font style="font-size:120px"> अष्टपाहुड </font>
 
 <span class=bottomContainer align=justify><font color=black>मूल प्राकृत गाथा,
-पं जयचंदजी छाबडा कृत हिंदी टीका सहित</font></span>
+पं जयचंदजी छाबडा कृत हिंदी टीका और पंडित हुकम चंद भारिल्ल द्वारा हिंदी पद्यानुवाद सहित</font></span>
 
 <font size=3 color=blue>आभार : </font>

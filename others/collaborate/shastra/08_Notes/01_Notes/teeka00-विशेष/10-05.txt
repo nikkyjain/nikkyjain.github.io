@@ -1,0 +1,66 @@
+﻿<table class=myAltTable>
+  <tr>
+    <th class=tableTitle colspan=5>इंद्रिय और काय मार्गणा में सत्व</th>
+  </tr>
+  <tr>
+    <td class=emptyTableCell colspan=3></td>
+    <th>सत्व</th>
+    <th>असत्व</th>
+  </tr>
+  <tr>
+    <th rowspan=5>इंद्रिय</th>
+    <th rowspan=3>1,2,3,4 इंद्रिय</th>
+    <th>मिथ्यात्व</th>
+    <td><b>145</b></td>
+    <td><b>0</b></td>
+  </tr>
+  <tr>
+    <th>सासादन</th>
+    <td><b>143</b></td>
+    <td><b>2</b></b> (-आहारक-द्विक)</td>
+  </tr>
+  <tr>
+    <td class=tableNotes colspan=3><b>सत्व योग्य प्रकृतियाँ 145</b> = 148 - 3 (तीर्थंकर, नरकायु, देवायु)</td>
+  </tr>
+  <tr>
+    <th>पंचेंद्रिय</th>
+    <td class=tableNotes colspan=3><b>सत्व योग्य प्रकृतियाँ 148</b>, गुणस्थान 1 से 14, सामान्यवत्</td>
+  </tr>
+  <tr>
+    <th>लब्ध्यपर्याप्त</th>
+    <td class=tableNotes colspan=3><b>सत्व योग्य प्रकृतियाँ 145</b> = 148 - 3 (तीर्थंकर, नरकायु, देवायु)</td>
+  </tr>
+  <tr>
+    <td class=emptyTableCell colspan=3></td>
+    <th>सत्व</td>
+    <th>असत्व</td>
+  </tr>
+  <tr>
+    <th rowspan=6>काय</th>
+    <th rowspan=2>अग्नि, वायु</th>
+    <th>मिथ्यात्व</th>
+    <td><b>144</b></td>
+    <td><b>0</b></td>
+  </tr>
+  <tr>
+    <td class=tableNotes colspan=3><b>सत्व योग्य प्रकृतियाँ 144</b> = 148 - 4 (तीर्थंकर, नरकायु, देवायु, मनुष्यायु)</td>
+  </tr>
+  <tr>
+    <th rowspan=3>पृथ्वी, जल, वनस्पति</th>
+    <th>मिथ्यात्व</th>
+    <td><b>145</b></td>
+    <td><b>0</b></td>
+  </tr>
+  <tr>
+    <th>सासादन</th>
+    <td><b>143</b></td>
+    <td><b>2</b> (-आहारक-द्विक)</td>
+  </tr>
+  <tr>
+    <td class=tableNotes colspan=3><b>सत्व योग्य प्रकृतियाँ 145</b> = 148 - 3 (तीर्थंकर, नरकायु, देवायु)</td>
+  </tr>
+  <tr>
+    <th>त्रस</th>
+    <td class=tableNotes colspan=3><b>सत्व योग्य प्रकृतियाँ 148</b>, गुणस्थान 1 से 14, सामान्यवत्</td>
+  </tr>
+</table>

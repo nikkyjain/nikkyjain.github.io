@@ -1,0 +1,10 @@
+﻿आदि के तीन निकायों में पीत पर्यन्‍त चार लेश्‍याएँ हैं ॥२॥
+<!--JsMindTagBeginH2-->
+    {"id":"root", "isroot":true, "topic":"भवनत्रिक देव"},
+
+    {"id":"sub1", "parentid":"root", "topic":"जन्म के समय"},
+    {"id":"sub2", "parentid":"root", "topic":"शेष-समय"},
+
+    {"id":"sub11", "parentid":"sub1", "topic":"कृष्ण-नील-कापोत-पीत लेश्या"},
+    {"id":"sub22", "parentid":"sub2", "topic":"पीत-लेश्या"}
+<!--JsMindTagEnd-->

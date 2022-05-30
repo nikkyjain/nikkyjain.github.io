@@ -1,0 +1,246 @@
+﻿<table class=myAltTable>
+  <tbody>
+    <tr>
+      <td colspan=6 class=tableTitle>आरण से सर्वार्थ-सिद्धि तक आयु</td>
+    </tr>
+    <tr>
+      <th></th>
+      <th rowspan=2>नाम</th>
+      <th colspan=2>आयु सामान्य</th>
+      <th rowspan=2>बद्धायुष्क की अपेक्षा उत्कृष्ट</th>
+      <th rowspan=2>घातायुष्क की अपेक्षा उत्कृष्ट</th>
+    </tr>
+    <tr>
+      <th></th>
+      <th>जघन्य</th>
+      <th>उत्कृष्ट</th>
+    </tr>
+    <tr>
+      <td>सामान्य</td>
+      <td>स्वर्ग सामान्य</td>
+      <td>20 सागर</td>
+      <td>22 सागर</td>
+      <td></td>
+      <td rowspan=5>उत्पत्ति का अभाव</td>
+    </tr>
+    <tr>
+      <td>घातायुष्क</td>
+      <td colspan=4>उत्पत्ति का अभाव (त्रि .सा 533)</td>
+    </tr>
+    <tr>
+      <td rowspan=3>प्रत्येक पटल</td>
+      <td>सातंकर</td>
+      <td>20 सागर</td>
+      <td>62/3 सागर</td>
+      <td>124/6 सागर</td>
+    </tr>
+    <tr>
+      <td>आरण</td>
+      <td>62/3 सागर</td>
+      <td>64/3 सागर</td>
+      <td>128/6 सागर</td>
+    </tr>
+    <tr>
+      <td>अच्युत</td>
+      <td>64/3 सागर</td>
+      <td>22 सागर</td>
+      <td>22 सागर</td>
+    </tr>
+    <tr>
+      <th colspan=6 class=tableTitle>नव ग्रैवेयिक संबंधी</th>
+    </tr>
+    <tr>
+      <th></th>
+      <th rowspan=2>नाम</th>
+      <th colspan=2>आयु सामान्य</th>
+      <th rowspan=2>बद्धायुष्क की अपेक्षा उत्कृष्ट</th>
+      <th rowspan=2>घातायुष्क की अपेक्षा उत्कृष्ट</th>
+    </tr>
+    <tr>
+      <th></th>
+      <th>जघन्य</th>
+      <th>उत्कृष्ट</th>
+    </tr>
+    <tr>
+      <td>सामान्य</td>
+      <td>स्वर्ग सामान्य</td>
+      <td>22 सागर</td>
+      <td>31 सागर</td>
+      <td></td>
+      <td rowspan=14>उत्पत्ति का अभाव</td>
+    </tr>
+    <tr>
+      <td>घातायुष्क</td>
+      <td colspan=4>उत्पत्ति का अभाव (त्रि .सा 533)</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td colspan=4>अधो</td>
+    </tr>
+    <tr>
+      <td rowspan=11>प्रत्येक पटल</td>
+      <td>सुदर्शन</td>
+      <td>21 सागर</td>
+      <td>23 सागर</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>अमोघ</td>
+      <td>23 सागर</td>
+      <td>24 सागर</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>सुप्रबद्ध</td>
+      <td>24 सागर</td>
+      <td>25 सागर</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan=4>मध्यम</td>
+    </tr>
+    <tr>
+      <td>यशोधर</td>
+      <td>25 सागर</td>
+      <td>26 सागर</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>सुभद्र</td>
+      <td>26 सागर</td>
+      <td>27 सागर</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>सुविशाल</td>
+      <td>27 सागर</td>
+      <td>28 सागर</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan=4>उर्ध्व</td>
+    </tr>
+    <tr>
+      <td>सुमनस</td>
+      <td>28 सागर</td>
+      <td>29 सागर</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>सौमनस</td>
+      <td>29 सागर</td>
+      <td>30 सागर</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>प्रीतिकर</td>
+      <td>30 सागर</td>
+      <td>31 सागर</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan=6 class=tableTitle>नव अनुदिश संबंधी</td>
+    </tr>
+    <tr>
+      <th></th>
+      <th rowspan=2>नाम</th>
+      <th colspan=2>आयु सामान्य</th>
+      <th rowspan=2>बद्धायुष्क की अपेक्षा उत्कृष्ट</th>
+      <th rowspan=2>घातायुष्क की अपेक्षा उत्कृष्ट</th>
+    </tr>
+    <tr>
+      <th></th>
+      <th>जघन्य</th>
+      <th>उत्कृष्ट</th>
+    </tr>
+    <tr>
+      <td>सामान्य</td>
+      <td>स्वर्ग सामान्य</td>
+      <td>31 सागर</td>
+      <td>32 सागर</td>
+      <td></td>
+      <td rowspan=5>उत्पत्ति का अभाव</td>
+    </tr>
+    <tr>
+      <td>घातायुष्क</td>
+      <td colspan=4>उत्पत्ति का अभाव (त्रि .सा 533)</td>
+    </tr>
+    <tr>
+      <td rowspan=3>प्रत्येक पटल</td>
+      <td>आदित्य</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>9 के 9 सर्व</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>विमान</td>
+      <td>31 सागर</td>
+      <td>32 सागर</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th colspan=6 class=tableTitle>पञ्च अनुत्तर संबंधी</th>
+    </tr>
+    <tr>
+      <th></td>
+      <th rowspan=2>नाम</th>
+      <th colspan=2>आयु सामान्य</th>
+      <th rowspan=2>बद्धायुष्क की अपेक्षा उत्कृष्ट</th>
+      <th rowspan=2>घातायुष्क की अपेक्षा उत्कृष्ट</th>
+    </tr>
+    <tr>
+      <th></th>
+      <th>जघन्य</th>
+      <th>उत्कृष्ट</th>
+    </tr>
+    <tr>
+      <td>सामान्य</td>
+      <td>स्वर्ग सामान्य</td>
+      <td>32 सागर</td>
+      <td>33 सागर</td>
+      <td></td>
+      <td rowspan=7>उत्पत्ति का अभाव</td>
+    </tr>
+    <tr>
+      <td>घातायुष्क</td>
+      <td colspan=4>उत्पत्ति का अभाव (त्रि .सा 533)</td>
+    </tr>
+    <tr>
+      <td rowspan=5>प्रत्येक विमान</td>
+      <td>विजय</td>
+      <td>32 सागर</td>
+      <td>33 सागर</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>वैजयंत</td>
+      <td>32 सागर</td>
+      <td>33 सागर</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>जयन्त</td>
+      <td>32 सागर</td>
+      <td>33 सागर</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>अपराजित</td>
+      <td>32 सागर</td>
+      <td>33 सागर</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>सर्वार्थ सिद्धि</td>
+      <td>33 सागर</td>
+      <td>33 सागर</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>

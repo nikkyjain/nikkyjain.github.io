@@ -1,0 +1,109 @@
+﻿<table class=myAltTable>
+  <thead>
+    <tr>
+      <td colspan=2 rowspan=2 class=emptyTableCell></td>
+      <th colspan=9 class=tableTitle>नव प्रतिनारायण निर्देश</th>
+    </tr>
+    <tr>
+      <th>1</th>
+      <th>2</th>
+      <th>3</th>
+      <th>4</th>
+      <th>5</th>
+      <th>6</th>
+      <th>7</th>
+      <th>8</th>
+      <th>9</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th rowspan=6>वर्तमान-भव</th>
+      <th>नाम</th>
+      <td class=head3>अश्वग्रीव</td>
+      <td class=head3>तारक</td>
+      <td class=head3>मेरक / मधु</td>
+      <td class=head3>मधुकैटभ / मधुसूदन</td>
+      <td class=head3>निशुम्भ / मधुक्रीड़</td>
+      <td class=head3>बलि / निशुम्भ</td>
+      <td class=head3>प्रहरण / प्रह्लाद / बलीद्र</td>
+      <td class=head3>रावण / दशानन</td>
+      <td class=head3>जरासंघ</td>
+    </tr>
+    <tr>
+      <th>नगर</th>
+      <td>अलका</td>
+      <td>विजयपुर / भोगवर्धन</td>
+      <td>नन्दनपुर / रत्नपुर</td>
+      <td>पृथ्वीपुर / वाराणसी</td>
+      <td>हरिपुर / हस्तिनापुर</td>
+      <td>सूर्यपुर / चक्रपुर</td>
+      <td>सिंहपुर / मन्दरपुर</td>
+      <td>लंका</td>
+      <td>राजगृह</td>
+    </tr>
+    <tr>
+      <th>शरीर</th>
+      <td colspan=9>स्वर्णवत्, समचतुरस्र संस्‍थान, वज्रऋषभ नाराच संहनन</td>
+    </tr>
+    <tr>
+      <th>उत्‍सेध</th>
+      <td>८० धनुष</td>
+      <td>७० धनुष</td>
+      <td>६० धनुष</td>
+      <td>५० धनुष</td>
+      <td>४५ धनुष</td>
+      <td>२९ धनुष</td>
+      <td>२२ धनुष</td>
+      <td>१६ धनुष</td>
+      <td>१० धनुष</td>
+    </tr>
+    <tr>
+      <th>आयु</th>
+      <td>८४ लाख वर्ष</td>
+      <td>७२ लाख</td>
+      <td>६० लाख</td>
+      <td>३० लाख</td>
+      <td>१० लाख</td>
+      <td>६५०००</td>
+      <td>३२०००</td>
+      <td>१२०००</td>
+      <td>१०००</td>
+    </tr>
+    <tr>
+      <th>निर्गमन</th>
+      <td>सप्तम नरक</td>
+      <td>षष्टम नरक</td>
+      <td>षष्ठ / सप्तम नरक</td>
+      <td colspan=3>षष्ठम नरक</td>
+      <td>पंचम नरक</td>
+      <td>चतुर्थ नरक</td>
+      <td>तृतीय नरक</td>
+    </tr>
+    <tr>
+      <th rowspan=2>कई भव पहिले</th>
+      <th>नाम</th>
+      <td>विशाखनन्दि</td>
+      <td>विन्ध्यशक्ति</td>
+      <td>चण्डशासन</td>
+      <td>राजसिंह</td>
+      <td></td>
+      <td>मन्त्री</td>
+      <td>नरदेव</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>नगर</th>
+      <td>राजगृह</td>
+      <td>मलय</td>
+      <td>श्रावस्ती</td>
+      <td>मलय</td>
+      <td></td>
+      <td></td>
+      <td>सारसमुच्चय</td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>

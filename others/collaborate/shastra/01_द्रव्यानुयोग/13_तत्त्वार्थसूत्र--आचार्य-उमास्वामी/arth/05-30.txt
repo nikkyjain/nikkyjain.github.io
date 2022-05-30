@@ -1,0 +1,7 @@
+﻿जो उत्पा‍द, व्यय और ध्रौव्य इन तीनों से युक्त अर्थात् इन तीनों रूप है वह सत् है ॥३०॥
+<!--JsMindTagBeginH2-->
+  {"id":"root", "isroot":true, "topic":"सत का लक्षण "},
+  {"id":"sub1", "parentid":"root", "topic":"उत्पा‍द"},
+  {"id":"sub2", "parentid":"root", "topic":"व्यय"},
+  {"id":"sub3", "parentid":"root", "topic":"ध्रौव्य"}
+<!--JsMindTagEnd-->

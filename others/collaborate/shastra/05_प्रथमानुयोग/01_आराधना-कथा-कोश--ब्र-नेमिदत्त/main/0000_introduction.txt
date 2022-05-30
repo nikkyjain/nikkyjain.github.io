@@ -5,6 +5,6 @@
 श्री
 <font style="font-size:120px"> आराधना कथा कोश </font>
 
-<span class=bottomContainer align=justify><font color=black>ब्रह्मचारी श्री नेमिदत्त द्वारा रचित जैन धर्म पर आधारित ११६ कथाएँ</font></span>
+<span class=bottomContainer align=justify><font color=black>ब्रह्मचारी श्री नेमिदत्त द्वारा रचित जैन धर्म पर आधारित 116 कथाएँ</font></span>
 
 <font size=3 color=blue>आभार : श्री उदयलालजी कासलीवाल</font>

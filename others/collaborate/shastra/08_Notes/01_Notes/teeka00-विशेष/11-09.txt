@@ -1,0 +1,85 @@
+﻿<table class=myAltTable>
+  <tr>
+    <th colspan=4 class=tableTitle>मोहनीय कर्म के सत्त्व अधिकरण, बंध-उदय आधेय त्रिसंयोग भंग</th>
+  </tr>
+  <tr>
+    <th>सत्वस्थान</th>
+    <th>बंधस्थान</th>
+    <th>उदयस्थान</th>
+    <th>गुणस्थान</th>
+  </tr>
+  <tr>
+    <th>28</th>
+    <td><b>10</b> (22,21,17,13,9,5,4,3,2,1)</td>
+    <td><b>9</b> (10,9,8,7,6,5,4,2,1)</td>
+    <td>1 से 11</td>
+  </tr>
+  <tr>
+    <th>27</th>
+    <td rowspan=2><b>1</b> (22)</td>
+    <td rowspan=2><b>3</b> (10,9,8)</td>
+    <td rowspan=2>1</td>
+  </tr>
+  <tr>
+    <th>26</th>
+  </tr>
+  <tr>
+    <th>24</th>
+    <td><b>8</b> (17,13,9,5,4,3,2,1)</td>
+    <td><b>8</b> (9,8,7,6,5,4,2,1)</td>
+    <td>3 से 11</td>
+  </tr>
+  <tr>
+    <th>23</th>
+    <td rowspan=2><b>3</b> (17,13,9)</td>
+    <td rowspan=2><b>5</b> (9,8,7,6,5)</td>
+    <td rowspan=2>4 से 7</td>
+  </tr>
+  <tr>
+    <th>22</th>
+  </tr>
+  <tr>
+    <th>21</th>
+    <td><b>8</b> (17,13,9,5,4,3,2,1)</td>
+    <td><b>7</b> (8,7,6,5,4,2,1)</td>
+    <td>4 से 11 (क्षायिक स.)</td>
+  </tr>
+  <tr>
+    <th>13</th>
+    <td rowspan=3><b>2</b> (5,4)</td>
+    <td rowspan=2><b>1</b> (2)</td>
+    <td rowspan=7>9 (क्ष. श्रे.)</td>
+  </tr>
+  <tr>
+    <th>12</th>
+  </tr>
+  <tr>
+    <th>11</th>
+    <td><b>2</b> (2,1)</td>
+  </tr>
+  <tr>
+    <th>5</th>
+    <td><b>1</b> (4)</td>
+    <td rowspan=5><b>1</b> (1)</td>
+  </tr>
+  <tr>
+    <th>4</th>
+    <td><b>2</b> (4,3)</td>
+  </tr>
+  <tr>
+    <th>3</th>
+    <td><b>2</b> (3,2)</td>
+  </tr>
+  <tr>
+    <th>2</th>
+    <td><b>2</b> (2,1)</td>
+  </tr>
+  <tr>
+    <th>1</th>
+    <td><b>1 / 0</b></td>
+    <td>9,10 (क्ष. श्रे.)</td>
+  </tr>
+  <tr>
+    <td colspan=4 class=tableNotes>गोम्मटसार कर्मकांड गाथा -- 669-672</td>
+  </tr>
+</table>

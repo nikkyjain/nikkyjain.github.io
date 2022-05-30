@@ -1,0 +1,6 @@
+﻿बाह्य और अभ्यन्त‍र उपधि का त्याग यह दो प्रकार का व्युत्सर्ग है ॥२६॥
+<!--JsMindTagBeginH2-->
+	{"id":"root", "isroot":true, "topic":"दो प्रकार का व्युत्सर्ग"},
+	{"id":"sub1", "parentid":"root", "topic":"बाह्य"},
+	{"id":"sub11", "parentid":"root", "topic":"अभ्यन्त‍र"},
+<!--JsMindTagEnd-->

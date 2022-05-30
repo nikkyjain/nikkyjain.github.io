@@ -1,0 +1,11 @@
+﻿संवेग और वैराग्य के लिए जगत् के स्वभाव और शरीर के स्वभाव की भावना करनी चाहिए ॥१२॥
+<!--JsMindTagBeginH6-->
+	{"id":"root", "isroot":true, "topic":"व्रती को वैराग्य बढ़ाने के लिए"},
+	{"id":"sub1", "parentid":"root", "topic":"संवेग"},
+	{"id":"sub1a", "parentid":"sub1", "topic":"संसार से भय"},
+	{"id":"sub1b", "parentid":"sub1", "topic":"धर्म और उसके फल में रुचि"},
+	{"id":"sub2", "parentid":"root", "topic":"वैराग्य"},
+	{"id":"sub2a", "parentid":"sub2", "topic":"संसार से"},
+	{"id":"sub2b", "parentid":"sub2", "topic":"शरीर से"},
+	{"id":"sub2c", "parentid":"sub2", "topic":"भोगों से"}
+<!--JsMindTagEnd-->

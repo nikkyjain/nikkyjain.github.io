@@ -1,0 +1,80 @@
+﻿<table class=myAltColTable>
+  <colgroup>
+    <col><col><col><col><col><col><col><col>
+  </colgroup>
+  <tr>
+    <td class=emptyTableCell></td>
+    <th colspan=7 class=tableTitle>गुणस्थानों में समुद्घात</th>
+  </tr>
+  <tr>
+    <th>गुणस्थान</th>
+    <th>वेदना</th>
+    <th>कषाय</th>
+    <th>मारणान्तिक</th>
+    <th>वैक्रियक</th>
+    <th>तैजस</th>
+    <th>आहारक</th>
+    <th>केवली</th>
+  </tr>
+  <tr>
+    <th>मिथ्यादृष्टि</th>
+    <td rowspan="6">हाँ</td>
+    <td rowspan="6">हाँ</td>
+    <td rowspan="2">हाँ</td>
+    <td rowspan="6">हाँ</td>
+    <td rowspan="5">नहीं</td>
+    <td rowspan="5">नहीं</td>
+    <td rowspan="12">नहीं</td>
+  </tr>
+  <tr>
+    <th>सासादन</th>
+  </tr>
+  <tr>
+    <th>मिश्र</th>
+    <td>नहीं</td>
+  </tr>
+  <tr>
+    <th>असंयत</th>
+    <td rowspan="5">हाँ</td>
+  </tr>
+  <tr>
+    <th>संयतासंयत</th>
+  </tr>
+  <tr>
+    <th>प्रमत्त</th>
+    <td>हाँ</td>
+    <td>हाँ</td>
+  </tr>
+  <tr>
+    <th>अप्रमत्त</th>
+    <td rowspan="8">नहीं</td>
+    <td rowspan="8">नहीं</td>
+    <td rowspan="8">नहीं</td>
+    <td rowspan="8">नहीं</td>
+    <td rowspan="8">नहीं</td>
+  </tr>
+  <tr>
+    <th>अपूर्व.क.उप.</th>
+  </tr>
+  <tr>
+    <th>अपूर्व.क.क्षपक</th>
+    <td rowspan="6">नहीं</td>
+  </tr>
+  <tr>
+    <th>९-११ उप.</th>
+  </tr>
+  <tr>
+    <th>९-११ क्षपक</th>
+  </tr>
+  <tr>
+    <th>क्षीणकषाय</th>
+  </tr>
+  <tr>
+    <th>सयोगी</th>
+    <td>हाँ</td>
+  </tr>
+  <tr>
+    <th>अयोगी</th>
+    <td>नहीं</td>
+  </tr>
+</table>

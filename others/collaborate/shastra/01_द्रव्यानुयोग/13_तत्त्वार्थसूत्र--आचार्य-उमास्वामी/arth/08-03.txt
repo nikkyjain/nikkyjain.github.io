@@ -1,0 +1,8 @@
+﻿उसके प्रकृति, स्थिति, अनुभव और प्रदेश ये चार भेद हैं ॥३॥
+<!--JsMindTagBeginH2-->
+	{"id":"root", "isroot":true, "topic":"बंध के भेद"},
+	{"id":"sub1", "parentid":"root", "topic":"प्रकृति"},
+	{"id":"sub11", "parentid":"root", "topic":"स्थिति"},
+	{"id":"sub12", "parentid":"root", "topic":"अनुभव"},
+	{"id":"sub13", "parentid":"root", "topic":"प्रदेश"}
+<!--JsMindTagEnd-->

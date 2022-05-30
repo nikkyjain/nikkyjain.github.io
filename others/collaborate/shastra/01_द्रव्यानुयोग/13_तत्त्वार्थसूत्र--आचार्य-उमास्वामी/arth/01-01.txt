@@ -1,0 +1,7 @@
+﻿सम्‍यग्‍दर्शन, सम्‍यग्‍ज्ञान और सम्‍यक्‌चारित्र ये तीनों मिलकर मोक्ष का मार्ग हैं ॥१॥
+<!--JsMindTagBeginH2-->
+    {"id":"root", "isroot":true, "topic":"मोक्षमार्ग"},
+    {"id":"sub1", "parentid":"root", "topic":"सम्‍यग्‍दर्शन"},
+    {"id":"sub2", "parentid":"root", "topic":"सम्‍यग्‍ज्ञान"},
+    {"id":"sub3", "parentid":"root", "topic":"सम्‍यक्‌चारित्र"}
+<!--JsMindTagEnd-->

@@ -27,6 +27,7 @@ while read oDir; do
         python3 $scrDir/createHtml.py
         python3 $scrDir/genFullGranth.py
         python3 $scrDir/genFullGranth.py -f
+        python3 $scrDir/genFullGranth.py -e
     done < "index.txt"
     cd $curDir
 done < "index.txt"

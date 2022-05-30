@@ -1,0 +1,7 @@
+﻿अल्प आरम्भ और अल्प परिग्रहपने का भाव मनुष्यायु के आस्रव हैं ॥१७॥
+<!--JsMindTagBeginH2-->
+	{"id":"root", "isroot":true, "topic":"मनुष्यायु के आस्रव"},
+	{"id":"sub1", "parentid":"root", "topic":"अल्प-आरम्भ"},
+	{"id":"sub2", "parentid":"root", "topic":"अल्प परिग्रहपना"},
+	{"id":"sub3", "parentid":"root", "topic":"स्वभाव में मार्दवता"}          
+<!--JsMindTagEnd-->

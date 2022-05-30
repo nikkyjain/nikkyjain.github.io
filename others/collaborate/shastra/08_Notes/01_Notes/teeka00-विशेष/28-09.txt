@@ -1,0 +1,179 @@
+﻿<table class=myAltColTable>
+<thead>
+  <col><col><col><col><col>
+  <tr>
+    <th colspan=5 class=tableTitle> देव-गति में व्यन्तर देव संबंधी आयु</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan=5 class=tableNotes>प्रमाण - 1 (मू.आ. १११६-१७); 2 (त.सू. ४/३८-३९); 3 (ति.प. ४,५,६/गा),</td>
+  </tr>
+  <tr>
+    <td colspan=5 class=tableNotes>4 (त्रि.सा. २४०-२९३), 5 (द्र.सं./टी. ३५/१४२)</td>
+  </tr>
+  <tr>
+    <th rowspan=2>ति.प.गा</th>
+    <th rowspan=2>अन्य प्रमाण</th>
+    <th rowspan=2>नाम</th>
+    <th colspan=2>आयु</th>
+  </tr>
+  <tr>
+    <th>उत्कृष्ट</th>
+    <th>जघन्य</th>
+  </tr>
+  <tr>
+    <td>83</td>
+    <td>1,2</td>
+    <td>व्यंतर सामान्य</td>
+    <td>1 पल्य</td>
+    <td rowspan=18> 10,000 वर्ष</td>
+  </tr>
+  <tr>
+    <td>84</td>
+    <td>4,5</td>
+    <td>किन्नर आदि आठों इंद्र</td>
+    <td>1 पल्य</td>
+  </tr>
+  <tr>
+    <td rowspan=4>84</td>
+    <td rowspan=4>4,5</td>
+    <td>प्रतींद्र</td>
+    <td>1 पल्य</td>
+  </tr>
+  <tr>
+    <td>समानिक</td>
+    <td>1 पल्य</td>
+  </tr>
+  <tr>
+    <td>महत्तर देव</td>
+    <td>1/2 पल्य</td>
+  </tr>
+  <tr>
+    <td>शेष देव</td>
+    <td>यथायोग्य</td>
+  </tr>
+  <tr>
+    <td rowspan=12>85</td>
+    <td rowspan=12>4</td>
+    <td>नीचोपपाद</td>
+    <td>10,000 वर्ष</td>
+  </tr>
+  <tr>
+    <td>दिग्वासी</td>
+    <td>20,000 वर्ष</td>
+  </tr>
+  <tr>
+    <td>अंतर निवासी</td>
+    <td>30,000 वर्ष</td>
+  </tr>
+  <tr>
+    <td>कूषमांड</td>
+    <td>40,000 वर्ष</td>
+  </tr>
+  <tr>
+    <td>उत्पन्न</td>
+    <td>50,000 वर्ष</td>
+  </tr>
+  <tr>
+    <td>अनुत्पन्न</td>
+    <td>60,000 वर्ष</td>
+  </tr>
+  <tr>
+    <td>प्रमाणक</td>
+    <td>70,000 वर्ष</td>
+  </tr>
+  <tr>
+    <td>गंध</td>
+    <td>80,000 वर्ष</td>
+  </tr>
+  <tr>
+    <td>महागंध</td>
+    <td>84,000 वर्ष</td>
+  </tr>
+  <tr>
+    <td>भुजंग (जुगल)</td>
+    <td>1/8 पल्य</td>
+  </tr>
+  <tr>
+    <td>प्रातिक</td>
+    <td>1/4 पल्य</td>
+  </tr>
+  <tr>
+    <td>आकाशोत्पन्न</td>
+    <td>1/2 पल्य</td>
+  </tr>
+  <tr>
+    <th colspan=5>जंबू द्वीप के रक्षक</th>
+  </tr>
+  <tr>
+    <th rowspan=2>ति.प.४ गा.</th>
+    <th rowspan=2>ति.प.५ गा.</th>
+    <th rowspan=2>नाम</th>
+    <th colspan=2>आयु</th>
+  </tr>
+  <tr>
+    <th>उत्कृष्ट</th>
+    <th>जघन्य</th>
+  </tr>
+  <tr>
+    <td>76</td>
+    <td rowspan=3></td>
+    <td>महोराग</td>
+    <td rowspan=4>1 पल्य</td>
+    <td rowspan=4> 10,000 वर्ष</td>
+  </tr>
+  <tr>
+    <td>276</td>
+    <td>वृषभ देव</td>
+  </tr>
+  <tr>
+    <td>1712</td>
+    <td>शाली देव</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>51</td>
+    <td>अन्य सर्व द्वीप समुद्रों के अधिपति देव</td>
+  </tr>
+  <tr>
+    <th colspan=5>देवियाँ</th>
+  </tr>
+  <tr>
+    <th rowspan=2>ति.प.४ गा.</th>
+    <th rowspan=2>ति.प.५ गा.</th>
+    <th rowspan=2>नाम</th>
+    <th colspan=2>आयु</th>
+  </tr>
+  <tr>
+    <th>उत्कृष्ट</th>
+    <th>जघन्य</th>
+  </tr>
+  <tr>
+    <td>1672</td>
+    <td rowspan=5></td>
+    <td>श्री देवी</td>
+    <td rowspan=5>1 पल्य</td>
+    <td rowspan=5> 10,000 वर्ष</td>
+  </tr>
+  <tr>
+    <td>1728</td>
+    <td>ह्रीं देवी</td>
+  </tr>
+  <tr>
+    <td>1762</td>
+    <td>धृति देवी</td>
+  </tr>
+  <tr>
+    <td>209</td>
+    <td>बला देवी</td>
+  </tr>
+  <tr>
+    <td>258</td>
+    <td>लवणा देवी</td>
+  </tr>
+  <tr>
+    <td colspan=5 class=tableNotes>इसी प्रकार अन्य सब देवियों की जानना</td>
+  </tr>
+</tbody>
+</table>

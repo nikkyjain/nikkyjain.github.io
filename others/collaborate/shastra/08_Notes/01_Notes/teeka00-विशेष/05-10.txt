@@ -1,0 +1,47 @@
+﻿<table class=myAltTable>
+  <tr>
+    <td class=emptyTableCell colspan=2 rowspan=2></td>
+    <th class=tableTitle colspan=3>प्रकृति बंध (मार्गणा -- लेश्या)</th>
+  </tr>
+  <tr>
+    <th>बंध</th>
+    <th>अबंध</th>
+    <th>गुणस्थान</th>
+  </tr>
+  <tr>
+    <th colspan=2 rowspan=2>कृष्ण-नील-कापोत</th>
+    <td><b>118</b></td>
+    <td><b>2</b> (आहारक-द्विक)</td>
+    <td><b>1-4</b></td>
+  </tr>
+  <tr>
+    <td class=tableNotes colspan=3>रचना ओघवत</td>
+  </tr>
+  <tr>
+    <th colspan=2 rowspan=2>पीत</th>
+    <td><b>111</b></td>
+    <td><b>9</b> (सूक्ष्मत्रय, विकलत्रय, नरकत्रय)</td>
+    <td><b>1-7</b></td>
+  </tr>
+  <tr>
+    <td class=tableNotes colspan=3>रचना ओघवत, मिथ्यात्व गुणस्थान में व्युच्छिति 7</td>
+  </tr>
+  <tr>
+    <th colspan=2 rowspan=2>पद्म</th>
+    <td><b>108</b></td>
+    <td><b>12</b> (9 + एकेन्द्रिय, स्थावर, आतप)<br></td>
+    <td><b>1-7</b></td>
+  </tr>
+  <tr>
+    <td class=tableNotes colspan=3>रचना ओघवत, मिथ्यात्व गुणस्थान में व्युच्छिति 4</td>
+  </tr>
+  <tr>
+    <th colspan=2 rowspan=2>शुक्ल</th>
+    <td><b>104</b></td>
+    <td><b>16</b> (12 + तिर्यञ्च-त्रिक, उद्योत)</td>
+    <td><b>1-13</b></td>
+  </tr>
+  <tr>
+    <td class=tableNotes colspan=3>रचना ओघवत, मिथ्यात्व गुणस्थान में व्युच्छिति 4, सासादन में 21</td>
+  </tr>
+</table>

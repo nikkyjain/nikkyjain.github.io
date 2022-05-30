@@ -1,0 +1,92 @@
+﻿<table class=myAltTable>
+  <tr>
+    <th class=tableTitle colspan=4>एक जीव के सत्व में स्थान और भंग</th>
+  </tr>
+  <tr>
+    <td class=emptyTableCell></td>
+    <th colspan=2>स्थान</th>
+    <th>भंग</th>
+  </tr>
+  <tr>
+    <th>मिथ्यात्व</th>
+    <td colspan=2>18</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <th>सासादन</th>
+    <td colspan=2>4</td>
+    <td>12</td>
+  </tr>
+  <tr>
+    <th>मिश्र</th>
+    <td colspan=2>8</td>
+    <td>36</td>
+  </tr>
+  <tr>
+    <th>अविरत</th>
+    <td colspan=2>40</td>
+    <td>120</td>
+  </tr>
+  <tr>
+    <th>देशविरत</th>
+    <td colspan=2>40</td>
+    <td>48</td>
+  </tr>
+  <tr>
+    <th>प्रमत्तसंयत</th>
+    <td colspan=2 rowspan=2>40</td>
+    <td rowspan=2>40</td>
+  </tr>
+  <tr>
+    <th>अप्रमत्तसंयत</td>
+  </tr>
+  <tr>
+    <td class=emptyTableCell rowspan=2></td>
+    <th colspan=2>स्थान</th>
+    <th rowspan=2>भंग</th>
+  </tr>
+  <tr>
+    <th>उपशम-श्रेणी</th>
+    <th>क्षपक श्रेणी</th>
+  </tr>
+  <tr>
+    <th>अपूर्वकरण</th>
+    <td>24</td>
+    <td>4</td>
+    <td>28</td>
+  </tr>
+  <tr>
+    <th>अनिवृतिकरण</th>
+    <td>24</td>
+    <td>36</td>
+    <td>62</td>
+  </tr>
+  <tr>
+    <th>सूक्ष्मसाम्पराय</th>
+    <td>24</td>
+    <td>4</td>
+    <td>28</td>
+  </tr>
+  <tr>
+    <th>उपशान्तमोह</th>
+    <td>24</td>
+    <td>-</td>
+    <td>24</td>
+  </tr>
+  <tr>
+    <th>क्षीणमोह</th>
+    <td>-</td>
+    <td>8</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <th>सयोगकेवली</th>
+    <td colspan=2>4</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <th>अयोगकेवली</th>
+    <td colspan=2>6</td>
+    <td>8</td>
+  </tr>
+</table>

@@ -1,0 +1,20 @@
+#!/bin/sh
+
+inputFile=$1
+startGatha=1
+[ "a$2" = "a" ] || startGatha=$2
+curCnt=1
+while read line; do
+  [ -z "$line" ] && continue
+  myFile=$(printf "%03d.txt\n" $startGatha)
+  case $curCnt in
+      1 ) 
+          echo $line > title/$myFile;;
+      2 )
+          echo $line > main/$myFile;;
+      3 )
+          echo $line > arth/$myFile;;
+  esac
+  curCnt=$(($curCnt + 1))
+  [ "$curCnt" = "4" ] && startGatha=$(($startGatha + 1)) && curCnt=1
+done < $inputFile

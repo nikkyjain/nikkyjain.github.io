@@ -1,0 +1,49 @@
+﻿[तेजाकम्मेहिं तिए] तेजस-कार्माण का तीन (औदारिक, वैक्रियिक, आहारक) के संयोग से और [तेजा कम्मेण कम्मणा कम्‍मं] तेजस और कार्माण के [कयसंजोगे] संयोग से [चदुचदु-चदुदुग एक्‍कं च पयडीओ] चार-चार और एक-एक भंग होते हैं ॥२७॥
+
+<table class=myAltTable>
+  <tr>
+    <th>प्रधान शरीर</th>
+    <th colspan=4>मिश्रित शरीर</th>
+    <th>भंग</th>
+  </tr>
+  <tr>
+    <th>औदारिक</th>
+    <td>औ.-औ.</td>
+    <td>औ.-ते.</td>
+    <td>औ.-का.</td>
+    <td>औ.-ते.-का.<br></td>
+    <td class=tableNotes>4</td>
+  </tr>
+  <tr>
+    <th>वैक्रियिक</th>
+    <td>वै.-वै.</td>
+    <td>वै.-ते.</td>
+    <td>वै.-का.</td>
+    <td>वै.-ते.-का.</td>
+    <td class=tableNotes>4</td>
+  </tr>
+  <tr>
+    <th>आहारक</th>
+    <td>आ.-आ.</td>
+    <td>आ.-ते.</td>
+    <td>आ.-का.</td>
+    <td>आ.-ते.-का.</td>
+    <td class=tableNotes>4</td>
+  </tr>
+  <tr>
+    <th>तेजस</th>
+    <td>ते.-ते.</td>
+    <td>ते.-का.</td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=tableNotes>2</td>
+  </tr>
+  <tr>
+    <th>कार्माण</th>
+    <td>का.-का.</td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=emptyTableCell></td>
+    <td class=tableNotes>1</td>
+  </tr>
+</table>

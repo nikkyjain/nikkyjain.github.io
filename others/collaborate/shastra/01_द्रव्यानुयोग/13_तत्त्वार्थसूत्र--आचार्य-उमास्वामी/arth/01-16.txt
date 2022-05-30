@@ -1,0 +1,17 @@
+﻿सेतर (प्रतिपक्षसहित) बहु, बहुविध, क्षिप्र, अनि:सृत, अनुक्त और ध्रुव के अवग्रह, ईहा, अवाय और धारणारूप मतिज्ञान होते हैं ॥१६॥
+<!--JsMindTagBegin-->
+                {"id":"root", "isroot":true, "topic":"अर्थ / पदार्थ"},
+
+                {"id":"sub1", "parentid":"root", "topic":"अल्प"},
+                {"id":"sub2", "parentid":"root", "topic":"अल्पविध"},
+                {"id":"sub3", "parentid":"root", "topic":"अक्षिप्र"},
+                {"id":"sub4", "parentid":"root", "topic":"नि:सृत"},
+                {"id":"sub5", "parentid":"root", "topic":"उक्त"},
+                {"id":"sub6", "parentid":"root", "topic":"अध्रुव"},
+                {"id":"sub10", "parentid":"root", "topic":"बहु", "direction":"left"},
+                {"id":"sub11", "parentid":"root", "topic":"बहुविध", "direction":"left"},
+                {"id":"sub12", "parentid":"root", "topic":"क्षिप्र", "direction":"left"},
+                {"id":"sub13", "parentid":"root", "topic":"अनि:सृत", "direction":"left"},
+                {"id":"sub14", "parentid":"root", "topic":"अनुक्त", "direction":"left"},
+                {"id":"sub15", "parentid":"root", "topic":"ध्रुव", "direction":"left"}
+<!--JsMindTagEnd-->

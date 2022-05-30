@@ -1,0 +1,62 @@
+﻿<table class=myAltTable>
+  <tr>
+    <th class=tableTitle colspan=6>तिर्यञ्च गति मार्गणा में सत्व</th>
+  </tr>
+  <tr>
+    <td class=emptyTableCell colspan=3></td>
+    <th>सत्व</th>
+    <th>असत्व</th>
+    <th>व्युच्छिति</th>
+  </tr>
+  <tr>
+    <th rowspan=7>सामान्य, पंचेंद्रिय, पंचेंद्रिय पर्याप्त, योनिमति</th>
+    <th colspan=2>मिथ्यात्व</th>
+    <td><b>147</b></td>
+    <td><b>0</b></td>
+    <td><b>0</b></td>
+  </tr>
+  <tr>
+    <th colspan=2>सासादन</th>
+    <td><b>145</b></td>
+    <td><b>2</b> (आहारक-द्विक)</td>
+    <td><b>0</b></td>
+  </tr>
+  <tr>
+    <th colspan=2>मिश्र</th>
+    <td><b>147</b></td>
+    <td><b>0</b></td>
+    <td><b>0</b></td>
+  </tr>
+  <tr>
+    <th rowspan=2>अविरत</th>
+    <th>क्षायोपशमिक / औपशमिक</th>
+    <td><b>147</b></td>
+    <td><b>0</b></td>
+    <td rowspan=2><b>2</b> (नरकायु, मनुष्यायु)</td>
+  </tr>
+  <tr>
+    <th>क्षायिक* (भोग-भूमि)</th>
+    <td><b>140</b></td>
+    <td><b>7</b> (अनंतानुबंधी ४, दर्शन-मोहनीय ३)</td>
+  </tr>
+  <tr>
+    <th colspan=2>संयमासंयम</th>
+    <td><b>145</b></td>
+    <td><b>2</b></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class=tableNotes colspan=5><b>सत्व योग्य प्रकृतियाँ = 147</b> (148 - तीर्थंकर)</td>
+  </tr>
+  <tr>
+    <td class=emptyTableCell colspan=3></td>
+    <th>सत्व</td>
+    <th colspan=2>असत्व</td>
+  </tr>
+  <tr>
+    <th>लब्ध्यपर्याप्त</td>
+    <th colspan=2>मिथ्यात्व</td>
+    <td><b>145</b></td>
+    <td colspan=2><b>3</b> (तीर्थंकर, देवायु, नरकायु)</td>
+  </tr>
+</table>

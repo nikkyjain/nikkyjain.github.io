@@ -1,0 +1,1861 @@
+﻿<table class=myAltColTable>
+  <colgroup>
+    <col><col><col><col><col><col><col><col><col>
+    <col><col><col><col><col><col><col><col><col>
+    <col><col><col><col><col><col><col><col><col>
+  </colgroup>
+  <thead>
+  <tr>
+    <td colspan=3 class=emptyTableCell></td>
+    <th class=tableTitle>ऋषभनाथ</th>
+    <th class=tableTitle>अजितनाथ</th>
+    <th class=tableTitle>संभवनाथ</th>
+    <th class=tableTitle>अभिनंदन</th>
+    <th class=tableTitle>सुमतिनाथ</th>
+    <th class=tableTitle>पद्मप्रभु</th>
+    <th class=tableTitle>सुपार्श्व</th>
+    <th class=tableTitle>चंद्रप्रभ</th>
+    <th class=tableTitle>पुष्पदंत</th>
+    <th class=tableTitle>शीतलनाथ</th>
+    <th class=tableTitle>श्रेयांसनाथ</th>
+    <th class=tableTitle>वासुपूज्य</th>
+    <th class=tableTitle>विमलनाथ</th>
+    <th class=tableTitle>अनंतनाथ</th>
+    <th class=tableTitle>धर्मनाथ</th>
+    <th class=tableTitle>शांतिनाथ</th>
+    <th class=tableTitle>कुंथुनाथ</th>
+    <th class=tableTitle>अरहनाथ</th>
+    <th class=tableTitle>मल्लिनाथ</th>
+    <th class=tableTitle>मुनिसुव्रत</th>
+    <th class=tableTitle>नमिनाथ</th>
+    <th class=tableTitle>नेमिनाथ</th>
+    <th class=tableTitle>पार्श्वनाथ</th>
+    <th class=tableTitle>वर्द्धमान</th>
+  </tr>
+  </thead>
+  <tr>
+    <th rowspan=59>वर्तमान भव </th>
+    <th rowspan=4>जन्म नगरी</th>
+    <th>म.पु.</th>
+    <td>अयोध्या</td>
+    <td>अयोध्या</td>
+    <td rowspan=4>श्रावस्ती</td>
+    <td>अयोध्या</td>
+    <td>अयोध्या</td>
+    <td rowspan=2>कौशांबी</td>
+    <td>काशी</td>
+    <td rowspan=4>चंद्रपुर</td>
+    <td rowspan=4>काकंदी</td>
+    <td rowspan=3>भद्रपुर</td>
+    <td rowspan=3>सिंहपुर</td>
+    <td rowspan=4>चंपा  </td>
+    <td rowspan=4>कांपिल्य</td>
+    <td rowspan=2>अयोध्या</td>
+    <td rowspan=4>रत्नपुर</td>
+    <td rowspan=4>हस्तनागपुर</td>
+    <td rowspan=4>हस्तनागपुर</td>
+    <td rowspan=4>हस्तनागपुर</td>
+    <td rowspan=4>मिथिला</td>
+    <td rowspan=2>राजगृह</td>
+    <td rowspan=4>मिथिला</td>
+    <td>द्वारावती</td>
+    <td>बनारस</td>
+    <td>कुंडलपुर</td>
+  </tr>
+  <tr>
+    <th>ति.प.</th>
+    <td>विनीता</td>
+    <td rowspan=2>साकेता</td>
+    <td>साकेता</td>
+    <td rowspan=2>साकेता</td>
+    <td>वाराणसी</td>
+    <td>शौरीपुर</td>
+    <td>वाराणसी</td>
+    <td>कुंडपुर</td>
+  </tr>
+  <tr>
+    <th>प.पु.</th>
+    <td rowspan=2>अयोध्या</td>
+    <td rowspan=2>अयोध्या</td>
+    <td>वत्स   </td>
+    <td rowspan=2>काशी</td>
+    <td>विनीता</td>
+    <td rowspan=2>कुशाग्रनगर</td>
+    <td>द्वारावती</td>
+    <td>बनारस</td>
+    <td>कुंडलपुर</td>
+  </tr>
+  <tr>
+    <th>ह.पु.</th>
+    <td>अयोध्या</td>
+    <td>अयोध्या</td>
+    <td>कौशांबी</td>
+    <td>भद्रिल</td>
+    <td>सिंहनादपुर</td>
+    <td>अयोध्या</td>
+    <td>शौरीपुर</td>
+    <td>वाराणसी</td>
+    <td>कुंडपुर</td>
+  </tr>
+  <tr>
+    <th>चिह्न</th>
+    <th>ति.प.</th>
+    <td>बैल</td>
+    <td>गज     </td>
+    <td>अश्व</td>
+    <td>बंदर  </td>
+    <td>चकवा</td>
+    <td>कमल  </td>
+    <td>नंद्यावर्त</td>
+    <td>अर्धचंद्र</td>
+    <td>मगर</td>
+    <td>स्वस्तिक</td>
+    <td>गैंडा</td>
+    <td>भैंसा    </td>
+    <td>शूकर</td>
+    <td>सेही</td>
+    <td>वज्र</td>
+    <td>हरिण</td>
+    <td>छाग</td>
+    <td>मत्स्य</td>
+    <td>कलश</td>
+    <td>कूर्म</td>
+    <td>उत्पल (नीलकमल)</td>
+    <td>शंक</td>
+    <td>सर्प</td>
+    <td>सिंह</td>
+  </tr>
+  <tr>
+    <th>यक्ष</th>
+    <th>ति.प.</th>
+    <td>गोवदन</td>
+    <td>महायक्ष           </td>
+    <td>त्रिमुख</td>
+    <td>यक्षेश्वर</td>
+    <td>तुंबुरव</td>
+    <td>मातंग</td>
+    <td>विजय</td>
+    <td>अजित</td>
+    <td>ब्रह्म</td>
+    <td>ब्रह्मेश्वर</td>
+    <td>कुमार</td>
+    <td>शन्मुख</td>
+    <td>पाताल</td>
+    <td>किन्नर</td>
+    <td>किंपुरुष</td>
+    <td>गरुड</td>
+    <td>गंधर्व</td>
+    <td>कुबेर</td>
+    <td>वरुण</td>
+    <td>भुकुटि</td>
+    <td>गोमेध  </td>
+    <td>पार्श्व</td>
+    <td>मातंग</td>
+    <td>गुह्यक</td>
+  </tr>
+  <tr>
+    <th>यक्षिणी</th>
+    <th>ति.प.</th>
+    <td>चक्रेश्वरी</td>
+    <td>रोहिणी</td>
+    <td>प्रज्ञप्ति</td>
+    <td>वज्रशृंखल</td>
+    <td>वज्रांकुशा</td>
+    <td>अप्रतिचक्रेश्वरी</td>
+    <td>पुरुषदत्ता</td>
+    <td>मनोवेगा</td>
+    <td>काली   </td>
+    <td>ज्वालामालिनी</td>
+    <td>महाकाली         </td>
+    <td>गौरी    </td>
+    <td>गांधारी</td>
+    <td>वैरोटी  </td>
+    <td>सोलसा (अनंत.)</td>
+    <td>मानसी</td>
+    <td>महामानसी      </td>
+    <td>जया</td>
+    <td>विजया</td>
+    <td>अपराजिता      </td>
+    <td>बहुरूपिणी        </td>
+    <td>कूष्मांडी       </td>
+    <td>पद्मा     </td>
+    <td>सिद्धयिनी</td>
+  </tr>
+  <tr>
+    <th rowspan=4>पिता</th>
+    <th>म.पु.</th>
+    <td rowspan=4>नाभिराय</td>
+    <td rowspan=4>जितशत्रु</td>
+    <td>दृढराज्य</td>
+    <td>स्वयंवर</td>
+    <td>मेघरथ</td>
+    <td rowspan=4>धरण</td>
+    <td rowspan=4>सुप्रतिष्ठ</td>
+    <td rowspan=4>महासेन</td>
+    <td rowspan=4>सुग्रीव</td>
+    <td rowspan=4>दृढरथ</td>
+    <td rowspan=4>विष्णु</td>
+    <td rowspan=4>वसुपूज्य</td>
+    <td rowspan=4>कृतवर्मा</td>
+    <td rowspan=4>सिंहसेन</td>
+    <td rowspan=2>भानु</td>
+    <td rowspan=4>विश्वसेन</td>
+    <td rowspan=3>सूरसेन</td>
+    <td rowspan=4>सुदर्शन</td>
+    <td rowspan=4>कुंभ</td>
+    <td rowspan=4>सुमित्र</td>
+    <td rowspan=4>विजय</td>
+    <td rowspan=4>समुद्रविजय</td>
+    <td>विश्वसेन</td>
+    <td rowspan=4>सिद्धार्थ</td>
+  </tr>
+  <tr>
+    <th>ति.प.</th>
+    <td>जितारि</td>
+    <td>संवर</td>
+    <td>मेघप्रभ</td>
+    <td>अश्वसेन</td>
+  </tr>
+  <tr>
+    <th>म.पु.</th>
+    <td>दृढराज्य</td>
+    <td>स्वयंवर</td>
+    <td>मेघरथ</td>
+    <td>भानुराज</td>
+    <td>विश्वसेन</td>
+  </tr>
+  <tr>
+    <th>ह.पु.</th>
+    <td>जितारि</td>
+    <td>संवर</td>
+    <td>मेघप्रभ</td>
+    <td>भानु</td>
+    <td>सूर्य</td>
+    <td>अश्वसेन</td>
+  </tr>
+  <tr>
+    <th rowspan=4>माता</th>
+    <th>म.पु.</th>
+    <td rowspan=4>मरुदेवी</td>
+    <td rowspan=4>विजयसेना</td>
+    <td>सुषैणा</td>
+    <td rowspan=4>सिद्धार्था</td>
+    <td rowspan=2>मंगला</td>
+    <td rowspan=4>सुसीमा</td>
+    <td rowspan=4>पृथ्वीषैणा</td>
+    <td>लक्ष्मणा</td>
+    <td>जयरामा</td>
+    <td>सुनंदा</td>
+    <td>सुनंदा</td>
+    <td>जयावती</td>
+    <td rowspan=2>जयश्यामा</td>
+    <td>जयश्यामा</td>
+    <td>सुप्रभा</td>
+    <td rowspan=4>ऐरा</td>
+    <td>श्रीकांता</td>
+    <td rowspan=4>मित्रसेना</td>
+    <td>प्रजावती</td>
+    <td>सोमा</td>
+    <td>महादेवी</td>
+    <td rowspan=4>शिवदेवी</td>
+    <td>ब्राह्मी</td>
+    <td rowspan=4>प्रियकारिणी</td>
+  </tr>
+  <tr>
+    <th>ति.प.</th>
+    <td>सेना</td>
+    <td>लक्ष्मीमती</td>
+    <td>रामा</td>
+    <td>नंदा</td>
+    <td>वेणुश्री</td>
+    <td>विजया</td>
+    <td>सर्वश्यामा</td>
+    <td>सुव्रता</td>
+    <td>श्रीमती</td>
+    <td>प्रभावती</td>
+    <td>पद्मावती</td>
+    <td>वप्रिला</td>
+    <td>वर्मिला</td>
+  </tr>
+  <tr>
+    <th>म.पु.</th>
+    <td>सुषैणा</td>
+    <td>सुमंगला</td>
+    <td rowspan=2>लक्ष्मणा</td>
+    <td>जयरामा</td>
+    <td rowspan=2>सुनंदा</td>
+    <td>विष्णुश्री</td>
+    <td rowspan=2>जयावती</td>
+    <td>शर्मा</td>
+    <td>जयश्यामा</td>
+    <td>सुप्रभा</td>
+    <td>श्रीकांता</td>
+    <td>रक्षिता</td>
+    <td>सोमा</td>
+    <td>वप्रा     </td>
+    <td>वर्मा</td>
+  </tr>
+  <tr>
+    <th>ह.पु.</th>
+    <td>सेना</td>
+    <td>सुमंगला</td>
+    <td>रामा</td>
+    <td>विष्णुश्री</td>
+    <td>शर्मा</td>
+    <td>सर्वश्यामा</td>
+    <td>सुव्रता</td>
+    <td>श्रीमती</td>
+    <td>रक्षिता</td>
+    <td>पद्मावती</td>
+    <td>वप्रा      </td>
+    <td>वर्मा</td>
+  </tr>
+  <tr>
+    <th rowspan=2>वंश</th>
+    <th>ति.प.</th>
+    <td rowspan=2>इक्ष्वाकु</td>
+    <td rowspan=2>इक्ष्वाकु</td>
+    <td rowspan=2>इक्ष्वाकु</td>
+    <td rowspan=2>इक्ष्वाकु</td>
+    <td rowspan=2>इक्ष्वाकु</td>
+    <td rowspan=2>इक्ष्वाकु</td>
+    <td rowspan=2>इक्ष्वाकु</td>
+    <td rowspan=2>इक्ष्वाकु</td>
+    <td rowspan=2>इक्ष्वाकु</td>
+    <td rowspan=2>इक्ष्वाकु</td>
+    <td rowspan=2>इक्ष्वाकु </td>
+    <td rowspan=2>इक्ष्वाकु</td>
+    <td rowspan=2>इक्ष्वाकु</td>
+    <td rowspan=2>इक्ष्वाकु</td>
+    <td>कुरु</td>
+    <td rowspan=2>इक्ष्वाकु</td>
+    <td>कुरु</td>
+    <td>कुरु</td>
+    <td rowspan=2>इक्ष्वाकु</td>
+    <td>यादव</td>
+    <td rowspan=2>इक्ष्वाकु</td>
+    <td>यादव</td>
+    <td rowspan=2>उग्र</td>
+    <td rowspan=2>नाथ</td>
+  </tr>
+  <tr>
+    <th>त्रि.सा.</th>
+    <td>इक्ष्वाकु</td>
+    <td>इक्ष्वाकु</td>
+    <td>इक्ष्वाकु</td>
+    <td>हरिवंश</td>
+    <td>हरिवंश</td>
+  </tr>
+  <tr>
+    <th>गर्भ-तिथि</th>
+    <th>म.पु.</th>
+    <td>आषाढ कृ.2</td>
+    <td>ज्येष्ठ कृ.15</td>
+    <td>फा.शु.8</td>
+    <td>वैशा.शु.6</td>
+    <td>श्रा.शु.2</td>
+    <td>माघ कृ.6</td>
+    <td>भाद्र शु.6</td>
+    <td>चैत्र कृ.5</td>
+    <td>फा.कृ.9</td>
+    <td>चैत्र कृ.8</td>
+    <td>ज्येष्ठ कृ.6</td>
+    <td>आषा.कृ.6</td>
+    <td>ज्येष्ठ कृ.10</td>
+    <td>कार्ति.कृ.1</td>
+    <td>वैशा.शु.13</td>
+    <td>भाद्र कृ.7</td>
+    <td>श्रा.कृ.10</td>
+    <td>फा.कृ.3</td>
+    <td>चैत्र शु.1</td>
+    <td>श्रा.कृ.2</td>
+    <td>आश्वि.कृ.2</td>
+    <td>कार्ति.शु.6</td>
+    <td>वैशा.कृ.2</td>
+    <td>आषा.शु.6</td>
+  </tr>
+  <tr>
+    <th>गर्भ-नक्षत्र</th>
+    <th>म.पु.</th>
+    <td>उत्तराषाढा</td>
+    <td>रोहिणी</td>
+    <td>मृगशिरा</td>
+    <td>पुनर्वसु</td>
+    <td>मघा</td>
+    <td>चित्रा</td>
+    <td>विशाखा</td>
+    <td>...</td>
+    <td>मूल</td>
+    <td>पूर्वाषाढा</td>
+    <td>श्रवण</td>
+    <td>शतभिषा</td>
+    <td>उत्तरभाद्रपदा</td>
+    <td>रेवती</td>
+    <td>रेवती</td>
+    <td>भरणी</td>
+    <td>कृत्तिका</td>
+    <td>रेवती</td>
+    <td>अश्विनी</td>
+    <td>श्रवण</td>
+    <td>अश्विनी</td>
+    <td>उत्तराषाढा</td>
+    <td>विशाखा</td>
+    <td>उत्तराषाढा</td>
+  </tr>
+  <tr>
+    <th>गर्भ-काल</th>
+    <th>म.पु.</th>
+    <td> </td>
+    <td>ब्रह्ममुहूर्त</td>
+    <td>प्रात:</td>
+    <td> </td>
+    <td> </td>
+    <td>प्रात:</td>
+    <td> </td>
+    <td>पिछली रात्रि</td>
+    <td>प्रभात</td>
+    <td>अंतिम रात्रि</td>
+    <td>प्रात:</td>
+    <td>अंतिम रात्रि</td>
+    <td>प्रात:</td>
+    <td> </td>
+    <td> </td>
+    <td>अंतिम रात्रि</td>
+    <td>अंतिम रात्रि</td>
+    <td>अंतिम रात्रि</td>
+    <td>प्रात:</td>
+    <td> </td>
+    <td>अंतिम रात्रि</td>
+    <td>अंतिम रात्रि</td>
+    <td>प्रात:</td>
+    <td>अंतिम रात्रि</td>
+  </tr>
+  <tr>
+    <th rowspan=3>जन्म तिथि</th>
+    <th>म.पु.</th>
+    <td rowspan=3>चैत्रकृ.9</td>
+    <td rowspan=3>माघशु.10</td>
+    <td>कार्ति.शु.15</td>
+    <td rowspan=3>माघशु.12</td>
+    <td>चैत्र शु.11</td>
+    <td>कार्ति.कृ.13</td>
+    <td rowspan=3>ज्येष्ठशु.12</td>
+    <td rowspan=3>पौषकृ.11</td>
+    <td rowspan=3>मार्ग.शु.1</td>
+    <td rowspan=3>माघकृ.12</td>
+    <td rowspan=3>फा.कृ.11</td>
+    <td rowspan=3>फा.कृ.14</td>
+    <td>माघ शु.4 माघ शु.14</td>
+    <td rowspan=3>ज्येष्ठकृ.12</td>
+    <td rowspan=3>माघशु.13</td>
+    <td>ज्येष्ठ कृ.14</td>
+    <td rowspan=3>वैशा.शु.1</td>
+    <td rowspan=3>मार्ग.शु.14</td>
+    <td rowspan=3>मार्ग.शु.11</td>
+    <td>वैशाखकृष्णा दशम्यां</td>
+    <td>आषा.कृ.10</td>
+    <td>श्रा.शु.6</td>
+    <td rowspan=3>पौषकृ.11</td>
+    <td rowspan=3>चैत्रशु.13</td>
+  </tr>
+  <tr>
+    <th>ति.प.</th>
+    <td>मार्ग.शु.15</td>
+    <td>श्रा.शु.11</td>
+    <td>आश्वि.कृ.13</td>
+    <td>माघ शु.14</td>
+    <td>ज्येष्ठ शु.12</td>
+    <td>आश्वि.शु.12 माघ कृ.12</td>
+    <td>आषा.शु.10</td>
+    <td>वैशा.शु.13</td>
+  </tr>
+  <tr>
+    <th>ह.पु.</th>
+    <td>मार्ग.शु.15</td>
+    <td>श्रा.शु.11</td>
+    <td>कार्ति.कृ.13</td>
+    <td>माघ शु.14</td>
+    <td>ज्येष्ठ कृ.14</td>
+    <td>आश्वि.शु.12 माघ कृ.12</td>
+    <td>आषा.कृ.10</td>
+    <td>वैशा.शु.13</td>
+  </tr>
+  <tr>
+    <th rowspan=4>जन्म नक्षत्र</th>
+    <th>ति.प.</th>
+    <td rowspan=4>उत्तराषाढा</td>
+    <td rowspan=4>रोहिणी</td>
+    <td>ज्येष्ठा</td>
+    <td rowspan=4>पुनर्वसु</td>
+    <td rowspan=3>मघा    </td>
+    <td rowspan=4>चित्रा</td>
+    <td rowspan=4>विशाखा</td>
+    <td rowspan=4>अनुराधा</td>
+    <td rowspan=4>मूल</td>
+    <td rowspan=4>पूर्वाषाढा</td>
+    <td rowspan=4>श्रवण</td>
+    <td>विशाखा           </td>
+    <td>पूर्वभाद्रपदा</td>
+    <td rowspan=4>रेवती</td>
+    <td rowspan=4>पुष्य</td>
+    <td rowspan=4>भरणी</td>
+    <td rowspan=4>कृत्तिका</td>
+    <td rowspan=3>रोहिणी</td>
+    <td rowspan=4>अश्चिनी</td>
+    <td rowspan=4>श्रवण</td>
+    <td rowspan=3>अश्विनी</td>
+    <td rowspan=4>चित्रा</td>
+    <td rowspan=4>विशाखा</td>
+    <td rowspan=4>उत्तरा-फाल्गुनी</td>
+  </tr>
+  <tr>
+    <th>प.पु.</th>
+    <td>पूर्वाषाढा,मृगशिरा</td>
+    <td>शतभिषा           </td>
+    <td>उत्तरा भाद्रपदा</td>
+  </tr>
+  <tr>
+    <th>ह.पु.</th>
+    <td>ज्येष्ठा</td>
+    <td>शतभिषा           </td>
+    <td>उत्तरा भाद्रपदा</td>
+  </tr>
+  <tr>
+    <th>म.पु.</th>
+    <td>पूर्वाषाढा,मृगशिरा</td>
+    <td>चित्रा    </td>
+    <td>विशाखा           </td>
+    <td> </td>
+    <td>पुष्य</td>
+    <td>स्वाति</td>
+  </tr>
+  <tr>
+    <th>योग</th>
+    <th>म.पु.</th>
+    <td> </td>
+    <td>प्रजेशयोग</td>
+    <td>साम्ययोग</td>
+    <td>अदितियोग</td>
+    <td>पितृ</td>
+    <td>त्वष्ट्रयोग</td>
+    <td>अग्निमित्र</td>
+    <td>शक्र</td>
+    <td>जैत्र</td>
+    <td>विश्व</td>
+    <td>विष्णु</td>
+    <td>वारुण</td>
+    <td>अहिर्बुध्न</td>
+    <td>पूषा</td>
+    <td>गुरु</td>
+    <td>याम्य</td>
+    <td>आग्नेय</td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td>ब्रह्म</td>
+    <td>अनिल</td>
+    <td>अर्यमा</td>
+  </tr>
+  <tr>
+    <th colspan=2>ऊंचाई</th>
+    <td>500 ध.</td>
+    <td>450 ध.</td>
+    <td>400 ध.</td>
+    <td>350 ध.</td>
+    <td>300 ध.</td>
+    <td>250 ध.</td>
+    <td>200 ध.</td>
+    <td>150 ध.</td>
+    <td>100 ध.</td>
+    <td>90 ध.</td>
+    <td>80 ध.</td>
+    <td>70 ध.</td>
+    <td>60 ध.</td>
+    <td>50 ध.</td>
+    <td>45 ध.</td>
+    <td>40 ध.</td>
+    <td>35 ध.</td>
+    <td>30 ध.</td>
+    <td>25 ध.</td>
+    <td>20 ध.</td>
+    <td>15 ध.</td>
+    <td>10 ध.</td>
+    <td>9 हाथ</td>
+    <td>7 हाथ</td>
+  </tr>
+  <tr>
+    <th colspan=2>वर्ण</th>
+    <td>स्वर्ण</td>
+    <td>स्वर्ण  </td>
+    <td>स्वर्ण</td>
+    <td>स्वर्ण</td>
+    <td>स्वर्ण</td>
+    <td>रक्त</td>
+    <td>हरित</td>
+    <td>धवल</td>
+    <td>धवल</td>
+    <td>स्वर्ण</td>
+    <td>स्वर्ण  </td>
+    <td>रक्त</td>
+    <td>स्वर्ण</td>
+    <td>स्वर्ण</td>
+    <td>स्वर्ण</td>
+    <td>स्वर्ण</td>
+    <td>स्वर्ण</td>
+    <td>स्वर्ण</td>
+    <td>स्वर्ण</td>
+    <td>नील    </td>
+    <td>स्वर्ण</td>
+    <td>नील</td>
+    <td>हरित</td>
+    <td>स्वर्ण</td>
+  </tr>
+  <tr>
+    <th rowspan=4>नाम निर्देश</th>
+    <th>म.पु.</th>
+    <td rowspan=4>ऋषभ  </td>
+    <td rowspan=4>अजित </td>
+    <td rowspan=4>संभव</td>
+    <td rowspan=4>अभिनंदन</td>
+    <td rowspan=4>सुमति</td>
+    <td rowspan=4>पद्मप्रभु</td>
+    <td rowspan=4>सुपार्श्व           </td>
+    <td rowspan=4>चंद्रप्रभु           </td>
+    <td>सुविधि</td>
+    <td rowspan=4>शीतलनाथ</td>
+    <td rowspan=3>श्रेयान्सनाथ</td>
+    <td rowspan=4>वासुपूज्य</td>
+    <td rowspan=4>विमलनाथ</td>
+    <td rowspan=3>अनंतनाथ</td>
+    <td rowspan=4>धर्मनाथ</td>
+    <td rowspan=4>शांतिनाथ</td>
+    <td rowspan=4>कुंथुनाथ</td>
+    <td rowspan=4>अरनाथ</td>
+    <td rowspan=4>मल्लिनाथ</td>
+    <td>मुनिसुव्रत</td>
+    <td rowspan=4>नमिनाथ</td>
+    <td rowspan=4>नेमिनाथ</td>
+    <td rowspan=4>पार्श्वनाथ</td>
+    <td rowspan=2>वर्द्धमान</td>
+  </tr>
+  <tr>
+    <th>ति.प.</th>
+    <td>पुष्पदंत</td>
+    <td rowspan=2>सुव्रतनाथ</td>
+  </tr>
+  <tr>
+    <th>प.पु.</th>
+    <td rowspan=2>सुविधि</td>
+    <td rowspan=2>महावीर</td>
+  </tr>
+  <tr>
+    <th>ह.पु.</th>
+    <td>श्रेयोनाथ</td>
+    <td>अनंतजित</td>
+    <td>मुनिसुव्रत</td>
+  </tr>
+  <tr>
+    <th rowspan=2>वैराग्य कारण     </th>
+    <th>ति.प.</th>
+    <td rowspan=2>नीलांजना मरण   </td>
+    <td rowspan=2>उल्कापात</td>
+    <td rowspan=2>मेघ</td>
+    <td>गंधर्व नगर</td>
+    <td rowspan=2>जातिस्मरण</td>
+    <td rowspan=2>जातिस्मरण</td>
+    <td>पतझड़</td>
+    <td>तड़िद्</td>
+    <td rowspan=2>उल्कापात</td>
+    <td>हिमनाश</td>
+    <td>पतझड़</td>
+    <td>जातिस्मरण</td>
+    <td>मेघ</td>
+    <td rowspan=2>उल्कापात</td>
+    <td rowspan=2>उल्कापात</td>
+    <td>जातिस्मरण</td>
+    <td rowspan=2>जातिस्मरण</td>
+    <td rowspan=2>मेघ</td>
+    <td>तड़िद्</td>
+    <td>जातिस्मरण</td>
+    <td rowspan=2>जातिस्मरण</td>
+    <td>जातिस्मरण</td>
+    <td rowspan=2>जातिस्मरण</td>
+    <td rowspan=2>जातिस्मरण</td>
+  </tr>
+  <tr>
+    <th>म.पु.</th>
+    <td>मेघ</td>
+    <td>ऋतु परिवर्तन</td>
+    <td>ऋतु परि.</td>
+    <td>हिम</td>
+    <td>बसंत-वि.</td>
+    <td>चिंतवन</td>
+    <td>हिम</td>
+    <td>दर्पण</td>
+    <td>जातिस्मरण</td>
+    <td>हाथी का संयम</td>
+    <td>पशुक्रंदन</td>
+  </tr>
+  <tr>
+    <th rowspan=3>दीक्षा तिथि</th>
+    <th>म.पु.</th>
+    <td rowspan=3>चैत्र कृ.9</td>
+    <td rowspan=3>माघ शु.9</td>
+    <td> </td>
+    <td rowspan=3>माघ शु.12</td>
+    <td rowspan=3>वैशा.शु.9</td>
+    <td rowspan=3>कार्ति कृ.13</td>
+    <td rowspan=3>ज्येष्ठ शु.12</td>
+    <td rowspan=3>पौष कृ.11</td>
+    <td rowspan=3>मार्ग.शु.1</td>
+    <td rowspan=3>मार्ग.कृ.12</td>
+    <td rowspan=3>फा.कृ.11</td>
+    <td rowspan=3>फा.कृ.14</td>
+    <td rowspan=3>माघ शु.4</td>
+    <td rowspan=3>ज्येष्ठ कृ.12</td>
+    <td>माघ शु.13</td>
+    <td rowspan=2>ज्येष्ठ कृ.14</td>
+    <td rowspan=3>वैशा.शु.1</td>
+    <td rowspan=3>मार्ग.शु.10</td>
+    <td rowspan=2>मार्ग.शु.11</td>
+    <td rowspan=2>वैशा.कृ.10</td>
+    <td rowspan=2>आषा.कृ.10</td>
+    <td>श्रा.शु.6</td>
+    <td rowspan=3>पौष कृ.11</td>
+    <td rowspan=3>मार्ग.कृ.10</td>
+  </tr>
+  <tr>
+    <th>ति.प.</th>
+    <td>मार्ग.शु.15</td>
+    <td>भाद्र शु.13</td>
+    <td>माघ शु.11</td>
+  </tr>
+  <tr>
+    <th>ह.पु.</th>
+    <td>मार्ग.शु.15</td>
+    <td>माघ शु.13</td>
+    <td>ज्येष्ठ कृ.13</td>
+    <td>मार्ग.शु.1</td>
+    <td>वैशा.कृ.9 श्रा.शु.7 16+56</td>
+    <td>श्रा.शु.4</td>
+    <td>श्रा.शु.6</td>
+  </tr>
+  <tr>
+    <th rowspan=2>दीक्षा नक्षत्र</th>
+    <th>ति.प.</th>
+    <td>उत्तराषाढा</td>
+    <td>रोहिणी</td>
+    <td rowspan=2>ज्येष्ठा</td>
+    <td rowspan=2>पुनर्वसु</td>
+    <td rowspan=2>मघा</td>
+    <td rowspan=2>चित्रा</td>
+    <td rowspan=2>विशाखा</td>
+    <td rowspan=2>अनुराधा</td>
+    <td rowspan=2>अनुराधा</td>
+    <td>मूल</td>
+    <td rowspan=2>श्रवण</td>
+    <td rowspan=2>विशाखा</td>
+    <td rowspan=2>उ.भाद्रपदा</td>
+    <td rowspan=2>रेवती</td>
+    <td rowspan=2>पुष्य</td>
+    <td rowspan=2>भरणी</td>
+    <td rowspan=2>कृत्तिका</td>
+    <td rowspan=2>रेवती</td>
+    <td rowspan=2>अश्विनी</td>
+    <td rowspan=2>श्रवण</td>
+    <td rowspan=2>अश्विनी</td>
+    <td rowspan=2>चित्रा</td>
+    <td rowspan=2>विशाखा</td>
+    <td rowspan=2>उत्तरा फा.</td>
+  </tr>
+  <tr>
+    <th>म.पु.</th>
+    <td>उत्तराषाढा</td>
+    <td>रोहिणी</td>
+    <td>पूर्वाषाढा</td>
+  </tr>
+  <tr>
+    <th rowspan=3>दीक्षा काल</th>
+    <th>ति.प.</th>
+    <td rowspan=2>अपराह्न</td>
+    <td rowspan=2>अपराह्न</td>
+    <td rowspan=3>अपराह्न</td>
+    <td>पूर्वाह्न</td>
+    <td rowspan=2>पूर्वाह्न</td>
+    <td>अपराह्न</td>
+    <td>पूर्वाह्न</td>
+    <td rowspan=3>अपराह्न</td>
+    <td rowspan=2>अपराह्न</td>
+    <td rowspan=2>अपराह्न</td>
+    <td rowspan=2>पूर्वाह्न</td>
+    <td rowspan=2>अपराह्न</td>
+    <td rowspan=2>अपराह्न</td>
+    <td rowspan=2>अपराह्न</td>
+    <td rowspan=2>अपराह्न</td>
+    <td rowspan=3>अपराह्न</td>
+    <td rowspan=2>अपराह्न</td>
+    <td rowspan=2>अपराह्न</td>
+    <td rowspan=2>पूर्वाह्न</td>
+    <td rowspan=2>अपराह्न</td>
+    <td rowspan=2>अपराह्न</td>
+    <td>अपराह्न</td>
+    <td rowspan=2>पूर्वाह्न</td>
+    <td rowspan=2>अपराह्न</td>
+  </tr>
+  <tr>
+    <th>ह.पु.</th>
+    <td>अपराह्न सायंकाल</td>
+    <td>संध्या</td>
+    <td>अपराह्न</td>
+    <td>पूर्वाह्न</td>
+  </tr>
+  <tr>
+    <th>म.पु.</th>
+    <td>सायंकाल</td>
+    <td>सायंकाल</td>
+    <td>अपराह्न सायंकाल</td>
+    <td>प्रात:</td>
+    <td>अपराह्न</td>
+    <td> संध्या</td>
+    <td>सायंकाल</td>
+    <td>सायंकाल</td>
+    <td>प्रात:</td>
+    <td>सायंकाल</td>
+    <td>सायंकाल</td>
+    <td>सायंकाल</td>
+    <td>सायंकाल</td>
+    <td>सायंकाल</td>
+    <td>संध्या</td>
+    <td>सायंकाल</td>
+    <td>सायंकाल</td>
+    <td>सायंकाल</td>
+    <td> सायंकाल</td>
+    <td>प्रात:</td>
+    <td>संध्या</td>
+  </tr>
+  <tr>
+    <th rowspan=2>दीक्षोपवास      </th>
+    <th>ति.प.</th>
+    <td>षष्ठोपवास</td>
+    <td>अष्ट भक्त</td>
+    <td>तृतीय उप.</td>
+    <td>तृतीय उप.</td>
+    <td>तृतीय उप.</td>
+    <td>तृतीय भक्त</td>
+    <td>तृतीय भक्त</td>
+    <td>तृतीय उप.</td>
+    <td>तृतीय भक्त</td>
+    <td>तृतीय उप.</td>
+    <td>तृतीय भक्त</td>
+    <td>एक उप.</td>
+    <td>तृतीय उप.</td>
+    <td>तृतीय भक्त</td>
+    <td>तृतीय भक्त</td>
+    <td>तृतीय उप.</td>
+    <td>तृतीय भक्त</td>
+    <td>तृतीय भक्त</td>
+    <td>षष्ठ भक्त</td>
+    <td>तृतीय उप.</td>
+    <td>तृतीय भक्त</td>
+    <td>तृतीय भक्त</td>
+    <td>षष्ठ भक्त</td>
+    <td>तृतीय भक्त</td>
+  </tr>
+  <tr>
+    <th>ह.पु.</th>
+    <td>बेला     </td>
+    <td>बेला</td>
+    <td>बेला</td>
+    <td>बेला</td>
+    <td>तेला    </td>
+    <td>बेला     </td>
+    <td>बेला     </td>
+    <td>बेला     </td>
+    <td>बेला     </td>
+    <td>बेला     </td>
+    <td>बेला     </td>
+    <td>1 उपवास</td>
+    <td>बेला</td>
+    <td>बेला</td>
+    <td>बेला</td>
+    <td>बेला     </td>
+    <td>बेला     </td>
+    <td>बेला     </td>
+    <td>तेला    </td>
+    <td>बेला     </td>
+    <td>बेला</td>
+    <td>बेला</td>
+    <td>एक उपवास</td>
+    <td>बेला</td>
+  </tr>
+  <tr>
+    <th rowspan=2>दीक्षा वन</th>
+    <th>ति.प.</th>
+    <td rowspan=2>सिद्धार्थ</td>
+    <td rowspan=2>सहेतुक</td>
+    <td rowspan=2>सहेतुक</td>
+    <td>उग्र</td>
+    <td rowspan=2>सहेतुक</td>
+    <td rowspan=2>मनोहर</td>
+    <td rowspan=2>सहेतुक</td>
+    <td>सर्वार्थ</td>
+    <td>पुष्प</td>
+    <td rowspan=2>सहेतुक</td>
+    <td rowspan=2>मनोहर</td>
+    <td rowspan=2>मनोहर</td>
+    <td rowspan=2>सहेतुक</td>
+    <td rowspan=2>सहेतुक</td>
+    <td>शालि</td>
+    <td>आम्रवन</td>
+    <td rowspan=2>सहेतुक</td>
+    <td rowspan=2>सहेतुक</td>
+    <td>शालि</td>
+    <td>नील</td>
+    <td>चैत्र</td>
+    <td>सहकार</td>
+    <td>अश्वत्थ</td>
+    <td>नाथ</td>
+  </tr>
+  <tr>
+    <th>म.पु.</th>
+    <td>अग्रोद्यान</td>
+    <td>सुवर्तक</td>
+    <td>पुष्पक</td>
+    <td>शाल</td>
+    <td>सहस्राम्र</td>
+    <td>श्वेत</td>
+    <td>नीलोद्यान</td>
+    <td>चैत्रोद्यान</td>
+    <td>सहस्रार</td>
+    <td>अश्ववन</td>
+    <td>षंडवन</td>
+  </tr>
+  <tr>
+    <th rowspan=2>दीक्षा वृक्ष</th>
+    <th>प.पु.</th>
+    <td rowspan=2>वट</td>
+    <td rowspan=2>सप्तवर्ण</td>
+    <td>शाल</td>
+    <td>सरल</td>
+    <td rowspan=2>प्रियंगु</td>
+    <td rowspan=2>प्रियंगु</td>
+    <td rowspan=2>श्रीष</td>
+    <td rowspan=2>नाग</td>
+    <td>साल</td>
+    <td>प्लक्ष</td>
+    <td>तेंदु</td>
+    <td>पाटला</td>
+    <td rowspan=2>जंबू</td>
+    <td>पीपल</td>
+    <td>दधिपर्ण</td>
+    <td>नंद</td>
+    <td rowspan=2>तिलक</td>
+    <td rowspan=2>आम्र</td>
+    <td rowspan=2>अशोक</td>
+    <td rowspan=2>चंपक</td>
+    <td rowspan=2>बकुल</td>
+    <td>मेषशृंग</td>
+    <td>धव</td>
+    <td rowspan=2>साल</td>
+  </tr>
+  <tr>
+    <th>म.पु.</th>
+    <td>शाल्मलि</td>
+    <td>असन</td>
+    <td>नाग</td>
+    <td>बेल</td>
+    <td>तुंबुर</td>
+    <td>कदंब</td>
+    <td>अश्वत्थ</td>
+    <td>सप्तच्छद</td>
+    <td>नंद्यावर्त</td>
+    <td>बांस</td>
+    <td>देवदारु</td>
+  </tr>
+  <tr>
+    <th colspan=2>सह दीक्षित</th>
+    <td>4000</td>
+    <td>1000</td>
+    <td>1000</td>
+    <td>1000</td>
+    <td>1000</td>
+    <td>1000</td>
+    <td>1000</td>
+    <td>1000</td>
+    <td>1000</td>
+    <td>1000</td>
+    <td>1000</td>
+    <td>606</td>
+    <td>1000</td>
+    <td>1000</td>
+    <td>1000</td>
+    <td>1000</td>
+    <td>1000</td>
+    <td>1000</td>
+    <td>300</td>
+    <td>2000</td>
+    <td>2000</td>
+    <td>2000</td>
+    <td>300</td>
+    <td>एकाकी</td>
+  </tr>
+  <tr>
+    <th rowspan=3>केवलज्ञान तिथि</th>
+    <th>ति.प.</th>
+    <td rowspan=2>फा.कृ.11</td>
+    <td>पौष शु.14</td>
+    <td rowspan=2>का.कृ.5</td>
+    <td>का.शु.5</td>
+    <td>पौष शु.15</td>
+    <td>वैशा.शु.10</td>
+    <td rowspan=2>फा.कृ.7</td>
+    <td rowspan=3>फा.कृ.7</td>
+    <td rowspan=2>का.शु.3</td>
+    <td rowspan=3>पौष कृ.14</td>
+    <td rowspan=3>माघ कृ.15</td>
+    <td rowspan=3>माघ शु.2</td>
+    <td rowspan=2>पौष शु.10</td>
+    <td rowspan=3>चैत्र कृ.15</td>
+    <td rowspan=3>पौष शु.15</td>
+    <td rowspan=2>पौष शु.11</td>
+    <td rowspan=3>चैत्र शु.3</td>
+    <td rowspan=3>का.शु.12</td>
+    <td rowspan=2>फा.कृ.12</td>
+    <td>फा.कृ.6</td>
+    <td rowspan=2>चैत्र शु.3</td>
+    <td rowspan=2>आश्वि.शु.1</td>
+    <td rowspan=2>चैत्र कृ.4</td>
+    <td rowspan=3>वै.शु.10</td>
+  </tr>
+  <tr>
+    <th>ह.पु.</th>
+    <td>फा.कृ.11</td>
+    <td>पौष शु.15</td>
+    <td>चैत्र शु.10</td>
+    <td>चैत्र शु.10</td>
+    <td>मार्ग.शु.5</td>
+  </tr>
+  <tr>
+    <th>म.पु.</th>
+    <td>फा.कृ.11</td>
+    <td>पौष शु.11</td>
+    <td>का.कृ.4</td>
+    <td>पौष शु.14</td>
+    <td>चैत्र शु.11</td>
+    <td>चैत्र शु.15</td>
+    <td>फा.कृ.6</td>
+    <td>का.शु.2</td>
+    <td>माघ शु.6</td>
+    <td>पौष शु.10</td>
+    <td>मार्ग.शु.11</td>
+    <td>चैत्र कृ.10</td>
+    <td>मार्ग.शु.11</td>
+    <td>आश्वि.कृ.1</td>
+    <td>चैत्र कृ.13</td>
+  </tr>
+  <tr>
+    <th rowspan=2>केवलज्ञान नक्षत्र</th>
+    <th>ति.प.</th>
+    <td rowspan=2>उत्तराषाढा</td>
+    <td rowspan=2>रोहिणी</td>
+    <td>ज्येष्ठा</td>
+    <td rowspan=2>पुनर्वसु</td>
+    <td rowspan=2>हस्त</td>
+    <td rowspan=2>चित्रा</td>
+    <td rowspan=2>विशाखा</td>
+    <td rowspan=2>अनुराधा</td>
+    <td rowspan=2>मूल</td>
+    <td rowspan=2>पूर्वाषाढा</td>
+    <td rowspan=2>श्रवण</td>
+    <td rowspan=2>विशाखा</td>
+    <td>उत्तराषाढा</td>
+    <td rowspan=2>रेवती</td>
+    <td rowspan=2>पुष्य</td>
+    <td rowspan=2>भरणी</td>
+    <td rowspan=2>कृत्तिका</td>
+    <td rowspan=2>रेवती</td>
+    <td rowspan=2>अश्विनी</td>
+    <td rowspan=2>श्रवण</td>
+    <td rowspan=2>अश्विनी</td>
+    <td rowspan=2>चित्रा</td>
+    <td rowspan=2>विशाखा</td>
+    <td>मघा</td>
+  </tr>
+  <tr>
+    <th>म.पु.</th>
+    <td>मृगशिरा</td>
+    <td>उत्तराभाद्रा</td>
+    <td>हस्त व उत्तराफागुनी</td>
+  </tr>
+  <tr>
+    <th rowspan=3>केवलोत्पत्ति काल</th>
+    <th>ति.प.</th>
+    <td rowspan=3>पूर्वाह्न</td>
+    <td rowspan=2>अपराह्न</td>
+    <td rowspan=2>अपराह्न</td>
+    <td rowspan=2>अपराह्न</td>
+    <td rowspan=2>अपराह्न</td>
+    <td rowspan=3>अपराह्न</td>
+    <td rowspan=2>अपराह्न</td>
+    <td rowspan=2>अपराह्न</td>
+    <td rowspan=2>अपराह्न</td>
+    <td rowspan=2>अपराह्न</td>
+    <td>अपराह्न</td>
+    <td rowspan=2>अपराह्न</td>
+    <td rowspan=2>अपराह्न</td>
+    <td rowspan=2>अपराह्न</td>
+    <td rowspan=2>अपराह्न</td>
+    <td rowspan=2>अपराह्न</td>
+    <td rowspan=2>अपराह्न</td>
+    <td>अपराह्न</td>
+    <td>अपराह्न</td>
+    <td>पूर्वाह्न</td>
+    <td rowspan=2>अपराह्न</td>
+    <td rowspan=2>पूर्वाह्न</td>
+    <td rowspan=2>पूर्वाह्न</td>
+    <td rowspan=3>अपराह्न</td>
+  </tr>
+  <tr>
+    <th>ह.पु.</th>
+    <td>पूर्वाह्न</td>
+    <td>अपराह्न</td>
+    <td>पूर्वाह्न</td>
+    <td>अपराह्न</td>
+  </tr>
+  <tr>
+    <th>म.पु.</th>
+    <td>संध्या</td>
+    <td>संध्या</td>
+    <td>संध्या</td>
+    <td>सूर्यास्त</td>
+    <td>सायं</td>
+    <td>सायं</td>
+    <td>सायं</td>
+    <td>सायं</td>
+    <td>सायं</td>
+    <td>सायं</td>
+    <td>सायं</td>
+    <td>सायं</td>
+    <td>सायं</td>
+    <td>सायं</td>
+    <td>सायं</td>
+    <td>सायं</td>
+    <td>प्रात:</td>
+    <td>सायं</td>
+    <td>सायं</td>
+    <td>प्रात:</td>
+    <td>प्रात:</td>
+  </tr>
+  <tr>
+    <th rowspan=13>निर्वाण</th>
+    <th rowspan=3>निर्वाण तिथि</th>
+    <th>म.पु.</th>
+    <td rowspan=3>माघ. कृ.14</td>
+    <td rowspan=3>चैत्र शु.5</td>
+    <td rowspan=3>चैत्र शु.6</td>
+    <td rowspan=2>वै.शु.7</td>
+    <td rowspan=2>चैत्र शु.10</td>
+    <td rowspan=3>फा.कृ.4</td>
+    <td rowspan=2>फा.कृ.6</td>
+    <td rowspan=2>भाद्र.शु.7</td>
+    <td>आश्वि.शु.8</td>
+    <td>का.शु.5</td>
+    <td rowspan=3>श्रा.शु.15</td>
+    <td rowspan=2>फा.कृ.5</td>
+    <td rowspan=3>आषा.शु.8</td>
+    <td rowspan=3>चैत्र कृ.15</td>
+    <td>ज्येष्ठकृ.14</td>
+    <td rowspan=3>ज्येष्ठकृ.14</td>
+    <td rowspan=3>वै.शु.1</td>
+    <td rowspan=3>चैत्र कृ.15</td>
+    <td rowspan=2>फा.कृ.5</td>
+    <td>फा.कृ.12</td>
+    <td rowspan=3>वै.कृ.14</td>
+    <td rowspan=2>आषा.कृ.8</td>
+    <td rowspan=3>श्रा.शु.7</td>
+    <td rowspan=3>का.कृ.14</td>
+  </tr>
+  <tr>
+    <th>ति.प.</th>
+    <td rowspan=2>भाद्र.शु.8</td>
+    <td>आश्वि.शु.5</td>
+    <td rowspan=2>ज्येष्ठ शु.4</td>
+    <td>माघ शु.13</td>
+  </tr>
+  <tr>
+    <th>ह.पु.</th>
+    <td>वै.शु.6</td>
+    <td>चै.शु.11</td>
+    <td>फा.शु.7</td>
+    <td>फा.शु.7</td>
+    <td> आश्वि.शु.8</td>
+    <td>भाद्र.शु.14</td>
+    <td>फा.शु.7</td>
+    <td>माघ शु.13</td>
+    <td> आषा.शु.7</td>
+  </tr>
+  <tr>
+    <th rowspan=3>निर्वाण नक्षत्र</th>
+    <th>ति.प.</th>
+    <td rowspan=2>उत्तराषाढ़ा</td>
+    <td>भरणी</td>
+    <td rowspan=2>ज्येष्ठा</td>
+    <td rowspan=3>पुनर्वसु</td>
+    <td rowspan=3>मघा</td>
+    <td rowspan=3>चित्रा</td>
+    <td rowspan=2>अनुराधा</td>
+    <td rowspan=3>ज्येष्ठा</td>
+    <td rowspan=3>मूल</td>
+    <td rowspan=3>पूर्वाषाढा</td>
+    <td rowspan=3>धनिष्ठा</td>
+    <td rowspan=2>अश्विनी</td>
+    <td>पूर्व भाद्रपद</td>
+    <td rowspan=3>रेवती</td>
+    <td rowspan=3>पुष्य</td>
+    <td rowspan=3>भरणी</td>
+    <td rowspan=3>कृत्तिका</td>
+    <td rowspan=2>रोहिणी</td>
+    <td rowspan=3>भरणी</td>
+    <td>श्रवण</td>
+    <td>अश्विनी</td>
+    <td rowspan=3>चित्रा</td>
+    <td rowspan=3>विशाखा</td>
+    <td rowspan=3>स्वाति</td>
+  </tr>
+  <tr>
+    <th>ह.पु.</th>
+    <td>रोहिणी</td>
+    <td>उत्तराभाद्र</td>
+    <td rowspan=2>पुष्य</td>
+    <td> </td>
+  </tr>
+  <tr>
+    <th>म.पु.</th>
+    <td>अभिजित्</td>
+    <td>रोहिणी</td>
+    <td>मृगशिरा</td>
+    <td>विशाखा</td>
+    <td>विशाखा</td>
+    <td>उत्तराषाढा</td>
+    <td>रेवती</td>
+    <td> </td>
+  </tr>
+  <tr>
+    <th rowspan=3>निर्वाण काल</th>
+    <th>ति.प.</th>
+    <td rowspan=2>पूर्वाह्न</td>
+    <td rowspan=2>पूर्वाह्न</td>
+    <td rowspan=2>अपराह्न</td>
+    <td rowspan=2>पूर्वाह्न</td>
+    <td rowspan=2>पूर्वाह्न</td>
+    <td rowspan=3>अपराह्न</td>
+    <td rowspan=2>पूर्वाह्न</td>
+    <td rowspan=2>पूर्वाह्न</td>
+    <td rowspan=2>अपराह्न</td>
+    <td rowspan=2>पूर्वाह्न</td>
+    <td rowspan=2>पूर्वाह्न</td>
+    <td rowspan=2>अपराह्न</td>
+    <td rowspan=2>सायं</td>
+    <td rowspan=3>सायं</td>
+    <td rowspan=2>प्रात:</td>
+    <td rowspan=3>सायं</td>
+    <td rowspan=3>सायं</td>
+    <td rowspan=2>प्रात:</td>
+    <td rowspan=3>सायं</td>
+    <td>सायं</td>
+    <td rowspan=2>प्रात:</td>
+    <td rowspan=3>सायं</td>
+    <td rowspan=2>सायं</td>
+    <td rowspan=2>प्रात:</td>
+  </tr>
+  <tr>
+    <th>ह.पु.</th>
+    <td>अपराह्न</td>
+  </tr>
+  <tr>
+    <th>म.पु.</th>
+    <td>सूर्योदय</td>
+    <td>प्रात:</td>
+    <td>सूर्यास्त</td>
+    <td>प्रात:</td>
+    <td>संध्या</td>
+    <td>सूर्योदय</td>
+    <td>सायंकाल</td>
+    <td>सायंकाल</td>
+    <td>सायंकाल</td>
+    <td>सायंकाल</td>
+    <td>सायंकाल</td>
+    <td>प्रात:</td>
+    <td>अंतिम रात्रि</td>
+    <td>पूर्व रात्रि</td>
+    <td>अपर रात्रि</td>
+    <td>अंतिम रात्रि</td>
+    <td>प्रात:</td>
+    <td>अंतिम रात्रि</td>
+  </tr>
+  <tr>
+    <th colspan=2>निर्वाण क्षेत्र</th>
+    <td>कैलास</td>
+    <td>सम्मेद</td>
+    <td>सम्मेद</td>
+    <td>सम्मेद</td>
+    <td>सम्मेद</td>
+    <td>सम्मेद</td>
+    <td>सम्मेद</td>
+    <td>सम्मेद</td>
+    <td>सम्मेद</td>
+    <td>सम्मेद</td>
+    <td>सम्मेद</td>
+    <td>चंपापुर</td>
+    <td>सम्मेद</td>
+    <td>सम्मेद</td>
+    <td>सम्मेद</td>
+    <td>सम्मेद</td>
+    <td>सम्मेद</td>
+    <td>सम्मेद</td>
+    <td>सम्मेद</td>
+    <td>सम्मेद</td>
+    <td>सम्मेद</td>
+    <td>उर्जयंत</td>
+    <td>सम्मेद</td>
+    <td>पावापुरी</td>
+  </tr>
+  <tr>
+    <th rowspan=3>सह मुक्त</th>
+    <th>ति.प.</th>
+    <td rowspan=2>10,000</td>
+    <td rowspan=2>1000</td>
+    <td rowspan=3>1000</td>
+    <td rowspan=2>1000</td>
+    <td rowspan=3>1000</td>
+    <td>324</td>
+    <td rowspan=2>500</td>
+    <td rowspan=3>1000</td>
+    <td rowspan=3>1000</td>
+    <td rowspan=3>1000</td>
+    <td rowspan=3>1000</td>
+    <td rowspan=2>601</td>
+    <td>600</td>
+    <td rowspan=2>7000</td>
+    <td rowspan=2>801</td>
+    <td rowspan=2>900</td>
+    <td rowspan=3>1000</td>
+    <td rowspan=3>1000</td>
+    <td rowspan=2>500</td>
+    <td rowspan=3>1000</td>
+    <td rowspan=3>1000</td>
+    <td rowspan=2>536</td>
+    <td>36</td>
+    <td>एकाकी</td>
+  </tr>
+  <tr>
+    <th>ह.पु.</th>
+    <td>3800</td>
+    <td>6000</td>
+    <td>536</td>
+    <td>36</td>
+  </tr>
+  <tr>
+    <th>म.पु.</th>
+    <td> </td>
+    <td> </td>
+    <td>अनेक</td>
+    <td>1000</td>
+    <td>1000</td>
+    <td>94</td>
+    <td>8600</td>
+    <td>6100</td>
+    <td>900</td>
+    <td>9000</td>
+    <td>5000</td>
+    <td>533</td>
+    <td>36</td>
+    <td> </td>
+  </tr>
+  <tr>
+    <th rowspan=15>संघ</th>
+    <th rowspan=3>पूर्वधारी</th>
+    <th>ति.प.</th>
+    <td rowspan=3>4750</td>
+    <td rowspan=3>3750</td>
+    <td rowspan=3>2150</td>
+    <td rowspan=3>2500</td>
+    <td rowspan=3>2400</td>
+    <td rowspan=3>2300</td>
+    <td rowspan=3>2030</td>
+    <td>4000</td>
+    <td>1500</td>
+    <td rowspan=3>1400</td>
+    <td rowspan=3>1300</td>
+    <td rowspan=3>1200</td>
+    <td rowspan=3>1100</td>
+    <td rowspan=3>1000</td>
+    <td rowspan=3>900</td>
+    <td rowspan=3>800</td>
+    <td rowspan=3>700</td>
+    <td rowspan=3>610</td>
+    <td>550</td>
+    <td rowspan=3>500</td>
+    <td rowspan=3>450</td>
+    <td rowspan=3>400</td>
+    <td rowspan=3>350</td>
+    <td rowspan=3>300</td>
+  </tr>
+  <tr>
+    <th>ह.पु.</th>
+    <td>2000</td>
+    <td>5000</td>
+    <td>750</td>
+  </tr>
+  <tr>
+    <th>म.पु.</th>
+    <td>2000</td>
+    <td>1500</td>
+    <td>550</td>
+  </tr>
+  <tr>
+    <th rowspan=3>शिक्षक</th>
+    <th>ति.प.</th>
+    <td rowspan=3>4150</td>
+    <td rowspan=3>21600</td>
+    <td rowspan=3>129300</td>
+    <td rowspan=3>230050</td>
+    <td rowspan=3>254350</td>
+    <td rowspan=3>269000</td>
+    <td rowspan=3>244920</td>
+    <td>210400</td>
+    <td rowspan=3>155500</td>
+    <td rowspan=3>59200</td>
+    <td rowspan=3>48200</td>
+    <td rowspan=3>39200</td>
+    <td rowspan=3>38500</td>
+    <td rowspan=3>39500</td>
+    <td rowspan=3>40700</td>
+    <td rowspan=3>41800</td>
+    <td rowspan=3>43150</td>
+    <td rowspan=3>35835</td>
+    <td rowspan=3>29000</td>
+    <td rowspan=3>21000</td>
+    <td rowspan=3>12600</td>
+    <td rowspan=3>11800</td>
+    <td rowspan=3>10900</td>
+    <td rowspan=3>9900</td>
+  </tr>
+  <tr>
+    <th>ह.पु.</th>
+    <td rowspan=2>200400</td>
+  </tr>
+  <tr>
+    <th>म.पु.</th>
+  </tr>
+  <tr>
+    <th rowspan=3>अवधिज्ञानी</th>
+    <th>ति.प.</th>
+    <td rowspan=3>9000</td>
+    <td rowspan=3>9400</td>
+    <td rowspan=3>9600</td>
+    <td rowspan=3>9800</td>
+    <td rowspan=3>11000</td>
+    <td rowspan=3>10000</td>
+    <td rowspan=3>9000</td>
+    <td>2000</td>
+    <td rowspan=3>8400</td>
+    <td rowspan=3>7200</td>
+    <td rowspan=3>6000</td>
+    <td rowspan=3>5400</td>
+    <td rowspan=3>4800</td>
+    <td rowspan=3>4300</td>
+    <td rowspan=3>3600</td>
+    <td rowspan=3>3000</td>
+    <td rowspan=3>2500</td>
+    <td rowspan=3>2800</td>
+    <td rowspan=3>2200</td>
+    <td rowspan=3>1800</td>
+    <td rowspan=3>1600</td>
+    <td rowspan=3>1500</td>
+    <td rowspan=3>1400</td>
+    <td rowspan=3>1300</td>
+  </tr>
+  <tr>
+    <th>ह.पु.</th>
+    <td>8000</td>
+  </tr>
+  <tr>
+    <th>म.पु.</th>
+    <td>8000</td>
+  </tr>
+  <tr>
+    <th rowspan=3>केवली</th>
+    <th>ति.प.</th>
+    <td rowspan=3>20000</td>
+    <td rowspan=3>20000</td>
+    <td rowspan=3>15000</td>
+    <td rowspan=3>16000</td>
+    <td rowspan=3>13000</td>
+    <td>12000</td>
+    <td>11000</td>
+    <td>18000</td>
+    <td>7500</td>
+    <td rowspan=3>7000</td>
+    <td rowspan=3>6500</td>
+    <td rowspan=3>6000</td>
+    <td rowspan=3>5500</td>
+    <td rowspan=3>5000</td>
+    <td rowspan=3>4500</td>
+    <td rowspan=3>4000</td>
+    <td rowspan=3>3200</td>
+    <td rowspan=3>2800</td>
+    <td>2200</td>
+    <td rowspan=3>1800</td>
+    <td rowspan=3>1600</td>
+    <td rowspan=3>1500</td>
+    <td rowspan=3>1000</td>
+    <td rowspan=3>700</td>
+  </tr>
+  <tr>
+    <th>ह.पु.</th>
+    <td> </td>
+    <td>11300</td>
+    <td rowspan=2>10000</td>
+    <td>7500</td>
+    <td>2650</td>
+  </tr>
+  <tr>
+    <th>म.पु.</th>
+    <td>12000</td>
+    <td>11000</td>
+    <td>7000</td>
+    <td>2200</td>
+  </tr>
+  <tr>
+    <th rowspan=3>विक्रियाधारी</th>
+    <th>ति.प.</th>
+    <td rowspan=3>20600</td>
+    <td>20400</td>
+    <td>19800</td>
+    <td rowspan=3>19000</td>
+    <td rowspan=3>18400</td>
+    <td>16800</td>
+    <td>15300</td>
+    <td>600</td>
+    <td rowspan=3>13000</td>
+    <td rowspan=3>12000</td>
+    <td rowspan=3>11000</td>
+    <td rowspan=3>10000</td>
+    <td rowspan=3>9000</td>
+    <td rowspan=3>8000</td>
+    <td rowspan=3>7000</td>
+    <td rowspan=3>6000</td>
+    <td rowspan=3>5100</td>
+    <td rowspan=3>4300</td>
+    <td>2900</td>
+    <td rowspan=3>2200</td>
+    <td rowspan=3>1500</td>
+    <td rowspan=3>1100</td>
+    <td rowspan=3>1000</td>
+    <td rowspan=3>900</td>
+  </tr>
+  <tr>
+    <th>ह.पु.</th>
+    <td>20450</td>
+    <td>19850</td>
+    <td>16300</td>
+    <td>15150</td>
+    <td>10400</td>
+    <td>1400</td>
+  </tr>
+  <tr>
+    <th>म.पु.</th>
+    <td>20400</td>
+    <td>19800</td>
+    <td>16800</td>
+    <td>15300</td>
+    <td>14000</td>
+    <td>2900</td>
+  </tr>
+  <tr>
+    <th rowspan=8>पूर्व भव नं.2 (देवगति से पूर्व)</th>
+    <th rowspan=3>नाम</th>
+    <th>म.पु.</th>
+    <td>वज्रनाभि</td>
+    <td>विमलवाहन</td>
+    <td>विमलवाहन</td>
+    <td>महाबल</td>
+    <td>रतिषेण</td>
+    <td>अपराजित</td>
+    <td>नंदिषेण</td>
+    <td>पद्मनाभ</td>
+    <td>महापद्म</td>
+    <td>पद्मगुल्म</td>
+    <td>नलिनप्रभ</td>
+    <td>पद्मोत्तर</td>
+    <td>पद्मसेन</td>
+    <td>पद्मरथ </td>
+    <td>दशरथ </td>
+    <td>मेघरथ </td>
+    <td>सिंहरथ</td>
+    <td>धनपति</td>
+    <td>वैश्रवण</td>
+    <td>हरिवर्मा           </td>
+    <td>सिद्धार्थ</td>
+    <td>सुप्रतिष्ठ           </td>
+    <td>आनंद           </td>
+    <td>नंद   </td>
+  </tr>
+  <tr>
+    <th>प.पु.</th>
+    <td>वज्रनाभि</td>
+    <td>विमलवाहन</td>
+    <td>विपुलख्याति</td>
+    <td>विपुलवाहन</td>
+    <td>महाबल</td>
+    <td>अतिबल</td>
+    <td>अपराजित</td>
+    <td>नंदिषेण</td>
+    <td>पद्म      </td>
+    <td>महापद्म</td>
+    <td>पद्मोत्तर</td>
+    <td>पंकजगुल्म           </td>
+    <td>नलिनगुल्म           </td>
+    <td>पद्मासन           </td>
+    <td>पद्मरथ </td>
+    <td>दृढरथ  </td>
+    <td>महामेघरथ           </td>
+    <td>सिंहरथ</td>
+    <td>वैश्रवण</td>
+    <td>श्रीधर्म  </td>
+    <td>सुरश्रेष्ठ</td>
+    <td>सिद्धार्थ</td>
+    <td>आनंद           </td>
+    <td>सुनंद</td>
+  </tr>
+  <tr>
+    <th>ह.पु.</th>
+    <td>वज्रनाभि</td>
+    <td>विमल</td>
+    <td>विपुलवाहन</td>
+    <td>महाबल</td>
+    <td>अतिबल</td>
+    <td>अपराजित</td>
+    <td>नंदिषेण</td>
+    <td>पद्म</td>
+    <td>महापद्म</td>
+    <td>पद्मगुल्म</td>
+    <td>नलिनगुल्म</td>
+    <td>पद्मोत्तर</td>
+    <td>पद्मासन           </td>
+    <td>पद्म      </td>
+    <td>दशरथ </td>
+    <td>मेघरथ </td>
+    <td>सिंहरथ</td>
+    <td>धनपति</td>
+    <td>वैश्रवण</td>
+    <td>श्रीधर्म</td>
+    <td>सिद्धार्थ</td>
+    <td>सुप्रतिष्ठ           </td>
+    <td>आनंद           </td>
+    <td>नंदन </td>
+  </tr>
+  <tr>
+    <th>क्या थे</th>
+    <th>म.पु.</th>
+    <td>चक्रवर्ती           </td>
+    <td>मंडलेश्वर</td>
+    <td>मंडलेश्वर</td>
+    <td>मंडलेश्वर</td>
+    <td>मंडलेश्वर</td>
+    <td>मंडलेश्वर</td>
+    <td>मंडलेश्वर</td>
+    <td>मंडलेश्वर</td>
+    <td>मंडलेश्वर</td>
+    <td>मंडलेश्वर</td>
+    <td>मंडलेश्वर</td>
+    <td>मंडलेश्वर</td>
+    <td>मंडलेश्वर</td>
+    <td>मंडलेश्वर</td>
+    <td>मंडलेश्वर</td>
+    <td>मंडलेश्वर</td>
+    <td>मंडलेश्वर</td>
+    <td>मंडलेश्वर</td>
+    <td>मंडलेश्वर</td>
+    <td>मंडलेश्वर</td>
+    <td>मंडलेश्वर</td>
+    <td>मंडलेश्वर</td>
+    <td>मंडलेश्वर</td>
+    <td>मंडलेश्वर</td>
+  </tr>
+  <tr>
+    <th rowspan=2>पिता का नाम</th>
+    <th>प.पु.</th>
+    <td>वज्रसेन</td>
+    <td>महातेज</td>
+    <td>रिपुंदम</td>
+    <td>स्वयंप्रभ</td>
+    <td>विमलवाहन</td>
+    <td>सीमंधर</td>
+    <td>पिहितास्रव</td>
+    <td>अरिंदम           </td>
+    <td>युगंधर           </td>
+    <td>सर्वजनानंद</td>
+    <td>अभयानंद</td>
+    <td>वज्रदंत           </td>
+    <td>वज्रनाभि           </td>
+    <td>सर्वगुप्ति           </td>
+    <td>गुप्तिमान्           </td>
+    <td>चिंतारक्ष (घनरथ तीर्थंकर)           </td>
+    <td>विपुलवाहन</td>
+    <td>घनरव</td>
+    <td>धीर</td>
+    <td>संवर    </td>
+    <td>त्रिलोकीय</td>
+    <td>सुनंद</td>
+    <td>डामर   </td>
+    <td>प्रौष्ठिल </td>
+  </tr>
+  <tr>
+    <th>ह.पु.</th>
+    <td>वज्रसेन</td>
+    <td>अरिंदम</td>
+    <td>स्वयंप्रभ</td>
+    <td>विमलवाहन</td>
+    <td>सीमंधर</td>
+    <td>पिहितास्रव</td>
+    <td>अरिंदम</td>
+    <td>युगंधर           </td>
+    <td>सर्वजनानंद</td>
+    <td>उभयानंद</td>
+    <td>वज्रदत्त</td>
+    <td>वज्रनाभि           </td>
+    <td>सर्वगुप्त</td>
+    <td>त्रिगुप्त  </td>
+    <td>चित्तरक्ष           </td>
+    <td>विमलवाहन           </td>
+    <td>घनरथ</td>
+    <td>संवर</td>
+    <td>वरधर्म</td>
+    <td>सुनंद</td>
+    <td>नंद</td>
+    <td>व्यतीतशोक           </td>
+    <td>दामर   </td>
+    <td>प्रौष्ठिल </td>
+  </tr>
+  <tr>
+    <th rowspan=2>देश व नगर</th>
+    <th>म.पु.</th>
+    <td rowspan=2>जंबू-द्वीप,विदेह-क्षेत्र, पुंडरीकिणी</td>
+    <td>जंबू-द्वीप, विदेह-क्षेत्र, सुसीमा</td>
+    <td>जंबू-द्वीप, विदेह-क्षेत्र, क्षेमपुरी</td>
+    <td>जंबू-द्वीप, विदेह-क्षेत्र, रत्नसंचय</td>
+    <td>धातकी-खण्ड,विदेह-क्षेत्र,पुंडरीकिणी</td>
+    <td rowspan=2>धातकी-खण्ड,विदेह-क्षेत्र,सुसीमा</td>
+    <td rowspan=2>धातकी-खण्ड,विदेह-क्षेत्र,क्षेमपुरी</td>
+    <td>धातकी-खण्ड,विदेह-क्षेत्र,रत्नसंचय</td>
+    <td>पुष्कर.वि.पुंडरीकिणी           </td>
+    <td>पुष्करवर-द्वीप,.विदेह-क्षेत्र,सुसीमा</td>
+    <td>पुष्करवर-द्वीप,.विदेह-क्षेत्र,क्षेमपुरी</td>
+    <td rowspan=2>पुष्करवर-द्वीप,.विदेह-क्षेत्र,रत्नसंचय</td>
+    <td rowspan=2>धातकी-खण्ड,विदेह-क्षेत्र,महानगर           </td>
+    <td rowspan=2>धातकी-खण्ड,विदेह-क्षेत्र,अरिष्टा           </td>
+    <td>धातकी-खण्ड,विदेह-क्षेत्र,सुसीमा           </td>
+    <td rowspan=2>जंबू-द्वीप,विदेह-क्षेत्र,पुंडरीकिणी</td>
+    <td>जंबू-द्वीप, विदेह-क्षेत्र,सुसीमा</td>
+    <td rowspan=2>जंबू-द्वीप,विदेह-क्षेत्र,क्षेमपुरी</td>
+    <td rowspan=2>जंबू-द्वीप,विदेह-क्षेत्र,वीतशोका           </td>
+    <td rowspan=2>जंबू-द्वीप,भरत-क्षेत्र, चंपापुरी</td>
+    <td rowspan=2>जंबू-द्वीप,भरत-क्षेत्र, कौशांबी</td>
+    <td>जंबू-द्वीप, भरत-क्षेत्र, हस्तनागपुर    </td>
+    <td rowspan=2>जंबू-द्वीप,भरत-क्षेत्र,अयोध्या           </td>
+    <td rowspan=2>जंबू-द्वीप,भरत-क्षेत्र, छत्रपुर</td>
+  </tr>
+  <tr>
+    <th> प.पु. ह.पु.</th>
+    <td>पुंडरीकिणी</td>
+    <td>1.  ”</td>
+    <td>सुसीमा</td>
+    <td>सुसीमा</td>
+    <td>क्षेमा    </td>
+    <td>क्षेमा    </td>
+    <td>रत्नसंचयपुरी</td>
+    <td>रत्नसंचयपुरी           </td>
+    <td>1.सुमाद्रिका 2.मद्रिलपुर           </td>
+    <td>रत्नसंचय           </td>
+    <td>नागपुर</td>
+  </tr>
+  <tr>
+    <th rowspan=4>पूर्व भव (देव)</th>
+    <th rowspan=4>स्थान </th>
+    <th>म.पु.</th>
+    <td rowspan=4>सर्वार्थसिद्धि</td>
+    <td rowspan=2>विजय </td>
+    <td rowspan=4>अ.ग्रैवेयक</td>
+    <td rowspan=2>विजय</td>
+    <td>वैजयंत</td>
+    <td rowspan=4>ऊ.ग्रैवेयक</td>
+    <td rowspan=4>म.ग्रैवेयक</td>
+    <td rowspan=4>वैजयंत           </td>
+    <td>प्राणत</td>
+    <td>आरण</td>
+    <td rowspan=4>पुष्पोत्तर</td>
+    <td rowspan=2>महाशुक्र</td>
+    <td>सहस्रार</td>
+    <td rowspan=2>पुष्पोत्तर</td>
+    <td>सर्वार्थसि.</td>
+    <td rowspan=4>सर्वार्थसि.</td>
+    <td rowspan=4>सर्वार्थसि.</td>
+    <td>जयंत</td>
+    <td>अपराजित</td>
+    <td>प्राणत</td>
+    <td rowspan=2>अपराजित</td>
+    <td>जयंत</td>
+    <td rowspan=2>प्राणत</td>
+    <td rowspan=4>पुष्पोत्तर</td>
+  </tr>
+  <tr>
+    <th>ति.प.</th>
+    <td>जयंत</td>
+    <td>आरण</td>
+    <td>अच्युत</td>
+    <td>शतार</td>
+    <td> </td>
+    <td>अपारजित</td>
+    <td>अपराजित</td>
+    <td>आनत</td>
+    <td>अपराजित</td>
+  </tr>
+  <tr>
+    <th>प.पु.</th>
+    <td>वैजयंत</td>
+    <td>वैजयंत</td>
+    <td rowspan=2>वैजयंत</td>
+    <td> अपराजित</td>
+    <td>आरण</td>
+    <td>कापिष्ठ</td>
+    <td> महाशुक्र</td>
+    <td>सहस्रार</td>
+    <td>पुष्पोत्तर</td>
+    <td>सर्वार्थसिद्धि</td>
+    <td>विजय</td>
+    <td>अपराजित सहस्रार</td>
+    <td>प्राणत</td>
+    <td>आनत</td>
+    <td>वैजयंत</td>
+  </tr>
+  <tr>
+    <th>ह.पु.</th>
+    <td>विजय </td>
+    <td>विजय</td>
+    <td>आरण</td>
+    <td>अच्युत</td>
+    <td>महाशुक्र</td>
+    <td>शतार</td>
+    <td> </td>
+    <td>पुष्पोत्तर</td>
+    <td>जयंत</td>
+    <td>अपराजित</td>
+    <td>अपराजित सहस्रार</td>
+    <td>अपराजित</td>
+    <td>जयंत</td>
+    <td>सहस्रार</td>
+  </tr>
+</table>

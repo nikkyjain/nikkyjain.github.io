@@ -1,0 +1,805 @@
+﻿<table class=myAltTable>
+  <thead>
+  <tr>
+    <th colspan=3 rowspan=2>मार्गणा</th>
+    <th rowspan=2>गुणस्थान</th>
+    <th colspan=2>नाना जीव अपेक्षा काल</th>
+    <th colspan=2>एक जीव अपेक्षा काल</th>
+  </tr>
+  <tr>
+    <th>जघन्य</th>
+    <th>उत्कृष्ट</th>
+    <th>जघन्य</th>
+    <th>उत्कृष्ट</th>
+  </tr>
+  </thead>
+  <tr>
+    <th rowspan=30>गति</th>
+    <td class=head2 rowspan=6>नरक</td>
+    <td class=head2 rowspan=3>सामान्य</td>
+    <td class=head2>मिथ्यादृष्टि</td>
+    <td colspan=2>सर्व-काल</td>
+    <td>अंतर्मुहूर्त</td>
+    <td>३३ सागर</td>
+  </tr>
+  <tr>
+    <td class=head2>सासादन, सम्यग्मिथ्यादृष्टि</td>
+    <td colspan=4>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head2>असंयत सम्यग्दृष्टि</td>
+    <td colspan=2>सर्व-काल</td>
+    <td>अंतर्मुहूर्त</td>
+    <td>३३ सागर - ६ अंतर्मुहूर्त</td>
+  </tr>
+  <tr>
+    <td class=head2 rowspan=3>१ से ७</td>
+    <td class=head2>मिथ्यादृष्टि</td>
+    <td colspan=2>सर्व-काल</td>
+    <td>अंतर्मुहूर्त</td>
+    <td>१,३,७,१०,१७,२२,३३ सागर</td>
+  </tr>
+  <tr>
+    <td class=head2>सासादन, सम्यग्मिथ्यादृष्टि</td>
+    <td colspan=4>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head2>असंयत सम्यग्दृष्टि</td>
+    <td colspan=2>सर्व-काल</td>
+    <td>अंतर्मुहूर्त</td>
+    <td>( (१,३,७,१०,१७,२२ सागर) - ३ समय), (३३ सागर - ६ समय)</td>
+  </tr>
+  <tr>
+    <td class=head2 rowspan=9>तिर्यंच</td>
+    <td class=head2 rowspan=4>सामान्य</td>
+    <td class=head2>मिथ्यादृष्टि</td>
+    <td colspan=2>सर्व-काल</td>
+    <td>अंतर्मुहूर्त</td>
+    <td>अनन्त (असंख्यात (आवली के असंख्यात भाग) पुद्गल परिवर्तन)</td>
+  </tr>
+  <tr>
+    <td class=head2>सासादन, सम्यग्मिथ्यादृष्टि</td>
+    <td colspan=4>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head2>असंयत सम्यग्दृष्टि</td>
+    <td colspan=2>सर्व-काल</td>
+    <td>अंतर्मुहूर्त</td>
+    <td>तीन पल्य</td>
+  </tr>
+  <tr>
+    <td class=head2>संयतासंयत</td>
+    <td colspan=2>सर्व-काल</td>
+    <td>अंतर्मुहूर्त</td>
+    <td>पूर्व-कोटि - ३ अंतर्मुहूर्त</td>
+  </tr>
+  <tr>
+    <td class=head2 rowspan=4>पंचेन्द्रिय, पंचेन्द्रिय पर्याप्त, पंचेन्द्रिय योनिनी</td>
+    <td class=head2>मिथ्यादृष्टि</td>
+    <td colspan=2>सर्व-काल</td>
+    <td>अंतर्मुहूर्त</td>
+    <td>पृथक्त्व (९५, ४७, १५) पूर्व-कोटि + ३ पल्य</td>
+  </tr>
+  <tr>
+    <td class=head2>सासादन, सम्यग्मिथ्यादृष्टि</td>
+    <td colspan=4>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head2>असंयत सम्यग्दृष्टि</td>
+    <td colspan=2>सर्व-काल</td>
+    <td>अंतर्मुहूर्त</td>
+    <td>३ पल्य, ३ पल्य, ३ पल्य - (२ मास + पृथक्त्व अंतर्मुहूर्त)</td>
+  </tr>
+  <tr>
+    <td class=head2>संयतासंयत</td>
+    <td colspan=4>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head2 colspan=2>पंचेन्द्रिय लब्ध्यपर्याप्त</td>
+    <td colspan=2>सर्व-काल</td>
+    <td>क्षुद्र-भव ग्रहण काल</td>
+    <td>अंतर्मुहूर्त</td>
+  </tr>
+  <tr>
+    <td class=head2 rowspan=6>मनुष्य</td>
+    <td class=head2 rowspan=5>मनुष्य, मनुष्य पर्याप्त, मनुष्यिनी</td>
+    <td class=head2>मिथ्यादृष्टि</td>
+    <td colspan=2>सर्व-काल</td>
+    <td>अंतर्मुहूर्त</td>
+    <td>पृथक्त्व (४७, २३, ७) पूर्व-कोटि + ३ पल्य</td>
+  </tr>
+  <tr>
+    <td class=head2>सासादन</td>
+    <td>एक समय</td>
+    <td>अंतर्मुहूर्त</td>
+    <td>एक समय</td>
+    <td>छह आवली</td>
+  </tr>
+  <tr>
+    <td class=head2>सम्यग्मिथ्यादृष्टि</td>
+    <td colspan=4>अंतर्मुहूर्त</td>
+  </tr>
+  <tr>
+    <td class=head2>असंयत सम्यग्दृष्टि</td>
+    <td colspan=2>सर्व-काल</td>
+    <td>अंतर्मुहूर्त</td>
+    <td>साधिक (कुछ-कम १/३ पूर्व कोटि) ३ पल्य, साधिक ३ पल्य , ३ पल्य - (९ मास + <br>४९ दिन)</td>
+  </tr>
+  <tr>
+    <td class=head2>संयतासंयत से अयोग-केवली</td>
+    <td colspan=4>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head2 colspan=2>लब्ध्यपर्याप्त</td>
+    <td>क्षुद्र-भव ग्रहण काल</td>
+    <td>पल्य का असंख्यातवां भाग</td>
+    <td>क्षुद्र-भव ग्रहण काल</td>
+    <td>अंतर्मुहूर्त</td>
+  </tr>
+  <tr>
+    <td class=head2 rowspan=9>देव</td>
+    <td class=head2 rowspan=3>सामान्य</td>
+    <td class=head2>मिथ्यादृष्टि</td>
+    <td colspan=2>सर्व-काल</td>
+    <td>अंतर्मुहूर्त</td>
+    <td>३१ सागर</td>
+  </tr>
+  <tr>
+    <td class=head2>सासादन, सम्यग्मिथ्यादृष्टि</td>
+    <td colspan=4>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head2>असंयत सम्यग्दृष्टि</td>
+    <td colspan=2>सर्व-काल</td>
+    <td>अंतर्मुहूर्त</td>
+    <td>३३ सागर</td>
+  </tr>
+  <tr>
+    <td class=head2 rowspan=2>भवनवासी से सहस्रार</td>
+    <td class=head2>मिथ्यादृष्टि, असंयत सम्यग्दृष्टि</td>
+    <td colspan=2>सर्व-काल</td>
+    <td>अंतर्मुहूर्त</td>
+    <td>साधिक-सागर, साधिक-पल्य, साधिक २, ७, १०, १४, १६, १८ सागर </td>
+  </tr>
+  <tr>
+    <td class=head2>सासादन, सम्यग्मिथ्यादृष्टि</td>
+    <td colspan=4>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head2 rowspan=2>आनत से नव ग्रैवेयक</td>
+    <td class=head2>मिथ्यादृष्टि, असंयत सम्यग्दृष्टि</td>
+    <td colspan=2>सर्व-काल</td>
+    <td>अंतर्मुहूर्त</td>
+    <td>२०, २२, २३, २४, २५, २६, २७, २८, २९, ३०, ३१ सागर</td>
+  </tr>
+  <tr>
+    <td class=head2>सासादन, सम्यग्मिथ्यादृष्टि</td>
+    <td colspan=4>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head2>नौ अनुदिश, चार अनुत्तर</td>
+    <td class=head2>असंयत सम्यग्दृष्टि</td>
+    <td colspan=2>सर्व-काल</td>
+    <td>३१ सागर+१ समय, ३२ सागर+१ समय</td>
+    <td>३२ सागर, ३३ सागर</td>
+  </tr>
+  <tr>
+    <td class=head2>सर्वार्थसिद्धि</td>
+    <td class=head2>असंयत सम्यग्दृष्टि</td>
+    <td colspan=2>सर्व-काल</td>
+    <td colspan=2>३३ सागर</td>
+  </tr>
+  <tr>
+    <th rowspan=12>इन्द्रिय</th>
+    <td class=head3 rowspan=7>एकेंद्रिय</td>
+    <td class=head3 colspan=2>सामान्य</td>
+    <td colspan=2>सर्व-काल</td>
+    <td>क्षुद्र-भव ग्रहण काल</td>
+    <td>अनन्त (असंख्यात (आवली के असंख्यात भाग) पुद्गल परिवर्तन)</td>
+  </tr>
+  <tr>
+    <td class=head3 colspan=2>बादर<br></td>
+    <td colspan=2>सर्व-काल</td>
+    <td>क्षुद्र-भव ग्रहण काल</td>
+    <td>असंख्यातासंख्यात (अंगुल के असंख्यात भाग) अवसर्पिणी-उत्सर्पिणी काल</td>
+  </tr>
+  <tr>
+    <td class=head3 colspan=2>बादर-पर्याप्त<br></td>
+    <td colspan=2>सर्व-काल</td>
+    <td>अंतर्मुहूर्त</td>
+    <td>संख्यात हजार वर्ष</td>
+  </tr>
+  <tr>
+    <td class=head3 colspan=2>बादर-लब्ध्यपर्याप्त</td>
+    <td colspan=2>सर्व-काल<br></td>
+    <td>क्षुद्र-भव ग्रहण काल</td>
+    <td>अंतर्मुहूर्त</td>
+  </tr>
+  <tr>
+    <td class=head3 colspan=2>सूक्ष्म</td>
+    <td colspan=2>सर्व-काल</td>
+    <td>क्षुद्र-भव ग्रहण काल</td>
+    <td>असंख्यात लोकप्रमाण काल</td>
+  </tr>
+  <tr>
+    <td class=head3 colspan=2>सूक्ष्म-पर्याप्त</td>
+    <td colspan=2>सर्व-काल</td>
+    <td>अंतर्मुहूर्त</td>
+    <td>अंतर्मुहूर्त</td>
+  </tr>
+  <tr>
+    <td class=head3 colspan=2>सूक्ष्म-लब्ध्यपर्याप्त</td>
+    <td colspan=2>सर्व-काल</td>
+    <td>क्षुद्र-भव ग्रहण काल</td>
+    <td>अंतर्मुहूर्त</td>
+  </tr>
+  <tr>
+    <td class=head3 rowspan=2>२,३,४</td>
+    <td class=head3 colspan=2>२,३,४ और २,३,४ पर्याप्तक</td>
+    <td colspan=2>सर्व-काल</td>
+    <td>क्षुद्र-भव ग्रहण काल, अंतर्मुहूर्त</td>
+    <td>संख्यात हजार वर्ष</td>
+  </tr>
+  <tr>
+    <td class=head3 colspan=2>लब्ध्यपर्याप्त</td>
+    <td colspan=2>सर्व-काल</td>
+    <td>क्षुद्र-भव ग्रहण काल</td>
+    <td>अंतर्मुहूर्त</td>
+  </tr>
+  <tr>
+    <td class=head3 rowspan=3>५</td>
+    <td class=head3 rowspan=2>५ और ५ पर्याप्त</td>
+    <td class=head3>मिथ्यादृष्टि</td>
+    <td colspan=2>सर्व-काल</td>
+    <td>अंतर्मुहूर्त</td>
+    <td>पृथक्त्व पूर्व-कोटी + (१००० सागर, पृथक्त्व सौ सागर)</td>
+  </tr>
+  <tr>
+    <td class=head3>सासादन से अयोग-केवली</td>
+    <td colspan=4>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head3 colspan=2>लब्ध्यपर्याप्त</td>
+    <td colspan=2>सर्व-काल</td>
+    <td>क्षुद्र-भव ग्रहण काल</td>
+    <td>अंतर्मुहूर्त</td>
+  </tr>
+  <tr>
+    <th rowspan=11>काय</th>
+    <td class=head4 colspan=3>पृथ्वी, जल, अग्नि, वायु</td>
+    <td colspan=2>सर्व-काल</td>
+    <td>क्षुद्र-भव ग्रहण काल</td>
+    <td>असंख्यात लोकप्रमाण काल</td>
+  </tr>
+  <tr>
+    <td class=head4 rowspan=3> पृथ्वी, जल, अग्नि, वायु, प्रत्येक वनस्पति</td>
+    <td class=head4 colspan=2>बादर</td>
+    <td colspan=2>सर्व-काल</td>
+    <td>क्षुद्र-भव ग्रहण काल</td>
+    <td>कर्म-स्तिथि प्रमाण</td>
+  </tr>
+  <tr>
+    <td class=head4 colspan=2>बादर पर्याप्त</td>
+    <td colspan=2>सर्व-काल</td>
+    <td>अंतर्मुहूर्त</td>
+    <td>संख्यात हजार वर्ष</td>
+  </tr>
+  <tr>
+    <td class=head4 colspan=2>लब्ध्यपर्याप्त</td>
+    <td colspan=2>सर्व-काल</td>
+    <td>क्षुद्र-भव ग्रहण काल</td>
+    <td>अंतर्मुहूर्त</td>
+  </tr>
+  <tr>
+    <td class=head4>पृथ्वी, जल, अग्नि, वायु, वनस्पति, निगोद</td>
+    <td class=head4 colspan=2>पर्याप्त, अपर्याप्त</td>
+    <td colspan=2>सर्व-काल</td>
+    <td>क्षुद्र-भव ग्रहण काल</td>
+    <td>असंख्यात लोकप्रमाण काल</td>
+  </tr>
+  <tr>
+    <td class=head4 colspan=3>वनस्पति</td>
+    <td colspan=2>सर्व-काल</td>
+    <td>क्षुद्र-भव ग्रहण काल</td>
+    <td>अनन्त (असंख्यात (आवली के असंख्यात भाग) पुद्गल परिवर्तन)</td>
+  </tr>
+  <tr>
+    <td class=head4 rowspan=2>निगोद</td>
+    <td class=head4 colspan=2>सामान्य</td>
+    <td colspan=2>सर्व-काल</td>
+    <td>क्षुद्र-भव ग्रहण काल</td>
+    <td>अढाई पुद्गल परिवर्तन</td>
+  </tr>
+  <tr>
+    <td class=head4 colspan=2>बादर</td>
+    <td colspan=2>सर्व-काल</td>
+    <td>क्षुद्र-भव ग्रहण काल</td>
+    <td>कर्म-स्तिथि प्रमाण</td>
+  </tr>
+  <tr>
+    <td class=head4 rowspan=3>त्रस</td>
+    <td class=head4 rowspan=2>त्रस और पर्याप्त</td>
+    <td class=head4>मिथ्यादृष्टि</td>
+    <td colspan=2>सर्व-काल</td>
+    <td>अंतर्मुहूर्त</td>
+    <td>२००० सागर + पृथक्त्व पूर्व-कोटि, २००० सागर</td>
+  </tr>
+  <tr>
+    <td class=head4>सासादन से अयोग-केवली</td>
+    <td colspan=4>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head4 colspan=2>लब्ध्यपर्याप्त</td>
+    <td colspan=2>सर्व-काल</td>
+    <td>क्षुद्र-भव ग्रहण काल</td>
+    <td>अंतर्मुहूर्त</td>
+  </tr>
+  <tr>
+    <th rowspan=21>योग</th>
+    <td class=head2 colspan=2 rowspan=4>५ मन, ५ वचन</td>
+    <td class=head2>मिथ्यादृष्टि, असंयत सम्यग्दृष्टि, संयतासंयत, प्रमत्त-संयत, अप्रमत्त-संयत, सयोग-केवली</td>
+    <td colspan=2>सर्व-काल</td>
+    <td>एक समय</td>
+    <td>एक समय</td>
+  </tr>
+  <tr>
+    <td class=head2>सासादन</td>
+    <td colspan=4>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head2>सम्यग्मिथ्यादृष्टि</td>
+    <td>एक समय</td>
+    <td>पल्य का असंख्यातवां भाग</td>
+    <td>एक समय</td>
+    <td>अंतर्मुहूर्त</td>
+  </tr>
+  <tr>
+    <td class=head2>चारों उपशमक और क्षपक</td>
+    <td>एक समय</td>
+    <td>अंतर्मुहूर्त</td>
+    <td>एक समय</td>
+    <td>अंतर्मुहूर्त</td>
+  </tr>
+  <tr>
+    <td class=head2 rowspan=17>काय</td>
+    <td class=head2 rowspan=2>सामान्य</td>
+    <td class=head2>मिथ्यादृष्टि</td>
+    <td colspan=2>सर्व-काल</td>
+    <td>एक समय</td>
+    <td>अनन्त (असंख्यात पुद्गल परिवर्तन)</td>
+  </tr>
+  <tr>
+    <td class=head2>सासादन से सयोग-केवली</td>
+    <td colspan=4>मनोयोगी के समान</td>
+  </tr>
+  <tr>
+    <td class=head2>औदारिक</td>
+    <td class=head2>मिथ्यादृष्टि</td>
+    <td colspan=2>सर्व-काल</td>
+    <td>एक समय</td>
+    <td>कुछ कम २२ हजार वर्ष</td>
+  </tr>
+  <tr>
+    <td class=head2 rowspan=4>औदारिक-मिश्र</td>
+    <td class=head2>मिथ्यादृष्टि</td>
+    <td colspan=2>सर्व-काल</td>
+    <td>क्षुद्र-भव ग्रहण काल - ३ समय</td>
+    <td>अंतर्मुहूर्त</td>
+  </tr>
+  <tr>
+    <td class=head2>सासादन</td>
+    <td>एक समय</td>
+    <td>पल्य का असंख्यातवां भाग</td>
+    <td>एक समय</td>
+    <td>छह आवली - एक समय</td>
+  </tr>
+  <tr>
+    <td class=head2>असंयत सम्यग्दृष्टि</td>
+    <td>अंतर्मुहूर्त</td>
+    <td>अंतर्मुहूर्त</td>
+    <td>अंतर्मुहूर्त</td>
+    <td>अंतर्मुहूर्त</td>
+  </tr>
+  <tr>
+    <td class=head2>सयोग-केवली</td>
+    <td>एक समय</td>
+    <td>संख्यात समय</td>
+    <td colspan=2>एक समय</td>
+  </tr>
+  <tr>
+    <td class=head2 rowspan=3>वैक्रियिक</td>
+    <td class=head2>मिथ्यादृष्टि, असंयत सम्यग्दृष्टि</td>
+    <td colspan=2>सर्व-काल</td>
+    <td>एक समय</td>
+    <td>अंतर्मुहूर्त</td>
+  </tr>
+  <tr>
+    <td class=head2>सासादन</td>
+    <td colspan=4>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head2>सम्यग्मिथ्यादृष्टि</td>
+    <td colspan=4>मनोयोगी के समान</td>
+  </tr>
+  <tr>
+    <td class=head2 rowspan=2>वैक्रियिक-मिश्र</td>
+    <td class=head2>मिथ्यादृष्टि, असंयत सम्यग्दृष्टि</td>
+    <td>अंतर्मुहूर्त</td>
+    <td>पल्य का असंख्यातवां भाग</td>
+    <td>अंतर्मुहूर्त</td>
+    <td>अंतर्मुहूर्त</td>
+  </tr>
+  <tr>
+    <td class=head2>सासादन</td>
+    <td>एक समय</td>
+    <td>पल्य का असंख्यातवां भाग</td>
+    <td>एक समय</td>
+    <td>छह आवली - एक समय</td>
+  </tr>
+  <tr>
+    <td class=head2>आहारक</td>
+    <td class=head2 rowspan=2>प्रमत्त-संयत</td>
+    <td>एक समय</td>
+    <td>अंतर्मुहूर्त</td>
+    <td>एक समय</td>
+    <td>अंतर्मुहूर्त</td>
+  </tr>
+  <tr>
+    <td class=head2>आहारक-मिश्र</td>
+    <td>अंतर्मुहूर्त</td>
+    <td>अंतर्मुहूर्त</td>
+    <td>अंतर्मुहूर्त</td>
+    <td>अंतर्मुहूर्त</td>
+  </tr>
+  <tr>
+    <td class=head2 rowspan=3>कार्मण</td>
+    <td class=head2>मिथ्यादृष्टि</td>
+    <td colspan=2>सर्व-काल</td>
+    <td>एक समय</td>
+    <td>तीन समय</td>
+  </tr>
+  <tr>
+    <td class=head2>सासादन, असंयत सम्यग्दृष्टि</td>
+    <td>एक समय</td>
+    <td>आवली का असंख्यातवां भाग</td>
+    <td>एक समय</td>
+    <td>दो समय</td>
+  </tr>
+  <tr>
+    <td class=head2>सयोग-केवली</td>
+    <td>तीन समय</td>
+    <td>संख्यात समय</td>
+    <td colspan=2>तीन समय</td>
+  </tr>
+  <tr>
+    <th rowspan=11>वेद</th>
+    <td class=head3 colspan=2 rowspan=4>स्त्री</td>
+    <td class=head3>मिथ्यादृष्टि</td>
+    <td colspan=2>सर्व-काल</td>
+    <td>अंतर्मुहूर्त</td>
+    <td>पृथक्त्व सौ पल्य</td>
+  </tr>
+  <tr>
+    <td class=head3>सासादन, सम्यग्मिथ्यादृष्टि</td>
+    <td colspan=4>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head3>असंयत सम्यग्दृष्टि</td>
+    <td colspan=2>सर्व-काल</td>
+    <td>अंतर्मुहूर्त</td>
+    <td>५५ पल्य - ३ अंतर्मुहूर्त</td>
+  </tr>
+  <tr>
+    <td class=head3>संयतासंयत से अनिवृत्तिकरण</td>
+    <td colspan=4>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head3 colspan=2 rowspan=2>पुरुष</td>
+    <td class=head3>मिथ्यादृष्टि</td>
+    <td colspan=2>सर्व-काल</td>
+    <td>अंतर्मुहूर्त</td>
+    <td>पृथक्त्व सौ सागर</td>
+  </tr>
+  <tr>
+    <td class=head3>सासादन से अनिवृत्तिकरण</td>
+    <td colspan=4>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head3 colspan=2 rowspan=4>नपुंसक</td>
+    <td class=head3>मिथ्यादृष्टि</td>
+    <td colspan=2>सर्व-काल</td>
+    <td>अंतर्मुहूर्त</td>
+    <td>अनन्त (असंख्यात पुद्गल परिवर्तन)</td>
+  </tr>
+  <tr>
+    <td class=head3>सासादन, सम्यग्मिथ्यादृष्टि</td>
+    <td colspan=4>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head3>असंयत सम्यग्दृष्टि</td>
+    <td colspan=2>सर्व-काल</td>
+    <td>अंतर्मुहूर्त</td>
+    <td>३३ सागर - ६ सागर</td>
+  </tr>
+  <tr>
+    <td class=head3>संयतासंयत से अनिवृत्तिकरण</td>
+    <td colspan=4>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head3 colspan=2>अपगत</td>
+    <td class=head3>अनिवृत्तिकरण के अवेद भाव से अयोग-केवली</td>
+    <td colspan=4>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th rowspan=4>कषाय</th>
+    <td class=head4 colspan=2>क्रोध, मान, माया, लोभ</td>
+    <td class=head4>मिथ्यादृष्टि से अप्रमत्त-संयत</td>
+    <td colspan=4>मनोयोगी के समान</td>
+  </tr>
+  <tr>
+    <td class=head4 colspan=2>क्रोध, मान, माया लोभ / लोभ</td>
+    <td class=head4>२ या ३ उपशामक</td>
+    <td>एक समय</td>
+    <td>अंतर्मुहूर्त</td>
+    <td>एक समय</td>
+    <td>अंतर्मुहूर्त</td>
+  </tr>
+  <tr>
+    <td class=head4 colspan=2>क्रोध, मान, माया लोभ / लोभ</td>
+    <td class=head4>२ या ३ क्षपक</td>
+    <td>अंतर्मुहूर्त</td>
+    <td>अंतर्मुहूर्त</td>
+    <td>अंतर्मुहूर्त</td>
+    <td>अंतर्मुहूर्त</td>
+  </tr>
+  <tr>
+    <td class=head4 colspan=2>अकषायी</td>
+    <td class=head4>अंतिम चार गुणस्थान</td>
+    <td colspan=4>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th rowspan=5>ज्ञान</th>
+    <td class=head2 colspan=2 rowspan=2>मत्यज्ञानी-श्रुतअज्ञानी</td>
+    <td class=head2>मिथ्यादृष्टि</td>
+    <td colspan=4>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head2>सासादन</td>
+    <td colspan=4>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head2 colspan=2>मति-श्रुत-अवधि</td>
+    <td class=head2>असंयत सम्यग्दृष्टि से क्षीणकषाय</td>
+    <td colspan=4>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head2 colspan=2>मन:पर्यय</td>
+    <td class=head2>प्रमत्त-संयत से क्षीणकषाय</td>
+    <td colspan=4>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head2 colspan=2>केवल</td>
+    <td class=head2>सयोग-केवली, अयोग-केवली</td>
+    <td colspan=4>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th rowspan=7>संयम</th>
+    <td class=head3 colspan=2>संयत</td>
+    <td class=head3>प्रमत्त-संयत से अयोग-केवली</td>
+    <td colspan=4>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head3 colspan=2>सामायिक, छेदोपस्थापना</td>
+    <td class=head3>प्रमत्त-संयत से अनिवृत्तिकरण</td>
+    <td colspan=4>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head3 colspan=2>परिहारिविशुद्धि</td>
+    <td class=head3>प्रमत्त-संयत, अप्रमत्त-संयत</td>
+    <td colspan=4>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head3 colspan=2>सूक्ष्म-साम्परायिक सुद्धि संयत</td>
+    <td class=head3>सूक्ष्म-साम्पराय उपशामक / क्षपक</td>
+    <td colspan=4>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head3 colspan=2>यथाख्यात</td>
+    <td class=head3>अंतिम चार गुणस्थान</td>
+    <td colspan=4>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head3 colspan=3>संयतासंयत</td>
+    <td colspan=4>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head3 colspan=2>असंयत</td>
+    <td class=head3>मिथ्यादृष्टि से असंयत सम्यग्दृष्टि</td>
+    <td colspan=4>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th rowspan=5>दर्शन</th>
+    <td class=head4 colspan=2 rowspan=2>चक्षु-दर्शन</td>
+    <td class=head4>मिथ्यादृष्टि</td>
+    <td colspan=2>सर्व-काल</td>
+    <td>अंतर्मुहूर्त</td>
+    <td>२००० सागर</td>
+  </tr>
+  <tr>
+    <td class=head4>सासादन से क्षीणकषाय</td>
+    <td colspan=4>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head4 colspan=2>अचक्षु-दर्शन</td>
+    <td class=head4>मिथ्यादृष्टि से क्षीणकषाय</td>
+    <td colspan=4>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head4 colspan=3>अवधि</td>
+    <td colspan=4>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head4 colspan=3>केवल</td>
+    <td colspan=4>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th rowspan=12>लेश्या</th>
+    <td class=head2 colspan=2 rowspan=4>कृष्ण, नील, कापोत</td>
+    <td class=head2>मिथ्यादृष्टि</td>
+    <td colspan=2>सर्व-काल</td>
+    <td>अंतर्मुहूर्त</td>
+    <td>(३३ सागर, १७ सागर,  ७ सागर ) + २ अंतर्मुहूर्त</td>
+  </tr>
+  <tr>
+    <td class=head2>सासादन</td>
+    <td colspan=4>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head2>सम्यग्मिथ्यादृष्टि</td>
+    <td colspan=4>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head2>असंयत सम्यग्दृष्टि</td>
+    <td colspan=2>सर्व-काल</td>
+    <td>अंतर्मुहूर्त</td>
+    <td>३३ सागर - ६ अंतर्मुहूर्त, १७ सागर - २ अंतर्मुहूर्त, ७ सागर - २ अंतर्मुहूर्त</td>
+  </tr>
+  <tr>
+    <td class=head2 colspan=2 rowspan=4>तेज, पद्म</td>
+    <td class=head2>मिथ्यादृष्टि, असंयत सम्यग्दृष्टि</td>
+    <td colspan=2>सर्व-काल</td>
+    <td>अंतर्मुहूर्त</td>
+    <td>२ सागर + अंतर्मुहूर्त, कुछ अधिक १८ सागर</td>
+  </tr>
+  <tr>
+    <td class=head2>सासादन</td>
+    <td colspan=4>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head2>सम्यग्मिथ्यादृष्टि</td>
+    <td colspan=4>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head2>संयतासंयत से अप्रमत्त-संयत</td>
+    <td colspan=2>सर्व-काल</td>
+    <td>एक समय</td>
+    <td>अंतर्मुहूर्त</td>
+  </tr>
+  <tr>
+    <td class=head2 colspan=2 rowspan=4>शुक्ल</td>
+    <td class=head2>मिथ्यादृष्टि</td>
+    <td colspan=2>सर्व-काल</td>
+    <td>अंतर्मुहूर्त</td>
+    <td>कुछ अधिक ३१ सागर</td>
+  </tr>
+  <tr>
+    <td class=head2>सासादन, सम्यग्मिथ्यादृष्टि, असंयत सम्यग्दृष्टि</td>
+    <td colspan=4>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head2>संयतासंयत से अप्रमत्त-संयत</td>
+    <td colspan=2>सर्व-काल</td>
+    <td>एक समय</td>
+    <td>अंतर्मुहूर्त</td>
+  </tr>
+  <tr>
+    <td class=head2>चारों उपशामक और क्षपक, सयोग-केवली</td>
+    <td colspan=4>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th rowspan=3>भव्य</th>
+    <td class=head3 colspan=2 rowspan=2>भव्यसिद्धिक</td>
+    <td class=head3>मिथ्यादृष्टि</td>
+    <td colspan=2>सर्व-काल</td>
+    <td>अंतर्मुहूर्त</td>
+    <td>कुछ कम अर्ध-पुद्गल-परिवर्तन</td>
+  </tr>
+  <tr>
+    <td class=head3>सासादन से अयोग-केवली</td>
+    <td colspan=4>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head3 colspan=2>अभव्यसिद्धिक</td>
+    <td class=head3>मिथ्यादृष्टि</td>
+    <td colspan=2>सर्व-काल</td>
+    <td colspan=2>अनादि-अनन्त</td>
+  </tr>
+  <tr>
+    <th rowspan=7>सम्यक्त्व</th>
+    <td class=head4 rowspan=4>सम्यग्दृष्टि</td>
+    <td class=head4>क्षायिकसम्यग्दृष्टि</td>
+    <td class=head4>असंयत सम्यग्दृष्टि से अयोग-केवली</td>
+    <td colspan=4>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head4>वेदक</td>
+    <td class=head4>असंयत सम्यग्दृष्टि से अप्रमत्त-संयत</td>
+    <td colspan=4>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head4 rowspan=2>उपशम</td>
+    <td class=head4>असंयत सम्यग्दृष्टि, संयतासंयत</td>
+    <td>अंतर्मुहूर्त</td>
+    <td>पल्य का असंख्यातवां भाग</td>
+    <td>अंतर्मुहूर्त</td>
+    <td>अंतर्मुहूर्त</td>
+  </tr>
+  <tr>
+    <td class=head4>प्रमत्त-संयत से उपशान्त-कषाय</td>
+    <td>एक समय</td>
+    <td>अंतर्मुहूर्त</td>
+    <td>एक समय</td>
+    <td>अंतर्मुहूर्त</td>
+  </tr>
+  <tr>
+    <td class=head4 colspan=3>सासादन</td>
+    <td colspan=4>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head4 colspan=3>सम्यग्मिथ्यादृष्टि</td>
+    <td colspan=4>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head4 colspan=3>मिथ्यादृष्टि</td>
+    <td colspan=4>ओघ के समान</td>
+  </tr>
+  <tr>
+    <th rowspan=3>संज्ञी</th>
+    <td class=head2 colspan=2 rowspan=2>संज्ञी</td>
+    <td class=head2>मिथ्यादृष्टि</td>
+    <td colspan=2>सर्व-काल</td>
+    <td>अंतर्मुहूर्त</td>
+    <td>पृथक्त्व सौ सागर</td>
+  </tr>
+  <tr>
+    <td class=head2>सासादन से क्षीणकषाय</td>
+    <td colspan=4>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td class=head2 colspan=3>असंज्ञी</td>
+    <td colspan=2>सर्व-काल</td>
+    <td>क्षुद्र-भव ग्रहण काल</td>
+    <td>अनन्त (असंख्यात पुद्गल परिवर्तन)</td>
+  </tr>
+  <tr>
+    <th rowspan=4>आहार</th>
+    <td colspan=2 rowspan=2>आहारक</td>
+    <td>मिथ्यादृष्टि</td>
+    <td colspan=2>सर्व-काल</td>
+    <td>अंतर्मुहूर्त</td>
+    <td>असंख्यातासंख्यात (अंगुल के असंख्यात भाग) अवसर्पिणी-उत्सर्पिणी काल</td>
+  </tr>
+  <tr>
+    <td>सासादन से सयोग-केवली</td>
+    <td colspan=4>ओघ के समान</td>
+  </tr>
+  <tr>
+    <td colspan=2 rowspan=2>अनाहारक</td>
+    <td>मिथ्यादृष्टि, सासादन, असंयत सम्यग्दृष्टि, सयोग-केवली</td>
+    <td colspan=4>कार्मण-काययोगी के समान</td>
+  </tr>
+  <tr>
+    <td>अयोग-केवली</td>
+    <td colspan=4>ओघ के समान</td>
+  </tr>
+</table>

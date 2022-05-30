@@ -1,0 +1,14 @@
+﻿क्रोधप्रत्याख्यान, लोभप्रत्याख्यान, भीरुत्वप्रत्याख्यान, हास्यप्रत्याख्यान और अनुवीचीभाषण ये सत्य व्रत की पाँच भावनाएँ हैं ॥५॥
+<!--JsMindTagBegin-->
+	{"id":"root", "isroot":true, "topic":"सत्य व्रत की भावनाएँ"},
+	{"id":"sub1", "parentid":"root", "topic":"क्रोधप्रत्याख्यान"},
+	{"id":"sub1a", "parentid":"sub1", "topic":"क्रोध का त्याग"},
+	{"id":"sub2", "parentid":"root", "topic":"लोभप्रत्याख्यान"},
+	{"id":"sub2a", "parentid":"sub2", "topic":"लोभ का त्याग"},
+	{"id":"sub3", "parentid":"root", "topic":"भीरुत्वप्रत्याख्यान"},
+	{"id":"sub3a", "parentid":"sub3", "topic":"भय का त्याग"},
+	{"id":"sub4", "parentid":"root", "topic":"हास्यप्रत्याख्यान"},
+	{"id":"sub4a", "parentid":"sub4", "topic":"हास्य का त्याग"},
+	{"id":"sub5", "parentid":"root", "topic":"अनुवीचीभाषण"},
+	{"id":"sub5a", "parentid":"sub5", "topic":"विवेक पूर्वक वचन प्रयोग"}
+<!--JsMindTagEnd-->

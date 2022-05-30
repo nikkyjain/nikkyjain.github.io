@@ -1,0 +1,6 @@
+﻿उच्‍चगोत्र और नीचगोत्र ये दो गोत्रकर्म हैं ॥१२॥
+<!--JsMindTagBeginH2-->
+	{"id":"root", "isroot":true, "topic":"गोत्रकर्म  के भेद "},
+	{"id":"sub1", "parentid":"root", "topic":"उच्‍चगोत्र"},
+	{"id":"sub11", "parentid":"root", "topic":"नीचगोत्र "}
+<!--JsMindTagEnd-->

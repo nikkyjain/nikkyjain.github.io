@@ -1,0 +1,131 @@
+﻿<table class=myAltTable>
+<thead>
+  <tr>
+    <td rowspan=3 class=emptyTableCell></td>
+    <th colspan=9 class=tableTitle>गुणस्थानों में करण संबंधी विशेष विचार</th>
+  </tr>
+  <tr>
+    <th colspan=4>आयु</th>
+    <th colspan=2>वेदनीय</th>
+    <th rowspan=2>मोहनीय</th>
+    <th rowspan=2>ज्ञानावरणी,दर्शनावरणी,अंतराय</th>
+    <th rowspan=2>नाम, गोत्र</th>
+  </tr>
+  <tr>
+    <th>नरक</th>
+    <th>तिर्यञ्च</th>
+    <th>मनुष्य</th>
+    <th>देव</th>
+    <th>साता</th>
+    <th>असाता</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th>बंध</th>
+    <td>1</td>
+    <td>1-2</td>
+    <td>1 से 4</td>
+    <td>1 से 6</td>
+    <td>1 से 13</td>
+    <td>1 से 6</td>
+    <td>1 से 9*</td>
+    <td>1 से 10</td>
+    <td>1 से 10</td>
+  </tr>
+  <tr>
+    <th>उदीरणा</th>
+    <td>1 से 4</td>
+    <td>1से 5</td>
+    <td>1 से 6</td>
+    <td>1 से 4</td>
+    <td>1 से 6</td>
+    <td>1 से 6</td>
+    <td>1 से 10-(आवली-1 समय)</td>
+    <td>1 से 12-(आवली-1 समय)</td>
+    <td>1 से 13</td>
+  </tr>
+  <tr>
+    <th>संक्रम</th>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>1 से 6</td>
+    <td>1 से 10</td>
+    <td>1 से 9*</td>
+    <td>1 से 10</td>
+    <td>1 से 10</td>
+  </tr>
+  <tr>
+    <th>उत्कर्षण</th>
+    <td>1</td>
+    <td>1-2</td>
+    <td>1 से 4</td>
+    <td>1 से 6</td>
+    <td>1 से 10</td>
+    <td>1 से 6</td>
+    <td>1 से 9*</td>
+    <td>1 से 10</td>
+    <td>1 से 10</td>
+  </tr>
+  <tr>
+    <th>अपकर्षण</th>
+    <td>1 से 4</td>
+    <td>1से 5</td>
+    <td>1 से 13</td>
+    <td>1 से 11</td>
+    <td>1 से 13</td>
+    <td>1 से 13</td>
+    <td>1 से 10-(आवली-1 समय)</td>
+    <td>12-(आवली-1 समय)</td>
+    <td>1 से 13</td>
+  </tr>
+  <tr>
+    <th>अप्रशस्त उपशम</th>
+    <td>1 से 4</td>
+    <td>1से 5</td>
+    <td colspan=7>1 से 8</td>
+  </tr>
+  <tr>
+    <th>निधत्ती</th>
+    <td>1 से 4</td>
+    <td>1से 5</td>
+    <td colspan=7>1 से 8</td>
+  </tr>
+  <tr>
+    <th>निकाचना</th>
+    <td>1 से 4</td>
+    <td>1से 5</td>
+    <td colspan=7>1 से 8</td>
+  </tr>
+  <tr>
+    <th>उदय</th>
+    <td>1 से 4</td>
+    <td>1से 5</td>
+    <td>1 से 14</td>
+    <td>1 से 4</td>
+    <td>1 से 14</td>
+    <td>1 से 14</td>
+    <td>1 से 10</td>
+    <td>1 से 12</td>
+    <td>1 से 14</td>
+  </tr>
+  <tr>
+    <th>सत्त्व</th>
+    <td>1 से 4</td>
+    <td>1से 5</td>
+    <td>1 से 14</td>
+    <td>1 से 11</td>
+    <td>1 से 14</td>
+    <td>1 से 14</td>
+    <td>1 से 11</td>
+    <td>1 से 12</td>
+    <td>1 से 14</td>
+  </tr>
+  <tr>
+    <td class=emptyTableCell></td>
+    <td colspan=9 class=tableNotes>कषाय-पाहुड़ (14) -- प्रस्तावना</td>
+  </tr>
+</tbody>
+</table>

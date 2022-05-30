@@ -1,0 +1,19 @@
+﻿सम्‍मूर्च्‍छन, गर्भ और उपपाद ये (तीन) जन्‍म हैं ॥३१॥
+<!--PythonTagBegin-->
+<ul class=orgchart>
+  <li class=root>
+    <div class=nodecontent>जन्म</div>
+    <ul>
+      <li class=leaf>
+        <div class=nodecontent>सम्‍मूर्च्‍छन</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>गर्भ</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>उपपाद</div>
+      </li>
+    </ul>
+  </li>
+</ul>
+<!--PythonTagEnd-->

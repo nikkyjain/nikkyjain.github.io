@@ -1,0 +1,18 @@
+﻿शेष देव स्‍पर्श, रूप, शब्‍द और मन से विषय सुख भोगने वाले होते हैं ॥८॥
+<!--JsMindTagBegin-->
+    {"id":"root", "isroot":true, "topic":"देवों में प्रविचार"},
+
+    {"id":"sub1", "parentid":"root", "topic":"काय"},
+    {"id":"sub2", "parentid":"root", "topic":"स्‍पर्श"},
+    {"id":"sub3", "parentid":"root", "topic":"रूप"},
+    {"id":"sub4", "parentid":"root", "topic":"शब्‍द"},
+    {"id":"sub5", "parentid":"root", "topic":"मन"},
+    {"id":"sub6", "parentid":"root", "topic":"अप्रविचार"},
+
+    {"id":"sub11", "parentid":"sub1", "topic":"भवनत्रिक, सौधर्म, ऐशान"},
+    {"id":"sub22", "parentid":"sub2", "topic":"सानत्कुमार, माहेन्‍द्र"},
+    {"id":"sub33", "parentid":"sub3", "topic":"ब्रह्म, ब्रह्मोत्तर, लान्‍तव, कापिष्‍ठ"},
+    {"id":"sub44", "parentid":"sub4", "topic":"शुक्र, महाशुक्र, शतार, सहस्‍त्रार"},
+    {"id":"sub55", "parentid":"sub5", "topic":"आनत, प्राणत, आरण,अच्युत"},
+    {"id":"sub66", "parentid":"sub6", "topic":"ग्रैवेयिक, अनुदिश, अनुत्तर"}
+<!--JsMindTagEnd-->

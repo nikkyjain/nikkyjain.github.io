@@ -1,0 +1,254 @@
+﻿<!--PythonTagBegin-->
+<ul class=orgchart>
+  <li class=root>
+    <div class=nodecontent>जीव-समास<br/> 98</div>
+    <ul>
+      <li class=node>
+        <div class=nodecontent>एकेन्द्रीय <br/> 42</div>
+        <ul>
+          <li class=vertical>
+            <div class=nodecontent>पृथ्वी <br/> 6</div>
+            <ul>
+              <li class=leaf>
+                <div class=nodecontent>सूक्ष्म <br/> 3</div>
+              </li>
+              <li class=leaf>
+                <div class=nodecontent>बादर <br/> 3</div>
+              </li>
+            </ul>
+          </li>
+          <li class=vertical>
+            <div class=nodecontent>जल <br/> 6</div>
+            <ul>
+              <li class=leaf>
+                <div class=nodecontent>सूक्ष्म <br/> 3</div>
+              </li>
+              <li class=leaf>
+                <div class=nodecontent>बादर <br/> 3</div>
+              </li>
+            </ul>
+          </li>
+          <li class=vertical>
+            <div class=nodecontent>अग्नि <br/> 6</div>
+            <ul>
+              <li class=leaf>
+                <div class=nodecontent>सूक्ष्म <br/> 3</div>
+              </li>
+              <li class=leaf>
+                <div class=nodecontent>बादर <br/> 3</div>
+              </li>
+            </ul>
+          </li>
+          <li class=vertical>
+            <div class=nodecontent>वायु <br/> 6</div>
+            <ul>
+              <li class=leaf>
+                <div class=nodecontent>सूक्ष्म <br/> 3</div>
+              </li>
+              <li class=leaf>
+                <div class=nodecontent>बादर <br/> 3</div>
+              </li>
+            </ul>
+          </li>
+          <li class=node>
+            <div class=nodecontent>वनस्पति <br/> 18</div>
+            <ul>
+              <li class=vertical>
+                <div class=nodecontent>प्रत्येक <br/> 6</div>
+                <ul>
+                  <li class=leaf>
+                    <div class=nodecontent>सप्रतिष्ठित <br/> 3</div>
+                  </li>
+                  <li class=leaf>
+                    <div class=nodecontent>अप्रतिष्ठित <br/> 3</div>
+                  </li>
+                </ul>
+              </li>
+              <li class=node>
+                <div class=nodecontent>साधारण <br/> 12</div>
+                <ul>
+                  <li class=vertical>
+                    <div class=nodecontent>नित्य-निगोद <br/> 6</div>
+                    <ul>
+                      <li class=leaf>
+                        <div class=nodecontent>सूक्ष्म <br/> 3</div>
+                      </li>
+                      <li class=leaf>
+                        <div class=nodecontent>बादर <br/> 3</div>
+                      </li>
+                    </ul>
+                  </li>
+                  <li class=vertical>
+                    <div class=nodecontent>इतर-निगोद <br/> 6</div>
+                    <ul>
+                      <li class=leaf>
+                        <div class=nodecontent>सूक्ष्म <br/> 3</div>
+                      </li>
+                      <li class=leaf>
+                        <div class=nodecontent>बादर <br/> 3</div>
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>द्वीइंद्रिय <br/> 3</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>त्रीन्द्रिय <br/> 3</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>चतुरिन्द्रिय <br/> 3</div>
+      </li>
+      <li class=node>
+        <div class=nodecontent>पंचेंद्रिय <br/> 47</div>
+        <ul>
+          <li class=node>
+            <div class=nodecontent>तिर्यञ्च <br/> 34</div>
+            <ul>
+              <li class=node>
+                <div class=nodecontent>कर्मभूमि <br/> 30</div>
+                <ul>
+                  <li class=node>
+                    <div class=nodecontent>गर्भज <br/> 12</div>
+                    <ul>
+                      <li class=vertical>
+                        <div class=nodecontent>जलचर <br/> 4</div>
+                        <ul>
+                          <li class=leaf>
+                            <div class=nodecontent>संज्ञी <br/> 2</div>
+                          </li>
+                          <li class=leaf>
+                            <div class=nodecontent>असंज्ञी <br/> 2</div>
+                          </li>
+                        </ul>
+                      </li>
+                      <li class=vertical>
+                        <div class=nodecontent>थलचर <br/> 4</div>
+                        <ul>
+                          <li class=leaf>
+                            <div class=nodecontent>संज्ञी <br/> 2</div>
+                          </li>
+                          <li class=leaf>
+                            <div class=nodecontent>असंज्ञी <br/> 2</div>
+                          </li>
+                        </ul>
+                      </li>
+                      <li class=vertical>
+                        <div class=nodecontent>नभचर <br/> 4</div>
+                        <ul>
+                          <li class=leaf>
+                            <div class=nodecontent>संज्ञी <br/> 2</div>
+                          </li>
+                          <li class=leaf>
+                            <div class=nodecontent>असंज्ञी <br/> 2</div>
+                          </li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </li>
+                  <li class=node>
+                    <div class=nodecontent>सम्मूर्छन <br/> 18</div>
+                    <ul>
+                      <li class=vertical>
+                        <div class=nodecontent>जलचर <br/> 6</div>
+                        <ul>
+                          <li class=leaf>
+                            <div class=nodecontent>संज्ञी <br/> 3</div>
+                          </li>
+                          <li class=leaf>
+                            <div class=nodecontent>असंज्ञी <br/> 3</div>
+                          </li>
+                        </ul>
+                      </li>
+                      <li class=vertical>
+                        <div class=nodecontent>थलचर <br/> 6</div>
+                        <ul>
+                          <li class=leaf>
+                            <div class=nodecontent>संज्ञी <br/> 3</div>
+                          </li>
+                          <li class=leaf>
+                            <div class=nodecontent>असंज्ञी <br/> 3</div>
+                          </li>
+                        </ul>
+                      </li>
+                      <li class=vertical>
+                        <div class=nodecontent>नभचर <br/> 6</div>
+                        <ul>
+                          <li class=leaf>
+                            <div class=nodecontent>संज्ञी <br/> 3</div>
+                          </li>
+                          <li class=leaf>
+                            <div class=nodecontent>असंज्ञी <br/> 3</div>
+                          </li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+              <li class=node>
+                <div class=nodecontent>भोगभूमि <br/> 4</div>
+                <ul>
+                  <li class=vertical>
+                    <div class=nodecontent>गर्भज-संज्ञी <br/> 4</div>
+                    <ul>
+                      <li class=leaf>
+                        <div class=nodecontent>थलचर <br/> 2</div>
+                      </li>
+                      <li class=leaf>
+                        <div class=nodecontent>नभचर <br/> 2</div>
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li class=leaf>
+            <div class=nodecontent>देव <br/> 2</div>
+          </li>
+          <li class=leaf>
+            <div class=nodecontent>नारकी <br/> 2</div>
+          </li>
+          <li class=node>
+            <div class=nodecontent>मनुष्य <br/> 9</div>
+            <ul>
+              <li class=vertical>
+                <div class=nodecontent>कर्मभूमि <br/> 5</div>
+                <ul>
+                  <li class=leaf>
+                    <div class=nodecontent>आर्य <br/> 3</div>
+                  </li>
+                  <li class=leaf>
+                    <div class=nodecontent>म्लेच्छ <br/> 2</div>
+                  </li>
+                </ul>
+              </li>
+              <li class=vertical>
+                <div class=nodecontent>भोगभूमि <br/> 4</div>
+                <ul>
+                  <li class=leaf>
+                    <div class=nodecontent>कुभोग <br/> 2</div>
+                  </li>
+                  <li class=leaf>
+                    <div class=nodecontent>सुभोग <br/> 2</div>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+<!--PythonTagEnd-->
+<span class=shortFont>
+अंतिम-भेद 2 = पर्याप्त और निर्वृत्यपर्याप्त
+अंतिम-भेद 3 = लब्ध्यपर्याप्त, पर्याप्त और निर्वृत्यपर्याप्त
+</span>

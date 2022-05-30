@@ -1,0 +1,183 @@
+﻿<table class=myAltTable>
+  <thead>
+  <tr>
+    <th colspan=5 class=tableTitle>गुणस्थानों में व्युच्छिति</th>
+  </tr>
+  <tr>
+    <th>व्युच्छिति</th>
+    <th>प्रकृतियाँ</th>
+    <th>संख्या</th>
+    <th>बंध</th>
+    <th>उदय</th>
+  </tr>
+  </thead>
+  <tr>
+    <td rowspan=4 class=head1><div>उदय-व्युच्छिति के पश्चात बंध-व्युच्छिति</div></td>
+    <td rowspan=4 class=head1>8</td>
+    <td class=head1>देव-चतुष्क</td>
+    <td>8</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td class=head1>आहारक-द्विक</td>
+    <td>8</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td class=head1>अयशस्कीर्ति</td>
+    <td>6</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td class=head1>देवायु</td>
+    <td>7</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td rowspan=9 class=head2><div>युगपत बंध-उदय व्युच्छिति</div></td>
+    <td rowspan=8 class=head2>31</td>
+    <th class=head2>मिथ्यात्व, आतप, सूक्ष्म, अपर्याप्त, साधारण</td>
+    <td>1</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td class=head2>स्थावर, जाति-चतुष्क</td>
+    <td>1*</td>
+    <td>1*</td>
+  </tr>
+  <tr>
+    <td class=head2>अनंतानुबंधी ४</td>
+    <td>2</td>
+    <td>2</td>
+  </tr>
+  <tr>
+  <tr>
+    <td class=head2>मनुष्यानुपूर्वी, अप्रत्याख्यानावरणी ४</td>
+    <td>4</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td class=head2>प्रत्याख्यानावरणी ४</td>
+    <td>5</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td class=head2>भय, जुगुप्सा, हास्य, रति</td>
+    <td>8</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td class=head2>संज्वलन ३ [क्रोध, मान, माया], पुरुष-वेद</td>
+    <td>9</td>
+    <td>9</td>
+  </tr>
+  <tr>
+    <td colspan=4 class=tableNotes>*महाधवल के अनुसार; धवल के अनुसार सासादन में उदय व्युच्छिती</td>
+  </tr>
+  <tr>
+    <td rowspan=23 class=head3><div>बंध-व्युच्छिति के पश्चात उदय-व्युच्छिति</div></td>
+    <td rowspan=23 class=head3>81</td>
+    <td class=head3>नरक-त्रिक</td>
+    <td rowspan=4>1</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td class=head3>असंप्राप्तासृपाटिका संहनन</td>
+    <td>7</td>
+  </tr>
+  <tr>
+    <td class=head3>नपुंसक-वेद</td>
+    <td>9</td>
+  </tr>
+  <tr>
+    <td class=head3>हुंडक-संस्थान</td>
+    <td>13</td>
+  </tr>
+  <tr>
+    <td class=head3>तिर्यञ्चानुपूर्वी, दुर्भग, अनादेय</td>
+    <td rowspan=7>2</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td class=head3>तिर्यञ्च-गति, तिर्यञ्चायु, उद्योत, नीच-गोत्र</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td class=head3>स्त्यान-त्रिक</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td class=head3>अर्ध-नाराच, कीलित-संहनन</td>
+    <td>7</td>
+  </tr>
+  <tr>
+    <td class=head3>स्त्री-वेद</td>
+    <td>9</td>
+  </tr>
+  <tr>
+    <td class=head3>वज्रनाराच, नाराच संहनन</th>
+    <td>11</td>
+  </tr>
+  <tr>
+    <td class=head3>4 संस्थान [न्यग्रोधपरिमंडल, स्वाति, कुब्जक, वामन], दुस्वर, अप्रशस्त-विहायोगति</td>
+    <td>13</td>
+  </tr>
+  <tr>
+    <td class=head3>औदारिक-द्विक, वज्रऋषभनाराच संहनन</td>
+    <td>4</td>
+    <td>13</td>
+  </tr>
+  <tr>
+    <td class=head3>मनुष्य -गति, मनुष्यायु</td>
+    <td>4</td>
+    <td>14</td>
+  </tr>
+  <tr>
+    <td class=head3>अरति, शोक</td>
+    <td rowspan=3>6</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td class=head3>अस्थिर, अशुभ</td>
+    <td>13</td>
+  </tr>
+  <tr>
+    <td class=head3>असातावेदनीय</td>
+    <td>14</td>
+  </tr>
+  <tr>
+    <td class=head3>निद्रा, प्रचला</td>
+    <td rowspan=3>8</td>
+    <td>12*</td>
+  </tr>
+  <tr>
+    <td class=head3>2 शरीर [तेजस, कार्माण], समचतुरस्र-संस्थान, वर्ण-चतुष्क, अगुरुलघुचतुष्क , प्रशस्त-विहायोगति, प्रत्येक, स्थिर, शुभ, सुस्वर, निर्माण</td>
+    <td>13</td>
+  </tr>
+  <tr>
+    <td class=head3>पंचेंद्रिय-जाति, त्रस, बादर, पर्याप्त, सुभग, आदेय, तीर्थंकर</td>
+    <td>14</td>
+  </tr>
+  <tr>
+    <td class=head3>संज्वलन-लोभ</td>
+    <td>9</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td class=head3>5 ज्ञानावरण, 4 दर्शनावरण, 5 अंतराय</td>
+    <td rowspan=2>10</td>
+    <td>12</td>
+  </tr>
+  <tr>
+    <td class=head3>यशस्कीर्ति, उच्च-गोत्र</td>
+    <td rowspan=2>14</td>
+  </tr>
+  <tr>
+    <td class=head3>साता-वेदनीय</td>
+    <td>13</td>
+  </tr>
+  <tr>
+    <td colspan=3 class=emptyTableCell></td>
+    <td colspan=2 class=tableNotes>*उपांत्य समय</td>
+  </tr>
+</table>

@@ -1,0 +1,377 @@
+﻿<table class=myAltTable>
+  <thead>
+  <tr>
+    <th colspan=7 class=tableTitle>आयु कर्म के त्रिसंयोग भंग</th>
+    <th colspan=8>गुणस्थान</th>
+  </tr>
+  <tr>
+    <th>गति</th>
+    <th>कुल-भंग</th>
+    <th>भंग</th>
+    <th>आयु</th>
+    <th>बंध</th>
+    <th>उदय</th>
+    <th>सत्त्व</th>
+    <th>1</th>
+    <th>2</th>
+    <th>3</th>
+    <th>4</th>
+    <th>5</th>
+    <th>6 / 7</th>
+    <th>उ.श्रे.</th>
+    <th>क्ष.श्रे.</th>
+  </tr>
+  </thead>
+  <tr>
+    <th rowspan=5>नरक</th>
+    <td rowspan=5>5</td>
+    <td>1</td>
+    <td>अबंध</td>
+    <td class=tableNotes>-na-</td>
+    <td>नरक</td>
+    <td>नरक</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td rowspan=5 class=tableNotes>-na-</td>
+    <td rowspan=14 class=tableNotes>-na-</td>
+    <td rowspan=14 class=tableNotes>-na-</td>
+    <td rowspan=14 class=tableNotes>-na-</td>
+  </tr>
+  <tr>
+    <td rowspan=2>2</td>
+    <td rowspan=2>बंध</td>
+    <td>मनुष्य</td>
+    <td>नरक</td>
+    <td>नरक, मनुष्य</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellN>X</td>
+    <td class=cellY>✔</td>
+  </tr>
+  <tr>
+    <td>तिर्यञ्च</td>
+    <td>नरक</td>
+    <td>नरक, तिर्यञ्च</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellN>X</td>
+    <td class=cellN>X</td>
+  </tr>
+  <tr>
+    <td rowspan=2>2</td>
+    <td rowspan=2>उपरतबंध</td>
+    <td class=tableNotes>-na-</td>
+    <td>नरक</td>
+    <td>नरक, मनुष्य</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+  </tr>
+  <tr>
+    <td class=tableNotes>-na-</td>
+    <td>नरक</td>
+    <td>नरक, तिर्यञ्च</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+  </tr>
+  <tr>
+    <th rowspan=9>तिर्यञ्च</th>
+    <td rowspan=9>9</td>
+    <td>1</td>
+    <td>अबंध</td>
+    <td class=tableNotes>-na-</td>
+    <td>तिर्यञ्च</td>
+    <td>तिर्यञ्च</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+  </tr>
+  <tr>
+    <td rowspan=4>4</td>
+    <td rowspan=4>बंध</td>
+    <td>नरक</td>
+    <td>तिर्यञ्च</td>
+    <td>तिर्यञ्च, नरक</td>
+    <td class=cellY>✔</td>
+    <td class=cellN>X</td>
+    <td class=cellN>X</td>
+    <td class=cellN>X</td>
+    <td class=cellN>X</td>
+  </tr>
+  <tr>
+    <td>तिर्यञ्च</td>
+    <td>तिर्यञ्च</td>
+    <td>तिर्यञ्च, तिर्यञ्च</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellN>X</td>
+    <td class=cellN>X</td>
+    <td class=cellN>X</td>
+  </tr>
+  <tr>
+    <td>मनुष्य</td>
+    <td>तिर्यञ्च</td>
+    <td>तिर्यञ्च, मनुष्य</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellN>X</td>
+    <td class=cellN>X</td>
+    <td class=cellN>X</td>
+  </tr>
+  <tr>
+    <td>देव</td>
+    <td>तिर्यञ्च</td>
+    <td>तिर्यञ्च, देव</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellN>X</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+  </tr>
+  <tr>
+    <td rowspan=4>4</td>
+    <td rowspan=4>उपरतबंध</td>
+    <td class=tableNotes>-na-</td>
+    <td>तिर्यञ्च</td>
+    <td>तिर्यञ्च, नरक</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellN>X</td>
+  </tr>
+  <tr>
+    <td class=tableNotes>-na-</td>
+    <td>तिर्यञ्च</td>
+    <td>तिर्यञ्च, तिर्यञ्च</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellN>X</td>
+  </tr>
+  <tr>
+    <td class=tableNotes>-na-</td>
+    <td>तिर्यञ्च</td>
+    <td>तिर्यञ्च, मनुष्य</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellN>X</td>
+  </tr>
+  <tr>
+    <td class=tableNotes>-na-</td>
+    <td>तिर्यञ्च</td>
+    <td>तिर्यञ्च, देव</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+  </tr>
+  <tr>
+    <th rowspan=9>मनुष्य</th>
+    <td rowspan=9>9</td>
+    <td>1</td>
+    <td>अबंध</td>
+    <td class=tableNotes>-na-</td>
+    <td>मनुष्य</td>
+    <td>मनुष्य</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+  </tr>
+  <tr>
+    <td rowspan=4>4</td>
+    <td rowspan=4>बंध</td>
+    <td>नरक</td>
+    <td>मनुष्य</td>
+    <td>मनुष्य, नरक</td>
+    <td class=cellY>✔</td>
+    <td class=cellN>X</td>
+    <td class=cellN>X</td>
+    <td class=cellN>X</td>
+    <td class=cellN>X</td>
+    <td class=cellN>X</td>
+    <td class=cellN>X</td>
+    <td class=cellN>X</td>
+  </tr>
+  <tr>
+    <td>तिर्यञ्च</td>
+    <td>मनुष्य</td>
+    <td>मनुष्य, तिर्यञ्च</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellN>X</td>
+    <td class=cellN>X</td>
+    <td class=cellN>X</td>
+    <td class=cellN>X</td>
+    <td class=cellN>X</td>
+    <td class=cellN>X</td>
+  </tr>
+  <tr>
+    <td>मनुष्य</td>
+    <td>मनुष्य</td>
+    <td>मनुष्य, मनुष्य</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellN>X</td>
+    <td class=cellN>X</td>
+    <td class=cellN>X</td>
+    <td class=cellN>X</td>
+    <td class=cellN>X</td>
+    <td class=cellN>X</td>
+  </tr>
+  <tr>
+    <td>देव</td>
+    <td>मनुष्य</td>
+    <td>मनुष्य, देव</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellN>X</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellN>X</td>
+    <td class=cellN>X</td>
+  </tr>
+  <tr>
+    <td rowspan=4>4</td>
+    <td rowspan=4>उपरतबंध</td>
+    <td class=tableNotes>-na-</td>
+    <td>मनुष्य</td>
+    <td>मनुष्य, नरक</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellN>X</td>
+    <td class=cellN>X</td>
+    <td class=cellN>X</td>
+    <td class=cellN>X</td>
+  </tr>
+  <tr>
+    <td class=tableNotes>-na-</td>
+    <td>मनुष्य</td>
+    <td>मनुष्य, तिर्यञ्च</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellN>X</td>
+    <td class=cellN>X</td>
+    <td class=cellN>X</td>
+    <td class=cellN>X</td>
+  </tr>
+  <tr>
+    <td class=tableNotes>-na-</td>
+    <td>मनुष्य</td>
+    <td>मनुष्य, मनुष्य</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellN>X</td>
+    <td class=cellN>X</td>
+    <td class=cellN>X</td>
+    <td class=cellN>X</td>
+  </tr>
+  <tr>
+    <td class=tableNotes>-na-</td>
+    <td>मनुष्य</td>
+    <td>मनुष्य, देव</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellN>X</td>
+  </tr>
+  <tr>
+    <th rowspan=5>देव</th>
+    <td rowspan=5>5</td>
+    <td>1</td>
+    <td>अबंध</td>
+    <td class=tableNotes>-na-</td>
+    <td>देव</td>
+    <td>देव</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td rowspan=5 class=tableNotes>-na-</td>
+    <td rowspan=5 class=tableNotes>-na-</td>
+    <td rowspan=5 class=tableNotes>-na-</td>
+    <td rowspan=5 class=tableNotes>-na-</td>
+  </tr>
+  <tr>
+    <td rowspan=2>2</td>
+    <td rowspan=2>बंध</td>
+    <td>मनुष्य</td>
+    <td>देव</td>
+    <td>देव, मनुष्य</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellN>X</td>
+    <td class=cellY>✔</td>
+  </tr>
+  <tr>
+    <td>तिर्यञ्च</td>
+    <td>देव</td>
+    <td>देव, तिर्यञ्च</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellN>X</td>
+    <td class=cellN>X</td>
+  </tr>
+  <tr>
+    <td rowspan=2>2</td>
+    <td rowspan=2>उपरतबंध</td>
+    <td class=tableNotes>-na-</td>
+    <td>देव</td>
+    <td>देव, मनुष्य</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+  </tr>
+  <tr>
+    <td class=tableNotes>-na-</td>
+    <td>देव</td>
+    <td>देव, तिर्यञ्च</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+  </tr>
+  <tr>
+    <td colspan=6 class=emptyTableCell></td>
+    <td class=head2>कुल</td>
+    <td class=head2>28</td>
+    <td class=head2>26</td>
+    <td class=head2>16</td>
+    <td class=head2>20</td>
+    <td class=head2>6</td>
+    <td class=head2>3</td>
+    <td class=head2>2</td>
+    <td class=head2>1</td>
+  </tr>
+  <tr>
+    <td colspan=15 class=tableNotes>गोम्मटसार कर्मकांड गाथा -- 645</td>
+  </tr>
+</table>

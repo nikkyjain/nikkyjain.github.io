@@ -1,0 +1,16 @@
+﻿पूर्व के अर्थात् साम्परायिक कर्मास्रव के इन्द्रिय, कषाय, अव्रत और क्रियारूप भेद हैं जो क्रम से पाँच, चार, पाँच और पच्चीस हैं ॥५॥
+<!--JsMindTagBegin-->
+  {"id":"root", "isroot":true, "topic":"योग"},
+  {"id":"sub1", "parentid":"root", "topic":"कषाय सहित "},
+  {"id":"sub12", "parentid":"sub1", "topic":"साम्परायिक "},
+  {"id":"sub121", "parentid":"sub12", "topic":"इन्द्रिय"},
+  {"id":"sub1211", "parentid":"sub121", "topic":"5"},
+  {"id":"sub122", "parentid":"sub12", "topic":"कषाय"},
+  {"id":"sub1221", "parentid":"sub122", "topic":"4"},
+  {"id":"sub123", "parentid":"sub12", "topic":"अव्रत"},
+  {"id":"sub1231", "parentid":"sub123", "topic":"5"},
+  {"id":"sub124", "parentid":"sub12", "topic":"क्रियारूप"}, 
+  {"id":"sub1241", "parentid":"sub124", "topic":"25"}, 
+  {"id":"sub2", "parentid":"root", "topic":"कषाय रहित"},
+  {"id":"sub21", "parentid":"sub2", "topic":"इर्यापथ"}
+<!--JsMindTagEnd-->

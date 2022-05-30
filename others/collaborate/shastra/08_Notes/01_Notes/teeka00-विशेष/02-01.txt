@@ -1,0 +1,98 @@
+﻿<table class=myAltColTable>
+  <colgroup>
+    <col><col><col><col><col><col><col>
+    <col><col><col><col><col><col><col><col>
+  </colgroup>
+  <tr>
+    <td class=emptyTableCell></td>
+    <th colspan=14 class=tableTitle>गुणस्थानों के विभिन्न विभाजन</th>
+  </tr>
+  <tr>
+    <th>14 अयोगकेवली</th>
+    <td rowspan=2>योग की अपेक्षा</td>
+    <td rowspan=9>विरत</td>
+    <td rowspan=2>केवल ज्ञानी</td>
+    <td rowspan=2>सर्वज्ञ</td>
+    <td rowspan=2>परमगुरु</td>
+    <td rowspan=3></td>
+    <td rowspan=2></td>
+    <td rowspan=8>अप्रमत्त</td>
+    <td rowspan=4>वीतरागी</td>
+    <td rowspan=2>अनन्त सुखी</td>
+    <td rowspan=2>परमात्मा</td>
+    <td rowspan=8>शुद्धोपयोग</td>
+    <td rowspan=11>धार्मिक</td>
+    <td rowspan=4>यथाख्यात चारित्र</td>
+  </tr>
+  <tr>
+    <th>13 सयोगकेवली</th>
+  </tr>
+  <tr>
+    <th>12 क्षीणमोह</th>
+    <td rowspan=8>चारित्र मोहनीय की अपेक्षा</td>
+    <td rowspan=9>ज्ञानी</td>
+    <td rowspan=12>छद्मस्थ</td>
+    <td rowspan=5>अप्रमत्त गुरु</td>
+    <td>क्षपक श्रेणी</td>
+    <td rowspan=2>अतीन्द्रिय सुखी</td>
+    <td rowspan=9>अंतरात्मा</td>
+  </tr>
+  <tr>
+    <th>11 उपशान्तमोह</th>
+    <td rowspan=5>उपशम श्रेणी</td>
+    <td></td>
+  </tr>
+  <tr>
+    <th>10सूक्ष्मसाम्पराय</th>
+    <td rowspan=4>क्षपक श्रेणी</td>
+    <td rowspan=7>मिश्र</td>
+    <td rowspan=7>मिश्र</td>
+    <td>सूक्ष्म-साम्परायिक चारित्र</td>
+  </tr>
+  <tr>
+    <th>9 अनिवृतिकरण</th>
+    <td rowspan=4>सामायिक छेदोपस्थापना परिहार-विशुद्धि चारित्र</td>
+  </tr>
+  <tr>
+    <th>8 अपूर्वकरण</th>
+  </tr>
+  <tr>
+    <th>7 अप्रमत्तसंयत</th>
+    <td rowspan=2>प्रमत्ताप्रमत्त गुरु</td>
+  </tr>
+  <tr>
+    <th>6 प्रमत्तसंयत</th>
+    <td rowspan=6></td>
+    <td rowspan=6></td>
+    <td rowspan=6>प्रमत्त</td>
+    <td rowspan=3>शुभोपयोग</td>
+  </tr>
+  <tr>
+    <th>5 देशविरत</th>
+    <td>विरताविरत</td>
+    <td rowspan="5"></td>
+    <td>संयमासंयम</td>
+  </tr>
+  <tr>
+    <th>4 अविरत</th>
+    <td rowspan=4>दर्शन मोहनीय की अपेक्षा</td>
+    <td rowspan=4>अविरत</td>
+    <td rowspan=4>असंयम</td>
+  </tr>
+  <tr>
+    <th>3 मिश्र</th>
+    <td>मिश्र</td>
+    <td rowspan=3>रागी</td>
+    <td rowspan=3>दुखी</td>
+    <td rowspan=3>बहिरात्मा</td>
+    <td rowspan=3>अशुभोपयोग</td>
+    <td rowspan=3>अधार्मिक</td>
+  </tr>
+  <tr>
+    <th>2 सासादन</th>
+    <td rowspan=2>अज्ञानी</td>
+  </tr>
+  <tr>
+    <th>1 मिथ्यात्व</th>
+  </tr>
+</table>

@@ -1,0 +1,120 @@
+﻿<table class=myAltTable>
+  <tbody>
+    <tr>
+      <td colspan=6 class=tableTitle>ब्रह्म ब्रह्मोत्तर युगल संबंधी आयु</td>
+    </tr>
+    <tr>
+      <td class=emptyTableCell></td>
+      <th rowspan=2>नाम</th>
+      <th colspan=2>आयु सामान्य</th>
+      <th rowspan=2>बद्धायुष्क की अपेक्षा उत्कृष्ट</th>
+      <th rowspan=2>घातायुष्क की अपेक्षा उत्कृष्ट</th>
+    </tr>
+    <tr>
+      <td class=emptyTableCell></td>
+      <th>जघन्य</th>
+      <th>उत्कृष्ट</th>
+    </tr>
+    <tr>
+      <td>सामान्य</td>
+      <td>स्वर्ग सामान्य</td>
+      <td>साधिक 7 सागर</td>
+      <td>साधिक 10 सागर</td>
+      <td></td>
+      <td rowspan=8>उत्कृष्ट आयु सामन्य् वत</td>
+    </tr>
+    <tr>
+      <td rowspan=2>घातायुष्क</td>
+      <td>सम्यक दृष्टि</td>
+      <td>7+1/2 सागर</td>
+      <td>10+1/2 सागर</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>मिथ्या दृष्टि</td>
+      <td>7 सागर + पल्य /अ सं</td>
+      <td>10सागर +पल्य /अ सं</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td rowspan=5>प्रत्येक पटल</td>
+      <td>अरित</td>
+      <td>15/2 सागर</td>
+      <td>33/4 सागर</td>
+      <td>31/4 सागर</td>
+    </tr>
+    <tr>
+      <td>देव समित</td>
+      <td>33/4 सागर</td>
+      <td>9 सागर</td>
+      <td>34/4 सागर</td>
+    </tr>
+    <tr>
+      <td>ब्रह्म</td>
+      <td>9 सागर</td>
+      <td>39/4 सागर</td>
+      <td>37/4 सागर</td>
+    </tr>
+    <tr>
+      <td>ब्रह्मोत्तर</td>
+      <td>39/4 सागर</td>
+      <td>21/2सागर</td>
+      <td>साधिक 10 सागर</td>
+    </tr>
+    <tr>
+      <td>लौकंतिक देव</td>
+      <td>8 सागर</td>
+      <td>8 सागर</td>
+      <td>8 सागर</td>
+    </tr>
+    <tr>
+      <td colspan=6 class=tableTitle>लान्तव-कापिष्ट युगल संबंधी</td>
+    </tr>
+    <tr>
+      <td class=emptyTableCell></td>
+      <th rowspan=2>नाम</th>
+      <th colspan=2>आयु सामान्य</th>
+      <th rowspan=2>बद्धायुष्क की अपेक्षा उत्कृष्ट</th>
+      <th rowspan=2>घातायुष्क की अपेक्षा उत्कृष्ट</th>
+    </tr>
+    <tr>
+      <td class=emptyTableCell></td>
+      <th>जघन्य</th>
+      <th>उत्कृष्ट</th>
+    </tr>
+    <tr>
+      <td>सामान्य</td>
+      <td>स्वर्ग सामान्य</td>
+      <td>साधिक 10 सागर</td>
+      <td>साधिक 14सागर</td>
+      <td></td>
+      <td rowspan=5>उत्कृष्ट आयु सामन्य् वत</td>
+    </tr>
+    <tr>
+      <td rowspan=2>घातायुष्क</td>
+      <td>सम्यक दृष्टि</td>
+      <td>10+1/2 सागर</td>
+      <td>14+1/2 सागर</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>मिथ्या दृष्टि</td>
+      <td>10 सागर + पल्य /अ सं</td>
+      <td>14सागर +पल्य /अ सं</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td rowspan=2>प्रत्येक पटल</td>
+      <td>ब्रह्मा निलय</td>
+      <td>21/2 सागर</td>
+      <td>25/2 सागर</td>
+      <td>साधिक 12सागर</td>
+    </tr>
+    <tr>
+      <td>लान्तव</td>
+      <td>25/2 सागर</td>
+      <td>29/2 सागर</td>
+      <td>साधिक 14सागर</td>
+    </tr>
+  </tbody>
+</table>

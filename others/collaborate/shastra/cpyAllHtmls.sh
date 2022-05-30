@@ -75,12 +75,12 @@ mkdir -p $outDir/youtube-animation
 cp $dbDir/youtube/* $outDir/youtube/.
 cp $dbDir/youtube-animation/* $outDir/youtube-animation/.
 # Remove Stories
-\rm -rf $outDir/teeka/07_Notes/02_Stories
-\rm -rf $outDir/teeka/07_Notes/03_*
-\rm -rf $outDir/gatha/07_Notes/02_Stories
-\rm -rf $outDir/gatha/07_Notes/03_*
-\rm -rf $outDir/shastra/07_Notes/02_Stories
-\rm -rf $outDir/shastra/07_Notes/03_*
+\rm -rf $outDir/teeka/08_Notes/02_Stories
+\rm -rf $outDir/teeka/08_Notes/03_*
+\rm -rf $outDir/gatha/08_Notes/02_Stories
+\rm -rf $outDir/gatha/08_Notes/03_*
+\rm -rf $outDir/shastra/08_Notes/02_Stories
+\rm -rf $outDir/shastra/08_Notes/03_*
 # Disable HTML copy
 if [ "$1" = "" ]; then
   find $outDir/. -name "*.html" -exec perl -i -pe 's/<body>/<body oncopy="return false" onpaste="return false" oncut="return false">/g' {} \;

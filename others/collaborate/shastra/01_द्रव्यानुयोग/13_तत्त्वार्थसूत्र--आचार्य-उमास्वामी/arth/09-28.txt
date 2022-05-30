@@ -1,0 +1,8 @@
+﻿आर्त, रौद्र, धर्म्‍य और शुक्‍ल ये ध्‍यान के चार भेद हैं ॥२८॥
+<!--JsMindTagBeginH2-->
+	{"id":"root", "isroot":true, "topic":"ध्‍यान के चार भेद"},
+	{"id":"sub1", "parentid":"root", "topic":"आर्त"},
+	{"id":"sub2", "parentid":"root", "topic":"रौद्र"},
+	{"id":"sub3", "parentid":"root", "topic":"धर्म्‍य"},
+	{"id":"sub4", "parentid":"root", "topic":"शुक्‍ल"}
+<!--JsMindTagEnd-->

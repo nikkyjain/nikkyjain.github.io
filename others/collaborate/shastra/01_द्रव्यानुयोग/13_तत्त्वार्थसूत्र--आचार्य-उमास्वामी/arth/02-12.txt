@@ -1,0 +1,16 @@
+﻿तथा संसारी जीव त्रस और स्‍थावर के भेद से दो प्रकार हैं ॥१२॥
+<!--PythonTagBegin-->
+<ul class=orgchart>
+  <li class=root>
+    <div class=nodecontent>संसारी जीव</div>
+    <ul>
+      <li class=leaf>
+        <div class=nodecontent>त्रस</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>स्थावर</div>
+      </li>
+    </ul>
+  </li>
+</ul>
+<!--PythonTagEnd-->

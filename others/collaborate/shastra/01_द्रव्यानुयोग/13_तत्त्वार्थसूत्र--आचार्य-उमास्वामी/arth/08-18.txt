@@ -1,0 +1,20 @@
+﻿वेदनीय की जघन्य स्थिति बारह मुहूर्त है ॥१८॥ 
+<!--JsMindTagBeginH6-->
+	{"id":"root", "isroot":true, "topic":"मूल  प्रकृतियों की जघन्य  स्थिति  "},
+	{"id":"sub1", "parentid":"root", "topic":"ज्ञानावरण"},
+	{"id":"sub1a", "parentid":"sub1", "topic":"अन्‍तर्मुहूर्त "},
+	{"id":"sub11", "parentid":"root", "topic":"दर्शनावरण"},
+	{"id":"sub11a", "parentid":"sub11", "topic":"अन्‍तर्मुहूर्त "},
+	{"id":"sub12", "parentid":"root", "topic":"वेदनीय"},
+	{"id":"sub12a", "parentid":"sub12", "topic":"बारह मुहूर्त "},
+	{"id":"sub13", "parentid":"root", "topic":"मोहनीय "},
+	{"id":"sub13a", "parentid":"sub13", "topic":"अन्‍तर्मुहूर्त "},
+	{"id":"sub14", "parentid":"root", "topic":"आयु "},
+	{"id":"sub14a", "parentid":"sub14", "topic":"अन्‍तर्मुहूर्त "},
+	{"id":"sub15", "parentid":"root", "topic":"नाम  "},	
+	{"id":"sub15a", "parentid":"sub15", "topic":"आठ  मुहूर्त "},
+	{"id":"sub16", "parentid":"root", "topic":"गोत्र  "},
+	{"id":"sub16a", "parentid":"sub16", "topic":"आठ  मुहूर्त "},
+	{"id":"sub17", "parentid":"root", "topic":"अन्तराय  "},
+	{"id":"sub17a", "parentid":"sub17", "topic":"अन्‍तर्मुहूर्त "}
+<!--JsMindTagEnd-->                

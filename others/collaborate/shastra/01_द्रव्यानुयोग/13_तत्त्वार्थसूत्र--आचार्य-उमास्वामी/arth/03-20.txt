@@ -1,0 +1,28 @@
+﻿इन भरत आदि क्षेत्रों में-से गंगा, सिन्‍धु, रो‍हित, रोहितास्‍या, हरित्, हरिकान्‍ता, सीता, सीतोदा, नारी, नरकान्‍ता, सुवर्णकूला, रूप्‍यकूला, रक्‍ता और रक्‍तोदा नदियाँ बही हैं ॥२०॥
+<!--JsMindTagBeginH7-->
+                {"id":"root", "isroot":true, "topic":"जम्बू-द्वीप में नदियां"},
+
+
+                {"id":"sub7", "parentid":"root", "topic":"ऐरावत"},
+                {"id":"sub6", "parentid":"root", "topic":"हैरण्‍यवत"},
+                {"id":"sub5", "parentid":"root", "topic":"रम्‍यक"},
+                {"id":"sub4", "parentid":"root", "topic":"विदेह"},
+                {"id":"sub3", "parentid":"root", "topic":"हरि"},
+                {"id":"sub2", "parentid":"root", "topic":"हैमवत"},
+                {"id":"sub1", "parentid":"root", "topic":"भरत"},
+
+                {"id":"sub11", "parentid":"sub1", "topic":"गंगा"},
+                {"id":"sub12", "parentid":"sub1", "topic":"सिन्‍धु"},
+                {"id":"sub13", "parentid":"sub2", "topic":"रो‍हित"},
+                {"id":"sub14", "parentid":"sub2", "topic":"रोहितास्‍या"},
+                {"id":"sub15", "parentid":"sub3", "topic":"हरित्"},
+                {"id":"sub16", "parentid":"sub3", "topic":"हरिकान्‍ता"},
+                {"id":"sub17", "parentid":"sub4", "topic":"सीता"},
+                {"id":"sub18", "parentid":"sub4", "topic":"सीतोदा"},
+                {"id":"sub19", "parentid":"sub5", "topic":"नारी"},
+                {"id":"sub20", "parentid":"sub5", "topic":"नरकान्‍ता"},
+                {"id":"sub21", "parentid":"sub6", "topic":"सुवर्णकूला"},
+                {"id":"sub22", "parentid":"sub6", "topic":"रूप्‍यकूला"},
+                {"id":"sub23", "parentid":"sub7", "topic":"रक्‍ता"},
+                {"id":"sub24", "parentid":"sub7", "topic":"रक्‍तोदा"}
+<!--JsMindTagEnd-->

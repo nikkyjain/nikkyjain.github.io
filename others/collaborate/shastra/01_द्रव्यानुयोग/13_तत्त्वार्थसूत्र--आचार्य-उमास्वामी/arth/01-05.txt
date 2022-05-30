@@ -1,0 +1,22 @@
+﻿नाम, स्‍थापना, द्रव्‍य और भाव रूप से उनका अर्थात् सम्‍यग्‍दर्शन आदि और जीव आदि का न्‍यास (निक्षेप) होता है ॥५॥
+<!--PythonTagBegin-->
+<ul class=orgchart>
+  <li class=root>
+    <div class=nodecontent>निक्षेप</div>
+    <ul>
+      <li class=leaf>
+        <div class=nodecontent>नाम</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>स्थापना</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>द्रव्य</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>भाव</div>
+      </li>
+    </ul>
+  </li>
+</ul>
+<!--PythonTagEnd-->

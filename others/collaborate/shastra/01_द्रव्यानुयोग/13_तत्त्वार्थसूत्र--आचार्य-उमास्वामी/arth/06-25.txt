@@ -1,0 +1,10 @@
+﻿परनिंदा, आत्मप्रशंसा, सद्गुणों का उच्छादन और असद्गुणों का उद्भावन ये नीचगोत्र के आस्रव हैं ॥२५॥
+<!--JsMindTagBeginH2-->
+    {"id":"root", "isroot":true, "topic":"नीचगोत्र के आस्रव"},
+    {"id":"sub1", "parentid":"root", "topic":"परनिंदा"},
+    {"id":"sub2", "parentid":"root", "topic":"आत्मप्रशंसा"},
+    {"id":"sub3", "parentid":"root", "topic":"सद्गुणों का उच्छादन"},
+    {"id":"sub3a", "parentid":"sub3", "topic":"दूसरे के विद्यमान गुण को ढंकना"},
+	{"id":"sub4", "parentid":"root", "topic":"असद्गुणों का उद्भावन"},
+	{"id":"sub4a", "parentid":"sub4", "topic":"अपने झूठे गुणों को प्रकट करना"}
+<!--JsMindTagEnd-->

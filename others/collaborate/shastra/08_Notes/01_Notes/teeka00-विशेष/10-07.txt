@@ -1,0 +1,132 @@
+﻿<table class=myAltTable>
+  <tr>
+    <th class=tableTitle colspan=4>योग मार्गणा में सत्व</th>
+  </tr>
+  <tr>
+    <td class=emptyTableCell colspan=2></td>
+    <th>सत्व</th>
+    <th>असत्व</th>
+  </tr>
+  <tr>
+    <th>सत्य और अनुभय  मन / वचन</th>
+    <td class=tableNotes colspan=3><b>सत्व योग्य प्रकृतियाँ 148</b> गुणस्थान 1 से 13, सामान्यवत्</td>
+  </tr>
+  <tr>
+    <th>असत्य और उभय  मन / वचन</th>
+    <td class=tableNotes colspan=3><b>सत्व योग्य प्रकृतियाँ 148</b> गुणस्थान 1 से 12, सामान्यवत्</td>
+  </tr>
+  <tr>
+    <th>औदारिक</th>
+    <td class=tableNotes colspan=3><b>सत्व योग्य प्रकृतियाँ 148</b>, गुणस्थान 1 से 13, सामान्यवत्</td>
+  </tr>
+  <tr>
+    <th>आहारक / आहारक-मिश्र</th>
+    <td class=tableNotes colspan=3><b>सत्व योग्य प्रकृतियाँ 146</b> = 148 - 2 (नरकायु, तिर्यञ्चायु), गुणस्थान 1 (प्रमत्तसंयत)</td>
+  </tr>
+  <tr>
+    <td class=emptyTableCell colspan=2></td>
+    <th>सत्व</th>
+    <th>असत्व</th>
+  </tr>
+  <tr>
+    <th rowspan=5>वैक्रियिक</th>
+    <th>मिथ्यात्व</th>
+    <td><b>148</b></td>
+    <td><b>0</b></td>
+  </tr>
+  <tr>
+    <th>सासादन</th>
+    <td><b>145</b></td>
+    <td><b>3</b> (-आहारक-द्विक, तीर्थंकर)</td>
+  </tr>
+  <tr>
+    <th>मिश्र</th>
+    <td><b>147</b></td>
+    <td><b>1</b> (-तीर्थंकर)</td>
+  </tr>
+  <tr>
+    <th>अविरत</th>
+    <td><b>148</b></td>
+    <td><b>0</b></td>
+  </tr>
+  <tr>
+    <td class=tableNotes colspan=3><b>सत्व योग्य प्रकृतियाँ 148</b></td>
+  </tr>
+  <tr>
+    <th rowspan=4>वैक्रियिक मिश्र</th>
+    <th>मिथ्यात्व</th>
+    <td><b>146</b></td>
+    <td><b>0</b></td>
+  </tr>
+  <tr>
+    <th>सासादन</th>
+    <td><b>142</b></td>
+    <td><b>4</b> (-आहारक-द्विक, तीर्थंकर, नरकायु)</td>
+  </tr>
+  <tr>
+    <th>अविरत</th>
+    <td><b>146</b></td>
+    <td><b>0</b></td>
+  </tr>
+  <tr>
+    <td class=tableNotes colspan=3><b>सत्व योग्य प्रकृतियाँ 146</b> = 148 - 2 (तिर्यञ्चायु, मनुष्यायु)</td>
+  </tr>
+  <tr>
+    <td class=emptyTableCell colspan=2></td>
+    <th>सत्व</th>
+    <th>असत्व</th>
+  </tr>
+  <tr>
+    <th rowspan=5>औदारिक-मिश्र</th>
+    <th>मिथ्यात्व</th>
+    <td><b>145</b></td>
+    <td><b>1</b> (तीर्थंकर)</td>
+  </tr>
+  <tr>
+    <th>सासादन</th>
+    <td><b>143</b></td>
+    <td><b>3</b> (-आहारक-द्विक, तीर्थंकर)</td>
+  </tr>
+  <tr>
+    <th>अविरत</th>
+    <td><b>146</b></td>
+    <td><b>0</b></td>
+  </tr>
+  <tr>
+    <th>सयोग-केवली</th>
+    <td><b>85</b></td>
+    <td><b>61</b></td>
+  </tr>
+  <tr>
+    <td class=tableNotes colspan=3><b>सत्व योग्य प्रकृतियाँ 146</b> = 148 - 2 (देवायु, नरकायु)</td>
+  </tr>
+  <tr>
+    <td class=emptyTableCell colspan=2></td>
+    <th>सत्व</th>
+    <th>असत्व</th>
+  </tr>
+  <tr>
+    <th rowspan=5>कार्मण</th>
+    <th>मिथ्यात्व</th>
+    <td><b>148</b></td>
+    <td><b>0</b></td>
+  </tr>
+  <tr>
+    <th>सासादन</th>
+    <td><b>144</b></td>
+    <td><b>4</b> (-आहारक-द्विक, तीर्थंकर, नरकायु)</td>
+  </tr>
+  <tr>
+    <th>अविरत</th>
+    <td><b>148</b></td>
+    <td><b>0</b></td>
+  </tr>
+  <tr>
+    <th>सयोग-केवली</th>
+    <td><b>85</b></td>
+    <td><b>63</b></td>
+  </tr>
+  <tr>
+    <td class=tableNotes colspan=3><b>सत्व योग्य प्रकृतियाँ 148</b></td>
+  </tr>
+</table>

@@ -1,0 +1,18 @@
+﻿वह (सम्‍यग्‍दर्शन) निसर्ग से और अधिगम से उत्‍पन्‍न होता है ॥३॥
+<!--PythonTagBegin-->
+<div class=oc>
+<ul class=orgchart>
+  <li class=root>
+    <div class=nodecontent>सम्यग्दर्शन</div>
+    <ul>
+      <li class=leaf>
+        <div class=nodecontent>निसर्गज</div>
+      </li>
+      <li class=leaf>
+        <div class=nodecontent>अधिगमज</div>
+      </li>
+    </ul>
+  </li>
+</ul>
+</div>
+<!--PythonTagEnd-->

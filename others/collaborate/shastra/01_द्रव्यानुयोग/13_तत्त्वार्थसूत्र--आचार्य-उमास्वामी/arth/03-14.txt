@@ -1,0 +1,17 @@
+﻿इन पर्वतों के ऊपर क्रम से पद्म, महापद्म, तिगिंछ, केस‍री, महापुण्‍डरीक और पुण्‍डरीक ये तालाब हैं ॥१४॥
+<!--JsMindTagBegin-->
+    {"id":"root", "isroot":true, "topic":"जम्बू-द्वीप के पर्वत के ऊपर तलाब"},
+    {"id":"sub6", "parentid":"root", "topic":"शिखरी"},
+    {"id":"sub5", "parentid":"root", "topic":"रुक्‍मी"},
+    {"id":"sub4", "parentid":"root", "topic":"नील"},
+    {"id":"sub3", "parentid":"root", "topic":"निषध"},
+    {"id":"sub2", "parentid":"root", "topic":"महाहिमवन्"},
+    {"id":"sub1", "parentid":"root", "topic":"हिमवन्"},
+
+    {"id":"sub11", "parentid":"sub1", "topic":"पद्म"},
+    {"id":"sub12", "parentid":"sub2", "topic":"महापद्म"},
+    {"id":"sub13", "parentid":"sub3", "topic":"तिगिंछ"},
+    {"id":"sub14", "parentid":"sub4", "topic":"केस‍री"},
+    {"id":"sub15", "parentid":"sub5", "topic":"महापुण्‍डरीक"},
+    {"id":"sub16", "parentid":"sub6", "topic":"पुण्‍डरीक"},
+<!--JsMindTagEnd-->

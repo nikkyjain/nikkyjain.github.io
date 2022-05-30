@@ -1,0 +1,8 @@
+﻿शुभयोग पुण्य‍ का और अशुभयोग पाप का आस्रव है ॥३॥
+<!--JsMindTagBeginH2-->
+    {"id":"root", "isroot":true, "topic":"योग"},
+    {"id":"sub1", "parentid":"root", "topic":"शुभ योग"},
+    {"id":"sub11", "parentid":"sub1", "topic":"पुण्य-आस्रव"},
+    {"id":"sub2", "parentid":"root", "topic":"अशुभ योग"},
+    {"id":"sub21", "parentid":"sub2", "topic":"पाप-आस्रव"}
+<!--JsMindTagEnd-->

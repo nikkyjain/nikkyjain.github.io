@@ -1,0 +1,9 @@
+﻿सचित्तनिक्षेप, सचित्तापिधान, परव्‍यपदेश, मात्‍सर्य और कालातिक्रम ये अतिथिसंविभाग व्रत के पाँच अतिचार है ॥३६॥
+<!--JsMindTagBegin-->
+  {"id":"root", "isroot":true, "topic":" अतिथिसंविभाग व्रत के पाँच अतिचार"},
+  {"id":"sub1", "parentid":"root", "topic":"सचित्तनिक्षेप"},
+  {"id":"sub2", "parentid":"root", "topic":"सचित्तापिधान"},
+  {"id":"sub3", "parentid":"root", "topic":"परव्‍यपदेश"},
+  {"id":"sub4", "parentid":"root", "topic":"मात्‍सर्य"},
+  {"id":"sub5", "parentid":"root", "topic":"कालातिक्रम "}
+<!--JsMindTagEnd-->

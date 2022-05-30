@@ -1,0 +1,421 @@
+﻿<table class=myAltTable>
+  <tr>
+    <td colspan=2 rowspan=2 class=emptyTableCell></td>
+    <th colspan=12 class=tableTitle>द्वादश चक्रवर्ती निर्देश</th>
+  </tr>
+  <tr>
+    <th>1</th>
+    <th>2</th>
+    <th>3</th>
+    <th>4</th>
+    <th>5</th>
+    <th>6</th>
+    <th>7</th>
+    <th>8</th>
+    <th>9</th>
+    <th>10</th>
+    <th>11</th>
+    <th>12</th>
+  </tr>
+  <tr>
+    <th colspan=2>नाम</th>
+    <td class=head2><b>भरत</b></td>
+    <td class=head2><b>सगर</b></td>
+    <td class=head2><b>मघवा</b></td>
+    <td class=head2><b>सनत्कुमार</b></td>
+    <td class=head2><b>शांति</b></td>
+    <td class=head2><b>कुंथु</b></td>
+    <td class=head2><b>अर</b></td>
+    <td class=head2><b>सुभौम</b></td>
+    <td class=head2><b>पद्म</b></td>
+    <td class=head2><b>हरिषेण</b></td>
+    <td class=head2><b>जयसेन</b></td>
+    <td class=head2><b>ब्रह्मदत्त</b></td>
+  </tr>
+  <tr>
+    <th colspan=2>पूर्वभव</th>
+    <td>सर्वार्थ सिद्धि | अच्युत</td>
+    <td>विजय वि.</td>
+    <td>ग्रैवेयक</td>
+    <td>माहेंद्र | अच्युत</td>
+    <td>सर्वार्थ सिद्धि</td>
+    <td>सर्वार्थ सिद्धि</td>
+    <td>जयंत | अपराजित | स.सि.</td>
+    <td>जयंत | महाशुक्र</td>
+    <td>ब्रह्मस्वर्ग | अच्युत</td>
+    <td>माहेंद्र | सनत्कुमार</td>
+    <td>ब्रह्मस्वर्ग | महाशुक्र</td>
+    <td>कमलगुल्म</td>
+  </tr>
+  <tr>
+    <th rowspan=3>पूर्व भव नं. 2</th>
+    <th>नाम राजा</th>
+    <td>पीठ</td>
+    <td>विजय | जयसेन</td>
+    <td>शशिप्रभ | नरपति</td>
+    <td>धर्मरुचि</td>
+    <td>मेघरथ</td>
+    <td>सिंहरथ</td>
+    <td>धनपति</td>
+    <td>कनकाभ | भूपाल</td>
+    <td>चिंत | प्रजापाल</td>
+    <td>महेंद्रदत्त</td>
+    <td>अमितांग | वसुंधर</td>
+    <td>संभूत</td>
+  </tr>
+  <tr>
+    <th>नगर</th>
+    <td>पुंडरीकिणी</td>
+    <td>पृथिवीपुर</td>
+    <td>पुंडरीकिणी</td>
+    <td>महापुरी</td>
+    <td>जंबू वि.पुंडरीकिणी</td>
+    <td>जंबू वि.सुसीमा</td>
+    <td>जंबू वि.क्षेमपुरी</td>
+    <td class=cellN>-</td>
+    <td>वीतशोका | श्रीपुर</td>
+    <td>विजय</td>
+    <td>राजपुर | श्रीपुर</td>
+    <td>काशी</td>
+  </tr>
+  <tr>
+    <th>दीक्षागुरु</th>
+    <td>कुशसेन</td>
+    <td>यशोधर</td>
+    <td>विमल</td>
+    <td>सुप्रभ</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td>विचित्रगुप्त | संभूत</td>
+    <td>सुप्रभ | शिवगुप्त</td>
+    <td>नंदन</td>
+    <td>सुधर्ममित्र | वररुचि</td>
+    <td>स्वतंत्रलिंग</td>
+  </tr>
+  <tr>
+    <th rowspan=2>वर्तमान नगर</th>
+    <th>सामान्य</th>
+    <td>अयोध्या</td>
+    <td>अयोध्या</td>
+    <td>श्रावस्ती</td>
+    <td>हस्तिनापुर</td>
+    <td>हस्तनागपुर</td>
+    <td>हस्तनागपुर</td>
+    <td>हस्तनागपुर</td>
+    <td>दृशावती</td>
+    <td>हस्तिनापुर</td>
+    <td>कांपिल्य</td>
+    <td>कांपिल्य</td>
+    <td>कांपिल्य</td>
+  </tr>
+  <tr>
+    <th>विशेष</th>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td>अयोध्या</td>
+    <td>अयोध्या</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td>अयोध्या</td>
+    <td>वाराणसी</td>
+    <td>भोगपुर</td>
+    <td>कौशांबी</td>
+    <td class=cellN>-</td>
+  </tr>
+  <tr>
+    <th rowspan=2>वर्तमान पिता</th>
+    <th>सामान्य</th>
+    <td>ऋषभ</td>
+    <td>विजय</td>
+    <td>सुमित्र</td>
+    <td>विजय</td>
+    <td>विश्वसेन</td>
+    <td>सूरसेन</td>
+    <td>सुदर्शन</td>
+    <td>कीर्तिवीर्य</td>
+    <td>पद्मरथ</td>
+    <td>पद्मनाभ</td>
+    <td>विजय</td>
+    <td>ब्रह्मरथ</td>
+  </tr>
+  <tr>
+    <th>विशेष</th>
+    <td class=cellN>-</td>
+    <td>समुद्रविजय</td>
+    <td class=cellN>-</td>
+    <td>अनंतवीर्य</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td>सहस्रबाहु</td>
+    <td>पद्मनाभ</td>
+    <td>हरिकेतु</td>
+    <td class=cellN>-</td>
+    <td>ब्रह्मा</td>
+  </tr>
+  <tr>
+    <th rowspan=2>वर्तमान माता</th>
+    <th>सामान्य</th>
+    <td>यशस्वती</td>
+    <td>सुमंगला</td>
+    <td>भद्रवती</td>
+    <td>सहदेवी</td>
+    <td>ऐरा</td>
+    <td>श्रीकांता</td>
+    <td>मित्रसेना</td>
+    <td>तारा</td>
+    <td>मयूरी</td>
+    <td>वप्रा</td>
+    <td>यशोवती</td>
+    <td>चूला</td>
+  </tr>
+  <tr>
+    <th>विशेष</th>
+    <td>मरुदेवी</td>
+    <td>सुबाला</td>
+    <td>भद्रा</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td>चित्रमती</td>
+    <td class=cellN>-</td>
+    <td>एरा</td>
+    <td>प्रभाकरी</td>
+    <td>चूड़ादेवी</td>
+  </tr>
+  <tr>
+    <th rowspan=4>शरीरोत्सेध</th>
+    <th>तिलोयपण्णत्ति</th>
+    <td>500</td>
+    <td>450</td>
+    <td>42 1/2</td>
+    <td>42</td>
+    <td>40</td>
+    <td>35</td>
+    <td>30</td>
+    <td>28</td>
+    <td>22</td>
+    <td>20</td>
+    <td>15</td>
+    <td>7</td>
+  </tr>
+  <tr>
+    <th>त्रिलोकसार</th>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td>41 1/2</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+  </tr>
+  <tr>
+    <th>हरिवंशपुराण</th>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td>14</td>
+    <td class=cellN>-</td>
+  </tr>
+  <tr>
+    <th>महापुराण</th>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td>42 1/2</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td>24</td>
+    <td class=cellN>-</td>
+    <td>60</td>
+  </tr>
+  <tr>
+    <th rowspan=3>आयु</th>
+    <th>तिलोयपण्णत्ति</th>
+    <td>84 लाख पूर्व      </td>
+    <td>72 लाख पूर्व      </td>
+    <td>5 लाख पूर्व</td>
+    <td>3 लाख पूर्व</td>
+    <td>1,00,000 वर्ष</td>
+    <td>95,000 वर्ष</td>
+    <td>84,000 वर्ष</td>
+    <td>60,000 वर्ष</td>
+    <td>30,000 वर्ष</td>
+    <td>10,000 वर्ष</td>
+    <td>3,000 वर्ष</td>
+    <td>700 वर्ष</td>
+  </tr>
+  <tr>
+    <th>हरिवंशपुराण</th>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td>68,000 वर्ष</td>
+    <td class=cellN>-</td>
+    <td>26,000 वर्ष</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+  </tr>
+  <tr>
+    <th>महापुराण</th>
+    <td class=cellN>-</td>
+    <td>70 लाख पूर्व    </td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+  </tr>
+  <tr>
+    <th colspan=2>कुमारकाल</th>
+    <td>77,000 वर्ष</td>
+    <td>50,000 वर्ष</td>
+    <td>25,000 वर्ष</td>
+    <td>50,000 वर्ष</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td>5,000 वर्ष</td>
+    <td>500 वर्ष</td>
+    <td>325 वर्ष</td>
+    <td>300 वर्ष</td>
+    <td>28 वर्ष</td>
+  </tr>
+  <tr>
+    <th colspan=2>मंडलीक</th>
+    <td>1,000 वर्ष</td>
+    <td>50,000 वर्ष</td>
+    <td>25,000 वर्ष</td>
+    <td>50,000 वर्ष</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td>5,000 वर्ष</td>
+    <td>500 वर्ष</td>
+    <td>325 वर्ष</td>
+    <td>300 वर्ष</td>
+    <td>56 वर्ष</td>
+  </tr>
+  <tr>
+    <th colspan=2>दिग्विजय</th>
+    <td>60,000 वर्ष</td>
+    <td>30,000 वर्ष</td>
+    <td>10,000 वर्ष</td>
+    <td>10,000 वर्ष</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td>500 वर्ष</td>
+    <td>300 वर्ष</td>
+    <td>150 वर्ष</td>
+    <td>100 वर्ष</td>
+    <td>16 वर्ष</td>
+  </tr>
+  <tr>
+    <th rowspan=2>राज्य काल</th>
+    <th>सामान्य</th>
+    <td>6 लाख पूर्व 61000 वर्ष</td>
+    <td>70लाख पूर्व 30000 वर्ष</td>
+    <td>39000 वर्ष</td>
+    <td>90000 वर्ष</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td>49500 वर्ष</td>
+    <td>18700 वर्ष</td>
+    <td>8850 वर्ष</td>
+    <td>1900 वर्ष</td>
+    <td>600 वर्ष</td>
+  </tr>
+  <tr>
+    <th>विशेष</th>
+    <td>6 लाख पूर्व 1 पूर्व</td>
+    <td>6970000पूर्व +99999 पूर्वांग+83 लाख वर्ष</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td>62500 वर्ष</td>
+    <td class=cellN>-</td>
+    <td>25175 वर्ष</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+  </tr>
+  <tr>
+    <th colspan=2>संयम काल</th>
+    <td>1 लाख पूर्व</td>
+    <td>1 लाख पूर्व</td>
+    <td>50000 वर्ष</td>
+    <td>1 लाख वर्ष</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td>-</td>
+    <td>10000 वर्ष</td>
+    <td>350 वर्ष</td>
+    <td>400 वर्ष</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th rowspan=2>निर्गमन</th>
+    <th>तिलोयपण्णत्ति</th>
+    <td>मोक्ष</td>
+    <td class=cellN>-</td>
+    <td>सनत्कुमार स्वर्ग</td>
+    <td>सनत्कुमार स्वर्ग</td>
+    <td>मोक्ष</td>
+    <td>मोक्ष</td>
+    <td>मोक्ष</td>
+    <td>7वें नरक</td>
+    <td>मोक्ष</td>
+    <td>मोक्ष</td>
+    <td>मोक्ष</td>
+    <td>7वें नरक</td>
+  </tr>
+  <tr>
+    <th>महापुराण</th>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td>मोक्ष</td>
+    <td>मोक्ष</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td class=cellN>-</td>
+    <td>सर्वार्थ सिद्धि</td>
+    <td>जयंत</td>
+    <td class=cellN>-</td>
+  </tr>
+  <tr>
+    <td colspan=14 class=tableNotes>सभी का वर्ण स्वर्ण, सम-चतुरस्र संस्थान, वज्रऋषभनाराच संहनन</td>
+  </tr>
+</table>

@@ -1,0 +1,46 @@
+﻿<table class=myAltTable>
+	<thead>
+		<tr>
+			<th class=tableTitle>कहाँ से</th>
+			<th class=tableTitle>कहाँ जाते हैं</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th>चक्रवर्ती</th>
+			<td>मोक्ष, स्वर्ग, नरक</td>
+		</tr>
+		<tr>
+			<th>बलभद्र</th>
+			<td>मोक्ष, स्वर्ग</td>
+		</tr>
+		<tr>
+			<th>नारायण, प्रतिनारायण</th>
+			<td>नरक</td>
+		</tr>
+		<tr>
+			<th>सातवां नरक</th>
+			<td>क्रूर पंचेन्द्रिय संज्ञी गर्भज तिर्यंच</td>
+		</tr>
+		<tr>
+			<th>कुलकर</th>
+			<td>वैमानिक स्वर्ग</td>
+		</tr>
+		<tr>
+			<th>कामदेव</th>
+			<td>स्वर्ग, मोक्ष</td>
+		</tr>
+		<tr>
+			<th>तीर्थंकर के पिता</th>
+			<td>स्वर्ग, मोक्ष</td>
+		</tr>
+		<tr>
+			<th>तीर्थंकर की माता</th>
+			<td>स्वर्ग</td>
+		</tr>
+		<tr>
+			<th>नारद, रूद्र</th>
+			<td>नरक</td>
+		</tr>
+	</tbody>
+</table>
