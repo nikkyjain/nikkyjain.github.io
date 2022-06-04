@@ -367,6 +367,7 @@ for bcFile in sorted(os.listdir('./main')):
                   html.write("<br><div class=teeka><b><font color=darkgreen>"+teekakaar+" :</font></b><br></div><div class=teeka>"+fData+"</div>")
     ##
     html.write("<hr class=type_7>\n")
+    html.write("<a href='#home' class=index>&#x1f3e0;</a>\n")
     print ("\rDone - "+bcFile, end="")
 if (len(sys.argv) > 1) and not os.path.isfile('./config/NoShrutSkandh.txt'):
     html.write("<div align=center><img src='"+myRelPath+"images/Srutskandh.jpg' width='70%'></img></div>\n");
