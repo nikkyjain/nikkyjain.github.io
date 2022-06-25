@@ -89,7 +89,8 @@ $( document ).ready(function() {
     $optgrp=$('<optgroup label="﻿अनुभाग बंध ">')
        $optgrp.append("<option value='07-01.html'><b>07-01</b> - ﻿अनुभाग बन्ध के स्वामी</option>");
        $optgrp.append("<option value='07-02.html'><b>07-02</b> - ﻿मूल प्रकृतियों में सादि आदि भेद</option>");
-       $optgrp.append("<option value='07-03.html'><b>07-03</b> - ﻿उत्तर प्रकृतियों में सादि आदि भेद</option>");
+       $optgrp.append("<option value='07-03.html'><b>07-03</b> - ﻿मूल प्रकृतियों के अनुभाग बंध में स्वामित्व प्ररूपणा</option>");
+       $optgrp.append("<option value='07-10.html'><b>07-10</b> - ﻿उत्तर प्रकृतियों में सादि आदि भेद</option>");
   mySel.append($optgrp);
     $optgrp=$('<optgroup label="﻿प्रदेश बंध">')
        $optgrp.append("<option value='08-01.html'><b>08-01</b> - ﻿मूल प्रकृतियों में प्रदेश बंध</option>");
@@ -217,6 +218,12 @@ $( document ).ready(function() {
        $optgrp.append("<option value='21-02.html'><b>21-02</b> - ﻿मार्गणा में अन्तरानुगम</option>");
        $optgrp.append("<option value='21-03.html'><b>21-03</b> - ﻿एक जीव की अपेक्षा प्रकृतिबंध अंतरानुगम</option>");
        $optgrp.append("<option value='21-04.html'><b>21-04</b> - ﻿गति-मार्गणा में एक जीव की अपेक्षा प्रकृतिबंध अंतरानुगम</option>");
+       $optgrp.append("<option value='21-05.html'><b>21-05</b> - ﻿इंद्रिय और काय मार्गणा में एक जीव की अपेक्षा प्रकृतिबंध अंतरानुगम</option>");
+       $optgrp.append("<option value='21-06.html'><b>21-06</b> - ﻿योग-मार्गणा में एक जीव की अपेक्षा प्रकृतिबंध अंतरानुगम</option>");
+       $optgrp.append("<option value='21-07.html'><b>21-07</b> - ﻿वेद-मार्गणा में एक जीव की अपेक्षा प्रकृतिबंध अंतरानुगम</option>");
+       $optgrp.append("<option value='21-08.html'><b>21-08</b> - ﻿कषाय-मार्गणा में एक जीव की अपेक्षा प्रकृतिबंध अंतरानुगम</option>");
+       $optgrp.append("<option value='21-09.html'><b>21-09</b> - ﻿ज्ञान-दर्शन-संयम-मार्गणा में एक जीव की अपेक्षा प्रकृतिबंध अंतरानुगम</option>");
+       $optgrp.append("<option value='21-10.html'><b>21-10</b> - ﻿लेश्या-मार्गणा में एक जीव की अपेक्षा प्रकृतिबंध अंतरानुगम</option>");
        $optgrp.append("<option value='23-01.html'><b>23-01</b> - ﻿योग-स्थान</option>");
        $optgrp.append("<option value='23-02.html'><b>23-02</b> - ﻿योग-स्थान अल्प-बहुत्व</option>");
        $optgrp.append("<option value='23-03.html'><b>23-03</b> - ﻿जीव-समास में योगस्थान</option>");

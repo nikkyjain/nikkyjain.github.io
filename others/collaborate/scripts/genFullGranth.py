@@ -79,6 +79,7 @@ html.write("""<html>
   <link rel="stylesheet" href='"""+myRelPath+"""css/myJqueryMobile.css'>
   <link rel="stylesheet" href='"""+myRelPath+"""css/orgchart.css'>
   <link rel="stylesheet" href='"""+myRelPath+"""css/jsmind.css'>
+  <link rel="stylesheet" href='"""+myRelPath+"""css/myCss.css'>
   <script type="text/javascript" src='"""+myRelPath+"""js/jsmind.js'></script>
   <script type="text/javascript" src='"""+myRelPath+"""js/jquery.js'></script>
   <script type="text/javascript" src='"""+myRelPath+"""js/myFontSzCtrl.js'></script>
@@ -328,6 +329,10 @@ for bcFile in sorted(os.listdir('./main')):
                   fData=re.sub(r'<ul>.*?</ul>', lambda m: m.group().replace("</div><br><div class=teeka>", ""), fData, flags=re.DOTALL)
                   fData=re.sub(r'<table.*?table>', lambda m: m.group().replace("</div><br><div class=teeka>", ""), fData, flags=re.DOTALL)
                   fData=re.sub(r'<span.*?span>', lambda m: m.group().replace("</div><br><div class=teeka>", "<br>"), fData, flags=re.DOTALL)
+                  fData=re.sub(r'<!--SimpleCollapsibleBegin.*SimpleCollapsibleEnd-->', lambda m: m.group().replace("</div><br><div class=teeka>", ""), fData, flags=re.DOTALL)
+                  fData=fData.replace(r'<!--SimpleCollapsibleBegin-->', '<button class=collapsible>')
+                  fData=fData.replace(r'<!--SimpleCollapsibleTag-->', '</button><div class=content>')
+                  fData=fData.replace(r'<!--SimpleCollapsibleEnd-->', '</div>')
                   # jsMind related
                   fData=re.sub(r'<!--PythonTagBegin.*?PythonTagEnd-->', lambda m: m.group().replace("</div><br><div class=teeka>", ""), fData, flags=re.DOTALL)
                   fData=re.sub(r'प्रतिशंका [-–—]', '<b></font><font color=darkgreen>उत्तर –</font></b>', fData)

@@ -77,8 +77,6 @@ $( document ).ready(function() {
        $optgrp.append("<option value='057.html'><b>057</b> - ﻿सत्यव्रत</option>");
        $optgrp.append("<option value='058.html'><b>058</b> - ﻿अचौर्य-व्रत</option>");
        $optgrp.append("<option value='059.html'><b>059</b> - ﻿ब्रह्मचर्य-व्रत</option>");
-  mySel.append($optgrp);
-    $optgrp=$('<optgroup label="﻿चारित्र अधिकार">')
        $optgrp.append("<option value='060.html'><b>060</b> - ﻿परिग्रह-त्याग व्रत</option>");
        $optgrp.append("<option value='061.html'><b>061</b> - ﻿ईर्या-समिति</option>");
        $optgrp.append("<option value='062.html'><b>062</b> - ﻿भाषा-समिति</option>");
