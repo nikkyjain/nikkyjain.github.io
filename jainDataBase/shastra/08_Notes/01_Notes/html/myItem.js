@@ -266,6 +266,9 @@ $( document ).ready(function() {
     $optgrp=$('<optgroup label="﻿अलौकिक गणित">')
        $optgrp.append("<option value='29-01.html'><b>29-01</b> - ﻿क्षेत्र प्रमाण</option>");
        $optgrp.append("<option value='29-02.html'><b>29-02</b> - ﻿संख्या प्रमाण</option>");
+  mySel.append($optgrp);
+    $optgrp=$('<optgroup label="﻿आहार-संबंधी">')
+       $optgrp.append("<option value='30-01.html'><b>30-01</b> - ﻿आहार संबंधी</option>");
     mySel.append($optgrp);
   mySel.selectmenu();
   mySel.selectmenu('refresh', true);
