@@ -87,7 +87,7 @@ $( document ).ready(function() {
   mySel.append("<option value='068.html'><b>068</b> - ﻿आत्मा के यथार्थ स्वरूप को नहीं जानने से संसार</option>");
   mySel.append("<option value='069.html'><b>069</b> - ﻿अज्ञानी शरीर को ही आत्मा समझ लेते हैं</option>");
   mySel.append("<option value='070.html'><b>070</b> - ﻿मैं शरीर नहीं, ज्ञान मेरा शरीर</option>");
-  mySel.append("<option value='071.html'><b>071</b> - ﻿आत्मा-स्वरूप में निश्चल धारणा से मुक्ति</option>");
+  mySel.append("<option value='071.html'><b>071</b> - ﻿आत्म-स्वरूप में निश्चल धारणा से मुक्ति</option>");
   mySel.append("<option value='072.html'><b>072</b> - ﻿अन्तरात्मा लौकिक संसर्ग से परे</option>");
   mySel.append("<option value='073.html'><b>073</b> - ﻿अन्तरात्मा के लिए ग्राम-वन में कोई भेद नहीं</option>");
   mySel.append("<option value='074.html'><b>074</b> - ﻿आत्मदर्शी और अनात्मदर्शी के फल</option>");
