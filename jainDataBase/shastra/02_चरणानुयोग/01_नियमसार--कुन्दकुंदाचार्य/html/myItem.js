@@ -87,7 +87,7 @@ $( document ).ready(function() {
        $optgrp.append("<option value='067.html'><b>067</b> - ﻿वचन-गुप्ति</option>");
        $optgrp.append("<option value='068.html'><b>068</b> - ﻿काय-गुप्ति</option>");
        $optgrp.append("<option value='069.html'><b>069</b> - ﻿निश्चय मनोगुप्ति और वचनगुप्ति</option>");
-       $optgrp.append("<option value='070.html'><b>070</b> - ﻿निश्चय का्य-गुप्ति</option>");
+       $optgrp.append("<option value='070.html'><b>070</b> - ﻿निश्चय काय-गुप्ति</option>");
        $optgrp.append("<option value='071.html'><b>071</b> - ﻿अर्हत् परमेश्वर</option>");
        $optgrp.append("<option value='072.html'><b>072</b> - ﻿सिद्ध-परमेष्ठि</option>");
        $optgrp.append("<option value='073.html'><b>073</b> - ﻿आचार्य</option>");

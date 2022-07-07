@@ -68,7 +68,7 @@ $( document ).ready(function() {
   mySel.append("<option value='046.html'><b>046</b> - ﻿अन्तरात्मा भ्रान्ति को कैसे दूर करता है?</option>");
   mySel.append("<option value='047.html'><b>047</b> - ﻿तीनों प्रकार के आत्मा के ग्रहण त्याग में भेद</option>");
   mySel.append("<option value='048.html'><b>048</b> - ﻿अन्तरात्मा का ग्रहण-त्याग</option>");
-  mySel.append("<option value='049.html'><b>049</b> - ﻿स्त्री-पुत्र में विशवास और रमणता -- बहिरात्म-दशा</option>");
+  mySel.append("<option value='049.html'><b>049</b> - ﻿स्त्री-पुत्र में विश्वास और रमणता -- बहिरात्म-दशा</option>");
   mySel.append("<option value='050.html'><b>050</b> - ﻿अन्तरात्मा के स्व-पर उपकारादिक में अनासक्तता</option>");
   mySel.append("<option value='051.html'><b>051</b> - ﻿अन्तरात्मा की भावना</option>");
   mySel.append("<option value='052.html'><b>052</b> - ﻿अन्तरात्मा में समूल परिवर्तन</option>");
