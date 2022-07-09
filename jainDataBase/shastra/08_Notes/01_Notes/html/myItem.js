@@ -91,6 +91,7 @@ $( document ).ready(function() {
        $optgrp.append("<option value='07-02.html'><b>07-02</b> - ﻿मूल प्रकृतियों में सादि आदि भेद</option>");
        $optgrp.append("<option value='07-03.html'><b>07-03</b> - ﻿मूल प्रकृतियों के अनुभाग बंध में स्वामित्व प्ररूपणा</option>");
        $optgrp.append("<option value='07-10.html'><b>07-10</b> - ﻿उत्तर प्रकृतियों में सादि आदि भेद</option>");
+       $optgrp.append("<option value='07-15.html'><b>07-15</b> - ﻿आठ मूल-प्रकृतियों के जघन्य / उत्कृष्ट अनुभाग बंध में स्वामित्व</option>");
   mySel.append($optgrp);
     $optgrp=$('<optgroup label="﻿प्रदेश बंध">')
        $optgrp.append("<option value='08-01.html'><b>08-01</b> - ﻿मूल प्रकृतियों में प्रदेश बंध</option>");
