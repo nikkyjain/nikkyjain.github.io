@@ -304,8 +304,15 @@ for bcFile in sorted(os.listdir('./main')):
       curFile="./arthE/"+bcFile
       if os.path.isfile(curFile):
           with open(curFile, 'r') as myfile:
-              fData=myfile.read().replace('\n', '<br>')
+              fData=myfile.read().replace('\n', '</div>\n<div class=paragraphE>')
               fData=fData.replace('\xef\xbb\xbf', '')
+          fData=fData.replace('</div>\n<div class=paragraphE><span class=shortFont', '<span class=shortFont')
+          fData=re.sub(r'<span class=shortFont.*?span>', lambda m: m.group().replace("</div>\n<div class=paragraphE>", "<br>"), fData, flags=re.DOTALL)
+          fData=fData.replace('[', '<b><font color=darkRed>[')
+          fData=fData.replace(']', ']</font></b>')
+          fData=re.sub(r'\(\(.*?\)\)', lambda m: m.group().replace("</div>\n<div class=paragraphE>", "<br>"), fData, flags=re.DOTALL)
+          fData=fData.replace('((', '<b><div class=gadya>')
+          fData=fData.replace('))', '</div></b>'); 
           fData=fData.replace('(', '<span class=comment>(')
           fData=fData.replace(')', ')</span>')
           html.write("<br><div class=paragraphE><b><font color=darkmagenta>Meaning : </font></b>"+fData+"</div>")
