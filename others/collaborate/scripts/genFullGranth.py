@@ -191,6 +191,8 @@ if (os.path.isdir('./main') or os.path.isdir('./ftitle')):
             if (os.path.isfile('./header/'+bcFile) or os.path.isfile(curFile)):
                 if os.path.isfile('./header/'+bcFile):
                     curFile='./header/'+bcFile
+                if (myMode=='english' and os.path.isfile('./titleE/'+bcFile)):
+                    curFile='./titleE/'+bcFile
                 if (not(myCntr%2 and indexCol2)):
                     html.write("    <tr>\n")
                 myFName=re.sub(r'.txt',"", bcFile)
@@ -231,6 +233,8 @@ for bcFile in sorted(os.listdir('./main')):
             html.write("<br><div class=title id=gatha-"+myFName+"><span class=incFontSz>+ </span><a href=#index>") 
             if os.path.isfile('./header/'+bcFile):
                 curFile='./header/'+bcFile
+            if (myMode=='english' and os.path.isfile('./titleE/'+bcFile)):
+                curFile='./titleE/'+bcFile
             with open(curFile, 'r') as myfile:
                 fData=myfile.read().replace('\n', '')
                 fData=fData.replace('\xef\xbb\xbf', '')

@@ -98,12 +98,12 @@ $( document ).ready(function() {
     $optgrp=$('<optgroup label="﻿परमार्थ प्रतिक्रमण">')
        $optgrp.append("<option value='077-081.html'><b>077-081</b> - ﻿पंचरत्न का स्वरूप</option>");
        $optgrp.append("<option value='082.html'><b>082</b> - ﻿भेदविज्ञान द्वारा निश्चय-चारित्र</option>");
-       $optgrp.append("<option value='083.html'><b>083</b> - ﻿वचनमय प्रतिक्रमण का निरास</option>");
-       $optgrp.append("<option value='084.html'><b>084</b> - ﻿आत्माराधक ही प्रतिक्रमण</option>");
-       $optgrp.append("<option value='085.html'><b>085</b> - ﻿परमोपेक्षा-संयमी को निश्चय प्रतिक्रमण</option>");
-       $optgrp.append("<option value='086.html'><b>086</b> - ﻿उन्मार्ग का परित्याग और सर्वज्ञ वीतराग-मार्ग को स्वीकार</option>");
-       $optgrp.append("<option value='087.html'><b>087</b> - ﻿निःशल्यभाव को ही निश्चय प्रतिक्रमण</option>");
-       $optgrp.append("<option value='088.html'><b>088</b> - ﻿त्रिगुप्तिगुप्त को निश्चयचारित्र</option>");
+       $optgrp.append("<option value='083.html'><b>083</b> - ﻿वचनगुप्त रागादि-रहित ही प्रतिक्रमण</option>");
+       $optgrp.append("<option value='084.html'><b>084</b> - ﻿विराधना-रहित आत्माराधक ही प्रतिक्रमण</option>");
+       $optgrp.append("<option value='085.html'><b>085</b> - ﻿अनाचरण-रहित आचारी ही प्रतिक्रमण</option>");
+       $optgrp.append("<option value='086.html'><b>086</b> - ﻿उन्मार्ग-त्यागी जिनमार्गी ही प्रतिक्रमण</option>");
+       $optgrp.append("<option value='087.html'><b>087</b> - ﻿निःशल्यभाव ही प्रतिक्रमण</option>");
+       $optgrp.append("<option value='088.html'><b>088</b> - ﻿त्रिगुप्तिगुप्त ही प्रतिक्रमण</option>");
        $optgrp.append("<option value='089.html'><b>089</b> - ﻿ध्यान के भेद</option>");
        $optgrp.append("<option value='090.html'><b>090</b> - ﻿अनासन्न-भव्य जीव के पूर्वापर परिणाम</option>");
        $optgrp.append("<option value='091.html'><b>091</b> - ﻿निश्चय-रत्नत्रय धारक ही प्रतिक्रमण</option>");
