@@ -48,7 +48,6 @@ $( document ).ready(function() {
   mySel.append("<option value='3-43-45.html'><b>3-43-45</b> - ﻿धर्मवाद</option>");
   mySel.append("<option value='3-50-52.html'><b>3-50-52</b> - ﻿वे सभी सदोष</option>");
   mySel.append("<option value='3-53.html'><b>3-53</b> - ﻿कार्य की उत्पत्ति स्व-कारण से</option>");
-  mySel.append("<option value='3-54-55.html'><b>3-54-55</b> - ﻿अनात्मवादी और आत्मवादी </option>");
   mySel.append("<option value='3-56-59.html'><b>3-56-59</b> - ﻿अनेकान्त-दृष्टि के अभाव में</option>");
   mySel.append("<option value='3-60.html'><b>3-60</b> - ﻿पदार्थ के प्रतिपादन का क्रम</option>");
   mySel.append("<option value='3-61-62.html'><b>3-61-62</b> - ﻿अनेकान्ती ही भावस्पर्शी</option>");

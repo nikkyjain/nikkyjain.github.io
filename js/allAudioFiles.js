@@ -32,6 +32,7 @@ myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'01_देव/audio/त
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'01_देव/audio/तुमसे-लागी-लगन.mp3');
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'01_देव/audio/तुम्ही-हो-ज्ञाता.mp3');
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'01_देव/audio/तू-ज्ञान-का-सागर-है.mp3');
+myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'01_देव/audio/तेरी-छत्रछाया-भगवन्-मेरे.mp3');
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'01_देव/audio/तेरी-परम-दिगंबर-मुद्रा-को.mp3');
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'01_देव/audio/तेरी-शीतल-शीतल-मूरत.mp3');
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'01_देव/audio/दयालु-प्रभु-से-दया.mp3');
@@ -189,6 +190,7 @@ myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'06_कल्याण�
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'06_कल्याणक/audio/मेरे-महावीर-झूले-पलना.mp3');
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'06_कल्याणक/audio/मोहे-भावे-ना-भैया-थारो-देस.mp3');
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'06_कल्याणक/audio/म्हारे-आंगण-आज-आई.mp3');
+myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'06_कल्याणक/audio/ये-महामहोत्सव-पंच-कल्याणक.mp3');
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'06_कल्याणक/audio/रोम-रोम-में-नेमिकुंवर-के.mp3');
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'06_कल्याणक/audio/लिया-प्रभू-अवतार-जयजयकार.mp3');
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'06_कल्याणक/audio/विषयों-की-तृष्णा-को-छोड.mp3');
@@ -243,6 +245,7 @@ myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'08_अध्यात�
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'08_अध्यात्म/audio/चेतन-जाग-रे.mp3');
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'08_अध्यात्म/audio/चेतन-है-तू-ध्रुव.mp3');
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'08_अध्यात्म/audio/चेतना-लक्षणम्-आनंद.mp3');
+myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'08_अध्यात्म/audio/चेतो-चेतन-निज-में-आओ-1.mp3');
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'08_अध्यात्म/audio/चेतो-चेतन-निज-में-आओ.mp3');
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'08_अध्यात्म/audio/जब-चले-आत्माराम.mp3');
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'08_अध्यात्म/audio/जहां-सत्संग-होता-है.mp3');
@@ -264,6 +267,7 @@ myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'08_अध्यात�
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'08_अध्यात्म/audio/तेरे-अंतर-में-भगवान-है.mp3');
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'08_अध्यात्म/audio/तोड़-दे-सारे-बंधन-सदा-के-लिए.mp3');
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'08_अध्यात्म/audio/थाने-सतगुरु-दे-समुझाय.mp3');
+myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'08_अध्यात्म/audio/दिवाली--अबके-ऐसी-दीवाली.mp3');
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'08_अध्यात्म/audio/देख-तेरी-पर्याय-की-हालत.mp3');
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'08_अध्यात्म/audio/धन्य-धन्य-है-घड़ी-आज.mp3');
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'08_अध्यात्म/audio/नर-तन-को-पाकर-के.mp3');
@@ -356,10 +360,14 @@ myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'09_पं-दौलत
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'09_पं-दौलतराम-कृत/audio/निजहितकारज-करना.mp3');
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'09_पं-दौलतराम-कृत/audio/नित-पीज्यौ-धी-धारी.mp3');
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'09_पं-दौलतराम-कृत/audio/प्रभु-थारी-आज-महिमा-जानी.mp3');
+myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'09_पं-दौलतराम-कृत/audio/मनवचतन-करि-शुद्ध.mp3');
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'09_पं-दौलतराम-कृत/audio/मानत-क्यों-नहिं-रे-हे-नर.mp3');
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'09_पं-दौलतराम-कृत/audio/मेरे-कब-ह्वै-वा.mp3');
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'09_पं-दौलतराम-कृत/audio/मैं-आयौ-जिन-शरन-तिहारी.mp3');
+myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'09_पं-दौलतराम-कृत/audio/मैं-भाखूं-हित-तेरा-सुनि-हो.mp3');
+myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'09_पं-दौलतराम-कृत/audio/मोही-जीव-भरमतम-ते-नहि.mp3');
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'09_पं-दौलतराम-कृत/audio/राचि-रह्यो-परमाहिं.mp3');
+myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'09_पं-दौलतराम-कृत/audio/सुनो-जिया-ये-सतगुरु-1.mp3');
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'09_पं-दौलतराम-कृत/audio/सुनो-जिया-ये-सतगुरु.mp3');
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'09_पं-दौलतराम-कृत/audio/हम-तो-कबहुँ-न-निज-गुन.mp3');
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'09_पं-दौलतराम-कृत/audio/हम-तो-कबहुँ-न-निज-घर-1.mp3');
@@ -384,12 +392,14 @@ myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'10_पं-भागच
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'10_पं-भागचंद-कृत/audio/जीवन-के-परिनामनि-की.mp3');
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'10_पं-भागचंद-कृत/audio/जे-दिन-तुम-विवेक-बिन.mp3');
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'10_पं-भागचंद-कृत/audio/ज्ञानी-जीवनि-के-भय-होय.mp3');
+myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'10_पं-भागचंद-कृत/audio/धनि-ते-प्रानि-जिनके-1.mp3');
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'10_पं-भागचंद-कृत/audio/धनि-ते-प्रानि-जिनके.mp3');
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'10_पं-भागचंद-कृत/audio/धन्य-धन्य-है-घड़ी-आज.mp3');
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'10_पं-भागचंद-कृत/audio/परणति-सब-जीवन.mp3');
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'10_पं-भागचंद-कृत/audio/प्रभु-पै-यह-वरदान.mp3');
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'10_पं-भागचंद-कृत/audio/महिमा-है-अगम.mp3');
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'10_पं-भागचंद-कृत/audio/मार्दव--मान-न-कीजिये-हो.mp3');
+myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'10_पं-भागचंद-कृत/audio/यह-मोह-उदय-दुख-पावै.mp3');
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'10_पं-भागचंद-कृत/audio/यही-इक-धर्ममूल-है.mp3');
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'10_पं-भागचंद-कृत/audio/श्री-मुनि-राजत-समता-संग.mp3');
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'10_पं-भागचंद-कृत/audio/सन्त-निरन्तर-चिन्तत-1.mp3');
@@ -413,6 +423,7 @@ myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'11_पं-द्या
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'11_पं-द्यानतराय-कृत/audio/कर-कर-आतमहित-रे.mp3');
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'11_पं-द्यानतराय-कृत/audio/कलि-में-ग्रन्थ-बड़े-उपगारी.mp3');
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'11_पं-द्यानतराय-कृत/audio/काहे-को-सोचत-अति-भारी.mp3');
+myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'11_पं-द्यानतराय-कृत/audio/गलता-नमता-कब-आवैगा.mp3');
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'11_पं-द्यानतराय-कृत/audio/घटमें-परमातम-ध्याइये-1.mp3');
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'11_पं-द्यानतराय-कृत/audio/घटमें-परमातम-ध्याइये.mp3');
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'11_पं-द्यानतराय-कृत/audio/जगत-में-सम्यक-उत्तम.mp3');
@@ -422,6 +433,7 @@ myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'11_पं-द्या
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'11_पं-द्यानतराय-कृत/audio/जीव-तैं-मूढ़पना-कित-पायो.mp3');
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'11_पं-द्यानतराय-कृत/audio/तुमको-कैसे-सुख-ह्वै-मीत.mp3');
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'11_पं-द्यानतराय-कृत/audio/तू-तो-समझ-समझ-रे.mp3');
+myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'11_पं-द्यानतराय-कृत/audio/देखो-भाई-आतमराम-1.mp3');
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'11_पं-द्यानतराय-कृत/audio/देखो-भाई-आतमराम.mp3');
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'11_पं-द्यानतराय-कृत/audio/धिक-धिक-जीवन.mp3');
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'11_पं-द्यानतराय-कृत/audio/परम-गुरु-बरसत-ज्ञान-झरी.mp3');
@@ -479,6 +491,7 @@ myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'14_पं-बुधज
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'14_पं-बुधजन-कृत/audio/मेरो-मनवा-अति-हर्षाय.mp3');
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'14_पं-बुधजन-कृत/audio/या-नित-चितवो-उठिकै-1.mp3');
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'14_पं-बुधजन-कृत/audio/या-नित-चितवो-उठिकै.mp3');
+myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'14_पं-बुधजन-कृत/audio/सुणिल्यो-जीव-सुजान.mp3');
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'14_पं-बुधजन-कृत/audio/सुनकर-वाणी-जिनवर.mp3');
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'14_पं-बुधजन-कृत/audio/हमकौ-कछू-भय-ना-1.mp3');
 myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'14_पं-बुधजन-कृत/audio/हमकौ-कछू-भय-ना-2.mp3');

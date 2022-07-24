@@ -104,7 +104,7 @@ $( document ).ready(function() {
        $optgrp.append("<option value='086.html'><b>086</b> - ﻿उन्मार्ग-त्यागी जिनमार्गी ही प्रतिक्रमण</option>");
        $optgrp.append("<option value='087.html'><b>087</b> - ﻿निःशल्यभाव ही प्रतिक्रमण</option>");
        $optgrp.append("<option value='088.html'><b>088</b> - ﻿त्रिगुप्तिगुप्त ही प्रतिक्रमण</option>");
-       $optgrp.append("<option value='089.html'><b>089</b> - ﻿ध्यान के भेद</option>");
+       $optgrp.append("<option value='089.html'><b>089</b> - ﻿धर्म-शुक्ल ध्यानी ही प्रतिक्रमण</option>");
        $optgrp.append("<option value='090.html'><b>090</b> - ﻿अनासन्न-भव्य जीव के पूर्वापर परिणाम</option>");
        $optgrp.append("<option value='091.html'><b>091</b> - ﻿निश्चय-रत्नत्रय धारक ही प्रतिक्रमण</option>");
        $optgrp.append("<option value='092.html'><b>092</b> - ﻿निश्चय-उत्तमार्थ प्रतिक्रमण</option>");
