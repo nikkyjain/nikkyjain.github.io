@@ -287,6 +287,8 @@ for bcFile in sorted(os.listdir('./main')):
               fData=fData.replace('\xef\xbb\xbf', '')
           fData=fData.replace('</div>\n<div class=paragraph><span class=shortFont', '<span class=shortFont')
           fData=re.sub(r'<span class=shortFont.*?span>', lambda m: m.group().replace("</div>\n<div class=paragraph>", "<br>"), fData, flags=re.DOTALL)
+          fData=fData.replace('[[', '<b><font color=blue>')
+          fData=fData.replace(']]', '</font></b>')
           fData=fData.replace('[', '<b><font color=darkRed>[')
           fData=fData.replace(']', ']</font></b>')
           fData=re.sub(r'\(\(.*?\)\)', lambda m: m.group().replace("</div>\n<div class=paragraph>", "<br>"), fData, flags=re.DOTALL)

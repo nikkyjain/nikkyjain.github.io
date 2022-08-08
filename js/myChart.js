@@ -10,7 +10,7 @@ window.chartColors = {
 
 function returnColor(i) {
   var color = Chart.helpers.color;
-  var col=(i==0)? 'red' : (i==1)? 'blue' : (i==2) ? 'green' : (i==3) ? 'purple' : 'yellow';
+  var col=(i==0)? 'red' : (i==1)? 'blue' : (i==2) ? 'green' : (i==3) ? 'purple' : (i==4) ? 'yellow' : (i==5) ? 'orange' : 'grey';
   //console.log("Dbg: i="+i+" Col= "+col);
   return(color(col).alpha(0.5).rgbString());
 }

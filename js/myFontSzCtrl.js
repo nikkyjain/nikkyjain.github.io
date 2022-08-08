@@ -142,7 +142,7 @@ var coll = document.getElementsByClassName("collapsible");
 var i;
 
 for (i = 0; i < coll.length; i++) {
-  coll[i].style.background=returnColor(i);
+  coll[i].style.background=returnColor(i%7);
 }
 for (i = 0; i < coll.length; i++) {
   coll[i].addEventListener("click", function() {

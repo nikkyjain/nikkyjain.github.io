@@ -270,6 +270,9 @@ $( document ).ready(function() {
   mySel.append($optgrp);
     $optgrp=$('<optgroup label="﻿आहार-संबंधी">')
        $optgrp.append("<option value='30-01.html'><b>30-01</b> - ﻿आहार संबंधी</option>");
+       $optgrp.append("<option value='30-02.html'><b>30-02</b> - ﻿अष्टांग योग</option>");
+       $optgrp.append("<option value='30-03.html'><b>30-03</b> - ﻿प्रतिक्रमण</option>");
+       $optgrp.append("<option value='30-04.html'><b>30-04</b> - ﻿सम्यक्त्व</option>");
     mySel.append($optgrp);
   mySel.selectmenu();
   mySel.selectmenu('refresh', true);
