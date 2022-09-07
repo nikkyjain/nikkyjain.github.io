@@ -128,12 +128,14 @@ $( document ).ready(function() {
     $optgrp=$('<optgroup label="﻿परम आलोचना">')
        $optgrp.append("<option value='107.html'><b>107</b> - ﻿निश्चय-आलोचना का स्वरूप</option>");
        $optgrp.append("<option value='108.html'><b>108</b> - ﻿आलोचना के स्वरूप के भेद</option>");
-       $optgrp.append("<option value='109.html'><b>109</b> - ﻿आलोचना के स्वीकारमात्र से परम-समता भावना</option>");
-       $optgrp.append("<option value='110.html'><b>110</b> - ﻿परमभाव का स्वरूप</option>");
-       $optgrp.append("<option value='111.html'><b>111</b> - ﻿शुद्धोपयोगी जीव की परिणति-विशेष</option>");
-       $optgrp.append("<option value='112.html'><b>112</b> - ﻿शुद्ध-निश्चय-आलोचना अधिकार का उपसंहार</option>");
+       $optgrp.append("<option value='109.html'><b>109</b> - ﻿आलोचन</option>");
+       $optgrp.append("<option value='110.html'><b>110</b> - ﻿आलुंछन</option>");
+       $optgrp.append("<option value='111.html'><b>111</b> - ﻿अविकृतिकरण</option>");
+       $optgrp.append("<option value='112.html'><b>112</b> - ﻿भावशुद्धि </option>");
+  mySel.append($optgrp);
+    $optgrp=$('<optgroup label="﻿शुद्धनिश्चय-प्रायश्चित्त">')
        $optgrp.append("<option value='113-114.html'><b>113-114</b> - ﻿निश्चय-प्रायश्चित्त का स्वरूप</option>");
-       $optgrp.append("<option value='115.html'><b>115</b> - ﻿क्षमा के भेद</option>");
+       $optgrp.append("<option value='115.html'><b>115</b> - ﻿चार कषायों पर विजय प्राप्त करने का उपाय</option>");
        $optgrp.append("<option value='116.html'><b>116</b> - ﻿शुद्ध ज्ञान के स्वीकारवाले को प्रायश्चित्त है</option>");
        $optgrp.append("<option value='117.html'><b>117</b> - ﻿परम तपश्चरण में लीन परम जिनयोगीश्वरों को निश्चय-प्रायश्चित्त</option>");
        $optgrp.append("<option value='118.html'><b>118</b> - ﻿कारण परमात्म तत्त्व में सदा अन्तर्मुख रहकर जो प्रतपन वह तप प्रायश्चित्त</option>");
@@ -182,6 +184,8 @@ $( document ).ready(function() {
        $optgrp.append("<option value='156.html'><b>156</b> - ﻿वचन-सम्बन्धी व्यापार की निवृत्ति के हेतु का कथन</option>");
        $optgrp.append("<option value='157.html'><b>157</b> - ﻿दृष्टान्त द्वारा सहजतत्त्व की आराधना की विधि</option>");
        $optgrp.append("<option value='158.html'><b>158</b> - ﻿परमावश्यक अधिकार का उपसंहार</option>");
+  mySel.append($optgrp);
+    $optgrp=$('<optgroup label="﻿शुद्धोपयोग अधिकार">')
        $optgrp.append("<option value='159.html'><b>159</b> - ﻿समस्त कर्म के प्रलय के हेतुभूत शुद्धोपयोग का अधिकार</option>");
        $optgrp.append("<option value='160.html'><b>160</b> - ﻿दृष्टान्त द्वारा केवलज्ञान और केवलदर्शन का युगपद् वर्तना</option>");
        $optgrp.append("<option value='161.html'><b>161</b> - ﻿आत्मा के स्व-पर प्रकाशकपने सम्बन्धी विरोध-कथन</option>");

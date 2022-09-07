@@ -413,10 +413,10 @@ table.mainIndex td {
 
 
 .cellY {
-    background-color: #f5ffe6;
+    background-color: darkseagreen;
 }
 .cellN {
-    background-color: #ffe6f3;
+    background-color: deeppink;
 }
 .tableNotes {
   font-size : 1vw;

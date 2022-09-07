@@ -43,6 +43,7 @@ $( document ).ready(function() {
        $optgrp.append("<option value='02-10.html'><b>02-10</b> - ﻿गुणस्थानों में कर्म की उदय / बंध व्युच्छिति</option>");
        $optgrp.append("<option value='02-11.html'><b>02-11</b> - ﻿गुणस्थान में मूल-प्रकृतियों में स्थान-समुत्कीर्तन</option>");
        $optgrp.append("<option value='02-12.html'><b>02-12</b> - ﻿गुणस्थानों में करण संबंधी विशेष विचार</option>");
+       $optgrp.append("<option value='02-13.html'><b>02-13</b> - ﻿गुणस्थानों में परीषह</option>");
   mySel.append($optgrp);
     $optgrp=$('<optgroup label="﻿गति-आगति नियम">')
        $optgrp.append("<option value='03-01.html'><b>03-01</b> - ﻿गति-आगति</option>");
@@ -96,7 +97,7 @@ $( document ).ready(function() {
     $optgrp=$('<optgroup label="﻿प्रदेश बंध">')
        $optgrp.append("<option value='08-01.html'><b>08-01</b> - ﻿मूल प्रकृतियों में प्रदेश बंध</option>");
   mySel.append($optgrp);
-    $optgrp=$('<optgroup label="﻿कर्म-उदय">')
+    $optgrp=$('<optgroup label="﻿कर्म-उदय-उदीरणा">')
        $optgrp.append("<option value='09-01.html'><b>09-01</b> - ﻿नरक और तिर्यञ्च गति मार्गणा में उदय</option>");
        $optgrp.append("<option value='09-02.html'><b>09-02</b> - ﻿मनुष्य और देव गति मार्गणा में उदय</option>");
        $optgrp.append("<option value='09-03.html'><b>09-03</b> - ﻿इंद्रिय मार्गणा में कर्म का उदय</option>");
@@ -126,6 +127,7 @@ $( document ).ready(function() {
        $optgrp.append("<option value='09-33.html'><b>09-33</b> - ﻿नाम-कर्म के उदय-स्थानों का यंत्र</option>");
        $optgrp.append("<option value='09-34.html'><b>09-34</b> - ﻿नाम कर्म के उदय-स्थान में जीव-पद अपेक्षा भंग</option>");
        $optgrp.append("<option value='09-35.html'><b>09-35</b> - ﻿आदेश से एक जीव के एक काल में नाम कर्म-उदय</option>");
+       $optgrp.append("<option value='09-51.html'><b>09-51</b> - ﻿मोहनीय की जघन्य/उत्कृष्ट प्रकृति/अनुभाग उदीरणा के स्वामी</option>");
   mySel.append($optgrp);
     $optgrp=$('<optgroup label="﻿कर्म-सत्व">')
        $optgrp.append("<option value='10-01.html'><b>10-01</b> - ﻿नरक गति मार्गणा में सत्व</option>");

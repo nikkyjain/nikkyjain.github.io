@@ -327,6 +327,8 @@ for gatha in myMainFIles:
                         sfData=sfData.replace('\n', '<br>')
                         sfData=sfData.replace('((', '<b><div class=gadya>')
                         sfData=sfData.replace('))', '</div></b>'); 
+                        sfData=sfData.replace('(', '<font color=DarkSlateGray>(')
+                        sfData=sfData.replace(')', ')</font>') 
                         sTeeka=1
                 else:
                     sTeeka=0
