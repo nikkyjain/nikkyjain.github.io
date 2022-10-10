@@ -236,6 +236,7 @@ $( document ).ready(function() {
        $optgrp.append("<option value='27-02.html'><b>27-02</b> - ﻿मोहनीय विभक्ति-स्थान में अल्प-बहुत्व</option>");
        $optgrp.append("<option value='27-03.html'><b>27-03</b> - ﻿एक जीव अपेक्षा मोहनीय-विभक्ति का काल</option>");
        $optgrp.append("<option value='27-04.html'><b>27-04</b> - मोहनीय की उत्तर प्रकृति में विभक्ति -- समुत्कीर्तन</option>");
+       $optgrp.append("<option value='27-05.html'><b>27-05</b> - मोहनीय की उत्तर प्रकृति में विभक्ति -- कालानुगम</option>");
   mySel.append($optgrp);
     $optgrp=$('<optgroup label="﻿विविध विषय">')
        $optgrp.append("<option value='28-01.html'><b>28-01</b> - ﻿मूल संघ पट्टावली</option>");
