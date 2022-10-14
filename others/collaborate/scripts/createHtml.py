@@ -372,6 +372,11 @@ for gatha in myMainFIles:
                 if(sTeeka):
                     html.write("<span class=stitle id=stitle"+str(myCntr)+" onclick='toggleSTeeka(\""+str(myCntr)+"\")'><b><font color=red>संस्कृत</font></b></span>")
                     html.write("<div class=steeka id=steeka"+str(myCntr)+">"+sfData+"<hr class=type_7></div>")
+                if(os.path.isfile('u'+curFile)):
+                    with open('u'+curFile, 'r') as myfile:
+                        ufData=myfile.read().replace('\xef\xbb\xbf', '')
+                        fData=ufData+"<br>"+fData
+                        myfile.close()
                 html.write('<br><br>'+fData+"\n       </div>\n    </td></tr>\n")
                 myCntr+=1
         html.write("  </table><br><br><br>\n")

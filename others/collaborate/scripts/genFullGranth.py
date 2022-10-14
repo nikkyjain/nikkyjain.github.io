@@ -382,6 +382,11 @@ for bcFile in sorted(os.listdir('./main')):
                       # Bar Grapth Related
                       fData=fData.replace('<!--barChartJsEnd-->', ' create2DBarChart("ca-'+str(chartCtr)+'", myLabel'+str(chartCtr)+', myData'+str(chartCtr)+');\n</script>')
                       chartCtr+=1
+                  if(os.path.isfile('u'+curFile)):
+                      with open('u'+curFile, 'r') as myfile:
+                          ufData=myfile.read().replace('\xef\xbb\xbf', '')
+                          fData=ufData+"<br>"+fData
+                          myfile.close()
                   html.write("<br><div class=teeka><b><font color=darkgreen>"+teekakaar+" :</font></b><br></div><div class=teeka>"+fData+"</div>")
     ##
     html.write("<hr class=type_7>\n")
