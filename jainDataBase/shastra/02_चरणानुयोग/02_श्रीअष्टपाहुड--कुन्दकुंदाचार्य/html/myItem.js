@@ -34,7 +34,7 @@ $( document ).ready(function() {
        $optgrp.append("<option value='1-09.html'><b>1-09</b> - ﻿दर्शन-भ्रष्ट द्वारा धर्मात्मा पुरुषों को दोष लगाना</option>");
        $optgrp.append("<option value='1-10.html'><b>1-10</b> - ﻿दर्शन-भ्रष्ट को फल-प्राप्ति नहीं</option>");
        $optgrp.append("<option value='1-11.html'><b>1-11</b> - ﻿जिनदर्शन ही मूल मोक्षमार्ग है</option>");
-       $optgrp.append("<option value='1-12.html'><b>1-12</b> - ﻿दर्शन-भ्रष्ट दर्शन-धारकों की करें</option>");
+       $optgrp.append("<option value='1-12.html'><b>1-12</b> - ﻿दर्शन-भ्रष्ट दर्शन-धारकों की विनय करें</option>");
        $optgrp.append("<option value='1-13.html'><b>1-13</b> - ﻿दर्शन-भ्रष्ट की विनय नहीं</option>");
        $optgrp.append("<option value='1-14.html'><b>1-14</b> - ﻿सम्यक्त्व के पात्र</option>");
        $optgrp.append("<option value='1-15.html'><b>1-15</b> - ﻿सम्यग्दर्शन से ही कल्याण-अकल्याण का निश्चय</option>");
