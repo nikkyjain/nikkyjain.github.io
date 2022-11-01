@@ -50,6 +50,13 @@ div.gatha {
     text-align: center;
 	text-shadow: 0 0 10px #FF0000;
 }
+div.sheershak {
+    font-size: 3.5vw;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+	text-shadow: 0 0 8px gold;
+}
 div.gatha1 {
     font-size: 4vw;
     color: black;
@@ -101,6 +108,15 @@ div.teeka {
     text-align: justify;
     text-indent:4vw;
     margin: 0 auto;
+	background-color: #fcf5e8;
+}
+div.sanskrit {
+    font-size: 2vw;
+    color: purple;
+    text-align: justify;
+    text-indent:4vw;
+    margin: 0 auto;
+	background-color: #fcf5e8;
 }
 div.steeka {
     font-size: 2vw;

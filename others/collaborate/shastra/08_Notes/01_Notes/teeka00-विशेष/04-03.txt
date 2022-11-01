@@ -1,0 +1,136 @@
+﻿<table class=myAltTable>
+<thead>
+  <tr>
+    <td colspan=2 class=emptyTableCell></td>
+    <th colspan=5 class=tableTitle>उत्तर प्रकृतियों में संक्रमण</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan=2 class=emptyTableCell></td>
+    <th colspan=5>संक्रमण</th>
+  </tr>
+  <tr>
+    <th>कर्म-प्रकृतियाँ</th>
+    <th>संख्या</th>
+    <th>उद्वेलन</th>
+    <th>विध्यात</th>
+    <th>अध:प्रवृत्त</th>
+    <th>गुणसंक्रमण</th>
+    <th>सर्वसंक्रमण</th>
+  </tr>
+  <tr>
+    <th>आहारक-द्विक, वैक्रियक-द्विक, नरक-द्विक, मनुष्य-द्विक, देवद्विक, मिश्र प्रकृति, उच्चगोत्र</th>
+    <td>12</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+  </tr>
+  <tr>
+    <th>सम्यक्त्व मोहनीय</th>
+    <td>1</td>
+    <td class=cellY>✓</td>
+    <td class=cellN>X</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+  </tr>
+  <tr>
+    <th>स्त्यानत्रिक, (संज्वलन कषाय के बिना) 12 कषाय, नपुंसक-वेद, स्त्री-वेद, अरति, शोक, और तिर्यक् एकादश (तिर्यञ्च-द्विक, जाति-चतुष्क, स्थावर, सूक्ष्म, आतप, उद्योत, साधारण)</th>
+    <td>30</td>
+    <td class=cellN>X</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+  </tr>
+  <tr>
+    <th>मिथ्यात्व</th>
+    <td>1</td>
+    <td class=cellN>X</td>
+    <td class=cellY>✓</td>
+    <td class=cellN>X</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+  </tr>
+  <tr>
+    <th>हास्य, रति, भय और जुगुप्सा</th>
+    <td>4</td>
+    <td class=cellN>X</td>
+    <td class=cellN>X</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+  </tr>
+  <tr>
+    <th>असाता-वेदनीय, अप्रशस्त-विहायोगति, 10 (पहले के बिना पाँच संहनन व पाँच संस्थान), नीचगोत्र, अपर्याप्त और अस्थिर, अशुभ, सुभग, दुस्वर, अनादेय, अयश्स्कीर्ति</th>
+    <td>20</td>
+    <td class=cellN>X</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellN>X</td>
+  </tr>
+  <tr>
+    <th>संज्वलन क्रोध, मान, माया तथा पुरुषवेद</th>
+    <td>4</td>
+    <td class=cellN>X</td>
+    <td class=cellN>X</td>
+    <td class=cellY>✓</td>
+    <td class=cellN>X</td>
+    <td class=cellY>✓</td>
+  </tr>
+  <tr>
+    <th>निद्रा, प्रचला, अशुभ वर्णादि चार, और उपघात</th>
+    <td>7</td>
+    <td class=cellN>X</td>
+    <td class=cellN>X</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellN>X</td>
+  </tr>
+  <tr>
+    <th>औदारिक-द्विक, वज्रऋषभनाराच-संहनन, तीर्थंकर</th>
+    <td>4</td>
+    <td class=cellN>X</td>
+    <td class=cellY>✓</td>
+    <td class=cellY>✓</td>
+    <td class=cellN>X</td>
+    <td class=cellN>X</td>
+  </tr>
+  <tr>
+    <th>5 ज्ञानावरण, 4 दर्शनावरण, पाँच अंतराय, साता-वेदनीय, संज्वलन-लोभ, पंचेंद्रिय, तेजस, कार्मण, समचतुरस्र संस्थान, 4 वर्ण-चतुष्क, अगुरुलघु, परघात, उच्छ्वास, प्रशस्त विहायोगति, 10 त्रस-दस, निर्माण</th>
+    <td>49</td>
+    <td class=cellN>X</td>
+    <td class=cellN>X</td>
+    <td class=cellY>✓</td>
+    <td class=cellN>X</td>
+    <td class=cellN>X</td>
+  </tr>
+  <tr>
+    <th>कुल प्रकृतियाँ (वर्ण चतुष्क को दो बार लिया है)</th>
+    <th>132</th>
+    <td colspan=4 class=emptyTableCell></td>
+  </tr>
+  <tr>
+    <td colspan=7 class=tableNotes>मिथ्यात्व गुणस्थान को प्राप्त होने पर सम्यक्त्व व मिश्र मोहनीय का अंतर्मुहूर्त पर्यंत तक [[अध:प्रवृत्त]] संक्रमण होता है</td>
+  </tr>
+  <tr>
+    <td colspan=7 class=tableNotes>मिथ्यात्व गुणस्थान को प्राप्त होने पर सम्यक्त्व व मिश्र मोहनीय का द्विचरम कांडक पर्यंत [[उद्वेलन संक्रमण]] होता है</td>
+  </tr>
+  <tr>
+    <td colspan=7 class=tableNotes>[[विध्यात संक्रमण]] - बंध की व्युच्छित्ति होने पर असंयत से लेकर अप्रमत्तपर्यंत; तीर्थंकर प्रकृति का संक्रमण मिथ्यादृष्टि नरक में करता है</td>
+  </tr>
+  <tr>
+    <td colspan=7 class=tableNotes>[[अध:प्रवृत्त संक्रमण]] - प्रकृतियों के बंध होने पर अपनी-अपनी बंध व्युच्छित्ति पर्यंत । मिथ्यात्व प्रकृति के बिना 121 प्रकृतियों का</td>
+  </tr>
+  <tr>
+    <td colspan=7 class=tableNotes>[[गुण संक्रमण]] - अप्रमत्त से आगे उपशांत कषाय पर्यंत बंध रहित अप्रशस्त प्रकृतियों का । उद्वेलन प्रकृतियों का अंत के कांडक में नियम से गुण संक्रमण होता है</td>
+  </tr>
+  <tr>
+    <td colspan=7 class=tableNotes>[[सर्व संक्रमण]] - अंतिम कांडक की उपांत्य फालिपर्यंत गुणसंक्रमण और अंतिम फालि में</td>
+  </tr>
+</tbody>
+</table>

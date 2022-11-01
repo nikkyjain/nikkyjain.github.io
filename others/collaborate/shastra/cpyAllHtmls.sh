@@ -83,32 +83,33 @@ cp $dbDir/youtube-animation/* $outDir/youtube-animation/.
 \rm -rf $outDir/shastra/08_Notes/03_*
 # Disable HTML copy
 if [ "$1" = "" ]; then
-  find $outDir/. -name "*.html" -exec perl -i -pe 's/<body>/<body oncopy="return false" onpaste="return false" oncut="return false">/g' {} \;
+  find $outDir/. -name "*.html" -type f -exec perl -i -pe 's/<body>/<body oncopy="return false" onpaste="return false" oncut="return false">/g' {} \;
   find $outDir/. -name "*.bak" -exec rm {} \;
 fi
 
-## Update jaindb-web
-export jaindb=$(cd ../../../../jaindb && echo $PWD)
-export dbWeb=$(cd ../../../../jaindb-dev && echo $PWD)
-\rm -rf $dbWeb/jainDataBase
-\rm -rf $dbWeb/js
-\rm -rf $dbWeb/css
-\rm -rf $dbWeb/images
-\rm -rf $dbWeb/jainDataBase
-cp -r $jaindb/index.html $dbWeb/.
-cp -r $jaindb/jainDataBase $dbWeb/.
-cp -r $jaindb/js $dbWeb/.
-cp -r $jaindb/css $dbWeb/.
-cp -r $jaindb/images $dbWeb/.
-\rm -rf $dbWeb/jainDataBase/teeka/07_Notes/02_Stories
-\rm -rf $dbWeb/jainDataBase/teeka/07_Notes/03_*
-\rm -rf $dbWeb/jainDataBase/gatha/07_Notes/02_Stories
-\rm -rf $dbWeb/jainDataBase/gatha/07_Notes/03_*
-\rm -rf $dbWeb/jainDataBase/shastra/07_Notes/02_Stories
-\rm -rf $dbWeb/jainDataBase/shastra/07_Notes/03_*
-# Disable HTML copy
-if [ "$1" != "" ]; then
-    mkdir -p $dbWeb/.trash
-    cp $jaindb/others/crypt.html $dbWeb/.trash/.
-    cp $jaindb/others/personal.html $dbWeb/.trash/.
-fi
+
+### Update jaindb-web
+#export jaindb=$(cd ../../../../jaindb && echo $PWD)
+#export dbWeb=$(cd ../../../../jaindb-dev && echo $PWD)
+#\rm -rf $dbWeb/jainDataBase
+#\rm -rf $dbWeb/js
+#\rm -rf $dbWeb/css
+#\rm -rf $dbWeb/images
+#\rm -rf $dbWeb/jainDataBase
+#cp -r $jaindb/index.html $dbWeb/.
+#cp -r $jaindb/jainDataBase $dbWeb/.
+#cp -r $jaindb/js $dbWeb/.
+#cp -r $jaindb/css $dbWeb/.
+#cp -r $jaindb/images $dbWeb/.
+#\rm -rf $dbWeb/jainDataBase/teeka/07_Notes/02_Stories
+#\rm -rf $dbWeb/jainDataBase/teeka/07_Notes/03_*
+#\rm -rf $dbWeb/jainDataBase/gatha/07_Notes/02_Stories
+#\rm -rf $dbWeb/jainDataBase/gatha/07_Notes/03_*
+#\rm -rf $dbWeb/jainDataBase/shastra/07_Notes/02_Stories
+#\rm -rf $dbWeb/jainDataBase/shastra/07_Notes/03_*
+## Disable HTML copy
+#if [ "$1" != "" ]; then
+#    mkdir -p $dbWeb/.trash
+#    cp $jaindb/others/crypt.html $dbWeb/.trash/.
+#    cp $jaindb/others/personal.html $dbWeb/.trash/.
+#fi

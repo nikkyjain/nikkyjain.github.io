@@ -336,6 +336,7 @@ for gatha in myMainFIles:
                     fData=myfile.read().replace('\xef\xbb\xbf', '')
                 fData=re.sub('\n+','\n',fData)
                 fData=fData.replace('\n', '<br><br>\n')
+                fData=re.sub(r'{{.*?}}', lambda m: m.group().replace("</div><br><div class=teeka>", "<br>"), fData, flags=re.DOTALL)
                 fData=re.sub(r'\(\(.*?\)\)', lambda m: m.group().replace("<br><br>", "<br>"), fData, flags=re.DOTALL)
                 fData=re.sub(r'<table.*?table>', lambda m: m.group().replace("<br>", ""), fData, flags=re.DOTALL)
                 fData=re.sub(r'<span.*?span>', lambda m: m.group().replace("<br><br>", "<br>"), fData, flags=re.DOTALL)
@@ -352,14 +353,18 @@ for gatha in myMainFIles:
                 fData=fData.replace('))', '</div></b>'); 
                 fData=fData.replace('[[', '<b><font color=blue>')
                 fData=fData.replace(']]', '</font></b>')
+                fData=fData.replace('[(', '<div class=sheershak>')
+                fData=fData.replace(')]', '</div>')
                 fData=fData.replace('[', '<b>[<font color=maroon>')
-                fData=fData.replace(']', '</font>]</b>'); 
+                fData=fData.replace(']', '</font>]</b>');
+                fData=fData.replace('{{', '<div class=sanskrit>')
+                fData=fData.replace('}}', '</div>'); 
 #                fData=fData.replace('\n', '</p><p>')
 #                fData="<p>"+fData+"</p>"
 #                fData=re.sub(r'<p>.*\(\(.*\)\)', '', fData)
 #                fData=re.sub(r'\;\;', '<br>', fData) 
-                fData=fData.replace('(', '<font color=DarkSlateGray>(')
-                fData=fData.replace(')', ')</font>') 
+                fData=fData.replace('(', '<span class=notes>(')
+                fData=fData.replace(')', ')</span>') 
 #                fData=re.sub(r'<p>\s*</p>', '', fData)
 #                fData=fData.replace('<p><span', '<span:'); 
 #                fData=fData.replace('</p><br><p><sup','<br><sup'); 

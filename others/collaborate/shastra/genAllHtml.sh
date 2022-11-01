@@ -32,5 +32,15 @@ while read oDir; do
     cd $curDir
 done < "index.txt"
 
+prathmanuyogDir=$dbDir/jainDataBase/gatha/05_प्रथमानुयोग
+myGroup=$(basename $prathmanuyogDir)
+for gDir in $(ls -d $prathmanuyogDir/*)
+do
+  cd $gDir/html
+  rm -f index.html
+  ln -s ../../../../shastra/05_प्रथमानुयोग/$(basename $gDir)/html/index.html .
+done
+
+
 # Go back from where you started
 cd $launchDir

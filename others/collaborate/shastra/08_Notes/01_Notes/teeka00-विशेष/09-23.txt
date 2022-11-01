@@ -1,54 +1,151 @@
 ﻿<table class=myAltTable>
+<thead>
   <tr>
-    <td colspan=2 class=emptyTableCell></td>
-    <th colspan=2 class=tableTitle>नाम-कर्म उदय-स्थान जीव-समास प्ररूपणा</th>
+    <td colspan=2 rowspan=2 class=emptyTableCell></td>
+    <th colspan=5 clsas=tableTitle>उपयोग की अपेक्षा गुणस्थानों में मोहनीय के उदय संबंधी पदवृंद भंग</th>
   </tr>
   <tr>
-    <td class=emptyTableCell></td>
-    <th>स्थान</th>
-    <th>उदय-स्थान विशेष</th>
-    <th>स्वामी</th>
+    <th>उपयोग</th>
+    <th>मोहनीय स्व-स्व उदय-स्थानगत भंग</th>
+    <th>पदवृंद</th>
+    <th>गुणा</th>
+    <th>कुल पदवृंद भंग</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th colspan=2>सूक्ष्मसाम्पराय</th>
+    <td><b>7</b></td>
+    <td><b>1</b></td>
+    <td><b>7 * 1</b></td>
+    <td><b>1</b></td>
+    <td><b>7</b></td>
   </tr>
   <tr>
-    <th rowspan=3>लब्ध्यपर्याप्त</th>
-    <th>2</th>
-    <td>21, 24</td>
-    <td>सूक्ष्म बादर एकेन्द्रिय</td>
+    <th rowspan=2>अनिवृत्तिकरण</th>
+    <th>सवेद</th>
+    <td><b>7</b></td>
+    <td><b>1</b> (2)</td>
+    <td><b>7 * 2</b></td>
+    <td><b>12</b></td>
+    <td><b>168</b></td>
   </tr>
   <tr>
-    <th>2</th>
-    <td>21, 26</td>
-    <td>विकलेंद्रिय</td>
+    <th>अवेद</th>
+    <td><b>7</b></td>
+    <td><b>1</b> (1)</td>
+    <td><b>7 * 1</b></td>
+    <td><b>4</b></td>
+    <td><b>28</b></td>
   </tr>
   <tr>
-    <th>2</th>
-    <td>21, 26</td>
-    <td>संज्ञी असंज्ञी पंचेंद्रिय</td>
+    <th colspan=2>अपूर्वकरण</th>
+    <td><b>7</b></td>
+    <td><b>20</b> (6,5,5,4)</td>
+    <td><b>20 * 7</b></td>
+    <td><b>24</b></td>
+    <td><b>3660</b></td>
   </tr>
   <tr>
-    <th rowspan=5>पर्याप्त</th>
-    <th>4</th>
-    <td>21, 24, 25, 26</td>
-    <td>सूक्ष्म एकेन्द्रिय</td>
+    <th rowspan=2>अप्रमत्त संयत</th>
+    <th>सम्यक्त्व सहित</th>
+    <td rowspan=2><b>7</b></td>
+    <td><b>24</b> (7,6,6,5)</td>
+    <td rowspan=2><b>44 * 7</b></td>
+    <td rowspan=2><b>24</b></td>
+    <td rowspan=2><b>7392</b></td>
   </tr>
   <tr>
-    <th>5</th>
-    <td>21, 24, 25, 26, 27</td>
-    <td>बादर एकेन्द्रिय</td>
+    <th>सम्यक्त्व रहित</th>
+    <td><b>20</b> (6,5,5,4)</td>
   </tr>
   <tr>
-    <th>5</th>
-    <td>21, 26, 28, 29, 31</td>
-    <td>विकलेंद्रिय</td>
+    <th rowspan=2>प्रमत्त संयत</th>
+    <th>सम्यक्त्व सहित</th>
+    <td rowspan=2><b>7</b></td>
+    <td><b>24</b> (7,6,6,5)</td>
+    <td rowspan=2><b>44 * 7</b></td>
+    <td rowspan=2><b>24</b></td>
+    <td rowspan=2><b>7392</b></td>
   </tr>
   <tr>
-    <th>5</th>
-    <td>21, 26, 28, 29, 31</td>
-    <td>असंज्ञी पंचेंद्रिय</td>
+    <th>सम्यक्त्व रहित</th>
+    <td><b>20</b> (6,5,5,4)</td>
   </tr>
   <tr>
-    <th>8</th>
-    <td>21, 25, 26, 27, 28, 29, 30, 31</td>
-    <td>संज्ञी पंचेंद्रिय</td>
+    <th rowspan=2>देशविरत</th>
+    <th>सम्यक्त्व सहित</th>
+    <td rowspan=2><b>6</b></td>
+    <td><b>28</b> (8,7,7,6)</td>
+    <td rowspan=2><b>52 * 6</b></td>
+    <td rowspan=2><b>24</b></td>
+    <td rowspan=2><b>7488</b></td>
   </tr>
+  <tr>
+    <th>सम्यक्त्व रहित</th>
+    <td><b>24</b> (7,6,6,5)</td>
+  </tr>
+  <tr>
+    <th rowspan=4>असंयत सम्यक्त्व</th>
+    <th>सम्यक्त्व सहित</th>
+    <td rowspan=2><b>6</b></td>
+    <td><b>32</b> (9,8,8,7)</td>
+    <td rowspan=2><b>60 * 6</b></td>
+    <td rowspan=2><b>24</b></td>
+    <td rowspan=2><b>8640</b></td>
+  </tr>
+  <tr>
+    <th>सम्यक्त्व रहित</th>
+    <td><b>28</b> (8,7,7,6)</td>
+  </tr>
+  <tr>
+    <td colspan=6 class=tableNotes>वेक्रियिक-मिश्र और कार्मण काय योग में स्त्री वेद का उदय नहीं</td>
+  </tr>
+  <tr>
+    <td colspan=6 class=tableNotes>औदारिक मिश्र योग मे एक पुरुष वेद ही संभव</td>
+  </tr>
+  <tr>
+    <th colspan=2>मिश्र</th>
+    <td><b>6</b></td>
+    <td><b>32</b> (9,8,8,7)</td>
+    <td><b>32</b> * 6</td>
+    <td><b>24</b></td>
+    <td><b>4608</b></td>
+  </tr>
+  <tr>
+    <th colspan=2>सासादन</th>
+    <td><b>5</b></td>
+    <td><b>32</b> (9,8,8,7)</td>
+    <td><b>32</b> * 5</td>
+    <td><b>24</b></td>
+    <td><b>3840</b></td>
+  </tr>
+  <tr>
+    <th rowspan=4>मिथ्यादृष्टि</th>
+    <th>अनं. सहित</th>
+    <td rowspan=2><b>5</b></td>
+    <td><b>36</b> (10,9,9,8)</td>
+    <td rowspan=2><b>68</b> * 5</td>
+    <td rowspan=2><b>24</b></td>
+    <td rowspan=2><b>8160</b></td>
+  </tr>
+  <tr>
+    <th>अनं. रहित</th>
+    <td><b>32</b> (9,8,8,7)</td>
+  </tr>
+  <tr>
+    <td colspan=6 class=tableNotes>पर्याप्त अवस्था में अनंतानुबंधी सहित मोहनीय के उदय स्थान = 10 (1 मिथ्यात्व + 4 कषाय + 2 हास्य-रति/शोक-अरति + 1 वेद + भय + जुगुप्सा), 9 (भय/जुगुप्सा में से कोई एक), 8 (भय/जुगुप्सा रहित)</td>
+  </tr>
+  <tr>
+    <td colspan=6 class=tableNotes>अपर्याप्त अवस्था में अनंतानुबंधी का उदय अवश्य है</td>
+  </tr>
+  <tr>
+    <td colspan=4 rowspan=2 class=emptyTableCell></td>
+    <th colspan=2>सर्व पदवृंद भंग</th>
+    <th>51,083</th>
+  </tr>
+  <tr>
+    <td colspan=3 class=tableNotes>पंचसंग्रह -- सप्ततिका अधिकार गाथा 361 से 371</td>
+  </tr>
+</tbody>
 </table>

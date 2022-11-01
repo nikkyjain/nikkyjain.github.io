@@ -1,0 +1,74 @@
+﻿<table class=myAltTable>
+<thead>
+  <tr>
+    <td rowspan=3 class=emptyTableCell></td>
+    <th colspan=3 class=tableTitle>कषाय-मार्गणा में एक जीव की अपेक्षा प्रकृतिबंध अंतरानुगम</th>
+  </tr>
+  <tr>
+    <th rowspan=2>कर्म</th>
+    <th colspan=2>अन्तर</th>
+  </tr>
+  <tr>
+    <th>जघन्य</th>
+    <th>उत्कृष्ट</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th rowspan=3 class=head1>क्रोध</th>
+    <th>५ ज्ञानावरण, ७ दर्शनावरण, मिथ्यात्व, १६ कषाय,४ आयु, आहारकद्विक, ५ अन्तराय</th>
+    <td clsas=cellN>-</td>
+    <td clsas=cellN>-</td>
+  </tr>
+  <tr>
+    <th>निद्रा, प्रचला</th>
+    <td>अंतर्मुहूर्त</td>
+    <td>अंतर्मुहूर्त</td>
+  </tr>
+  <tr>
+    <th>शेष</th>
+    <td>एक समय</td>
+    <td>अंतर्मुहूर्त</td>
+  </tr>
+  <tr>
+    <th rowspan=2 class=head2>मान</td>
+    <th>३ संज्वलन</th>
+    <td clsas=cellN>-</td>
+    <td clsas=cellN>-</td>
+  </tr>
+  <tr>
+    <td colspan=3 class=tableNotes>शेष प्रकृतियों में क्रोध के समान</td>
+  </tr>
+  <tr>
+    <th rowspan=2 class=head3>माया</th>
+    <th>२ संज्वलन</th>
+    <td clsas=cellN>-</td>
+    <td clsas=cellN>-</td>
+  </tr>
+  <tr>
+    <td colspan=3 class=tableNotes>शेष प्रकृतियों में क्रोध के समान</td>
+  </tr>
+  <tr>
+    <th rowspan=2 class=head4>लोभ</th>
+    <th>५ ज्ञानावरण, ७ दर्शनावरण, मिथ्यात्व, १२ कषाय, ४ आयु, आहारकद्विक, ५ अन्तराय</th>
+    <td clsas=cellN>-</td>
+    <td clsas=cellN>-</td>
+  </tr>
+  <tr>
+    <th>शेष</th>
+    <td>एक समय</td>
+    <td>अंतर्मुहूर्त</td>
+  </tr>
+  <tr>
+    <th class=head1>अकषायी</th>
+    <th>साता वेदनीय</th>
+    <td clsas=cellN>-</td>
+    <td clsas=cellN>-</td>
+  </tr>
+  <tr>
+    <td class=emptyTableCell></td>
+    <td class=tableNotes>महबंधो - 1 (अंतराणुगमपरूवणा)</td>
+    <td colspan=2 class=emptyTableCell></td>
+  </tr>
+</tbody>
+</table>

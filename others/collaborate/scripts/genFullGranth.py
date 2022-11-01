@@ -121,7 +121,7 @@ html.write("""<html>
 <body>
 """)
 if not os.path.isfile('./config/NoJainSaint.txt'):
-    html.write("<div align=center><a href='"+myRelPath+"index.html'><img src='"+myRelPath+"images/jain-saint.jpg' height=270 width=300></img></a></div>")
+    html.write("<div align=center><a href='"+myRelPath+"index.html'><img src='"+myRelPath+"images/jain-saint.jpg' height=270 width=300></img><figcaption>Click Here</figcaption></a></div>")
 else:
     html.write("<div align=center><a href='"+myRelPath+"index.html'><img src='"+myRelPath+"images/stories.png' height=270 width=300></img></a></div>")
 html.write("""
@@ -338,6 +338,7 @@ for bcFile in sorted(os.listdir('./main')):
                       fData=myfile.read().replace('\xef\xbb\xbf', '')
                   fData=re.sub('\n+','\n',fData)
                   fData=fData.replace('\n', '</div><br><div class=teeka>\n')
+                  fData=re.sub(r'{{.*?}}', lambda m: m.group().replace("</div><br><div class=teeka>", "<br>"), fData, flags=re.DOTALL)
                   fData=re.sub(r'\(\(.*?\)\)', lambda m: m.group().replace("</div><br><div class=teeka>", "<br>"), fData, flags=re.DOTALL)
                   fData=re.sub(r'<ul>.*?</ul>', lambda m: m.group().replace("</div><br><div class=teeka>", ""), fData, flags=re.DOTALL)
                   fData=re.sub(r'<table.*?table>', lambda m: m.group().replace("</div><br><div class=teeka>", ""), fData, flags=re.DOTALL)
@@ -360,8 +361,12 @@ for bcFile in sorted(os.listdir('./main')):
                   fData=fData.replace('))', '</div></b>'); 
                   fData=fData.replace('[[', '<b><font color=blue>')
                   fData=fData.replace(']]', '</font></b>')
+                  fData=fData.replace('[(', '<div class=sheershak>')
+                  fData=fData.replace(')]', '</div>')
                   fData=fData.replace('[', '<b>[<font color=maroon>')
                   fData=fData.replace(']', '</font></b>]'); 
+                  fData=fData.replace('{{', '<div class=sanskrit>')
+                  fData=fData.replace('}}', '</div>'); 
                   fData=fData.replace('(', '<span class=notes>(')
                   fData=fData.replace(')', ')</span>')
                   fData=fData.replace('</div></b><br><br>', '</div></b>')

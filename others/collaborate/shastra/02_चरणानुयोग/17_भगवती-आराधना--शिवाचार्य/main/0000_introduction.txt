@@ -5,7 +5,7 @@
 श्री
 <font style="font-size:120px"> भगवती आराधना </font>
 
-<span class=bottomContainer align=justify><font color=black>मूल प्राकृत गाथा,
+<span class=bottomContainer align=justify><font color=black>मूल प्राकृत गाथा, हिन्दी पद्यानुवाद और टीका सहित
 </font></span>
 
-<font size=3 color=blue>आभार : </font>
+<font size=3 color=blue>आभार : हिन्दी टीका -- पंडित सदासुखदास जी; हिन्दी पद्यानुवाद -- पण्डित अभयकुमारजी शास्त्री, देवलाली</font>

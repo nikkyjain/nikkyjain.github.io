@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 
-open(DATA, "<gatha.txt");
+open(DATA, "<Rayansar.txt");
 $cnt=0;
 $fcnt=1;
 $out="";
@@ -8,13 +8,13 @@ $out="";
 while(<DATA>) {
   $out.="$_";
   $cnt++;
-  if($cnt%2==0) {
-    open(OUT, ">>main/".sprintf("%03d", $fcnt).".txt");
+  if($cnt%4==0) {
+    open(OUT, ">mainH/".sprintf("%02d", $fcnt).".txt");
     chomp $out;
     printf OUT "$out";
     $fcnt++;
     $out="";
-    if($fcnt==189) {
+    if($fcnt==59) {
       exit;
     }
   }

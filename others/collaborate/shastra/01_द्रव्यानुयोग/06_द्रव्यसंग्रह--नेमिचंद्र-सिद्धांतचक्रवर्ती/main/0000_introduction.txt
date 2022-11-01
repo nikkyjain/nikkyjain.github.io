@@ -5,6 +5,6 @@
 श्री
 <font style="font-size:120px"> द्रव्यसंग्रह </font>
 
-<font size=4 color=black>मूल सौरसेणी प्राकृत गाथा और ब्रह्मदेव-सूरि क्रूट टीका सहित</font>
+<font size=4 color=black>मूल सौरसेणी प्राकृत गाथा और ब्रह्मदेव-सूरि कृत टीका सहित</font>
 
-<font size=3 color=blue>आभार : आ. ज्ञानमती</font>
+<font size=3 color=blue>आभार : पद्यानुवाद : आ. डाॅ. हुकमचंद भारिल्ल</font>

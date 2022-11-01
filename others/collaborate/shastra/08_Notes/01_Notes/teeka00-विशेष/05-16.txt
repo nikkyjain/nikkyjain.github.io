@@ -11,75 +11,75 @@
   </tr>
   <tr>
     <th class=head1 colspan=3>ज्ञानावरणी (5)</th>
-    <td>✔</td>
-    <td>✔</td>
-    <td>✔</td>
-    <td>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
   </tr>
   <tr>
     <th class=head1 colspan=3>दर्शनावरणी (9)</th>
-    <td>✔</td>
-    <td>✔</td>
-    <td>✔</td>
-    <td>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
   </tr>
   <tr>
     <th class=head2 colspan=3>वेदनीय (2)</th>
-    <td>✔</td>
-    <td>X</td>
-    <td>✔</td>
-    <td>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellN>X</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
   </tr>
   <tr>
     <th colspan=2 rowspan=2>मोहनीय</th>
     <th class=head1>मिथ्यात्व, 16 कषाय, भय, जुगुप्सा</th>
-    <td>✔</td>
-    <td>✔</td>
-    <td>✔</td>
-    <td>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
   </tr>
   <tr>
     <th class=head2>हास्य, शोक, रति, अरति, वेद 3</th>
-    <td>✔</td>
-    <td>X</td>
-    <td>X</td>
-    <td>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellN>X</td>
+    <td class=cellN>X</td>
+    <td class=cellY>✔</td>
   </tr>
   <tr>
     <th class=head2 colspan=3>आयु (4)</th>
-    <td>✔</td>
-    <td>X</td>
-    <td>X</td>
-    <td>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellN>X</td>
+    <td class=cellN>X</td>
+    <td class=cellY>✔</td>
   </tr>
   <tr>
     <th colspan=2 rowspan=2>नाम (67)</th>
     <th class=head1>तैजस, कार्मण, अगुरुलघु, उपघात, निर्माण, वर्ण-चतुष्क</th>
-    <td>✔</td>
-    <td>✔</td>
-    <td>✔</td>
-    <td>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
   </tr>
   <tr>
     <th class=head2>शेष 58 प्रकृतियाँ</th>
-    <td>✔</td>
-    <td>X</td>
-    <td>X</td>
-    <td>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellN>X</td>
+    <td class=cellN>X</td>
+    <td class=cellY>✔</td>
   </tr>
   <tr>
     <th class=head2 colspan=3>गोत्र (2)</th>
-    <td>✔</td>
-    <td>X</td>
-    <td>X</td>
-    <td>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellN>X</td>
+    <td class=cellN>X</td>
+    <td class=cellY>✔</td>
   </tr>
   <tr>
     <th class=head1 colspan=3>अंतराय (5)</th>
-    <td>✔</td>
-    <td>✔</td>
-    <td>✔</td>
-    <td>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
+    <td class=cellY>✔</td>
   </tr>
   <tr>
     <td class=emptyTableCell rowspan=3></td>

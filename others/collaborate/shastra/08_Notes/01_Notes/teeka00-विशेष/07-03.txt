@@ -1,34 +1,70 @@
 ﻿<table class=myAltTable>
+<thead>
   <tr>
-    <td class=emptyTableCell colspan=2 rowspan=2></th>
-    <th class tableTitle colspan=4>उत्तर प्रकृतियों के अनुभाग बंध में सादि आदि भेद</th>
+    <td colspan=4 class=emptyTableCell></td>
+    <th colspan=4 class=tableTitle>मूल-प्रकृतियों के अनुभाग बंध में स्वामित्व प्ररूपणा</th>
   </tr>
   <tr>
-    <th>जघन्य</th>
-    <th>अजघन्य</th>
-    <th>उत्कृष्ट</th>
-    <th>अनुत्कृष्ट</th>
+    <td colspan=4 class=emptyTableCell></td>
+    <th>मिथ्यात्व</th>
+    <th>असंयम</th>
+    <th>कषाय</th>
+    <th>योग</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th rowspan=7 class=head3>स्वामित्व</th>
+    <th rowspan=2 class=head3>प्रत्यय</th>
+    <th colspan=2>6 कर्म</th>
+    <td>✓</td>
+    <td>✓</td>
+    <td>✓</td>
+    <td>X</td>
   </tr>
   <tr>
-    <th rowspan=2>ध्रुव बंधी</th>
-    <th>तैजस, कार्माण, निर्माण, प्रशस्त वर्ण चतुष्क, अगुरुलघु</th>
-    <td>सादि, अध्रुव</td>
-    <td>सादि, अध्रुव</td>
-    <td>सादि, अध्रुव</td>
-    <td>चारों</td>
+    <th colspan=2>वेदनीय</th>
+    <td>✓</td>
+    <td>✓</td>
+    <td>✓</td>
+    <td>✓</td>
   </tr>
   <tr>
-    <th>ज्ञानावरणीय ५, दर्शनावरणीय ९, अन्तराय ५, मिथ्यात्व, कषाय १६, भय, जुगुप्सा, उपघात, अप्रशस्त वर्ण चतुष्क</th>
-    <td>सादि, अध्रुव</td>
-    <td>चारों</td>
-    <td>सादि, अध्रुव</td>
-    <td>सादि, अध्रुव</td>
+    <td colspan=3 class=emptyTableCell></td>
+    <th>जीव-विपाकी</th>
+    <th>भव-विपाकी</th>
+    <th>पुद्गल-विपाकी</th>
+    <th>क्षेत्र-विपाकी</th>
   </tr>
   <tr>
-    <th colspan=2>७३ अध्रुव बंधी प्रकृतियाँ</th>
-    <td>सादि, अध्रुव</td>
-    <td>सादि, अध्रुव</td>
-    <td>सादि, अध्रुव</td>
-    <td>सादि, अध्रुव</td>
+    <th rowspan=3 class=head4>विपाकदेश</th>
+    <th colspan=2>6 कर्म</th>
+    <td>✓</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
   </tr>
+  <tr>
+    <th colspan=2>आयु</th>
+    <td>X</td>
+    <td>✓</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <th colspan=2>नाम</th>
+    <td>✓</td>
+    <td>X</td>
+    <td>✓</td>
+    <td>✓</td>
+  </tr>
+  <tr>
+    <th colspan=3 class=head1>प्रशस्ताप्रशस्त</th>
+    <td colspan=4 class=tableNotes>चार घातिकर्म अप्रशस्त होते हैं। अघाति-कर्म प्रशस्त और अप्रशस्त दोनों प्रकार के होते हैं ।</td>
+  </tr>
+  <tr>
+    <td colspan=4 class=emptyTableCell></td>
+    <td colspan=4 class=tableNotes>महबंधो - 1 (अनुभाग-बंध, 24 अनुयोग-द्वार प्ररूपणा)</td>
+  </tr>
+</tbody>
 </table>

@@ -122,7 +122,7 @@
   </tr>
   <tr>
     <td colspan=3 rowspan=2 class=emptyTableCell></td>
-    <th>कुल भंग</th>
+    <th>सर्व भंग</th>
     <th>13,209</th>
   </tr>
   <tr>

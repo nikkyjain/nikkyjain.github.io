@@ -1,0 +1,104 @@
+﻿<table class=myAltTable>
+<thead>
+  <tr>
+    <td rowspan=2 class=emptyTableCell></td>
+    <th colspan=4 class=tableTitle>मोहनीय के भुजाकार आदि बंध</th>
+  </tr>
+  <tr>
+    <th>पूर्व-बंध से अनंतर-बंध</th>
+    <th>अवस्था</th>
+    <th>संख्या</th>
+    <th>कुल</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th rowspan=6 class=head1>भुजाकार</th>
+    <td>1 से 2, 2 से 3, 3 से 4, 4 से 5, 5 से 9</td>
+    <td>उपशम श्रेणी से क्रमश: उतरने पर</td>
+    <td>5</td>
+    <td rowspan=6 class=head1>20</td>
+  </tr>
+  <tr>
+    <td>1,2,3,4,5 से 17</td>
+    <td>उपशम श्रेणी में मरण होने पर</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>9 से 13,17,21,22</td>
+    <td>6 गुणस्थान से नीचे गिरने पर</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>13 से 17,21,22</td>
+    <td>5 गुणस्थान से नीचे गिरने पर</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>17 से 21,22</td>
+    <td>4 गुणस्थान से नीचे गिरने पर</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>21 से 22</td>
+    <td>2 गुणस्थान से नीचे गिरने पर</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <th rowspan=4 class=head2>अल्पतर</th>
+    <td>22 से 17,13,9</td>
+    <td>1 गुणस्थान से 4,5,7 में गमन</td>
+    <td>3</td>
+    <td rowspan=4 class=head2>11</td>
+  </tr>
+  <tr>
+    <td>17 से 13,9</td>
+    <td>4 गुणस्थान से 5,7 में गमन</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>13 से 9</td>
+    <td>5 गुणस्थान से 7 में गमन</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>9 से 5, 5 से 4, 4 से 3, 3 से 2, 2 से 1</td>
+    <td>श्रेणी आरोहण के समय</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <th rowspan=2 class=head3>अवक्तव्य</th>
+    <td>0 से 1</td>
+    <td>11 गुणस्थान से 10 में गमन</td>
+    <td>1</td>
+    <td rowspan=2 class=head3>2</td>
+  </tr>
+  <tr>
+    <td>0 से 17</td>
+    <td>11 गुणस्थान से 4 में गमन, मरण</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <th class=head4>अवस्थित</th>
+    <td colspan=2 class=tableNotes>भुजाकार आदि बंध के बाद अवस्थिति</td>
+    <td>20+11+2</td>
+    <td class=head4>33</td>
+  </tr>
+  <tr>
+  <td class=emptyTableCell></td>
+  <td colspan=4 class=tableNotes>[[भुजाकार बंध]] : अल्प-प्रकृतियों से अधिक प्रकृतियाँ बांधना । उदाहरण : सासादन में 21 के बंध से मिथ्यात्व में गमन होने से 22 का बंध</td>
+  </tr>
+  <tr>
+  <td class=emptyTableCell></td>
+  <td colspan=4 class=tableNotes>[[अल्पतर बंध]] : अधिक-प्रकृतियों से अधिक प्रकृति बांधना । उदाहरण : मिथ्यात्व में 22 के बंध से अविरत सम्यक्त्व में गमन होने से 17 का बंध</td>
+  </tr>
+  <tr>
+  <td class=emptyTableCell></td>
+  <td colspan=4 class=tableNotes>[[अवक्तव्य बंध]] : अबन्ध से प्रकृति बंध प्रारम्भ करना । उदाहरण : 10वें गुणस्थान में मोहनीय का अबन्ध से 9वें में गमन होने से 1 प्रकृति का बंध</td>
+  </tr>
+  <tr>
+  <td class=emptyTableCell></td>
+  <td colspan=4 class=tableNotes>[[अवस्थित बंध]] : भुजाकार, अल्पतर या अवक्तव्य बंध के पश्चात् वही बंध पुन: करना । उदाहरण : मिथ्यात्व में 22 के बंध से अविरत सम्यक्त्व में गमन होने से 17 का बंध अल्पतर । उसके बाद पुन: 17 का बंध अवस्थित है ।</td>
+  </tr>
+</tbody>
+</table>

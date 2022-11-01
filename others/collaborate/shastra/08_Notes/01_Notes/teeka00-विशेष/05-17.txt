@@ -1,0 +1,146 @@
+﻿<table class=myAltColTable>
+  <colgroup>
+    <col><col><col><col><col>
+    <col><col><col><col><col><col>
+  </colgroup>
+<thead>
+  <tr>
+    <td rowspan=3 class=emptyTableCell></td>
+    <th colspan=10 class=tableTitle>एक जीव के एक काल में होने वाला प्रकृति कर्म-बंध की संख्या</th>
+  </tr>
+  <tr>
+    <th rowspan=2>ज्ञानावरणी</th>
+    <th rowspan=2>दर्शनावरणी</th>
+    <th rowspan=2>वेदनीय</th>
+    <th colspan=2>मोहनीय</th>
+    <th rowspan=2>आयु</th>
+    <th rowspan=2>नाम</th>
+    <th rowspan=2>गोत्र</th>
+    <th rowspan=2>अंतराय</th>
+    <th rowspan=2>कुल स्थान</th>
+  </tr>
+  <tr>
+    <th>स्थान</th>
+    <th>भंग</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th>14 अयोगकेवली</th>
+    <td rowspan=4>0</td>
+    <td rowspan=4>0</td>
+    <td>0</td>
+    <td rowspan=5>0</td>
+    <td rowspan=5>0</td>
+    <td rowspan=7>0</td>
+    <td rowspan=4>0</td>
+    <td rowspan=4>0</td>
+    <td rowspan=4>0</td>
+    <td><b>0</b></td>
+  </tr>
+  <tr>
+    <th>13 सयोगकेवली</th>
+    <td rowspan=3>1</td>
+    <td rowspan=3><b>1</b></td>
+  </tr>
+  <tr>
+    <th>12 क्षीणमोह</th>
+  </tr>
+  <tr>
+    <th>11 उपशान्तमोह</th>
+  </tr>
+  <tr>
+    <th>10 सूक्ष्मसाम्पराय</th>
+    <td rowspan=10>5</td>
+    <td rowspan=2>4</td>
+    <td rowspan=10>1</td>
+    <td rowspan=2>1</td>
+    <td rowspan=10>1</td>
+    <td rowspan=10>5</td>
+    <td><b>17</b></td>
+  </tr>
+  <tr>
+    <th>9 अनिवृतिकरण</th>
+    <td>5|4|3|2|1</td>
+    <td rowspan=3>1</td>
+    <td><b>22|21|20|19|18</b></td>
+  </tr>
+  <tr>
+    <th>8 अपूर्वकरण</th>
+    <td>6|4</td>
+    <td rowspan=3>9</td>
+    <td>28|29|30|31|1</td>
+    <td><b>55|56|57|58|26</b></td>
+  </tr>
+  <tr>
+    <th>7 अप्रमत्तसंयत</th>
+    <td rowspan=5>6</td>
+    <td rowspan=7>1</td>
+    <td>28|29|30|31</td>
+    <td><b>56|57|58|59</b></td>
+  </tr>
+  <tr>
+    <th>6 प्रमत्तसंयत</th>
+    <td rowspan=4>2</td>
+    <td>28|29</td>
+    <td><b>56|57</b></td>
+  </tr>
+  <tr>
+    <th>5 देशविरत</th>
+    <td>13</td>
+    <td>28|29</td>
+    <td><b>60|61</b></td>
+  </tr>
+  <tr>
+    <th>4 अविरत</th>
+    <td rowspan=2>17</td>
+    <td>28|29|30</td>
+    <td><b>64|65|66</b></td>
+  </tr>
+  <tr>
+    <th>3 मिश्र</th>
+    <td>28|29</td>
+    <td><b>63|64</b></td>
+  </tr>
+  <tr>
+    <th>2 सासादन</th>
+    <td rowspan=2>9</td>
+    <td>21</td>
+    <td>4</td>
+    <td>28|29|30</td>
+    <td><b>71|72|73</b></td>
+  </tr>
+  <tr>
+    <th>1 मिथ्यात्व</th>
+    <td>22</td>
+    <td>6</td>
+    <td>23|25|26|28|29|30</td>
+    <td><b>67|69|70|72|73|74</b></td>
+  </tr>
+  <tr>
+    <td class=emptyTableCell></td>
+    <td><b>5</b></td>
+    <td><b>9|6|4</b></td>
+    <td><b>1</b></td>
+    <td><b>22|21|17|13|9|5|4|3|2|1</b></td>
+    <td class=emptyTableCell></td>
+    <td><b>1</b></td>
+    <td><b>23|25|26|28|29|30|31|1</b></td>
+    <td><b>1</b></td>
+    <td><b>5</b></td>
+    <td class=emptyTableCell></td>
+  </tr>
+  <tr>
+    <td class=emptyTableCell></td>
+    <td colspan=10 class=tableNotes>मिथ्यात्व गुणस्थान में मोह के भंग 6 (3 वेद * 2 [हास्य-रति/शोक-आरति])</td>
+  </tr>
+  <tr>
+    <td class=emptyTableCell></td>
+    <td colspan=10 class=tableNotes>सासादन गुणस्थान में मोह के भंग 4 (2 वेद * 2 [हास्य-रति/शोक-आरति])</td>
+  </tr>
+  <tr>
+    <td class=emptyTableCell></td>
+    <td colspan=10 class=tableNotes>3 से 6 गुणस्थान में मोह के भंग 2 (1 पुरुष वेद * 2 [हास्य-रति/शोक-आरति])</td>
+  </tr>
+</tbody>
+</table>

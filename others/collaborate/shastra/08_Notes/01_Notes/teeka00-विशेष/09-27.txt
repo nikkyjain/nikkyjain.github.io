@@ -1,0 +1,110 @@
+﻿<table class=myAltTable>
+<thead>
+  <tr>
+    <td colspan=2 rowspan=2 class=emptyTableCell></td>
+    <th colspan=5 class=tableTitle>सम्यक्त्व की अपेक्षा गुणस्थानों में मोहनीय के उदय संबंधी पदवृंद भंग</th>
+  </tr>
+  <tr>
+    <th>सम्यक्त्व</th>
+    <th>मोहनीय स्व-स्व उदय-स्थानगत भंग</th>
+    <th>पदवृंद</th>
+    <th>गुणा</th>
+    <th>कुल पदवृंद भंग</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th colspan=2>सूक्ष्मसाम्पराय</th>
+    <td><b>2</b></td>
+    <td><b>1</b></td>
+    <td><b>1 * 2</b></td>
+    <td><b>1</b></td>
+    <td><b>2</b></td>
+  </tr>
+  <tr>
+    <th rowspan=2>अनिवृत्तिकरण</th>
+    <th>सवेद</th>
+    <td><b>2</b></td>
+    <td><b>12</b></td>
+    <td><b>12 * 2</b></td>
+    <td><b>2</b></td>
+    <td><b>48</b></td>
+  </tr>
+  <tr>
+    <th>अवेद</th>
+    <td><b>2</b></td>
+    <td><b>1</b></td>
+    <td><b>1 * 2</b></td>
+    <td><b>4</b></td>
+    <td><b>8</b></td>
+  </tr>
+  <tr>
+    <th colspan=2>अपूर्वकरण</th>
+    <td><b>2</b></td>
+    <td><b>20</b> (6,5,5,4)</td>
+    <td><b>20 * 2</b></td>
+    <td><b>24</b></td>
+    <td><b>960</b></td>
+  </tr>
+  <tr>
+    <th rowspan=2>अप्रमत्त संयत</td>
+    <th>सम्यक्त्व सहित</th>
+    <td rowspan=2><b>3</b></td>
+    <td><b>24</b> (7,6,6,5)</td>
+    <td rowspan=2><b>44 * 3</b></td>
+    <td rowspan=2><b>24</b></td>
+    <td rowspan=2><b>3168</b></td>
+  </tr>
+  <tr>
+    <th>सम्यक्त्व रहित</th>
+    <td><b>20</b> (6,5,5,4)</td>
+  </tr>
+  <tr>
+    <th rowspan=2>प्रमत्त संयत</th>
+    <th>सम्यक्त्व सहित</th>
+    <td rowspan=2><b>3</b></td>
+    <td><b>24</b> (7,6,6,5)</td>
+    <td rowspan=2><b>44 * 3</b></td>
+    <td rowspan=2><b>24</b></td>
+    <td rowspan=2><b>3168</b></td>
+  </tr>
+  <tr>
+    <th>सम्यक्त्व रहित</th>
+    <td><b>20</b> (6,5,5,4)</td>
+  </tr>
+  <tr>
+    <th rowspan=2>देशविरत</th>
+    <th>सम्यक्त्व सहित</th>
+    <td rowspan=2><b>3</b></td>
+    <td><b>28</b> (8,7,7,6)</td>
+    <td rowspan=2><b>52 * 3</b></td>
+    <td rowspan=2><b>24</b></td>
+    <td rowspan=2><b>3744</b></td>
+  </tr>
+  <tr>
+    <th>सम्यक्त्व रहित</th>
+    <td><b>24</b> (7,6,6,5)</td>
+  </tr>
+  <tr>
+    <th rowspan=2>असंयत सम्यक्त्व</th>
+    <th>सम्यक्त्व सहित</th>
+    <td rowspan=2><b>3</b></td>
+    <td><b>32</b> (9,8,8,7)</td>
+    <td rowspan=2><b>60 * 3</b></td>
+    <td rowspan=2><b>24</b></td>
+    <td rowspan=2><b>4320</b></td>
+  </tr>
+  <tr>
+    <th>सम्यक्त्व रहित</th>
+    <td><b>28</b> (8,7,7,6)</td>
+  </tr>
+  <tr>
+    <td colspan=4 rowspan=2 class=emptyTableCell></td>
+    <th colspan=2>सर्व पदवृंद भंग</td>
+    <th>15,418</th>
+  </tr>
+  <tr>
+    <td colspan=3 class=tableNotes>पंचसंग्रह -- सप्ततिका अधिकार गाथा 391 से 392</td>
+  </tr>
+</tbody>
+</table>

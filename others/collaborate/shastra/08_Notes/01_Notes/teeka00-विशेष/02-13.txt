@@ -1,0 +1,45 @@
+﻿<table class=myAltTable>
+<thead>
+  <tr>
+    <th class=tableTitle colspan=3>गुणस्थानों में परीषह</th>
+  </tr>
+  <tr>
+    <th>परीषह</th>
+    <th>कारण</th>
+    <th>गुणस्थान</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>क्षुधा, पिपासा, शीत, उष्ण , दंशमशक, चर्या, श्य्या, वध, रोग, तृणस्पर्श और मल</td>
+    <td>वेदनीय</td>
+    <td class=head1>1 से 14</td>
+  </tr>
+  <tr>
+    <td>अलाभ</td>
+    <td>अंतराय</td>
+    <td class=head2>1 से 12</td>
+  </tr>
+  <tr>
+    <td>प्रज्ञा, अज्ञान</td>
+    <td>ज्ञानावरण</td>
+    <td class=head2>1 से 12</td>
+  </tr>
+  <tr>
+    <td>नाग्न्य, अरति, स्त्री, निषद्या, आक्रोश, याचना और सत्कारपुरस्कार</td>
+    <td>चारित्रमोह</td>
+    <td class=head3>1 से 9</td>
+  </tr>
+  <tr>
+    <td>अदर्शन</td>
+    <td>दर्शन-मोहनीय</td>
+    <td class=head3>1 से 9</td>
+  </tr>
+  <tr>
+    <td colspan=3 class=tableNotes>एक जीव के एक समय में एक-साथ 19 परीषह हो सकते हैं । (शीत/उष्ण और शैय्या/निशद्या/चर्या में से एक-एक)</td>
+  </tr>
+  <tr>
+    <td colspan=3 class=tableNotes>तत्त्वार्थ-सूत्र 9.9 से 9.17</td>
+  </tr>
+</tbody>
+</table>

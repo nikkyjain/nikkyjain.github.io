@@ -1,15 +1,14 @@
 #!/bin/sh
 
 bhajansDir=$(cd ../../../../bhajans && echo $PWD)
-outDir=$(cd ../../.. && echo $PWD)
+outDir=$(cd ../../../.. && echo $PWD)
 myAudioJs=$outDir/js/allAudioFiles.js
 /bin/rm $myAudioJs
 echo "Will create $myAudioJs"
 echo "Top Dir : $outDir"
-echo "Source : $bhajansDir"
 
 for audio in $(find $bhajansDir/*/audio -name '*.mp3')
 do
-  myAudioFile=$(echo $audio | perl -pe 's|.*?bhajans/||')
-  echo "myAudioFIles.push('https://nikkyjain.github.io/bhajans/'+'$myAudioFile');" >> $myAudioJs
+  myAudioFile=$(echo $audio | perl -pe 's|.*?jainData|.|')
+  echo "myAudioFIles.push(https://nikkyjain.github.io/bhajans/+'$myAudioFile');" >> $myAudioJs
 done
