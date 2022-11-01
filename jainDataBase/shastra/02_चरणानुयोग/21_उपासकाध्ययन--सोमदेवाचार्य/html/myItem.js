@@ -51,6 +51,7 @@ $( document ).ready(function() {
   mySel.append("<option value='028.html'><b>028</b> - सुलसा का सगर के साथ संगम</option>");
   mySel.append("<option value='029.html'><b>029</b> - वसु की रसातल-प्राप्ति</option>");
   mySel.append("<option value='030.html'><b>030</b> - असत्य का फल</option>");
+  mySel.append("<option value='031.html'><b>031</b> - दुराचार का फल</option>");
   mySel.selectmenu();
   mySel.selectmenu('refresh', true);
 })

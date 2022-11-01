@@ -129,6 +129,7 @@ def createMiscList (html, myRelPath, dbDir):
             <li data-theme=b><a data-rel=dialog data-ajax=false href="""+myRelPath+"""jainDataBase/youtube/yogibhakti.html>योगी-भक्ति</a></li> 
             <li data-theme=b><a data-rel=dialog data-ajax=false href="""+myRelPath+"""jainDataBase/youtube/vvinshati.html>विद्यमान-विंशति</a></li> 
             <li data-theme=b><a data-rel=dialog data-ajax=false href="""+myRelPath+"""jainDataBase/youtube/ekibhav.html>एकीभाव-स्तोत्र</a></li> 
+            <li data-theme=b><a data-rel=dialog data-ajax=false href="""+myRelPath+"""jainDataBase/youtube/chhahdhala.html>छहढाला</a></li>
           </ul>
         </div>
         <div data-role=collapsible data-inset=false data-theme=a>
