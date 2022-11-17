@@ -297,6 +297,8 @@ for bcFile in sorted(os.listdir('./main')):
           fData=fData.replace('(', '<span class=comment>(')
           fData=fData.replace(')', ')</span>')
           fData=re.sub(r'<table.*?table>', lambda m: m.group().replace("</div>\n<div class=paragraph>", ""), fData, flags=re.DOTALL)
+          fData=re.sub(r'<table.*?table>', lambda m: m.group().replace("<span class=comment>", "<font color='#660000'>"), fData, flags=re.DOTALL)
+          fData=re.sub(r'<table.*?table>', lambda m: m.group().replace(")</span>", ")</font>"), fData, flags=re.DOTALL)
           if ( 'PythonTag' in fData ) : 
               fData=re.sub(r'<!--PythonTagBegin.*?PythonTagEnd-->', lambda m: m.group().replace("</div>\n<div class=paragraph>", "\n"), fData, flags=re.DOTALL)
               fData=fData.replace('<div class=paragraph><!--PythonTagBegin-->', '<div align=center>')

@@ -96,6 +96,10 @@ $( document ).ready(function() {
   mySel.append($optgrp);
     $optgrp=$('<optgroup label="﻿प्रदेश बंध">')
        $optgrp.append("<option value='08-01.html'><b>08-01</b> - ﻿मूल प्रकृतियों में प्रदेश बंध</option>");
+       $optgrp.append("<option value='08-02.html'><b>08-02</b> - ﻿मूल प्रकृतियों में उत्कृष्ट प्रदेशबंध के गुणस्थान</option>");
+       $optgrp.append("<option value='08-03.html'><b>08-03</b> - ﻿उत्तर प्रकृतियों में उत्कृष्ट प्रदेशबंध के गुणस्थान</option>");
+       $optgrp.append("<option value='08-04.html'><b>08-04</b> - ﻿मूल और उत्तर प्रकृतियों में जघन्य प्रदेशबंध स्वामी</option>");
+       $optgrp.append("<option value='08-05.html'><b>08-05</b> - ﻿उत्तर प्रकृतियों में जघन्य प्रदेशबंध के स्वामी</option>");
   mySel.append($optgrp);
     $optgrp=$('<optgroup label="﻿कर्म-उदय-उदीरणा">')
        $optgrp.append("<option value='09-01.html'><b>09-01</b> - ﻿नरक और तिर्यञ्च गति मार्गणा में उदय</option>");
