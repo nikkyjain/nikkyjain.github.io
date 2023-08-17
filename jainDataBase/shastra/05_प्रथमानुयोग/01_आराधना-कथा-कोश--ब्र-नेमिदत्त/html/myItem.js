@@ -47,7 +47,8 @@ $( document ).ready(function() {
   mySel.append("<option value='023.html'><b>023</b> - ﻿दृढ़सूर्य की कथा</option>");
   mySel.append("<option value='024.html'><b>024</b> - ﻿यमपाल चांडाल की कथा</option>");
   mySel.append("<option value='025.html'><b>025</b> - ﻿मृगसेन धीवर की कथा</option>");
-  mySel.append("<option value='026.html'><b>026</b> - ﻿वसुराजाकीकथा</option>");
+  mySel.append("<option value='026.html'><b>026</b> - ﻿वसुराजा की कथा
+</option>");
   mySel.append("<option value='027.html'><b>027</b> - ﻿श्रीभूति - पुरोहित की कथा</option>");
   mySel.append("<option value='028.html'><b>028</b> - ﻿नीली की कथा</option>");
   mySel.append("<option value='029.html'><b>029</b> - ﻿कडारपिंग की कथा</option>");
