@@ -356,13 +356,42 @@ $( document ).ready(function() {
 })
 $( document ).ready(function() {
   mySel=$('select#select-native-2')
+  mySel.append("<option value='001.html'><b>001</b> - ﻿मंगलाचरण</option>");
   mySel.append("<option value='002.html'><b>002</b> - ﻿आचार्य की प्रतिज्ञा</option>");
   mySel.append("<option value='003.html'><b>003</b> - ﻿धर्म का लक्षण</option>");
     $optgrp=$('<optgroup label="﻿सम्यग्दर्शन-अधिकार">')
        $optgrp.append("<option value='004.html'><b>004</b> - ﻿सम्यग्दर्शन</option>");
        $optgrp.append("<option value='005.html'><b>005</b> - ﻿आप्त का लक्षण</option>");
+       $optgrp.append("<option value='006.html'><b>006</b> - ﻿वीतराग का लक्षण</option>");
        $optgrp.append("<option value='007.html'><b>007</b> - ﻿हितोपदेशी का लक्षण</option>");
+       $optgrp.append("<option value='008.html'><b>008</b> - ﻿आगम का लक्षण</option>");
+       $optgrp.append("<option value='009.html'><b>009</b> - ﻿शास्त्र का लक्षण</option>");
        $optgrp.append("<option value='010.html'><b>010</b> - ﻿गुरु का लक्षण</option>");
+       $optgrp.append("<option value='011.html'><b>011</b> - ﻿नि:शंकित अंग</option>");
+       $optgrp.append("<option value='012.html'><b>012</b> - ﻿नि:कांक्षित अंग</option>");
+       $optgrp.append("<option value='013.html'><b>013</b> - ﻿निर्विचिकित्सा अंग</option>");
+       $optgrp.append("<option value='014.html'><b>014</b> - ﻿अमूढ़दृष्टि अंग</option>");
+       $optgrp.append("<option value='015.html'><b>015</b> - ﻿उपगूहन अंग</option>");
+       $optgrp.append("<option value='016.html'><b>016</b> - ﻿स्थितिकरण अंग</option>");
+       $optgrp.append("<option value='017.html'><b>017</b> - ﻿वात्सल्य अंग</option>");
+       $optgrp.append("<option value='018.html'><b>018</b> - ﻿प्रभावना अंग</option>");
+       $optgrp.append("<option value='021.html'><b>021</b> - ﻿अंगहीन सम्यक्त्व व्यर्थ है</option>");
+       $optgrp.append("<option value='022.html'><b>022</b> - ﻿लोक मूढ़ता</option>");
+       $optgrp.append("<option value='023.html'><b>023</b> - ﻿देव मूढ़ता</option>");
+       $optgrp.append("<option value='024.html'><b>024</b> - ﻿गुरु मूढ़ता</option>");
+       $optgrp.append("<option value='025.html'><b>025</b> - ﻿आठमद के नाम</option>");
+       $optgrp.append("<option value='026.html'><b>026</b> - ﻿मद करने से हानि</option>");
+       $optgrp.append("<option value='027.html'><b>027</b> - ﻿पाप त्याग का उपदेश</option>");
+       $optgrp.append("<option value='028.html'><b>028</b> - ﻿सम्यग्दर्शन की महिमा</option>");
+       $optgrp.append("<option value='029.html'><b>029</b> - ﻿धर्म और अधर्म का फल</option>");
+       $optgrp.append("<option value='030.html'><b>030</b> - ﻿सम्यग्दृष्टि कुदेवादिक को नमन ना करे</option>");
+       $optgrp.append("<option value='031.html'><b>031</b> - ﻿सम्यग्दर्शन की श्रेष्ठता</option>");
+       $optgrp.append("<option value='032.html'><b>032</b> - ﻿सम्यग्दर्शन के बिना ज्ञान चारित्र की असम्भवता</option>");
+       $optgrp.append("<option value='033.html'><b>033</b> - ﻿मोही मुनि की अपेक्षा निर्मोही गृहस्थ श्रेष्ठ</option>");
+       $optgrp.append("<option value='034.html'><b>034</b> - ﻿श्रेय और अश्रेय का कथन</option>");
+       $optgrp.append("<option value='035.html'><b>035</b> - ﻿सम्यग्दृष्टि के अनुत्पत्ति के स्थान</option>");
+       $optgrp.append("<option value='036.html'><b>036</b> - ﻿सम्यग्दृष्टि जीव श्रेष्ठ मनुष्य होते हैं </option>");
+       $optgrp.append("<option value='037.html'><b>037</b> - ﻿सम्यग्दृष्टि जीव इंद्र पद पाते हैं</option>");
     mySel.append($optgrp);
   mySel.selectmenu();
   mySel.selectmenu('refresh', true);
