@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Vishal Personal</title>
+	<script type="text/javascript" src='js/jquery.js'></script>
+	<script type="text/javascript" src='js/aes.js'></script>
+	<script type="text/javascript" src='js/sha3.js'></script>
+
+<style>
+table, td, th {
+  border: 1px solid black;
+  margin: 10px;
+  padding: 10px;
+}
+
+#bank {
+  border-collapse: collapse;
+}
+.container { 
+  width: 100%; 
+  border: 3px 
+  solid #f7c; 
+  }
+.textareaContainer {
+	display: block;
+	border: 3px solid #38c;
+	padding: 10px;
+  }
+textarea { 
+  width: 100%;
+  rows : 20;
+  margin: 0; 
+  padding: 0; 
+  border-width: 2;
+}
+</style>
+<script>
+function getSalt() {
+  return(CryptoJS.SHA3($('#salt').val()+$('#phone').val()+$('#pin').val()));
+};
+$(document).ready(function() {
+  
+  $('#ab').click(function(){
+	    var bank = { 
+        encrypt : CryptoJS.AES.encrypt($('#input').val(), getSalt().toString())
+      };
+      $('#output').val(bank.encrypt.toString());
+  });
+});
+</script>
+</head>
+
+<body>
+  <input id=salt type='password' placeholder='salt'>
+  <input id=phone type='password' placeholder='phone'>
+  <input id=pin type='password' placeholder='pin'>
+  <button type='button' id=ab>Click Me!</button><br><br><br>
+  <div class=container><textarea id=input rows=20></textarea><br>
+  <textarea id=output rows=20></textarea></div>  
+</body>
+</html>
